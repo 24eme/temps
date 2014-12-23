@@ -1,1 +1,5 @@
 Auteur;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+jb;DeclarVins;Résolution du Ticket #14178;1;TMA
+jb;DeclarVins;Résolution du Ticket #13911;1;TMA
+jb;DeclarVins;Résolution du Ticket #14136;2,5;TMA
+jb;DeclarVins;Mise en production manuelle (car corrections noyées dans le flot des évolutions en cours) des tickets #14036, #14001, #14002 et #14051;2;TMA
