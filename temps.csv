@@ -1,11 +1,11 @@
-Auteur;Projet;Description;Temps (en heure);Tache (pas obligatoire);Date
-jb;DeclarVins;Résolution du Ticket #14178;1;TMA;2014-12-23
-jb;DeclarVins;Résolution du Ticket #13911;1;TMA;2014-12-23
-jb;DeclarVins;Résolution du Ticket #14136;2,5;TMA;2014-12-23
-jb;DeclarVins;Mise en production manuelle (car corrections noyées dans le flot des évolutions en cours) des tickets #14036, #14001, #14002 et #14051;2;TMA;2014-12-23
-vince;CIVA;Mise à disposition des récapitulatifs mairies;5,5;TMA;2014-12-23
-vince;CIVA;Génération du XML CIVA et compléments grands crus;0,5;TMA;2014-12-23
-vince;CIVA;Export CSV des DRs : ajout de la date de validation / dépot et date de modification;1;TMA;2014-12-23
-vince+mathurin;VINSI;Suite une erreur d'import SAGE. Etude et correction d'une facture dont le montant est égale à 0.000000000000X au lieu de 0;2;TMA;2014-12-24
-Mathurin;VINSI;Reparation d'un problème lié aux etablissement et à l'absence d'un mail dans l'établissement;1;TMA;2014-12-24
-Mathurin;DeclarVins;Résolution du ticket #14070 pour mettre au bon format le CSV;2;TMA;2014-12-25 
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire);Auteur
+2014-12-23;DeclarVins;Résolution du Ticket #14178;1;TMA;jb
+2014-12-23;DeclarVins;Résolution du Ticket #13911;1;TMA;jb
+2014-12-23;DeclarVins;Résolution du Ticket #14136;2,5;TMA;jb
+2014-12-23;DeclarVins;Mise en production manuelle (car corrections noyées dans le flot des évolutions en cours) des tickets #14036, #14001, #14002 et #14051;2;TMA;jb
+2014-12-23;CIVA;Mise à disposition des récapitulatifs mairies;5,5;TMA;vince
+2014-12-23;CIVA;Génération du XML CIVA et compléments grands crus;0,5;TMA;vince
+2014-12-23;CIVA;Export CSV des DRs : ajout de la date de validation / dépot et date de modification;1;TMA;vince
+2014-12-24;VINSI;Suite une erreur d'import SAGE. Etude et correction d'une facture dont le montant est égale à 0.000000000000X au lieu de 0;2;TMA;vince
+2014-12-25;VINSI;Reparation d'un problème lié aux etablissement et à l'absence d'un mail dans l'établissement;1;TMA;Mathurin
+2014-12-25;DeclarVins;Résolution du ticket #14070 pour mettre au bon format le CSV;2;TMA;Mathurin
