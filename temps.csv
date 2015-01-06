@@ -15,3 +15,9 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2014-12-29;AVA;Lancement du module de contact;4;DI
 2014-12-29;AVA;Lancement du module de contact;4;DI
 2015-01-02;AVA;Conversion de la base Extravitis en MySql;2;DI
+2015-01-03;AVA;Etude la base données Mysql;2;DI
+2015-01-04;AVA;Conversion de la Base Mysql en CSV;2;DI
+2015-01-05;CIVA;Vérification DR bien validé et export XML;0,5;TMA
+2015-01-05;AVA;Import des comptes, étude des données, structuration et point avec Vicky;6,5;TMA
+2015-01-05;CIVA;Etude bug dont dplc ajout manuellement et délégation;0,5;TMA
+2015-01-06;AVA;Import des comptes, étude des données et structuration;6,5;TMA
