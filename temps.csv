@@ -23,3 +23,5 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-05;AVA;Interface de recherche;4;DI
 2015-01-06;AVA;Import des comptes, étude des données et structuration;6;TMA
 2015-01-06;CIVA;Etude bug dont dplc ajout manuellement et délégation;0,5;TMA
+2015-01-06;AVA;Recherche ElasticSearch des comptes;9,5;DI
+2015-01-07;AVA;Finalisation de la recherche ElasticSearch des comptes;8;DI
