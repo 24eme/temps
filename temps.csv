@@ -16,20 +16,33 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2014-12-29;AVA;Lancement du module de contact;4;DI
 2014-12-30;AVA;Configuration de l'indexation Elasticsearch;5;DI
 2015-01-02;AVA;Conversion de la base Extravitis en MySql;2;DI
+2015-01-02;AVA;Création des formulaire de création de compte;3;DI
 2015-01-03;AVA;Etude la base données Mysql;2;DI
 2015-01-04;AVA;Conversion de la Base Mysql en CSV;2;DI
+2015-01-04;AVA;Spécification des types de comptes et formulaire de modification de modifications de compte;3;DI
 2015-01-05;CIVA;Vérification DR bien validé et export XML;0,5;TMA
 2015-01-05;AVA;Import des comptes, étude des données, structuration et point avec Vicky;6;TMA
 2015-01-05;AVA;Interface de recherche;4;DI
+2015-01-05;AVA;Adaptation du formulaire de modification de compte, enregistrement et visualisation;5;DI
 2015-01-06;AVA;Import des comptes, étude des données et structuration;6;TMA
 2015-01-06;CIVA;Etude bug dont dplc ajout manuellement et délégation;0,5;TMA
 2015-01-06;AVA;Recherche ElasticSearch des comptes;9,5;DI
+2015-01-06;AVA;Mis a jour du schema des compte, ajout de produits pour les degustateurs;3;DI
+2015-01-06;AVA;Mis en place de la synchronisation entre les comptes et les etablissements, adapation de l'interface;3;DI  
 2015-01-07;AVA;Finalisation de la recherche ElasticSearch des comptes;8;DI
 2015-01-07;AVA;Traitement et étude des données de contact, point avec Vicky, mise à jour de la libraire elastic search;6;DI
 2015-01-07;CIVA;Création de tiers et changement de CVI de DRs;1;TMA
+2015-01-07;AVA;Adapation de l'integration, création d'un stock de tag en tableau et ajout des chais pour les etablissements;3,5;DI
 2015-01-08;AVA;Gestion des erreurs dans les données;7;AVA
 2015-01-08;DeclarVins;Relica Sprint 3 contrat rectif / modif;3;Evolution
+2015-01-08;AVA;Utilisation d'un select2 ajaxifié pour l'ajout et la récupération de tag, changement de schema des comptes;6;DI
 2015-01-09;CIVA;Export XML et mise à jour de PDF;0,5;CIVA
 2015-01-09;AVA;Finalisation de l'import et mise en preprod;6;AVA
 2015-01-09;DeclarVins;Relica Sprint 3 contrat rectif / modif;4;Evolution
 2015-01-09;DeclarVins;Gestion de projet avec Gwen;2;TMA
+2015-01-09;AVA;Gestion d'un nouveau type de compte syndicat;2;DI
+2015-01-09;AVA;Mis à jour de la navigation et de l'intégration de la visualisation/modification/recherche de comptes;3;DI
+2015-01-09;AVA;Les comptes sont actifs à leur création et on reprend les anciens tags séléctionnés. L'enregistrement vide les tags du compte;1;DI
+2015-01-13;AVA;Mis en place de l'enregistrement/visualisation des chais pour les comptes de type établissement;4;DI
+2015-01-14;AVA;Synchro des comptes depuis l'interface de télédeclaration, l'ajout d'un chai est rendu possible depuis les comptes etablissement;2,5;DI
+2015-01-14;AVA;Ajout des longitudes/latitudes dans les comptes à partir de l'adresse, retrait du code insee pour les etb;1,5;DI
