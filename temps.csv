@@ -47,3 +47,4 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-13;AVA;Synchro des comptes depuis l'interface de télédeclaration, l'ajout d'un chai est rendu possible depuis les comptes etablissement;2,5;DI
 2015-01-13;AVA;Ajout des longitudes/latitudes dans les comptes à partir de l'adresse, retrait du code insee pour les etb;1,5;DI
 2015-01-14;VINSI;Réunion de conception Alertes et relances avec Alexandre;1;TMA
+2015-01-14;Declarvin;Correction Libellés DRM Partiel et mise à jour de la préproduction;1;TMA
