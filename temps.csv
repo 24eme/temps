@@ -44,9 +44,9 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-09;AVA;Mis à jour de la navigation et de l'intégration de la visualisation/modification/recherche de comptes;3;DI
 2015-01-09;AVA;Les comptes sont actifs à leur création et on reprend les anciens tags séléctionnés. L'enregistrement vide les tags du compte;1;DI
 2015-01-12;DeclarVins;Relica Sprint 3 contrat rectif / modif;7;Evolution
+2015-01-12;AVA;Mis en place de l'enregistrement/visualisation des chais pour les comptes de type établissement;4;DI
 2015-01-13;DeclarVins;Correction DAI/DS retours Brice Amato;1;TMA
 2015-01-13;DeclarVins;Réunion en Avignon;7;Reunion
-2015-01-14;AVA;Mis en place de l'enregistrement/visualisation des chais pour les comptes de type établissement;4;DI
 2015-01-13;AVA;Synchro des comptes depuis l'interface de télédeclaration, l'ajout d'un chai est rendu possible depuis les comptes etablissement;2,5;DI
 2015-01-13;AVA;Ajout des longitudes/latitudes dans les comptes à partir de l'adresse, retrait du code insee pour les etb;1,5;DI
 2015-01-14;VINSI;Réunion de conception Alertes et relances avec Alexandre;1;TMA
