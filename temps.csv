@@ -46,7 +46,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-12;DeclarVins;Relica Sprint 3 contrat rectif / modif;7;Evolution
 2015-01-12;AVA;Mis en place de l'enregistrement/visualisation des chais pour les comptes de type établissement;4;DI
 2015-01-13;DeclarVins;Correction DAI/DS retours Brice Amato;1;TMA
-2015-01-13;DeclarVins;Réunion en Avignon;7;Reunion
+2015-01-13;DeclarVins;Réunion en Avignon;7;TMA
 2015-01-13;AVA;Synchro des comptes depuis l'interface de télédeclaration, l'ajout d'un chai est rendu possible depuis les comptes etablissement;2,5;DI
 2015-01-13;AVA;Ajout des longitudes/latitudes dans les comptes à partir de l'adresse, retrait du code insee pour les etb;1,5;DI
 2015-01-14;VINSI;Réunion de conception Alertes et relances avec Alexandre;1;TMA
@@ -55,4 +55,5 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-14;DeclarVins;Doc EDI DAIDS;1;TMA
 2015-01-14;DeclarVins;EDI DAIDS;3;TMA
 2015-01-15;DeclarVins;Correction tickets;6;TMA
-2015-01-15;DeclarVins;Gestion de projet;2;Gestion
+2015-01-15;DeclarVins;Gestion de projet;2;TMA
+2015-01-16;DeclarVins;Relica Sprint 3 contrat rectif / modif;5;Evolution
