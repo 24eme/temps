@@ -45,20 +45,29 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-09;AVA;Les comptes sont actifs à leur création et on reprend les anciens tags séléctionnés. L'enregistrement vide les tags du compte;1;DI
 2015-01-12;DeclarVins;Relica Sprint 3 contrat rectif / modif;7;Evolution
 2015-01-12;AVA;Mis en place de l'enregistrement/visualisation des chais pour les comptes de type établissement;4;DI
+2015-01-12;AVA;Tache pour envoi d'un deuxieme email de rappel;1;DRev
+2015-01-12;AVA;Mise en forme de la page recherche suite aux remarques de Vicky + Fixe bug;5;DI
 2015-01-13;DeclarVins;Correction DAI/DS retours Brice Amato;1;TMA
 2015-01-13;DeclarVins;Réunion en Avignon;7;TMA
 2015-01-13;AVA;Synchro des comptes depuis l'interface de télédeclaration, l'ajout d'un chai est rendu possible depuis les comptes etablissement;2,5;DI
 2015-01-13;AVA;Ajout des longitudes/latitudes dans les comptes à partir de l'adresse, retrait du code insee pour les etb;1,5;DI
+2015-01-13;AVA;Finalisation, mise en place et envoi du second mail de rappel;1;DRev
+2015-01-13;AVA;Export CSV des comptes, Merge des champs SIRET et SIREN, Contrôle sur l'unicité du CVI, Fixe bug import;4;DI
+2015-01-13;AVA;Amélioration des stats dans la page admin des DRev;1;DRev 
 2015-01-14;VINSI;ALERTE Réunion de conception Alertes et relances avec Alexandre;1;TMA
 2015-01-14;VINSI;ALERTE Conception et début de la mise en place des nouvelles alertes;2;TMA
 2015-01-14;Declarvin;Correction Libellés DRM Partiel et mise à jour de la préproduction;1;TMA
 2015-01-14;DeclarVins;Correction bug;2;TMA
 2015-01-14;DeclarVins;Doc EDI DAIDS;1;TMA
 2015-01-14;DeclarVins;EDI DAIDS;3;TMA
+2015-01-14;XML Civa DR Vide, Liste des DR teledeclaré / papier;1;TMA
+2015-01-14;Autocomplete connexion, uniformisation et mise en forme de l'interface;4;DI
+2015-01-14;Création du module et des templates pour la dégustation;1;Tournees
 2015-01-15;VINSI;ALERTE Réunion téléphonique avec Pascale et Fanny pour les Alertes et relances;1,5;TMA
 2015-01-15;VINSI;ALERTE Nettoyage des anciennes alertes, simplification de la structure;5;TMA
 2015-01-15;DeclarVins;Correction tickets;6;TMA
 2015-01-15;DeclarVins;Gestion de projet;2;TMA
+2015-01-15;Mise en html du mockupage de la dégustation : création et choix des opérateurs;3;Tournee
 2015-01-16;VINSI;ALERTE Mise en place des tache d'update et création des alertes;4;TMA
 2015-01-16;DeclarVins;Relica Sprint 3 contrat rectif / modif;5;Evolution
 2015-01-19;DeclarVins;Fin relica sprint 3 contrat rectif / modif;3;Evolution
