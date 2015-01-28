@@ -60,14 +60,14 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-14;DeclarVins;Correction bug;2;TMA
 2015-01-14;DeclarVins;Doc EDI DAIDS;1;TMA
 2015-01-14;DeclarVins;EDI DAIDS;3;TMA
-2015-01-14;XML Civa DR Vide, Liste des DR teledeclaré / papier;1;TMA
+2015-01-14;CIVA;XML Civa DR Vide, Liste des DR teledeclaré / papier;1;TMA
 2015-01-14;Autocomplete connexion, uniformisation et mise en forme de l'interface;4;DI
 2015-01-14;Création du module et des templates pour la dégustation;1;Tournees
 2015-01-15;VINSI;ALERTE Réunion téléphonique avec Pascale et Fanny pour les Alertes et relances;1,5;TMA
 2015-01-15;VINSI;ALERTE Nettoyage des anciennes alertes, simplification de la structure;5;TMA
 2015-01-15;DeclarVins;Correction tickets;6;TMA
 2015-01-15;DeclarVins;Gestion de projet;2;TMA
-2015-01-15;Mise en html du mockupage de la dégustation : création et choix des opérateurs;3;Tournee
+2015-01-15;AVA;Mise en html du mockupage de la dégustation : création et choix des opérateurs;3;Tournee
 2015-01-15;AVA;Inversion CVI Wunsch et Mann, Création du CVI 6827700021;0,5;TMA
 2015-01-16;VINSI;ALERTE Mise en place des tache d'update et création des alertes;4;TMA
 2015-01-16;AVA;Meilleurs gestion des tableaux des opérateurs avec le js;4;Tournee
@@ -99,8 +99,8 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-24;AVA;Interfaces d'organisation de la dégustation;3;Tournee
 2015-01-24;AVA;Interfaces d'organisation de prélèvements avec carte et de saisie pour une tournée;5;Tournee
 2015-01-26;DeclarVins;Dev évolution prestation de produit;8;Prestation
-2015-01-26;Gestion des alertes et relances - recette avec Afid;1;TMA
-2015-01-26;Gestion des alertes et relance - les checkboxes de choix d'alertes sont maintenant des radio buttons, mis a jour et preparation de la préprod pour tests;3;TMA
+2015-01-26;VINSI;Gestion des alertes et relances - recette avec Afid;1;TMA
+2015-01-26;VINSI;Gestion des alertes et relance - les checkboxes de choix d'alertes sont maintenant des radio buttons, mis a jour et preparation de la préprod pour tests;3;TMA
 2015-01-26;AVA;Réunion à l'AVA sur la dégustation;3,5;Tournee
 2015-01-26;AVA;Réunion à l'AVA sur le parcellaire;3,5;Parcellaire
 2015-01-27;AVA;Point poste réunion, compte rendu, et dessin des mockups papiers par rapport aux discussions;3,5;Tournee
