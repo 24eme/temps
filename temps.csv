@@ -68,24 +68,39 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-15;DeclarVins;Correction tickets;6;TMA
 2015-01-15;DeclarVins;Gestion de projet;2;TMA
 2015-01-15;Mise en html du mockupage de la dégustation : création et choix des opérateurs;3;Tournee
+2015-01-15;AVA;Inversion CVI Wunsch et Mann, Création du CVI 6827700021;0,5;TMA
 2015-01-16;VINSI;ALERTE Mise en place des tache d'update et création des alertes;4;TMA
+2015-01-16;AVA;Meilleurs gestion des tableaux des opérateurs avec le js;4;Tournee
 2015-01-16;DeclarVins;Relica Sprint 3 contrat rectif / modif;5;Evolution
 2015-01-19;DeclarVins;Fin relica sprint 3 contrat rectif / modif;3;Evolution
 2015-01-19;DeclarVins;Contrat IVSE #14269;3;TMA
 2015-01-19;VINSI;ALERTE Mis à jour de l'interface des alertes adaptation des formulaire;3;TMA
+2015-01-19;AVA;Reprise des chais dans le compte, Import des élaborateur que si l'attribut elaborateur, Check des fichiers extravitis, Gestion de projeti, Archivage de compte, Bug automplete tags manuels, Validateur de nom prenom et raison social, Transformation de la base extravitis en mysql;5;DI
+2015-01-19;AVA;Choix des opérateurs fonctionnement js;2;Tournee
 2015-01-20;DeclarVins;Bilan DRM;4;TMA
 2015-01-20;DeclarVins;Bilan DRM recherche des problèmes liés aux statuts avec JB;1;TMA
 2015-01-20;VINSI;ALERTE Mis à jour de la génération massive des relances;5;TMA
+2015-01-20;AVA;Création de compte;0,5;TMA
+2015-01-20;AVA;Mise en préprod, Modification de tags (donneur d'ordre, apporteur etc..), Attributs pas obligatoire si pas de liste, Ajout d'un credential compte, Tache de mise à jour des positions, Corrections d'interface;4;DI
 2015-01-21;VINSI;ALERTE Mis à jour de la génération des relances, des interfaces et de la configuration preprod;9;TMA
 2015-01-21;DeclarVins;Corrections tickets;3;TMA
+2015-01-21;AVA;Etude de données vinificateur/elaborateur, Bug dédoublonnage de compte,  Ajout de l'identifiant interne, Corrections d'interfaces;3,5;DI
+2015-01-21;AVA;Création opérateur et modification chai;0,5;TMA
 2015-01-22;VINSI;Templating des relances d'alertes spécifiques (DRM + DRM AR + DRA + DRA AR);4;TMA
 2015-01-22;VINSI;Réunion à Arsia Mons;3;TMA
 2015-01-22;DeclarVins;Corrections tickets;6;TMA
 2015-01-22;DeclarVins;Gestion de projet;2;TMA
+2015-01-22;AVA;Import des dégustateurs, Meilleures gestion et reprise des adresses (gros taf);8;DI
 2015-01-23;VINSI;Gestion des alertes et relances Debugage mineure;3;TMA
 2015-01-23;VINSI;Gestion des alertes et relances tests avec Alexandre;2;TMA
 2015-01-23;DeclarVins;Correction CAS;1;TMA
 2015-01-23;DeclarVins;Optimisation bilan n-1;3;TMA
+2015-01-23;AVA;Reprise de l'adresse de complément dans la société si pertinent, Carte, Bug reprise coordonnées sans adresse, Reprise des attributs dans les chais, Mise en prod des contacts, Finiolage et archivage poste mise en prod, Fixer les etablissement crée avec un espace à la fin, Modification attributs des chais + mis en forme, Modification d'interface minime, Tache d'archivage de compte;9;DI
+2015-01-24;AVA;Interfaces d'organisation de la dégustation;3;Tournee
+2015-01-24;AVA;Interfaces d'organisation de prélèvements avec carte et de saisie pour une tournée;5;Tournee
 2015-01-26;DeclarVins;Dev évolution prestation de produit;8;Prestation
 2015-01-26;Gestion des alertes et relances - recette avec Afid;1;TMA
-2015-01-26;Gestion des alertes et relance - les checkboxes de choix d'alertes sont maintenant des radio buttons, mis a jour et preparation de la préprod pour tests;3;TMA 
+2015-01-26;Gestion des alertes et relance - les checkboxes de choix d'alertes sont maintenant des radio buttons, mis a jour et preparation de la préprod pour tests;3;TMA
+2015-01-26;AVA;Réunion à l'AVA sur la dégustation;3,5;Tournee
+2015-01-26;AVA;Réunion à l'AVA sur le parcellaire;3,5;Parcellaire
+2015-01-27;AVA;Point poste réunion, compte rendu, et dessin des mockups papiers par rapport aux discussions;3,5;Tournee
