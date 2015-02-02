@@ -13,7 +13,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2015-01-05;AVA;Interface de recherche;4;DI
 2015-01-06;AVA;Import des comptes, étude des données et structuration;6;DI
 2015-01-06;AVA;Mis a jour du schema des compte, ajout de produits pour les degustateurs;3;DI
-2015-01-06;AVA;Mis en place de la synchronisation entre les comptes et les etablissements, adapation de l'interface;3;DI  
+2015-01-06;AVA;Mis en place de la synchronisation entre les comptes et les etablissements, adapation de l'interface;3;DI
 2015-01-06;AVA;Recherche ElasticSearch des comptes;9,5;DI
 2015-01-07;AVA;Adapation de l'integration, création d'un stock de tag en tableau et ajout des chais pour les etablissements;3,5;DI
 2015-01-07;AVA;Finalisation de la recherche ElasticSearch des comptes;8;DI
@@ -28,12 +28,12 @@ Date;Projet;Description;Temps (en heure);Tache
 2015-01-12;AVA;Mis en place de l'enregistrement/visualisation des chais pour les comptes de type établissement;4;DI
 2015-01-12;AVA;Tache pour envoi d'un deuxieme email de rappel;1;DRev
 2015-01-13;AVA;Ajout des longitudes/latitudes dans les comptes à partir de l'adresse, retrait du code insee pour les etb;1,5;DI
-2015-01-13;AVA;Amélioration des stats dans la page admin des DRev;1;DRev 
+2015-01-13;AVA;Amélioration des stats dans la page admin des DRev;1;DRev
 2015-01-13;AVA;Export CSV des comptes, Merge des champs SIRET et SIREN, Contrôle sur l'unicité du CVI, Fixe bug import;4;DI
 2015-01-13;AVA;Finalisation, mise en place et envoi du second mail de rappel;1;DRev
 2015-01-13;AVA;Synchro des comptes depuis l'interface de télédeclaration, l'ajout d'un chai est rendu possible depuis les comptes etablissement;2,5;DI
 2015-01-14;AVA;Autocomplete connexion, uniformisation et mise en forme de l'interface;4;DI
-2015-01-14;AVA;Création du module et des templates pour la dégustation;1;Tournees
+2015-01-14;AVA;Création du module et des templates pour la dégustation;1;Tournee
 2015-01-15;AVA;Inversion CVI Wunsch et Mann, Création du CVI 6827700021;0,5;TMA
 2015-01-15;AVA;Mise en html du mockupage de la dégustation : création et choix des opérateurs;3;Tournee
 2015-01-16;AVA;Meilleurs gestion des tableaux des opérateurs avec le js;4;Tournee

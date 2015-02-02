@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DATE=$(cat temps.csv | grep -v "^Date;Projet;Description;" | sort | tail -n 1 | cut -d ";" -f 1,1 | sed 's/-//g')
 
 if ! test "$DATE"; then
@@ -5,7 +7,7 @@ if ! test "$DATE"; then
     exit;
 fi
 
-mkdir temps/$DATE
+mkdir temps/$DATE > /dev/null
 
 echo "Copie de temps.csv dans temps/$DATE/temps.csv"
 
@@ -17,6 +19,8 @@ do
     cat temps/$DATE/temps.csv | sort | grep ";$projet;" >> temps/$DATE/"$projet".csv
     echo "Création de temps/$DATE/"$projet".csv"
 done
+
+bash bin/recap.sh > temps/$DATE/recap.csv
 
 echo "Réinialisation du fichier temps.csv"
 echo "Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)" > temps.csv
