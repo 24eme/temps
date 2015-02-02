@@ -1,0 +1,55 @@
+Date;Projet;Description;Temps (en heure);Tache
+2014-12-29;AVA;Lancement du module de contact;4;DI
+2014-12-29;AVA;Lancement du module de contact;4;DI
+2014-12-29;AVA;Lancement du module de contact;4;DI
+2014-12-30;AVA;Configuration de l'indexation Elasticsearch;5;DI
+2015-01-02;AVA;Conversion de la base Extravitis en MySql;2;DI
+2015-01-02;AVA;Création des formulaire de création de compte;3;DI
+2015-01-03;AVA;Etude la base données Mysql;2;DI
+2015-01-04;AVA;Conversion de la Base Mysql en CSV;2;DI
+2015-01-04;AVA;Spécification des types de comptes et formulaire de modification de modifications de compte;3;DI
+2015-01-05;AVA;Adaptation du formulaire de modification de compte, enregistrement et visualisation;5;DI
+2015-01-05;AVA;Import des comptes, étude des données, structuration et point avec Vicky;6;DI
+2015-01-05;AVA;Interface de recherche;4;DI
+2015-01-06;AVA;Import des comptes, étude des données et structuration;6;DI
+2015-01-06;AVA;Mis a jour du schema des compte, ajout de produits pour les degustateurs;3;DI
+2015-01-06;AVA;Mis en place de la synchronisation entre les comptes et les etablissements, adapation de l'interface;3;DI  
+2015-01-06;AVA;Recherche ElasticSearch des comptes;9,5;DI
+2015-01-07;AVA;Adapation de l'integration, création d'un stock de tag en tableau et ajout des chais pour les etablissements;3,5;DI
+2015-01-07;AVA;Finalisation de la recherche ElasticSearch des comptes;8;DI
+2015-01-07;AVA;Traitement et étude des données de contact, point avec Vicky, mise à jour de la libraire elastic search;6;DI
+2015-01-08;AVA;Gestion des erreurs dans les données;7;DI
+2015-01-08;AVA;Utilisation d'un select2 ajaxifié pour l'ajout et la récupération de tag, changement de schema des comptes;6;DI
+2015-01-09;AVA;Finalisation de l'import et mise en preprod;6;DI
+2015-01-09;AVA;Gestion d'un nouveau type de compte syndicat;2;DI
+2015-01-09;AVA;Les comptes sont actifs à leur création et on reprend les anciens tags séléctionnés. L'enregistrement vide les tags du compte;1;DI
+2015-01-09;AVA;Mis à jour de la navigation et de l'intégration de la visualisation/modification/recherche de comptes;3;DI
+2015-01-12;AVA;Mise en forme de la page recherche suite aux remarques de Vicky + Fixe bug;5;DI
+2015-01-12;AVA;Mis en place de l'enregistrement/visualisation des chais pour les comptes de type établissement;4;DI
+2015-01-12;AVA;Tache pour envoi d'un deuxieme email de rappel;1;DRev
+2015-01-13;AVA;Ajout des longitudes/latitudes dans les comptes à partir de l'adresse, retrait du code insee pour les etb;1,5;DI
+2015-01-13;AVA;Amélioration des stats dans la page admin des DRev;1;DRev 
+2015-01-13;AVA;Export CSV des comptes, Merge des champs SIRET et SIREN, Contrôle sur l'unicité du CVI, Fixe bug import;4;DI
+2015-01-13;AVA;Finalisation, mise en place et envoi du second mail de rappel;1;DRev
+2015-01-13;AVA;Synchro des comptes depuis l'interface de télédeclaration, l'ajout d'un chai est rendu possible depuis les comptes etablissement;2,5;DI
+2015-01-14;AVA;Autocomplete connexion, uniformisation et mise en forme de l'interface;4;DI
+2015-01-14;AVA;Création du module et des templates pour la dégustation;1;Tournees
+2015-01-15;AVA;Inversion CVI Wunsch et Mann, Création du CVI 6827700021;0,5;TMA
+2015-01-15;AVA;Mise en html du mockupage de la dégustation : création et choix des opérateurs;3;Tournee
+2015-01-16;AVA;Meilleurs gestion des tableaux des opérateurs avec le js;4;Tournee
+2015-01-19;AVA;Choix des opérateurs fonctionnement js;2;Tournee
+2015-01-19;AVA;Reprise des chais dans le compte, Import des élaborateur que si l'attribut elaborateur, Check des fichiers extravitis, Gestion de projeti, Archivage de compte, Bug automplete tags manuels, Validateur de nom prenom et raison social, Transformation de la base extravitis en mysql;5;DI
+2015-01-20;AVA;Création de compte;0,5;TMA
+2015-01-20;AVA;Mise en préprod, Modification de tags (donneur d'ordre, apporteur etc..), Attributs pas obligatoire si pas de liste, Ajout d'un credential compte, Tache de mise à jour des positions, Corrections d'interface;4;DI
+2015-01-21;AVA;Création opérateur et modification chai;0,5;TMA
+2015-01-21;AVA;Etude de données vinificateur/elaborateur, Bug dédoublonnage de compte,  Ajout de l'identifiant interne, Corrections d'interfaces;3,5;DI
+2015-01-22;AVA;Import des dégustateurs, Meilleures gestion et reprise des adresses (gros taf);8;DI
+2015-01-23;AVA;Reprise de l'adresse de complément dans la société si pertinent, Carte, Bug reprise coordonnées sans adresse, Reprise des attributs dans les chais, Mise en prod des contacts, Finiolage et archivage poste mise en prod, Fixer les etablissement crée avec un espace à la fin, Modification attributs des chais + mis en forme, Modification d'interface minime, Tache d'archivage de compte;9;DI
+2015-01-24;AVA;Interfaces d'organisation de la dégustation;3;Tournee
+2015-01-24;AVA;Interfaces d'organisation de prélèvements avec carte et de saisie pour une tournée;5;Tournee
+2015-01-26;AVA;Réunion à l'AVA sur la dégustation;3,5;Tournee
+2015-01-26;AVA;Réunion à l'AVA sur le parcellaire;3,5;Parcellaire
+2015-01-27;AVA;Point poste réunion, compte rendu, et dessin des mockups papiers par rapport aux discussions;3,5;Tournee
+2015-01-27;AVA;Point poste réunion, début de la mise en place du parcellaire;3,5;Parcellaire
+2015-01-29;AVA;Avancement sur le parcellaire;1;Parcellaire
+2015-01-29;AVA;Interface de création en 2 étapes, Interface d'affectation des vins, Interface de dégustation;3,5;Tournee

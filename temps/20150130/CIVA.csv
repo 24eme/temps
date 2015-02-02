@@ -1,0 +1,10 @@
+Date;Projet;Description;Temps (en heure);Tache
+2014-12-23;CIVA;Export CSV des DRs : ajout de la date de validation / dépot et date de modification;1;TMA
+2014-12-23;CIVA;Génération du XML CIVA et compléments grands crus;0,5;TMA
+2014-12-23;CIVA;Mise à disposition des récapitulatifs mairies;5,5;TMA
+2014-12-25;CIVA;Mise à disposition des DRs pour le Syndicat du Crémant;0,75;TMA
+2015-01-05;CIVA;Vérification DR bien validé et export XML;0,5;TMA
+2015-01-06;CIVA;Etude bug dont dplc ajout manuellement et délégation;0,5;TMA
+2015-01-07;CIVA;Création de tiers et changement de CVI de DRs;1;TMA
+2015-01-09;CIVA;Export XML et mise à jour de PDF;0,5;CIVA
+2015-01-14;CIVA;XML Civa DR Vide, Liste des DR teledeclaré / papier;1;TMA

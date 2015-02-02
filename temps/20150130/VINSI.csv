@@ -1,0 +1,18 @@
+Date;Projet;Description;Temps (en heure);Tache
+2014-12-24;VINSI;Suite une erreur d'import SAGE. Etude et correction d'une facture dont le montant est égale à 0.000000000000X au lieu de 0;2;TMA
+2014-12-25;VINSI;Reparation d'un problème lié aux etablissement et à l'absence d'un mail dans l'établissement;1;TMA
+2015-01-14;VINSI;ALERTE Conception et début de la mise en place des nouvelles alertes;2;TMA
+2015-01-14;VINSI;ALERTE Réunion de conception Alertes et relances avec Alexandre;1;TMA
+2015-01-15;VINSI;ALERTE Nettoyage des anciennes alertes, simplification de la structure;5;TMA
+2015-01-15;VINSI;ALERTE Réunion téléphonique avec Pascale et Fanny pour les Alertes et relances;1,5;TMA
+2015-01-16;VINSI;ALERTE Mise en place des tache d'update et création des alertes;4;TMA
+2015-01-19;VINSI;ALERTE Mis à jour de l'interface des alertes adaptation des formulaire;3;TMA
+2015-01-20;VINSI;ALERTE Mis à jour de la génération massive des relances;5;TMA
+2015-01-21;VINSI;ALERTE Mis à jour de la génération des relances, des interfaces et de la configuration preprod;9;TMA
+2015-01-22;VINSI;Réunion à Arsia Mons;3;TMA
+2015-01-22;VINSI;Templating des relances d'alertes spécifiques (DRM + DRM AR + DRA + DRA AR);4;TMA
+2015-01-23;VINSI;Gestion des alertes et relances Debugage mineure;3;TMA
+2015-01-23;VINSI;Gestion des alertes et relances tests avec Alexandre;2;TMA
+2015-01-26;VINSI;Gestion des alertes et relance - les checkboxes de choix d'alertes sont maintenant des radio buttons, mis a jour et preparation de la préprod pour tests;3;TMA
+2015-01-26;VINSI;Gestion des alertes et relances - recette avec Afid;1;TMA
+2015-01-30;VINSI;Réunion Interloire pour le début de la dématérialisation des DRM;10;TMA
