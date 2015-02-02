@@ -10,7 +10,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2014-12-25;VINSI;Reparation d'un problème lié aux etablissement et à l'absence d'un mail dans l'établissement;1;TMA
 2014-12-25;DeclarVins;Résolution du ticket #14070 pour mettre au bon format le CSV;2;TMA
 2014-12-25;CIVA;Mise à disposition des DRs pour le Syndicat du Crémant;0,75;TMA
-2014-12-28;Declarvins;Résolution du ticket #14069 sur le statut des Bilan DRM;1;TMA
+2014-12-28;DeclarVins;Résolution du ticket #14069 sur le statut des Bilan DRM;1;TMA
 2014-12-29;AVA;Lancement du module de contact;4;DI
 2014-12-29;AVA;Lancement du module de contact;4;DI
 2014-12-29;AVA;Lancement du module de contact;4;DI
@@ -56,13 +56,13 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-01-13;AVA;Amélioration des stats dans la page admin des DRev;1;DRev 
 2015-01-14;VINSI;ALERTE Réunion de conception Alertes et relances avec Alexandre;1;TMA
 2015-01-14;VINSI;ALERTE Conception et début de la mise en place des nouvelles alertes;2;TMA
-2015-01-14;Declarvin;Correction Libellés DRM Partiel et mise à jour de la préproduction;1;TMA
+2015-01-14;DeclarVins;Correction Libellés DRM Partiel et mise à jour de la préproduction;1;TMA
 2015-01-14;DeclarVins;Correction bug;2;TMA
 2015-01-14;DeclarVins;Doc EDI DAIDS;1;TMA
 2015-01-14;DeclarVins;EDI DAIDS;3;TMA
 2015-01-14;CIVA;XML Civa DR Vide, Liste des DR teledeclaré / papier;1;TMA
 2015-01-14;AVA;Autocomplete connexion, uniformisation et mise en forme de l'interface;4;DI
-2015-01-14;Création du module et des templates pour la dégustation;1;Tournees
+2015-01-14;AVA;Création du module et des templates pour la dégustation;1;Tournees
 2015-01-15;VINSI;ALERTE Réunion téléphonique avec Pascale et Fanny pour les Alertes et relances;1,5;TMA
 2015-01-15;VINSI;ALERTE Nettoyage des anciennes alertes, simplification de la structure;5;TMA
 2015-01-15;DeclarVins;Correction tickets;6;TMA
