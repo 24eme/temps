@@ -1,15 +1,15 @@
-Projet;Tâche;Temps (en heure)
-AVA;DI;158,5
-AVA;DRev;3
-AVA;Parcellaire;8
-AVA;TMA;1,5
-AVA;Tournee;28,5
-AVA;TOTAL;199,5
-CIVA;TMA;11,25
-CIVA;TOTAL;11,25
-DeclarVins;Evolution;22
-DeclarVins;Prestation;8
-DeclarVins;TMA;59,5
-DeclarVins;TOTAL;89,5
-VINSI;TMA;59,5
-VINSI;TOTAL;59,5
+Projet;Tâche;Temps (en heure);Facturé;Restant à facturer
+AVA;DI;158,5;0;77
+AVA;DRev;3;0;0?
+AVA;Parcellaire;8;0;8
+AVA;TMA;1,5;0;0?
+AVA;Tournee;28,5;0;28,5
+AVA;TOTAL;199,5;0;113,5
+CIVA;TMA;11,25;0;11,25
+CIVA;TOTAL;11,25;0;11,25
+DeclarVins;Evolution;22;27;0
+DeclarVins;Prestation;8;0;8
+DeclarVins;TMA;59,5;56;3,5
+DeclarVins;TOTAL;89,5;11,5
+VINSI;TMA;59,5;42;17,5?
+VINSI;TOTAL;59,5;42;17,5?
