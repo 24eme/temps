@@ -70,12 +70,19 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-02-20;AVA;Fixe bug + dévéloppement + mise en prod;6;Parcellaire
 2015-02-23;DeclarVins;Remise en service + monitoring;4;TMA
 2015-02-23;AVA;Mise en service du parcellaire, résolution de tickets + hotline d'ouverture;7;Parcellaire
+2015-02-23;AVA;Fix bug parcellaire + réponse mail correction superficie en ha;7;Parcellaire
 2015-02-24;IVSO;Point téléphonique + demo (JB);2;COM
 2015-02-24;IVSO;Point téléphonique + demo (Math);2;COM
+2015-02-24;AVA;Fix bug parcellaire + réponse mail correction superficie en ha;3.5;Parcellaire
+2015-02-24;AVA;Dégustation interface listing des déclaration;1;Parcellaire
 2015-02-25;VINSI;Extractions vins BIO dans base contrats;2;TMA
 2015-02-25;AVA;Mise en place du Parcellaire Crémant;3;Parcellaire Crémant
 2015-02-26;VINSI;Réunion VINSI pour télédéclaration DRMs;7;Réunion
 2015-02-26;DeclarVins;Resolution tickets 14394 et 14393;3;TMA
+2015-02-26;AVA;Saisie mode papier + réponse mail correction superficie en ha;2.5;Parcellaire
+2015-02-26;AVA;Dégustation navigation étape + organisation réunion;3;Dégustation
 2015-02-27;AVA;Mise en place des mails pour la dégustation;4;Dégustation
 2015-02-27;DeclarVins;Ticket 14396;2;TMA
+2015-02-27;AVA;Degustateurs par types + nav géré + tournée remonté des infos;3.5;Dégustation
+2015-02-27;AVA;Parcellaire réponse mail correction superficie en ha;1;Parcellaire
 2015-03-02;AVA;Récap + pts de vigilance + mail pour les agents;7;Dégustation
