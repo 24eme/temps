@@ -1,15 +1,11 @@
-Projet;Tache;Deadline;Jours à consommés;Jours consommés
-AVA;DI;2015-01-01;11;0
-AVA;Parcellaire;~2015-02;24;0
-AVA;Parcellaire crémant;2015-03-30;2;0
-AVA;Facturation;~2015-04;27,5;0
-AVA;Dégustation;~2015-01-31;35,5;0
-AVA;TMA;;;0
-DeclarVins;Contrats Modificatifs;2015-01;4;0
-DeclarVins;Contrats OI/OC;2015-02;10;0
-DeclarVins;Multi Interpro;2015-01;15;0
-DeclarVins;TMA;;;0
-VINSI;TMA déjà vendu -> Gestion Alertes/Relances DRM/DRA Manquante;2015-01-23;0;3,5
-VINSI;Dématérialisation des DRMs;~2015-06;;0
-VINSI;TMA;;;0
-CIVA;TMA;;;0
+Projet;Tache;Deadline;Jours à consommés
+AVA;DI;11
+AVA;Parcellaire;24
+AVA;Parcellaire crémant;2
+AVA;Facturation;27,5
+AVA;Dégustation;35,5
+DeclarVins;Contrats Modificatifs;4
+DeclarVins;Contrats OI/OC;10
+DeclarVins;Multi Interpro;15
+DeclarVins;Table de correspondance identifiant interpro;6
+VINSI;TMA déjà vendu -> Gestion Alertes/Relances DRM/DRA Manquante;4,5

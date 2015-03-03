@@ -1,0 +1,44 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-02-02;AVA;Gestion de projet (Import de tags pour la liste de CVIs);1;TMA
+2015-02-03;AVA;Liste des prélévements sortables + organisation par jour;5;Dégustation
+2015-02-03;AVA;Parcellaire Début de l'integration des mockup;2;Parcellaire
+2015-02-03;AVA;Parcellaire Réunion d'information sur le module;1,5;Parcellaire
+2015-02-04;AVA;Intégration des mockups, navigation et mise en place du Parcellaire;7;Parcellaire
+2015-02-04;AVA;Marqueur avec les couleurs + js;5;Dégustation
+2015-02-05;AVA;Evolution recherche de contacts par liste de numéros CVI;2,5;TMA
+2015-02-05;AVA;Finalisation de la page d'organisation des prélévements + formulaire de création;3;Dégustation
+2015-02-05;AVA;Parcellaire, mise en place de la structure et des forms;6;Parcellaire
+2015-02-06;AVA;Gestion du formulaire des opérateurs;5;Dégustation
+2015-02-09;AVA;Export de la liste des opérateurs du parcellaire;1,5;Parcellaire
+2015-02-09;AVA;Formulaires dégustation;2;Dégustation
+2015-02-09;AVA;Parcellaire, mise en place de l'enregistrement de l'étape exploitation;5;Parcellaire
+2015-02-10;AVA;Formulaires dégustation;7;Dégustation
+2015-02-10;AVA;Parcellaire, mise en place de l'enregistrement des parcelles et integration des la reprise de donnés;5;Parcellaire
+2015-02-10;AVA;Parcellaire, mise en place de mon espace;3;Parcellaire
+2015-02-11;AVA;Formulaire dégustation prélévement;2,5;Dégustation
+2015-02-11;AVA;Parcellaire, création de la visualisation parcellaire;3;Parcellaire
+2015-02-11;AVA;Parcellaire, création du pdf parcellaire;3;Parcellaire
+2015-02-11;AVA;Parcellaire, enregistrement de nouveaux cépage dans le parcellaire;3;Parcellaire
+2015-02-11;AVA;Parcellaire formulaire acheteur;4,5;Parcellaire
+2015-02-12;AVA;Développement et mise en préprod de l'appli parcellaire;8;Parcellaire
+2015-02-12;AVA;Enregistrement en ajax, Ajout d'une type de propriété, Securisation, Gestion lieu-dit, Gestion de projet, Mise en préprod;8;Parcellaire
+2015-02-16;AVA;Fine tuning parcellaire;8;Parcellaire
+2015-02-16;AVA;Fine tuning parcellaire avec Vicky;8;Parcellaire
+2015-02-17;AVA;Développement du parcellaire + mise en préprod;7;Parcellaire
+2015-02-17;AVA;Développement parcellaire Saisie/Ajout de produits;7;Parcellaire
+2015-02-18;AVA;Développement Ajout de parcelle, ajout des communes en conf, relais des pts bloquants;7;Parcellaire
+2015-02-18;AVA;Développement du parcellaire + mise en préprod;7;Parcellaire
+2015-02-19;AVA;Développement du parcellaire + mise en préprod;8;Parcellaire
+2015-02-19;AVA;Développement parcellaire uniformisation visu, live recette avec vicky;8;Parcellaire
+2015-02-20;AVA;Fixe bug + dévéloppement + mise en prod;6;Parcellaire
+2015-02-20;AVA;Mis en production de l'appli parcellaire et débug des mails;4;Parcellaire
+2015-02-23;AVA;Fix bug parcellaire + réponse mail correction superficie en ha;7;Parcellaire
+2015-02-23;AVA;Mise en service du parcellaire, résolution de tickets + hotline d'ouverture;7;Parcellaire
+2015-02-24;AVA;Dégustation interface listing des déclaration;1;Parcellaire
+2015-02-24;AVA;Fix bug parcellaire + réponse mail correction superficie en ha;3.5;Parcellaire
+2015-02-25;AVA;Mise en place du Parcellaire Crémant;3;Parcellaire Crémant
+2015-02-26;AVA;Dégustation navigation étape + organisation réunion;3;Dégustation
+2015-02-26;AVA;Saisie mode papier + réponse mail correction superficie en ha;2.5;Parcellaire
+2015-02-27;AVA;Degustateurs par types + nav géré + tournée remonté des infos;3.5;Dégustation
+2015-02-27;AVA;Mise en place des mails pour la dégustation;4;Dégustation
+2015-02-27;AVA;Parcellaire réponse mail correction superficie en ha;1;Parcellaire
