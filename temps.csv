@@ -1,5 +1,7 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-03-01;AVA;Stockage des adresses du chai + Remonté de la tournée avec angular;5;Dégustation
 2015-03-02;AVA;Récap + pts de vigilance + mail pour les agents;7;Dégustation
-2015-03-02;DeclarVins;Corrections tickets 14396 et 14377;4;TMA
-2015-03-02;DeclarVins;Correction ticket 14400;5;Garantie
+2015-03-03;DeclarVins;Corrections tickets 14396 et 14377;4;TMA
+2015-03-03;DeclarVins;Correction ticket 14400;5;Garantie
+2015-03-04;DeclarVins;Correction ticket 14387;3;TMA
+2015-03-04;DeclarVins;Correction erreur 500 lien contrat vrac;1;TMA
