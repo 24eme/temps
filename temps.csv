@@ -3,5 +3,11 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-03-02;AVA;Récap + pts de vigilance + mail pour les agents;7;Dégustation
 2015-03-03;DeclarVins;Corrections tickets 14396 et 14377;4;TMA
 2015-03-03;DeclarVins;Correction ticket 14400;5;Garantie
+2015-03-03;VINSI;Alertes et Relances DRM => changement dans les PDFs;3;Forfait 1 jr
+2015-03-03;VINSI;Communication sur le chiffrage de l'evolution contrat enlevement 90%;0,5;TMA
 2015-03-04;DeclarVins;Correction ticket 14387;3;TMA
 2015-03-04;DeclarVins;Correction erreur 500 lien contrat vrac;1;TMA
+2015-03-04;VINSI;Alertes et Relances DRM => mis à jour des PDFs + mis en préprod;4;Forfait 1 jr
+2015-03-04;VINSI;Analyse de l'evolution contrat enlevement 90%;3;Forfait 1 jr
+2015-03-05;VINSI;Mise en préproduction de l'evolution contrat enlevement 90%;3;Forfait 1 jr
+2015-03-05;VINSI;Mise en place d'un hack en prod pour la validation SV12;0,5;TMA
