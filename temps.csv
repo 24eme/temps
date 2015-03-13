@@ -18,3 +18,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-03-10;DeclarVins;Ticket 14408;1;TMA
 2015-03-10;DeclarVins;Evolution Ids Interpros;3;Forfait
 2015-03-11;DeclarVins;Evolution Ids Interpros;9;Forfait
+2015-03-12;VINSI;Mise en place d'une tache pour le changement de chai dans les contrat d'ackermann;4;TMA
+2015-03-12;VINSI;Evaluation de plusieurs évolutions : contrat ackermann, facturation SV12 à 50/50;1;TMA
+2015-03-13;VINSI;Evolution des courriers de relances DRA / résolution des tickets #14427 et #14426;6;TMA
+2015-03-13;VINSI;Mis en prod de l'application en Prod;1;TMA
