@@ -2,13 +2,13 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-03-02;AVA;Récap + pts de vigilance + mail pour les agents;7;Dégustation
 2015-03-03;DeclarVins;Corrections tickets 14396 et 14377;4;TMA
 2015-03-03;DeclarVins;Correction ticket 14400;5;Garantie
-2015-03-03;VINSI;Alertes et Relances DRM => changement dans les PDFs;3;Forfait 1 jr
+2015-03-03;VINSI;Alertes et Relances DRM => changement dans les PDFs;3;Evol Alertes et relances
 2015-03-03;VINSI;Communication sur le chiffrage de l'evolution contrat enlevement 90%;0,5;TMA
 2015-03-04;DeclarVins;Correction ticket 14387;3;TMA
 2015-03-04;DeclarVins;Correction erreur 500 lien contrat vrac;1;TMA
-2015-03-04;VINSI;Alertes et Relances DRM => mis à jour des PDFs + mis en préprod;4;Forfait 1 jr
-2015-03-04;VINSI;Analyse de l'evolution contrat enlevement 90%;3;Forfait 1 jr
-2015-03-05;VINSI;Mise en préproduction de l'evolution contrat enlevement 90%;3;Forfait 1 jr
+2015-03-04;VINSI;Alertes et Relances DRM => mis à jour des PDFs + mis en préprod;4;Evol Alertes et relances
+2015-03-04;VINSI;Analyse de l'evolution contrat enlevement 90%;3;Evol Contrat 90%
+2015-03-05;VINSI;Mise en préproduction de l'evolution contrat enlevement 90%;3;Evol Contrat 90%
 2015-03-05;VINSI;Mise en place d'un hack en prod pour la validation SV12;0,5;TMA
 2015-03-05;DeclarVins;Evolution Ids Interpros;8;Forfait
 2015-03-06;DeclarVins;Evolution Ids Interpros;5;Forfait
@@ -42,8 +42,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-03-23;AVA;Résolution d'un bug lié aux recherches admin elasticsearch (anciennement limités à 10000);1;TMA
 2015-03-24;AVA;Traitement de la saisie des type de courriers de notation pour la dégustation;2,5;Dégustation
 2015-03-24;AVA;Exports d'un fichier ne contenant que les opérateurs faisant que du crémant, et un fichier avec tout les télédéclarant parcellaire;1;TMA
-2015-03-24;CIVA;Reunion DRM;4;TMA
-2015-03-24;CIVA;Reunion DRM;4;TMA
+2015-03-24;CIVA;Reunion DRM;3.5;TMA
 2015-03-26;AVA;Fin des courriers de dégustation en PDF;7;Dégustation
 2015-03-26;DeclarVins;Ticket 14462;1;TMA
 2015-03-26;DeclarVins;Gestion de projet pour mise en prod;1;TMA
@@ -72,7 +71,8 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-03-10;CIVA;Réunion de tournée chez les opérateurs pour la DRM;7;TMA
 2015-03-11;AVA;Accompagnement de la première dégustation;3,5;Dégustation
 2015-03-11;CIVA;Réunion avec les Douanes;3,5;TMA
-2015-03-12;AVA;Réunion facturation + point global;7;Facturation
+2015-03-12;AVA;Réunion facturation + point global;3,5;Facturation
+2015-03-12;AVA;Réunion point global;3,5;Dégustation
 2015-03-16;AVA;Saisie Papier,Fixe bug bad save autorisation acheteur;5;Parcellaire
 2015-03-17;AVA;Tirage au sort des opérateurs en mode aléatoire, Suppression possible d'un opérateur;3;Dégustation
 2015-03-18;AVA;Meilleur gestion de l'enregistrement des opérateurs dans la dégustation;5;Dégustation
@@ -80,17 +80,10 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-03-19;AVA;Prise en compte des opérateurs reportés, Séléction aléatoire d'opérateurs ne peut dépasser le max;7;Dégustation
 2015-03-20;AVA;Jour des agents avec le jour même de la dégustation;1;Dégustation
 2015-03-23;AVA;Compte rendu de la réunion du 12 mars 2015;1;Facturation
+2015-03-23;AVA;Compte rendu de la réunion du 12 mars 2015;1;Dégustation
 2015-03-24;CIVA;Réunion DRM;3,5;TMA
 2015-03-25;AVA;Renommage de "Degustation" en "Tournee";4;Dégustation
 2015-03-26;AVA;Utilisation d'objets dégustation externe, Gestions des revisions, PDF des tournées;7;Dégustation
 2015-03-27;AVA;Motif de non prélevement et affectation en mode incrémental;7;Dégustation
 2015-03-29;AVA;Tournées en js adapté;5;Dégustation
 2015-03-31;AVA;Saisie dégustation et affectation adaptée à la gestion de collisions;7;Dégustation
-2015-04-01;VINSI;Ouverture d'un droit teledeclaration DRM + template mon espace + spécification des produits IGP;8;Télédeclaration DRM
-2015-04-02;DeclarVins;Ticket 14494 et 14493;2,5;Garantie
-2015-04-02;DeclarVins;Ticket 14449 et 14476;2;TMA
-2015-04-02;DeclarVins;Gestion de projet;1;TMA
-2015-04-02;VINSI;Réunion Télédeclaration DRM avec Interloire;7;Télédeclaration DRM
-2015-04-03;DeclarVins;Ticket 14499;0,5;Garantie
-2015-04-03;DeclarVins;Ticket 13794 14495 14312;3;TMA
-2015-04-03;DeclarVins;Gestion de projet;0,5;TMA
