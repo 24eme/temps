@@ -49,8 +49,8 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-03-26;DeclarVins;Ticket 14462;1;TMA
 2015-03-26;DeclarVins;Gestion de projet pour mise en prod;1;TMA
 2015-03-26;DeclarVins;Tickets 13571 et 14447;4;TMA
-2015-03-27;AVA;Les courriers sont qualifiés en fonction de leur type de dégustation en PDF;6;Dégustation
-2015-03-27;AVA;Resolution d'un bug dans la visualisation crémant (pour les acheteurs et cave coop);1;TMA Parcellaire
+2015-03-27;AVA;Les courriers sont qualifiés en fonction de leur type de dégustation en PDF;4;Dégustation
+2015-03-27;AVA;Resolution d'un bug dans la visualisation crémant (pour les acheteurs et cave coop);3;TMA Parcellaire
 2015-03-27;DeclarVins;Gestion de proj avec Gwen;1;TMA
 2015-03-27;DeclarVins;Ticket 14449;2;TMA
 2015-03-27;DeclarVins;Ticket 14476 14481 14479;2;TMA
@@ -60,8 +60,8 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-03-30;AVA;Début emailing pour les notes de dégustation;2;Dégustation
 2015-03-31;DeclarVins;Ticket 14476 et 14481;2;TMA
 2015-03-31;DeclarVins;Ticket 14480;1;TMA
-2015-03-31;AVA;Mis en place emailing pour tout les opérateurs notés;3;Dégustation
-2015-03-31;VINSI;Catégorisation des produits non interpro avec une coche dans l'abre produit;5;Télédeclaration DRM
+2015-03-31;AVA;Mis en place emailing pour tout les opérateurs notés;2;Dégustation
+2015-03-31;VINSI;Catégorisation des produits non interpro avec une coche dans l'abre produit;6;Télédeclaration DRM
 2015-04-01;VINSI;Ouverture d'un droit teledeclaration DRM + template mon espace + spécification des produits IGP;8;Télédeclaration DRM
 2015-04-02;DeclarVins;Ticket 14494 et 14493;2,5;Garantie
 2015-04-02;DeclarVins;Ticket 14449 et 14476;2;TMA
