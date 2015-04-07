@@ -1,0 +1,15 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-03-03;VINSI;Alertes et Relances DRM => changement dans les PDFs;3;Evol Alertes et relances
+2015-03-03;VINSI;Communication sur le chiffrage de l'evolution contrat enlevement 90%;0,5;TMA
+2015-03-04;VINSI;Alertes et Relances DRM => mis à jour des PDFs + mis en préprod;4;Evol Alertes et relances
+2015-03-04;VINSI;Analyse de l'evolution contrat enlevement 90%;3;Evol Contrat 90%
+2015-03-05;VINSI;Mise en place d'un hack en prod pour la validation SV12;0,5;TMA
+2015-03-05;VINSI;Mise en préproduction de l'evolution contrat enlevement 90%;3;Evol Contrat 90%
+2015-03-12;VINSI;Evaluation de plusieurs évolutions : contrat ackermann, facturation SV12 à 50/50;1;TMA
+2015-03-12;VINSI;Mise en place d'une tache pour le changement de chai dans les contrat d'ackermann;4;TMA
+2015-03-13;VINSI;Evolution des courriers de relances DRA / résolution des tickets #14427 et #14426;6;TMA
+2015-03-13;VINSI;Mis en prod de l'application en Prod;1;TMA
+2015-03-16;VINSI;Enquete pour la restauration du problème lié à l'active directory d'interloire VINSI;4;TMA
+2015-03-17;VINSI;Evaluation du changement des contrats de M. MAITREAU Joel - DOUE LA FONTAINE pour la facturation SV12;1;TMA
+2015-03-17;VINSI;Remise en place des droits d'accès à l'espace VINSI avec l'activ directory;2;TMA
+2015-03-31;VINSI;Catégorisation des produits non interpro avec une coche dans l'abre produit;6;Télédeclaration DRM

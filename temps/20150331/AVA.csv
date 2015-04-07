@@ -1,0 +1,40 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-03-01;AVA;Stockage des adresses de chais, Remontée de la tournée avec Angular;6;Dégustation
+2015-03-02;AVA;Récap + pts de vigilance + mail pour les agents;7;Dégustation
+2015-03-02;AVA;Tournées organisation + coordonnées géographique;5;Dégustation
+2015-03-03;AVA;Renommage de prélévements en operateurs + Update position;5;Dégustation
+2015-03-04;AVA;Organisation de tournée;7;Dégustation
+2015-03-05;AVA;Organisation de tournée;7;Dégustation
+2015-03-06;AVA;Saisie d'une tournée en js + impression PDF;7;Dégustation
+2015-03-08;AVA;Saisie d'une tournée en js;7;Dégustation
+2015-03-09;AVA;Saisie affectatione et dégustation;7;Dégustation
+2015-03-11;AVA;Accompagnement de la première dégustation;3,5;Dégustation
+2015-03-12;AVA;Réunion facturation + point global;3,5;Facturation
+2015-03-12;AVA;Réunion point global;3,5;Dégustation
+2015-03-16;AVA;Saisie Papier,Fixe bug bad save autorisation acheteur;5;Parcellaire
+2015-03-17;AVA;Mis à jour des template pour le parcellaire crémant;3;Parcellaire Crémant
+2015-03-17;AVA;Tirage au sort des opérateurs en mode aléatoire, Suppression possible d'un opérateur;3;Dégustation
+2015-03-18;AVA;Meilleur gestion de l'enregistrement des opérateurs dans la dégustation;5;Dégustation
+2015-03-18;AVA;Mis à jour de la tache d'import du parcellaire crémant;4;Parcellaire Crémant
+2015-03-18;AVA;Mis en place du début de l'export parcellaire (pour un parcellaire avec ses acheteurs);3;Parcellaire
+2015-03-19;AVA;Affichage des notes dans la dégustation;2,5;Dégustation
+2015-03-19;AVA;Correction de la saisie en mode papier pour les cases de volume du parcellaire et mis en production;3,5;TMA
+2015-03-19;AVA;Déploiement du parcellaire crémant en préproduction et import;1;Parcellaire Crémant
+2015-03-19;AVA;Prise en compte des opérateurs reportés, Séléction aléatoire d'opérateurs ne peut dépasser le max;7;Dégustation
+2015-03-20;AVA;Jour des agents avec le jour même de la dégustation;1;Dégustation
+2015-03-23;AVA;Compte rendu de la réunion du 12 mars 2015;1;Dégustation
+2015-03-23;AVA;Compte rendu de la réunion du 12 mars 2015;1;Facturation
+2015-03-23;AVA;Création du formulaire pour la saisi des types de courrier et début des courriers;6;Dégustation
+2015-03-24;AVA;Exports d'un fichier ne contenant que les opérateurs faisant que du crémant, et un fichier avec tout les télédéclarant parcellaire;1;TMA
+2015-03-24;AVA;Traitement de la saisie des type de courriers de notation pour la dégustation;2,5;Dégustation
+2015-03-25;AVA;Renommage de "Degustation" en "Tournee";4;Dégustation
+2015-03-26;AVA;Fin des courriers de dégustation en PDF;7;Dégustation
+2015-03-26;AVA;Utilisation d'objets dégustation externe, Gestions des revisions, PDF des tournées;7;Dégustation
+2015-03-27;AVA;Les courriers sont qualifiés en fonction de leur type de dégustation en PDF;4;Dégustation
+2015-03-27;AVA;Motif de non prélevement et affectation en mode incrémental;7;Dégustation
+2015-03-27;AVA;Resolution d'un bug dans la visualisation crémant (pour les acheteurs et cave coop);3;Parcellaire Crémant
+2015-03-29;AVA;Tournées en js adapté;5;Dégustation
+2015-03-30;AVA;Début emailing pour les notes de dégustation;2;Dégustation
+2015-03-30;AVA;Ouverture du parcellaire crémant;2;Parcellaire Crémant
+2015-03-31;AVA;Mis en place emailing pour tout les opérateurs notés;2;Dégustation
+2015-03-31;AVA;Saisie dégustation et affectation adaptée à la gestion de collisions;7;Dégustation
