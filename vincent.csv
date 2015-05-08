@@ -1,1 +1,39 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2015-04-01;AVA;Adaptation de la dégustation et de l'affectation avec le nouveau modèle et la gestion des conflits;9;Dégustation
+2015-04-02;VINSI;Réunion DRM;7;Télédéclaration DRM
+2015-04-02;Aurouze;Revu du chiffrage;1;Chiffrage
+2015-04-07;AVA;Merge branches nouveau modèle et PDF de dégustation;4;Dégustation
+2015-04-08;AVA;Export du CSV Parcellaire;4;Parcellaire
+2015-04-08;AVA;Correction wording courrier dégustation;0,5;Dégustation
+2015-04-08;AVA;Chiffrage Evolution et constat VT/SGN;2;Chiffrage
+2015-04-09;AVA;Fixe bug report sur les tournées;1;Dégustation
+2015-04-09;AVA;Courrier de la dégustation;3;Dégustation
+2015-04-10;AVA;Courriers Dégustation PDF + envoi en plusieurs fois;5;Dégustation
+2015-04-10;AVA;Liste des déclarations de parcellaire crémant en admin;1;Parcellaire
+2015-04-13;Aurouze;Présentation;7;Présentation
+2015-04-14;Aurouze;Présentation;2;Présentation
+2015-04-14;AVA;Fixe bug export contacts;0,5;TMA
+2015-04-15;Aurouze;Rendez-vous;7;Rendez-vous
+2015-04-16;CIVA;Fixe url mail mot de passe oublié;0,5;TMA
+2015-04-17;AVA;Gestion des reports avec le nouveau modèle;1;Dégustation
+2015-04-17;AVA;Export CSV de la DRev;3;DRev
+2015-04-17;AVA;Import de la DR dans les DRev;2;DRev
+2015-04-20;AVA;Fixe Autorisation de transmission dans le parcellaire;1;Parcellaire
+2015-04-20;AVA;Export CSV de la DRev;2;DRev
+2015-04-20;AVA;Export CSV de la DRev;2;DRev
+2015-04-20;AVA;Import VT / SGN dégustateurs;1;Dégustation
+2015-04-21;AVA;Export CSV du parcellaire aux acheteurs corrigés;1;Parcellaire
+2015-04-22;AVA;Adaptation de la tournée au VTSGN;3;Dégustation
+2015-04-22;AVA;Mail correctif tournées;2;Dégustation
+2015-04-22;AVA;Export CSV du parcellaire aux acheteurs corrigés;3;Parcellaire
+2015-04-23;VINSI;Réunion;7;Télédéclaration DRM
+2015-04-24;CIVA;Chiffrage DRM;3;Chiffrage
+2015-04-24;24eme;Facturation mars;1;Facturation
+2015-04-26;AVA;Adaptation de la saisie des tournées au VTSGN;7;Dégustation
+2015-04-27;AVA;Saisie papier du parcellaire crémant;1;Parcellaire crémant
+2015-04-28;Actualys;Récapitulatif des machines interne chez Actualys;1;Actualys
+2015-04-28;AVA;Adaptation de l'affectation et de la dégustation aux VTSGN;3;Dégustation
+2015-04-29;AVA;Facturation (Gestion de projet);1;Facturation
+2015-04-29;AVA;Défauts dans l'interface de dégustation;1;Dégustation
+2015-04-30;AVA;Facturation (Gestion de projet);2;Facturation
+2015-04-30;Projets vins;Aide à la migration des repos sur github;1;Projets vins
