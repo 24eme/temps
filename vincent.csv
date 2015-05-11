@@ -23,6 +23,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-04-20;AVA;Export CSV de la DRev;2;DRev
 2015-04-20;AVA;Import VT / SGN dégustateurs;1;Dégustation
 2015-04-21;AVA;Export CSV du parcellaire aux acheteurs corrigés;1;Parcellaire
+2015-04-21;VINSI;Résolution de problème de conflits de Contrats entre Agarik et VINSI suite à l'inactivité du VPN;2;TMA
 2015-04-22;AVA;Adaptation de la tournée au VTSGN;3;Dégustation
 2015-04-22;AVA;Mail correctif tournées;2;Dégustation
 2015-04-22;AVA;Export CSV du parcellaire aux acheteurs corrigés;3;Parcellaire
