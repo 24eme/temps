@@ -38,3 +38,46 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-04-29;AVA;Défauts dans l'interface de dégustation;1;Dégustation
 2015-04-30;AVA;Facturation (Gestion de projet);2;Facturation
 2015-04-30;Projets vins;Aide à la migration des repos sur github;1;Projets vins
+2015-05-04;AVA;Courriers rectificatifs de retour de dégustation;3,30;Dégustation
+2015-05-04;AVA;Export DRev 2014 pour le contrôle externe;2;DRev
+2015-05-06;AVA;Externalisation du plugin de Generation;2;Facturation
+2015-05-06;AVA;Utilisation et adaptation du plugin de Génération avec la Facture (bootstrapisation);4;Facturation
+2015-05-07;AVA;Mise en préprod de la facturation et gestion de projet;3;Facturation
+2015-05-11;CIVA;Résolution du bug de police dans le PDF;2;TMA
+2015-05-11;AVA;Résolution du bug de police dans le PDF;2;TMA
+2015-05-12;CIVA;Résolution du bug de police dans le PDF;1,50;TMA
+2015-05-12;AVA;Résolution du bug de police dans le PDF;1,50;TMA
+2015-05-12;AVA;Mise en préprod et fix bug;4;Facturation
+2015-05-13;AVA;Cotisation syndicat local;2;Facturation
+2015-05-15;AVA;Facturation massive à partir des comptes;3;Facturation
+2015-05-18;AVA;Import des DRs automatiques;2;Facturation
+2015-05-18;AVA;Fixe bug;2;Facturation
+2015-05-18;AVA;Gestion des mouvements et gestion de la facturation dans le document;2;Facturation
+2015-05-18;AVA;Meilleur gestion des erreurs;1;Facturation
+2015-05-18;AVA;Edition d'une facture;1;Facturation
+2015-05-19;AVA;Edition d'une facture;3;Facturation
+2015-05-19;AVA;Fixe bug tags;2;Facturation
+2015-05-20;CIVA;Correction d'un contrat;0,5;TMA
+2015-05-20;AVA;Fixe bug facturation;1;Facturation
+2015-05-20;AVA;Edition d'une facture;2;Facturation
+2015-05-20;CIVA;Teste dans les contrats si le tiers est toujours actif;3;TMA
+2015-05-20;CIVA;Tri des annuaires par ordre alphabétique;4;TMA
+2015-05-21;AVA;Edition d'une facture;3;Facturation
+2015-05-21;AVA;Espace déclarant;4;Facturation
+2015-05-21;AVA;Fixe bug tva quantité;2;Facturation
+2015-05-22;AVA;Gestion de projet;1;Facturation
+2015-05-22;AVA;Logo carte de membre dans le PDF;1;Facturation
+2015-05-25;AVA;Libellé dans la génération;1;Facturation
+2015-05-25;AVA;Regénération des factures;5;Facturation
+2015-05-25;AVA;Facturation de l'abonnement;2;Facturation
+2015-05-26;AVA;Fixe export csv des comptes avec des guilllements;1;Facturation
+2015-05-26;AVA;Import des abonnements;2;Facturation
+2015-05-26;AVA;Fixe bug;5;Facturation
+2015-05-26;AVA;Paramétrage carte de membre;1;Facturation
+2015-05-27;AVA;Export des DRev 2014 contrôle externe et Export VT DRev 2013;0;TMA
+2015-05-27;AVA;Numéro d'archivage sur les comptes, Cotisation sur condition et adherent syndicat en attribut, Tache d'ajout d'attribut à un compte, Tache de fixe pour les comptes, Fixe update chai les attributs sautaient;6;Facturation
+2015-05-27;CIVA;Export des modifications de tiers en mode tache;0;TMA
+2015-05-27;CIVA;Ordre des taches;2;TMA
+2015-06-28;AVA;Fixe bug export csv drev des lots grands crus;0;TMA
+2015-06-28;AVA;Fixe bug et mise en production;10;Facturation
+2015-06-29;Projets vins;Réunion Correspondande mouvement DRM Douane / DRM VINSI;2;Projets vins
