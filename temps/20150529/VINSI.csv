@@ -1,0 +1,32 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-05-04;VINSI;Etape Choix produis (1) ajout de nouveaux produits avec lightbox (par certification);7;Télédeclaration DRM
+2015-05-05;VINSI;Création du schema et ajout de nouveaux CRD (3) avec lightbox;4,5;Télédeclaration DRM
+2015-05-05;VINSI;Réparation d'un problème lié à la création d'une DRM et mise en production;2,5;TMA
+2015-05-06;VINSI;Calcul des stock fin de mois lors de l'enregistrement des CRDs (3);4;Télédeclaration DRM
+2015-05-06;VINSI;Enregistrement des CRDs (3) en base et maj de la popup d'ajout avec stock début;7;Télédeclaration DRM
+2015-05-06;VINSI;Suppression de 2 DRMs génantes;1;TMA
+2015-05-07;VINSI;Gestion de l'encours CRD (3);7;Télédeclaration DRM
+2015-05-11;VINSI;Restructuration des modules de la DRM et module à part pour les CRDs;5;Télédeclaration DRM
+2015-05-12;VINSI;Mise en place des favoris dans les DRMs (2);7;Télédeclaration DRM
+2015-05-13;VINSI;Gestion et enregistrement des favoris dans l'étape de saisie (2);4;Télédeclaration DRM
+2015-05-18;VINSI;Division de la visu en 2 modules visu et validation (4+5);3;Télédeclaration DRM
+2015-05-18;VINSI;Gestion des minimum de favoris;2;Télédeclaration DRM
+2015-05-18;VINSI;Réponse sur l'étude de cas des Alertes et relances;1;TMA
+2015-05-19;VINSI;Gestion des maximum de favoris et des picto (2);1;Télédeclaration DRM
+2015-05-19;VINSI;Maj SV12 pour une facturation 100% nego sur les contrats Raisins et Mout;2;TMA
+2015-05-20;VINSI;Mis à jour de la plateforme et rectification d'un problème de saisie de vos contrats;1;TMA
+2015-05-20;VINSI;Mis à jour des repo Git Agarik/Interloire;5;Télédeclaration DRM
+2015-05-21;VINSI;Maj de la visualisation pour les télédeclarant;4;Télédeclaration DRM
+2015-05-21;VINSI;Rectification d'erreur de saisie pour les SV12 vis à vis de la facturation;3;TMA
+2015-05-22;VINSI;Validation de la DRM des télédeclarant (4);5;Télédeclaration DRM
+2015-05-25;VINSI;Validation de la DRM: Départ mail des informations Societe/ETB (4);6;Télédeclaration DRM
+2015-05-26;VINSI;Adaptation de l'appli pour VINSI;4;Télédeclaration DRM
+2015-05-26;VINSI;Etape (1) en module;1;Télédeclaration DRM
+2015-05-26;VINSI;Validation de la DRM: Création du diff pour les mails de changements Societe/ETB (4);2;Télédeclaration DRM
+2015-05-27;VINSI;Changement structure étape CRD (3);3;Télédeclaration DRM
+2015-05-27;VINSI;Création point de vigilance sur les sorties bouteilles / et CRD (4);2;Télédeclaration DRM
+2015-05-27;VINSI;Mis en forme de la visualisation (4) et calcul local des droits CVO;3;Télédeclaration DRM
+2015-05-28;VINSI;Changement Siret Interloire;0,5;TMA
+2015-05-28;VINSI;Réunion Débrieff Douane Interloire;3;Télédeclaration DRM
+2015-05-28;VINSI;Réunion Interloire;7;Télédeclaration DRM
+2015-05-29;VINSI;Réunion Correspondande mouvement DRM Douane / DRM VINSI;2;Télédeclaration DRM
