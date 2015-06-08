@@ -1,0 +1,20 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-04-01;VINSI;Ouverture d'un droit teledeclaration DRM + template mon espace + spécification des produits IGP;8;Télédeclaration DRM
+2015-04-02;VINSI;Réunion DRM;7;Télédeclaration DRM
+2015-04-02;VINSI;Réunion Télédeclaration DRM avec Interloire;7;Télédeclaration DRM
+2015-04-09;VINSI;Création d'une mouture de PDF DRM pour la télédéclaration/Douane;7;Télédeclaration DRM
+2015-04-10;VINSI;Export des factures avec infos opérateurs d'une année comptable;3;TMA
+2015-04-13;VINSI;Retour sur l'export des factures avec infos opérateurs d'une année comptable avec le mois de janvier 2015;2;TMA
+2015-04-13;VINSI;Seconde Version de PDF en colonnes fixes pour les DRM;5;Télédeclaration DRM
+2015-04-14;VINSI;Initialisation de l'étape de choix de produits (1) pour les DRM;7;Télédeclaration DRM
+2015-04-16;VINSI;Etape de choix de produits (1) mis en place des enregistrement de l'étape;3;Télédeclaration DRM
+2015-04-20;VINSI;Gestion du rail d'étape pour les DRM;1;Télédeclaration DRM
+2015-04-20;VINSI;Mis à jour de l'étape de saisie (2) pour les DRM et de la reprise des produits choisi en (1);6;Télédeclaration DRM
+2015-04-21;VINSI;Identification d'un problème et traitement du conflit entre Serveur de Télédeclaration et serveur Vinsi;4;TMA
+2015-04-21;VINSI;Mis à jour d'un patch pour que les contrat VINSI et Télédéclaré n'ait pas le même Id;3;TMA
+2015-04-21;VINSI;Résolution de problème de conflits de Contrats entre Agarik et VINSI suite à l'inactivité du VPN;2;TMA
+2015-04-22;VINSI;Gestion du js sur la saisie (2) + colonne de droite et initialisation de l'étape CRD;9;Télédeclaration DRM
+2015-04-23;VINSI;Réunion;7;Télédeclaration DRM
+2015-04-23;VINSI;Réunion du sprint 3;7;Télédeclaration DRM
+2015-04-27;VINSI;Mis à jour de l'étape (1) pour inverser le comportement des coches (coché = produit séléctionné);3;Télédeclaration DRM
+2015-04-29;VINSI;Etape CRD (3) création des formulaires pour la saisie des CRD;4;Télédeclaration DRM
