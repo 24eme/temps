@@ -19,7 +19,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-04-27;DeclarVins;Etude documents douanes et retours Brice;2;TMA
 2015-04-30;DeclarVins;Conf call DeclarVins;2;TMA
 2015-05-04;AVA;Facturation premier jet de la gestion des cotisations;53;Facturation
-2015-05-05;GIILDE;Reunion de lancement;7;TMA
+2015-05-05;GIILDA;Reunion de lancement;7;Forfait
 2015-05-06;AVA;Facturation génération facture, corrections tex, numérotation;
 2015-05-07;AVA;Facturation corrections tex, corrections configuration;
 2015-05-11;24eme;Vacances;7
@@ -39,9 +39,20 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-05-27;DeclarVins;Gestion etablissement test pour teledeclaration drm;1;TMA
 2015-05-28;DeclarVins;Tickets 14694 14693;7;TMA
 2015-05-29;DeclarVins;Tickets 14735 14824;12;TMA
+2015-06-01;DeclarVins;Correction bug teledeclaration;1;TMA
+2015-06-01;DeclarVins;Etudes CDC Douanes + Mockup;5;TMA
+2015-06-02;DeclarVins;Tickets 14693 14694 14824;6;TMA
 2015-06-03;DeclarVins;Réunion Avignon;7;TMA
+2015-06-04;24eme;Dejeuner Jérémie + remise des tablettes + RDV newtech;
+2015-06-05;DeclarVins;Correction bug teledeclaration;2;TMA
 2015-06-08:DeclarVins;Ticket 15083;2;TMA
-2015-06-08;GIILDE;Contrats;2.5;Forfait
+2015-06-08;GIILDA;Contrats;2.5;Forfait
 2015-06-08;DeclarVins;Bug DRM administratif;1.5;TMA
-2015-06-09;GIILDE;Contrats;6;Forfait
-2015-06-10;GIILDE;Réunion fin sprint 1;7;Forfait
+2015-06-09;GIILDA;Contrats;6;Forfait
+2015-06-10;GIILDA;Réunion fin sprint 1;7;Forfait
+2015-06-11;DeclarVins;Tickets 14288 14259 14693 14694;7;TMA
+2015-06-12;DeclarVins;Ticket 14697;4;TMA
+2015-06-15;DeclarVins;Ticket 14485;5;TMA
+2015-06-15;DeclarVins;Ticket 14977;3;TMA
+2015-06-16;DeclarVins;Ticket 15136 + Ajout etablissement teledeclaration;3;TMA
+2015-06-16;GIILDA;Point sprint 2;2;Forfait
