@@ -81,3 +81,50 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-05-28;AVA;Fixe bug export csv drev des lots grands crus;0;TMA
 2015-05-28;AVA;Fixe bug et mise en production;10;Facturation
 2015-05-29;Projets vins;Réunion Correspondande mouvement DRM Douane / DRM VINSI;2;Projets vins
+2015-06-01;AVA;Gestion multiple des séléctions de lots, Fixe bug Opérateurs reportés;9;Dégustation
+2015-06-01;GIILDA;Initialisation;1;Contrats
+2015-06-02;AVA;Fixe bug;3;Dégustation
+2015-06-03;CIVA;Tâche d'export des récoltants sans DR;3;TMA
+2015-06-03;AVA;Gestion de projet;1;Dégustation
+2015-06-03;GIILDA;Bootstrapisation et adaptation Loire;3;Contrats
+2015-06-04;AVA;Fix bug et gestion de projets;2;Facturation
+2015-06-04;GIILDA;Bootstrapisation et adaptation Loire;3;Facturation
+2015-06-05;CKC;Mise en plade Emailling de bienvenue;9;TMA
+2015-06-08;AVA;Fix bug latex facturation;1;Facturation
+2015-06-08;24eme;Temps;1,5;Temps
+2015-06-08;GIILDA;Bootstrapisation et adaptation Loire;4,5;Contrats
+2015-06-09;GIILDA;Bootstrapisation et adaptation Loire;8;Contrats
+2015-06-10;GIILDA;Réunion;7;Contrats
+2015-06-11;AVA;Fixe bug tournée Alsace;8;Dégustation
+2015-06-12;AVA;Fixe bug tournée Alsace;7;Dégustation
+2015-06-15;AVA;Fixe bug tournée Alsace;1;Dégustation
+2015-06-15;AVA;Saisie des réglement;4;Facturation
+2015-06-15;CIVA;Mise à jour des Tiers;0,5;TMA
+2015-06-16;CIVA;Migration de serveur;2;TMA
+2015-06-16;AVA;Fixe bug dégustation;2;Dégustation
+2015-06-16;24eme;Facturation;1;Gestion
+2015-06-17;AVA;Gestion de projet;1;Dégustation
+2015-06-17;CIVA;Modification de contrats;0,5;TMA
+2015-06-17;CIVA;Droits des contrats;3,5;TMA
+2015-06-18;CKC;Lancement de l'emailling de bienvenue;1,5;TMA
+2015-06-18;AVA;Export des DRevs et gestion de projet;1,5;DRev
+2015-06-19;AVA;Export des parcellaires en cours de façon général;1,5;Parcellaires
+2015-06-19;CIVA;Migration de Serveur;2;TMA
+2015-06-22;AVA;Visualisation des DRev automatiques;1,5;DRev
+2015-06-22;AVA;Gestion de projet;1;Dégustation
+2015-06-23;AVA;Formulaire de saisie des formations;4;Dégustation
+2015-06-24;AVA;Formulaire de saisie des formations;1;Dégustation
+2015-06-24;AVA;Fixe bug facturation et gestion de projet;2;Facturation
+2015-06-24;AVA;Module de generation d'export;4;DRev & Parcellaire
+2015-06-25;AVA;Module de generation d'export;3;DRev & Parcellaire
+2015-06-25;AVA;Produits pour la dégustation;2;DRev & Parcellaire
+2015-06-25;24eme;Préparation pièce comptable;2;Gestion
+2015-06-26;24eme;Rdv comptable;2;Gestion
+2015-06-26;Aymeric;Portfolio;3;Aymeric
+2015-06-26;AVA;Formation affichage;2;Dégustation
+2015-06-29;AVA;Migration DRev;1;TMA
+2015-06-29;AVA;Import produits dégustateurs, Export csv des produits et des formations, Mise en préprod;3;Dégustation
+2015-06-29;AVA;Fixe bug facturation;3;Facturation
+2015-06-30;AVA;Export SAGE;4;Facturation
+2015-06-30;AVA;Gestion de projet;1;Dégustation
+2015-06-30;Aymeric;Portfolio;2;Aymeric
