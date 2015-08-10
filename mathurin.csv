@@ -1,59 +1,53 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2015-04-01;InterLoire Teledeclaration;Ouverture d'un droit teledeclaration DRM + template mon espace + spécification des produits IGP;8;Télédeclaration DRM
-2015-04-02;InterLoire Teledeclaration;Réunion Télédeclaration DRM avec Interloire;7;Télédeclaration DRM
-2015-04-06;AVA;Gestion des courrier de dégustation par type de courrier;3,5;Dégustation
-2015-04-07;AVA;Attribution des date de visite dans les courriers de dégustation et adaptation après maj schema;3,5;Dégustation
-2015-04-08;AVA;Gestion du dépard des mails avec mails partis dans l'interface de dégustation;6;Dégustation
-2015-04-09;InterLoire Teledeclaration;Création d'une mouture de PDF DRM pour la télédéclaration/Douane;7;Télédeclaration DRM
-2015-04-10;VINSI;Export des factures avec infos opérateurs d'une année comptable;3;TMA
-2015-04-13;VINSI;Retour sur l'export des factures avec infos opérateurs d'une année comptable avec le mois de janvier 2015;2;TMA
-2015-04-13;InterLoire Teledeclaration;Seconde Version de PDF en colonnes fixes pour les DRM;5;Télédeclaration DRM
-2015-04-14;InterLoire Teledeclaration;Initialisation de l'étape de choix de produits (1) pour les DRM;7;Télédeclaration DRM
-2015-04-16;InterLoire Teledeclaration;Etape de choix de produits (1) mis en place des enregistrement de l'étape;3;Télédeclaration DRM
-2015-04-20;InterLoire Teledeclaration;Mis à jour de l'étape de saisie (2) pour les DRM et de la reprise des produits choisi en (1);6;Télédeclaration DRM
-2015-04-20;InterLoire Teledeclaration;Gestion du rail d'étape pour les DRM;1;Télédeclaration DRM
-2015-04-21;VINSI;Mis à jour d'un patch pour que les contrat VINSI et Télédéclaré n'ait pas le même Id;3;TMA
-2015-04-21;VINSI;Identification d'un problème et traitement du conflit entre Serveur de Télédéclaration et serveur Vinsi;4;TMA
-2015-04-22;InterLoire Teledeclaration;Gestion du js sur la saisie (2) + colonne de droite et initialisation de l'étape CRD;9;Télédeclaration DRM
-2015-04-23;InterLoire Teledeclaration;Réunion du sprint 3;7;Télédeclaration DRM
-2015-04-27;InterLoire Teledeclaration;Mis à jour de l'étape (1) pour inverser le comportement des coches (coché = produit séléctionné);3;Télédeclaration DRM
-2015-04-29;InterLoire Teledeclaration;Etape CRD (3) création des formulaires pour la saisie des CRD;4;Télédeclaration DRM
-2015-04-29;Non facturable;Factures pour Gwen;1;Actualys Gestion
-2015-04-30;Non facturable;Factures pour Gwen;2,5;Actualys Gestion
-2015-04-30;Non facturable;Gestion Gesdon;1;Gesdon
-2015-04-30;AVA;Help pour la facturation;1;Facturation
-2015-05-04;InterLoire Teledeclaration;Etape Choix produis (1) ajout de nouveaux produits avec lightbox (par certification);7;Télédeclaration DRM
-2015-05-05;Non facturable;Banque - Apport du KBIS;2,5;Banque
-2015-05-05;InterLoire Teledeclaration;Création du schema et ajout de nouveaux CRD (3) avec lightbox;4,5;Télédeclaration DRM
-2015-05-05;VINSI;Réparation d'un problème lié à la création d'une DRM et mise en production;2,5;TMA
-2015-05-06;InterLoire Teledeclaration;Enregistrement des CRDs (3) en base et maj de la popup d'ajout avec stock début;7;Télédeclaration DRM
-2015-05-06;InterLoire Teledeclaration;Calcul des stock fin de mois lors de l'enregistrement des CRDs (3);4;Télédeclaration DRM
-2015-05-06;VINSI;Suppression de 2 DRMs génantes;1;TMA
-2015-05-07;InterLoire Teledeclaration;Gestion de l'encours CRD (3);7;Télédeclaration DRM
-2015-05-11;InterLoire Teledeclaration;Restructuration des modules de la DRM et module à part pour les CRDs;5;Télédeclaration DRM
-2015-05-12;InterLoire Teledeclaration;Mise en place des favoris dans les DRMs (2);7;Télédeclaration DRM
-2015-05-13;InterLoire Teledeclaration;Gestion et enregistrement des favoris dans l'étape de saisie (2);4;Télédeclaration DRM
-2015-05-18;VINSI;Réponse sur l'étude de cas des Alertes et relances;1;TMA
-2015-05-18;InterLoire Teledeclaration;Gestion des minimum de favoris;2;Télédeclaration DRM
-2015-05-18;InterLoire Teledeclaration;Division de la visu en 2 modules visu et validation (4+5);3;Télédeclaration DRM
-2015-05-19;VINSI;Maj SV12 pour une facturation 100% nego sur les contrats Raisins et Mout;2;TMA
-2015-05-19;Non facturable;Tangui de Montmarin;1,5;Commercial TDM
-2015-05-19;Non facturable;Thibout Expert Comptable;1,5;Thibout Expert Comptable
-2015-05-19;InterLoire Teledeclaration;Gestion des maximum de favoris et des picto (2);1;Télédeclaration DRM
-2015-05-20;VINSI;Mis à jour de la plateforme et rectification d'un problème de saisie de vos contrats;1;TMA
-2015-05-20;InterLoire Teledeclaration;Mis à jour des repo Git Agarik/Interloire;5;Télédeclaration DRM
-2015-05-21;VINSI;Rectification d'erreur de saisie pour les SV12 vis à vis de la facturation;3;TMA
-2015-05-21;InterLoire Teledeclaration;Maj de la visualisation pour les télédeclarant;4;Télédeclaration DRM
-2015-05-22;InterLoire Teledeclaration;Validation de la DRM des télédeclarant (4);5;Télédeclaration DRM
-2015-05-25;InterLoire Teledeclaration;Validation de la DRM: Départ mail des informations Societe/ETB (4);6;Télédeclaration DRM
-2015-05-26;InterLoire Teledeclaration;Validation de la DRM: Création du diff pour les mails de changements Societe/ETB (4);2;Télédeclaration DRM
-2015-05-26;InterLoire Teledeclaration;Etape (1) en module;1;Télédeclaration DRM
-2015-05-26;InterLoire Teledeclaration;Adaptation de l'appli pour VINSI;4;Télédeclaration DRM
-2015-05-27;InterLoire Teledeclaration;Changement structure étape CRD (3);3;Télédeclaration DRM
-2015-05-27;InterLoire Teledeclaration;Création point de vigilance sur les sorties bouteilles / et CRD (4);2;Télédeclaration DRM
-2015-05-27;InterLoire Teledeclaration;Mis en forme de la visualisation (4) et calcul local des droits CVO;3;Télédeclaration DRM
-2015-05-28;InterLoire Teledeclaration;Réunion Interloire;7;Télédeclaration DRM
-2015-05-28;VINSI;Changement Siret Interloire;0,5;TMA
-2015-05-28;InterLoire Teledeclaration;Réunion Débrieff Douane Interloire;3;Télédeclaration DRM
-
-
+2015-06-01;Commercial;Appel pour cécile Aurouze;2;Commercial
+2015-06-02;Vinsdeloire;Mis en forme rail d'étape, création popup de choix de CRD;7;Teledeclaration DRM
+2015-06-03;Vinsdeloire;Restructuration CRD, calendrier en inté pour le multi etb;7;Teledeclaration DRM
+2015-06-04;Vinsdeloire;Maj des CRDS avec ajout ;3;Teledeclaration DRM
+2015-06-08;Vinsdeloire;maj de l'enregistrement CRD par genre et visualisation ;7;Teledeclaration DRM
+2015-06-09;Vinsdeloire;reprise des CRDs et changements des entrées sorties ;7;Teledeclaration DRM
+2015-06-10;Vinsdeloire;ajout dans les popups de vrac et export des champs numdoc ;7;Teledeclaration DRM
+2015-06-11;Vinsdeloire;ajout de l'étape administration avec DAA,DSA;7;Teledeclaration DRM
+2015-06-15;Vinsdeloire; formulaire administration avec les empreintes;7;Teledeclaration DRM
+2015-06-16;Vinsdeloire;ajout de l'étape administration avec DAA,DSA;7;Teledeclaration DRM
+2015-06-17;Vinsdeloire;Réunion;7;Teledeclaration DRM
+2015-06-18;Vinsdeloire;calendrier, trie produits, suppression;7;Teledeclaration DRM
+2015-06-19;Vinsdeloire;calendrier items ;7;Teledeclaration DRM
+2015-06-22;Vinsdeloire;calendrier items ;7;TMA VINSI
+2015-06-23;Vinsdeloire;maj teledecl DRM parti ESPACE DRM avec pictos;7;Teledeclaration DRM
+2015-06-24;Vinsdeloire;Analyse de maintenance;1;TMA
+2015-06-24;Vinsdeloire;Choix entrées sorties avec Gwen et Fanny;3;Teledeclaration DRM
+2015-06-25;Vinsdeloire; maj plugin drm_pdf le pdf latex des DRM;7;Teledeclaration DRM
+2015-06-29;Vinsdeloire;ajout du non apurement et des doc annexes ;7;Teledeclaration DRM
+2015-06-30;Vinsdeloire;#15333 Problème de Facturation en 100% négociant;1,5;TMA VINSI
+2015-06-30;Vinsdeloire; #15416 Enregistrement avec Interpro pour les nouveaux ETBs;1,5;TMA VINSI
+2015-06-30;Vinsdeloire;#15417 mis à jour des nouveaux établissements avec Interpro;2,5;TMA VINSI
+2015-06-30;Vinsdeloire; #15418 Export one shot des établissements actifs viticulteurs Exclu;1,5;TMA VINSI
+2015-06-30;Vinsdeloire; template rendu avec l'intelligence mais sans l'inté;1;Teledeclaration DRM
+2015-07-01;Vinsdeloire;les mvt en configuration deviennent les mvts de la télédec;7;Teledeclaration DRM
+2015-07-02;Vinsdeloire;parametrage en conf des entrées sorties avec noeud pour;7;Teledeclaration DRM
+2015-07-06;Vinsdeloire;mis en place d'une tache d'update de la conf;7;Teledeclaration DRM
+2015-07-07;Vinsdeloire;changement schema DRM avec champs ancien + nouveau pour le;7;Teledeclaration DRM
+2015-07-08;Vinsdeloire;mis à jour des documents DAA DSA et PDF;7;Teledeclaration DRM
+2015-07-09;Vinsdeloire;ajout des cautions et adresse compta des etablissements;7;Teledeclaration DRM
+2015-07-12;Vinsdeloire;maj de létape annexe et de sa visualisation;1;Teledeclaration DRM
+2015-07-13;Vinsdeloire;on specifie le type de document dans les popup d'export;2;Teledeclaration DRM
+2015-07-15;Vinsdeloire;changement des libellés long de mvt avec picto degueu   ;4;Teledeclaration DRM
+2015-07-16;Vinsdeloire;Fine tuning;7;Teledeclaration DRM
+2015-07-17;Vinsdeloire;Fine tuning;7;Teledeclaration DRM
+2015-07-20;Vinsdeloire;maj PDF pour prendre en compte nouveau format libellé;8;Teledeclaration DRM
+2015-07-21;Vinsdeloire;Réunion;7;Teledeclaration DRM
+2015-07-22;Vinsdeloire;maj de l'affichage des CRDS avec la fct hasManyCrds;3;Teledeclaration DRM
+2015-07-27;Vinsdeloire;mis à jour du pdf + ticket;7;Teledeclaration DRM
+2015-07-28;Vinsdeloire; popup pour le choix EDI;7;Teledeclaration DRM
+2015-07-29;Vinsdeloire;mis en place de la popup de Création pour la télédeclarati;7;Teledeclaration DRM
+2015-07-30;Vinsdeloire;maj export EDI;4;Teledeclaration DRM
+2015-07-30;Vinsdeloire;Verso contrat nouveau;1,5;TMA VINSI
+2015-07-31;Vinsdeloire;enregistrement des emails de transmission;7;Teledeclaration DRM
+2015-08-03;Vinsdeloire;les produits autres sont enlevé;5;Teledeclaration DRM
+2015-08-04;Vinsdeloire;ajout des pt de vigilance et sorties contrat hors IL;7;Teledeclaration DRM
+2015-08-05;Vinsdeloire;maj de la strategie de suppression;6;Teledeclaration DRM
+2015-08-06;Vinsdeloire;maj de la config annualisé pour les mouvement;9;Teledeclaration DRM
+2015-08-07;Vinsdeloire;annualisation conf mise en prod;10;Teledeclaration DRM
+2015-08-10;Gestion;Mathurin fait ses temps;2;Temps
+2015-08-10;Vinsdeloire;Changement des alertes à 3 mois;1;TMA VINSI
+2015-08-10;Vinsdeloire;popup contrat vinsi sans les champs;3;Teledeclaration DRM
