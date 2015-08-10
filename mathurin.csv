@@ -1,5 +1,5 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2015-06-01;Commercial;Appel pour cécile Aurouze;2;Commercial
+2015-06-01;24eme;Appel pour cécile Aurouze;2;Commercial
 2015-06-02;Vinsdeloire;Mis en forme rail d'étape, création popup de choix de CRD;7;Teledeclaration DRM
 2015-06-03;Vinsdeloire;Restructuration CRD, calendrier en inté pour le multi etb;7;Teledeclaration DRM
 2015-06-04;Vinsdeloire;Maj des CRDS avec ajout ;3;Teledeclaration DRM
@@ -14,7 +14,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-06-19;Vinsdeloire;calendrier items ;7;Teledeclaration DRM
 2015-06-22;Vinsdeloire;calendrier items ;7;TMA VINSI
 2015-06-23;Vinsdeloire;maj teledecl DRM parti ESPACE DRM avec pictos;7;Teledeclaration DRM
-2015-06-24;Vinsdeloire;Analyse de maintenance;1;TMA
+2015-06-24;Vinsdeloire;Analyse de maintenance;1;TMA VINSI
 2015-06-24;Vinsdeloire;Choix entrées sorties avec Gwen et Fanny;3;Teledeclaration DRM
 2015-06-25;Vinsdeloire; maj plugin drm_pdf le pdf latex des DRM;7;Teledeclaration DRM
 2015-06-29;Vinsdeloire;ajout du non apurement et des doc annexes ;7;Teledeclaration DRM
@@ -48,6 +48,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-08-05;Vinsdeloire;maj de la strategie de suppression;6;Teledeclaration DRM
 2015-08-06;Vinsdeloire;maj de la config annualisé pour les mouvement;9;Teledeclaration DRM
 2015-08-07;Vinsdeloire;annualisation conf mise en prod;10;Teledeclaration DRM
-2015-08-10;Gestion;Mathurin fait ses temps;2;Temps
+2015-08-10;24eme;Mathurin fait ses temps;2;Temps
 2015-08-10;Vinsdeloire;Changement des alertes à 3 mois;1;TMA VINSI
 2015-08-10;Vinsdeloire;popup contrat vinsi sans les champs;3;Teledeclaration DRM
+

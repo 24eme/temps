@@ -1,7 +1,7 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-04-01;AVA;Adaptation de la dégustation et de l'affectation avec le nouveau modèle et la gestion des conflits;9;Dégustation
 2015-04-02;VINSI;Réunion DRM;7;Télédéclaration DRM
-2015-04-02;Aurouze;Revu du chiffrage;1;Chiffrage
+2015-04-02;24eme;Revu du chiffrage;1;Chiffrage Aurouze
 2015-04-07;AVA;Merge branches nouveau modèle et PDF de dégustation;4;Dégustation
 2015-04-08;AVA;Export du CSV Parcellaire;4;Parcellaire
 2015-04-08;AVA;Correction wording courrier dégustation;0,5;Dégustation
@@ -10,10 +10,10 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-04-09;AVA;Courrier de la dégustation;3;Dégustation
 2015-04-10;AVA;Courriers Dégustation PDF + envoi en plusieurs fois;5;Dégustation
 2015-04-10;AVA;Liste des déclarations de parcellaire crémant en admin;1;Parcellaire
-2015-04-13;Aurouze;Présentation;7;Présentation
-2015-04-14;Aurouze;Présentation;2;Présentation
+2015-04-13;24eme;Présentation;7;Présentation Aurouze
+2015-04-14;24eme;Présentation;2;Présentation Aurouze
 2015-04-14;AVA;Fixe bug export contacts;0,5;TMA
-2015-04-15;Aurouze;Rendez-vous;7;Rendez-vous
+2015-04-15;24eme;Rendez-vous;7;Rendez-vous Aurouze
 2015-04-16;CIVA;Fixe url mail mot de passe oublié;0,5;TMA
 2015-04-17;AVA;Gestion des reports avec le nouveau modèle;1;Dégustation
 2015-04-17;AVA;Export CSV de la DRev;3;DRev
