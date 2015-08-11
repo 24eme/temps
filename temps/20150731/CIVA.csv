@@ -1,0 +1,18 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-06-03;CIVA;Tâche d'export des récoltants sans DR;3;TMA
+2015-06-15;CIVA;Mise à jour des Tiers;0,5;TMA
+2015-06-16;CIVA;Migration de serveur;2;TMA
+2015-06-17;CIVA;Droits des contrats;3,5;TMA
+2015-06-17;CIVA;Modification de contrats;0,5;TMA
+2015-06-19;CIVA;Migration de Serveur;2;TMA
+2015-07-02;CIVA;Migration;1;TMA
+2015-07-03;CIVA;Fixe oubli crontab migration;1;TMA
+2015-07-10;CIVA;Import des tiers;0,5;TMA
+2015-07-21;CIVA;Corrections de contrats;0,5;TMA
+2015-07-21;CIVA;Ouverture DS (Récap Mails et import lieux de stockage);5,5;TMA
+2015-07-21;CIVA;Vins sans IG dans les contrats;1;TMA
+2015-07-22;CIVA;Ouverture DS (Import lieux stockage ,Tache d'envoi des mails);5;TMA
+2015-07-23;CIVA;Ouverture DS, Envoi des mails et planification de l'ouverture;3;TMA
+2015-07-24;CIVA;Mise à jour des notices d'aide de la DS;0,5;TMA
+2015-07-29;CIVA;Modification d'un contrat;0,5;TMA
+2015-07-31;CIVA;Fixe bug file_get_content et hébergeur portail inaccessible;1;TMA
