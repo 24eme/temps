@@ -88,7 +88,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-06-03;AVA;Gestion de projet;1;Dégustation
 2015-06-03;GIILDA;Bootstrapisation et adaptation Loire;3;Contrats
 2015-06-04;AVA;Fix bug et gestion de projets;2;Facturation
-2015-06-04;GIILDA;Bootstrapisation et adaptation Loire;3;Facturation
+2015-06-04;GIILDA;Bootstrapisation et adaptation Loire;3;Contrats
 2015-06-05;CKC;Mise en plade Emailling de bienvenue;9;TMA
 2015-06-08;AVA;Fix bug latex facturation;1;Facturation
 2015-06-08;24eme;Temps;1,5;Temps
@@ -164,3 +164,65 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-07-31;AVA;Mockups constats VTSGN;1,5;Constats VTSGN
 2015-07-31;CIVA;Fixe bug file_get_content et hébergeur portail inaccessible;1;TMA
 2015-07-31;VINSI;Discussion catalogue produit;3,5;Télédéclaration DRM
+2015-08-03;AVA;Mockups constats VTSGN;2;Constats VTSGN
+2015-08-03;GIILDA;Étude solution BNIA Cahors;1,5;Contrats
+2015-08-03;VINSI;Conf annualisée;3,5;Télédéclaration DRM
+2015-08-04;AVA;Réunion Constats VTSGN;7;Constats VTSGN
+2015-08-05;CIVA;Réunion DRM;7;DRM
+2015-08-06;VINSI;Catalogue produits;7;Télédéclaration DRM
+2015-08-07;VINSI;Tickets et mise en prod;9;Télédéclaration DRM
+2015-08-10;AVA;Doublons export parcellaire;2;Parcellaire
+2015-08-10;AVA;Mise à jour des mockups Constats VTSGN;1;Constats VTSGN
+2015-08-10;VINSI;Fixe Bug;1,5;Télédéclaration DRM
+2015-08-11;24ème;Temps;1;24ème
+2015-08-11;AVA;Mise à jour des mockups et compte rendu réunion;4;Constats VTSGN
+2015-08-12;CIVA;Mise à jour tiers et mail DS Propriété;1;TMA
+2015-08-12;GIILDA;Contrats widget bootstrap;3,5;Contrats
+2015-08-13;24ème;Envoi Facturation;1;24ème
+2015-08-13;AVA;Création de comptes distillateurs + Etablissement avec num SIRET;2;TMA
+2015-08-13;CIVA;Ouverture et mise à jour DR 2015 en préprod;2;TMA
+2015-08-13;GIILDA;Autocomplete permissif;2;Contrats
+2015-08-24;AVA;Fixe bug pdf Drev et fixe erreur facturation;1;TMA
+2015-08-24;CIVA;Conditionnement bloc contrat et création tiers;2;TMA
+2015-08-25;AVA;Génération d'avoir;3;Facturation
+2015-08-26;AVA;Génération d'avoir;4;Facturation
+2015-08-28;AVA;Génération d'avoirs;4;Facturation
+2015-08-31;AVA;Point Constats VTSGN;1;Constats VTSGN
+2015-08-31;AVA;Saisie du montant du paiement;1;Facturation
+2015-08-31;GIILDA;Adaption DRM loire;5;DRM
+2015-09-01;AVA;Fixe bug export SAGE;1,5;Facturation
+2015-09-01;GIILDA;Adaption DRM loire;4;DRM
+2015-09-02;GIILDA;Bootstrapisation DRM;3,5;DRM
+2015-09-03;AVA;Facturation Import DR et migration opérateurs;1;TMA
+2015-09-03;GIILDA;Bootstrapisation DRM;3,5;DRM
+2015-09-04;CIVA;Mails de rappel DS;3,5;TMA
+2015-09-07;GIILDA;Bootstrapisation DRM;3,5;DRM
+2015-09-08;AVA;Planifications;6;Constats VTSGN
+2015-09-08;CIVA;Export Télédéclants DR;1;TMA
+2015-09-09;AVA;Planifications;7;Constats VTSGN
+2015-09-10;AVA;Fine tuning;7;Constats VTSGN
+2015-09-11;AVA;Fine tuning;7;Constats VTSGN
+2015-09-14;AVA;Fixe bugs;7;Constats VTSGN
+2015-09-15;AVA;Fixe bugs;5;Constats VTSGN
+2015-09-15;GIILDA;Bootstrapisation DRM;2;DRM
+2015-09-16;GIILDA;Bootstrapisation DRM;7;DRM
+2015-09-17;GIILDA;Réunion Contrat et DRM;7;DRM
+2015-09-18;AVA;Gestion des mise à jours sur l'interface Mobile;3,5;Constats VTSGN
+2015-09-18;CIVA;Date de modifications PDF DR;1;TMA
+2015-09-21;AVA;Fixe bugs;5;Constats VTSGN
+2015-09-21;CIVA;DS problème déclarant et migration vers civa2;1;TMA
+2015-09-22;AVA;Fixe bugs;4;Constats VTSGN
+2015-09-22;CIVA;Exports des déclarant DS;1,5;TMA
+2015-09-22;Vins;Conf call douane authentfication;1,5;Vins
+2015-09-23;AVA;Fixe bugs;3,5;Constats VTSGN
+2015-09-23;CKC;Administration page partenaire;3,5;TMA
+2015-09-24;AVA;Fixe bugs;1;Constats VTSGN
+2015-09-24;CKC;Administration page partenaire;3,5;TMA
+2015-09-24;VINSI;Bug email télédéclarants;2,5;TMA
+2015-09-25;AVA;Fixe bugs;4;Constats VTSGN
+2015-09-25;VINSI;Bug email télédéclarants;1;TMA
+2015-09-28;AVA;Fixe bugs;3,5;Constats VTSGN
+2015-09-28;CIVA;Générations DS XML;1;TMA
+2015-09-29;AVA;Fixe bugs;1;Constats VTSGN
+2015-09-29;CIVA;Mise à dispositions stats DS;2;TMA
+2015-09-30;AVA;Fixe bugs;6;Constats VTSGN
