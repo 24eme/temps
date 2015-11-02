@@ -226,3 +226,39 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-09-29;AVA;Fixe bugs;1;Constats VTSGN
 2015-09-29;CIVA;Mise à dispositions stats DS;2;TMA
 2015-09-30;AVA;Fixe bugs;6;Constats VTSGN
+2015-10-01;24ème;Note de frais;2;Compta
+2015-10-01;24ème;Récap temps du mois;1,5;Compta
+2015-10-01;AVA;Discussions evolutions + Fixe constats problème;2,5;Constats
+2015-10-02;24ème;Récap temps et facturation;1,5; Compta
+2015-10-02;AVA;Fixe bug + migration constats;2,5;Constats
+2015-10-12;CKC;Citizen Kid;3,5;TMA
+2015-10-13;GIILDA;Facturation + corrections;7;DRM
+2015-10-14;GIILDA;Facturation + corrections;7;DRM
+2015-10-15;CKC;Citizen Kid;7;TMA
+2015-10-16;CIVA;Mis en place récolte 2015;3,5;TMA
+2015-10-19;CIVA;Fin de la mise en place de la récolte et ouverture;2;TMA
+2015-10-19;GIILDA;Dév;7;DRM
+2015-10-20;CIVA;Gestion mail acheteur sur compte un supplémentaire + gestion Albrecht;1,5;TMA
+2015-10-20;GIILDA;Dév;3,5;DRM
+2015-10-20;VINSI;Gestion problème de connexion;1;TMA
+2015-10-21;AVA;Passage de la DRev 2015 en préprod;1,5;TMA
+2015-10-21;GIILDA;Point et discussion Facturation et DRM;2,5;DRM
+2015-10-22;AVA;Export CSV des constats;3,5;Constats
+2015-10-22;AVA;Export CSV des factures avec syndicat viticole;2;Facturation
+2015-10-23;AVA;Export CSV des constats;2;Constats
+2015-10-23;AVA;Facturation DRev Marc;1,5;Facturation
+2015-10-23;CIVA;DR ajout nouveaux points de vigilance;2;TMA
+2015-10-23;GIILDA;Plugin jquery format input number;2,5;Général
+2015-10-26;AVA;Facturation DRev Marc fixe problème;1,5;Facturation
+2015-10-26;AVA;Ouverture de la DRev 2015;1,5;TMA
+2015-10-26;CIVA;Problème compte contrats Metz bleger;1;TMA
+2015-10-26;GIILDA;Utilisation du plugin jquery;1,5;Général
+2015-10-27;AVA;Fixe problème constats;0,5;Constats
+2015-10-27;AVA;Saisi des constats papiers;2;Constats
+2015-10-27;GIILDA;Etude des données BI IVSO;1;Import
+2015-10-29;AVA;Rectification d'informations de constats;2,5;Constats
+2015-10-29;CIVA;Fixe problème import CSV utf8;1;TMA
+2015-10-29;GIILDA;Historique de données;1;Import
+2015-10-30;AVA;Réactivation Dégustation;0,5;Constats
+2015-10-30;CIVA;Vérification liste de CVIs;0,5;TMA
+2015-10-30;GIILDA;Etude des données BI IVSO;1,5;Import
