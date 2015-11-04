@@ -1,45 +1,38 @@
-2015-08-03;Vinsdeloire;les produits autres sont enlevé;5;Teledeclaration DRM
-2015-08-04;Vinsdeloire;ajout des pt de vigilance et sorties contrat hors IL;7;Teledeclaration DRM
-2015-08-05;Vinsdeloire;maj de la strategie de suppression;6;Teledeclaration DRM
-2015-08-06;Vinsdeloire;maj de la config annualisé pour les mouvement;9;Teledeclaration DRM
-2015-08-07;Vinsdeloire;annualisation conf mise en prod;10;Teledeclaration DRM
-2015-08-10;Gestion;Mathurin fait ses temps;2;Temps
-2015-08-10;Vinsdeloire;Changement des alertes à 3 mois;1;TMA VINSI
-2015-08-10;Vinsdeloire;popup contrat vinsi sans les champs;3;Teledeclaration DRM
-2015-08-11;Vinsdeloire;popup et PDF télédeclaration DRM;7;Teledeclaration DRM
-2015-08-12;Vinsdeloire;popup création et Droits douane;7;Teledeclaration DRM
-2015-08-18;Vinsdeloire;restriction des liens et debug Crd;7;Teledeclaration DRM
-2015-08-19;Vinsdeloire;gestion des mails;7;Teledeclaration DRM
-2015-08-20;Vinsdeloire;update de l'arbre produit;7;Teledeclaration DRM
-2015-08-21;Vinsdeloire;mis en place EDI;7;Teledeclaration DRM
-2015-08-24;Vinsdeloire;reprise des produits dans EDI;7;Teledeclaration DRM
-2015-08-25;Vinsdeloire;annexe EDI et module specifique;7;Teledeclaration DRM
-2015-08-26;Vinsdeloire;utilisation d'un doc spécifique EDI;7;Teledeclaration DRM
-2015-08-28;Vinsdeloire;amélioration de l'import EDI;7;Teledeclaration DRM
-2015-08-31;AVA;Mise en place des module et plugins spécifiques;4;Constats VTSGN
-2015-08-31;AVA;Réunion d'initialisation;1;Constats VTSGN
-2015-09-01;AVA;Enregistrement des Rendezvous;5;Constats VTSGN
-2015-09-02;AVA;Modification des Rendezvous et vue générique;7;Constats VTSGN
-2015-09-03;AVA;Gestion des tournée par agents;7;Constats VTSGN
-2015-09-07;AVA;Trie des rendezvous par jour;3;Constats VTSGN
-2015-09-08;AVA;gestion des constats sur mobile;8;Constats VTSGN
-2015-09-09;AVA;gestion des constats sur mobile et maj etat rendezvous;8;Constats VTSGN
-2015-09-10;AVA;Fine Tuning;7;Constats VTSGN
-2015-09-11;AVA;Fine Tuning;7;Constats VTSGN
-2015-09-14;AVA;multi constats par rdv;7;Constats VTSGN
-2015-09-15;AVA;email de notif et adaptation constats;7;Constats VTSGN
-2015-09-16;AVA;maj remontée de vicky;7;Constats VTSGN
-2015-09-17;AVA;retrait des rdv non planifiés;6;Constats VTSGN
-2015-09-17;Vinsdeloire;maj correctif bug remonté des vrac par campagne;1;TMA
-2015-09-18;AVA;PDF constats et bug de vicky;7;Constats VTSGN
-2015-09-21;AVA;maj bypass des jours fériés et dimanche;7;Constats VTSGN
-2015-09-22;AVA;gestion d assemblage;4;Constats VTSGN
-2015-09-22;VINS;Confcall douane;1;VINS
-2015-09-23;Vinsdeloire;maj doc EDI;3;Teledeclaration DRM EDI
-2015-09-24;AVA;gestion de l'assemblage en visu;2;Constats VTSGN
-2015-09-24;Vinsdeloire;maj gestion EDI;5;Teledeclaration DRM EDI
-2015-09-25;Vinsdeloire;Wording et debug de l'appli;5;Teledeclaration DRM
-2015-09-28;Vinsdeloire;debug loire adaptation Conf;6;Teledeclaration DRM
-2015-09-28;Vinsdeloire;réunion télédeclaration DRM avec Fanny;2;Teledeclaration DRM
-2015-09-29;Vinsdeloire;adaptation nouveaux mouvements;7;Teledeclaration DRM
-2015-09-30;Vinsdeloire;tache d'adaptation des mvt;7;Teledeclaration DRM
+2015-10-01;Vinsdeloire;intégration des pt d'aides partout;6;Teledeclaration DRM
+2015-10-02;Vinsdeloire;Mise en prod;1;Teledeclaration DRM
+2015-10-02;Vinsdeloire;Pt d'aides et wording de l'appli;6;Teledeclaration DRM
+2015-10-05;AVA;Enquete sur l'emailing;1;Constats
+2015-10-05;Vinsdeloire;Liaison Vinsi;3;Teledeclaration DRM
+2015-10-05;Vinsdeloire;Problème dans les stocks;0,5;TMA
+2015-10-06;AVA;Ajout dans les mails;0,5;Constats
+2015-10-06;Vinsdeloire;Problème de doublon dans SAGE;2;TMA
+2015-10-06;Vinsdeloire;Problème de facturation SV12;1;TMA
+2015-10-07;AVA;Dédoublonnement de constats;1,5;Constats
+2015-10-07;Vinsdeloire;Gestion d'effet de bord changement de conf;4;Teledeclaration DRM
+2015-10-07;Vinsdeloire;SV12 sans contrats;2;TMA
+2015-10-08;24EME;Appel Guesdon et estelle;0,5;Interne
+2015-10-08;24EME;Gestion Impot;0,5;Interne
+2015-10-08;Vinsdeloire;Conf Tannay Charite, pdf et mail de confimation DRM;5;Teledeclaration DRM
+2015-10-09;Giilda;Début de mise en place;6;Facture
+2015-10-12;24EME;Réunion hebdo;1;Interne
+2015-10-12;Giilda; maj PDF des factures ;4;Facture
+2015-10-13;Giilda; facturation AVA avec loire pour Giilda;7;Facture
+2015-10-14;Giilda;Création Facture avec Template VIERGE;7;Facture
+2015-10-15;Giilda;facturation de mouvements dans modèle AVA;6;Facture
+2015-10-16;Giilda; formulaires de modification des factures;6;Facture
+2015-10-19;Giilda;adaptation des templates;6;Facture
+2015-10-19;Giilda;Gestion Avoir defacturation;1,5;Facture
+2015-10-19;Giilda;Point giilda;1;Facture
+2015-10-20;Giilda;Réunion;7;Facture
+2015-10-21;Giilda;mvt en 50 50 depuis les contrats;6;Facture
+2015-10-22;Giilda;mise en place entité MvtFacture;6;Facture
+2015-10-23;Giilda;Enregistrement MouvementFacture;2;Facture
+2015-10-23;Vinsdeloire;Tache de répartition des mvt;3,5;TMA
+2015-10-26;Vinsdeloire;Maj Pdf, wording, droit douane;5;Teledeclaration DRM
+2015-10-26;Vinsdeloire;Réunion tel;2;Teledeclaration DRM
+2015-10-27;Vinsdeloire;Maj Edi, brouillon etape mvt;6;Teledeclaration DRM
+2015-10-28;24EME;Préparation Aurouze;3;Interne
+2015-10-28;24EME;SILLAGE;2;Interne
+2015-10-29;Vinsdeloire;Contrat de service, ajout brouillon..;6;Teledeclaration DRM
+2015-10-30;24EME;Aurouze;2;Interne
+2015-10-30;Vinsdeloire;Correctif Pdf et visu;3,5;Teledeclaration DRM
