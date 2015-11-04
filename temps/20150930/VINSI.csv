@@ -1,0 +1,32 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-08-03;VINSI;Conf annualisée;3,5;Télédeclaration DRM
+2015-08-03;VINSI;les produits autres sont enlevé;5;Télédeclaration DRM
+2015-08-04;VINSI;ajout des pt de vigilance et sorties contrat hors IL;7;Télédeclaration DRM
+2015-08-05;VINSI;maj de la strategie de suppression;6;Télédeclaration DRM
+2015-08-06;VINSI;Catalogue produits;7;Télédeclaration DRM
+2015-08-06;VINSI;maj de la config annualisé pour les mouvement;9;Télédeclaration DRM
+2015-08-07;VINSI;annualisation conf mise en prod;10;Télédeclaration DRM
+2015-08-07;VINSI;Tickets et mise en prod;9;Télédeclaration DRM
+2015-08-10;VINSI;Changement des alertes à 3 mois;1;TMA
+2015-08-10;VINSI;Fixe Bug;1,5;Télédeclaration DRM
+2015-08-10;VINSI;popup contrat vinsi sans les champs;3;Télédeclaration DRM
+2015-08-11;VINSI;popup et PDF télédeclaration DRM;7;Télédeclaration DRM
+2015-08-12;VINSI;popup création et Droits douane;7;Télédeclaration DRM
+2015-08-18;VINSI;restriction des liens et debug Crd;7;Télédeclaration DRM
+2015-08-19;VINSI;gestion des mails;7;Télédeclaration DRM
+2015-08-20;VINSI;update de l'arbre produit;7;Télédeclaration DRM
+2015-08-21;VINSI;mis en place EDI;7;Télédeclaration DRM
+2015-08-24;VINSI;reprise des produits dans EDI;7;Télédeclaration DRM
+2015-08-25;VINSI;annexe EDI et module specifique;7;Télédeclaration DRM
+2015-08-26;VINSI;utilisation d'un doc spécifique EDI;7;Télédeclaration DRM
+2015-08-28;VINSI;amélioration de l'import EDI;7;Télédeclaration DRM
+2015-09-17;VINSI;maj correctif bug remonté des vrac par campagne;1;TMA
+2015-09-23;VINSI;maj doc EDI;3;Télédeclaration DRM EDI
+2015-09-24;VINSI;Bug email télédéclarants;2,5;TMA
+2015-09-24;VINSI;maj gestion EDI;5;Télédeclaration DRM EDI
+2015-09-25;VINSI;Bug email télédéclarants;1;TMA
+2015-09-25;VINSI;Wording et debug de l'appli;5;Télédeclaration DRM
+2015-09-28;VINSI;debug loire adaptation Conf;6;Télédeclaration DRM
+2015-09-28;VINSI;réunion télédeclaration DRM avec Fanny;2;Télédeclaration DRM
+2015-09-29;VINSI;adaptation nouveaux mouvements;7;Télédeclaration DRM
+2015-09-30;VINSI;tache d'adaptation des mvt;7;Télédeclaration DRM

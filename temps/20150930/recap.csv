@@ -1,0 +1,33 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24ème;24ème;2;0,3
+24ème;TOTAL;2;0,3
+AVA;Constats VTSGN;189,5;27,1
+AVA;Facturation;13,5;1,9
+AVA;Parcellaire;2;0,3
+AVA;TMA;4;0,6
+AVA;TOTAL;209;29,9
+CIVA;DRM;7;1,0
+CIVA;TMA;23;3,3
+CIVA;TOTAL;30;4,3
+CKC;TMA;7;1,0
+CKC;TOTAL;7;1,0
+DeclarVins;Forfait;48;6,9
+DeclarVins;TMA;46;6,6
+DeclarVins;TOTAL;94;13,4
+Gestion;Temps;2;0,3
+Gestion;TOTAL;2;0,3
+GIILDA;Contrats;63;9,0
+GIILDA;DRM;35,5;5,1
+GIILDA;TOTAL;98,5;14,1
+NM;Forfait;12;1,7
+NM;TOTAL;12;1,7
+Prisma;;8;1,1
+Prisma;TOTAL;8;1,1
+Safo;;1;0,1
+Safo;TOTAL;1;0,1
+VINSI;Télédeclaration DRM;158;22,6
+VINSI;Télédeclaration DRM EDI;8;1,1
+VINSI;TMA;5,5;0,8
+VINSI;TOTAL;171,5;24,5
+Vins;Vins;2,5;0,4
+Vins;TOTAL;2,5;0,4

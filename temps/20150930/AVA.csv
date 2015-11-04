@@ -1,0 +1,48 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-08-03;AVA;Mockups constats VTSGN;2;Constats VTSGN
+2015-08-04;AVA;Réunion Constats VTSGN;7;Constats VTSGN
+2015-08-10;AVA;Doublons export parcellaire;2;Parcellaire
+2015-08-10;AVA;Mise à jour des mockups Constats VTSGN;1;Constats VTSGN
+2015-08-11;AVA;Mise à jour des mockups et compte rendu réunion;4;Constats VTSGN
+2015-08-13;AVA;Création de comptes distillateurs + Etablissement avec num SIRET;2;TMA
+2015-08-24;AVA;Fixe bug pdf Drev et fixe erreur facturation;1;TMA
+2015-08-25;AVA;Génération d'avoir;3;Facturation
+2015-08-26;AVA;Génération d'avoir;4;Facturation
+2015-08-28;AVA;Génération d'avoirs;4;Facturation
+2015-08-31;AVA;Mise en place des module et plugins spécifiques;4;Constats VTSGN
+2015-08-31;AVA;Point Constats VTSGN;1;Constats VTSGN
+2015-08-31;AVA;Réunion d'initialisation;1;Constats VTSGN
+2015-08-31;AVA;Saisie du montant du paiement;1;Facturation
+2015-09-01;AVA;Enregistrement des Rendezvous;5;Constats VTSGN
+2015-09-01;AVA;Fixe bug export SAGE;1,5;Facturation
+2015-09-02;AVA;Modification des Rendezvous et vue générique;7;Constats VTSGN
+2015-09-03;AVA;Facturation Import DR et migration opérateurs;1;TMA
+2015-09-03;AVA;Gestion des tournée par agents;7;Constats VTSGN
+2015-09-07;AVA;Trie des rendezvous par jour;3;Constats VTSGN
+2015-09-08;AVA;gestion des constats sur mobile;8;Constats VTSGN
+2015-09-08;AVA;Planifications;6;Constats VTSGN
+2015-09-09;AVA;gestion des constats sur mobile et maj etat rendezvous;8;Constats VTSGN
+2015-09-09;AVA;Planifications;7;Constats VTSGN
+2015-09-10;AVA;Fine tuning;7;Constats VTSGN
+2015-09-10;AVA;Fine Tuning;7;Constats VTSGN
+2015-09-11;AVA;Fine tuning;7;Constats VTSGN
+2015-09-11;AVA;Fine Tuning;7;Constats VTSGN
+2015-09-14;AVA;Fixe bugs;7;Constats VTSGN
+2015-09-14;AVA;multi constats par rdv;7;Constats VTSGN
+2015-09-15;AVA;email de notif et adaptation constats;7;Constats VTSGN
+2015-09-15;AVA;Fixe bugs;5;Constats VTSGN
+2015-09-16;AVA;maj remontée de vicky;7;Constats VTSGN
+2015-09-17;AVA;retrait des rdv non planifiés;6;Constats VTSGN
+2015-09-18;AVA;Gestion des mise à jours sur l'interface Mobile;3,5;Constats VTSGN
+2015-09-18;AVA;PDF constats et bug de vicky;7;Constats VTSGN
+2015-09-21;AVA;Fixe bugs;5;Constats VTSGN
+2015-09-21;AVA;maj bypass des jours fériés et dimanche;7;Constats VTSGN
+2015-09-22;AVA;Fixe bugs;4;Constats VTSGN
+2015-09-22;AVA;gestion d assemblage;4;Constats VTSGN
+2015-09-23;AVA;Fixe bugs;3,5;Constats VTSGN
+2015-09-24;AVA;Fixe bugs;1;Constats VTSGN
+2015-09-24;AVA;gestion de l'assemblage en visu;2;Constats VTSGN
+2015-09-25;AVA;Fixe bugs;4;Constats VTSGN
+2015-09-28;AVA;Fixe bugs;3,5;Constats VTSGN
+2015-09-29;AVA;Fixe bugs;1;Constats VTSGN
+2015-09-30;AVA;Fixe bugs;6;Constats VTSGN

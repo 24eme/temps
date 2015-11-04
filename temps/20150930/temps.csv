@@ -1,0 +1,149 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2015-08-03;AVA;Mockups constats VTSGN;2;Constats VTSGN
+2015-08-03;GIILDA;Étude solution BNIA Cahors;1,5;Contrats
+2015-08-03;VINSI;Conf annualisée;3,5;Télédeclaration DRM
+2015-08-04;AVA;Réunion Constats VTSGN;7;Constats VTSGN
+2015-08-05;CIVA;Réunion DRM;7;DRM
+2015-08-06;VINSI;Catalogue produits;7;Télédeclaration DRM
+2015-08-07;VINSI;Tickets et mise en prod;9;Télédeclaration DRM
+2015-08-10;AVA;Doublons export parcellaire;2;Parcellaire
+2015-08-10;AVA;Mise à jour des mockups Constats VTSGN;1;Constats VTSGN
+2015-08-10;VINSI;Fixe Bug;1,5;Télédeclaration DRM
+2015-08-11;24ème;Temps;1;24ème
+2015-08-11;AVA;Mise à jour des mockups et compte rendu réunion;4;Constats VTSGN
+2015-08-12;CIVA;Mise à jour tiers et mail DS Propriété;1;TMA
+2015-08-12;GIILDA;Contrats widget bootstrap;3,5;Contrats
+2015-08-13;24ème;Envoi Facturation;1;24ème
+2015-08-13;AVA;Création de comptes distillateurs + Etablissement avec num SIRET;2;TMA
+2015-08-13;CIVA;Ouverture et mise à jour DR 2015 en préprod;2;TMA
+2015-08-13;GIILDA;Autocomplete permissif;2;Contrats
+2015-08-24;AVA;Fixe bug pdf Drev et fixe erreur facturation;1;TMA
+2015-08-24;CIVA;Conditionnement bloc contrat et création tiers;2;TMA
+2015-08-25;AVA;Génération d'avoir;3;Facturation
+2015-08-26;AVA;Génération d'avoir;4;Facturation
+2015-08-28;AVA;Génération d'avoirs;4;Facturation
+2015-08-31;AVA;Point Constats VTSGN;1;Constats VTSGN
+2015-08-31;AVA;Saisie du montant du paiement;1;Facturation
+2015-08-31;GIILDA;Adaption DRM loire;5;DRM
+2015-09-01;AVA;Fixe bug export SAGE;1,5;Facturation
+2015-09-01;GIILDA;Adaption DRM loire;4;DRM
+2015-09-02;GIILDA;Bootstrapisation DRM;3,5;DRM
+2015-09-03;AVA;Facturation Import DR et migration opérateurs;1;TMA
+2015-09-03;GIILDA;Bootstrapisation DRM;3,5;DRM
+2015-09-04;CIVA;Mails de rappel DS;3,5;TMA
+2015-09-07;GIILDA;Bootstrapisation DRM;3,5;DRM
+2015-09-08;AVA;Planifications;6;Constats VTSGN
+2015-09-08;CIVA;Export Télédéclants DR;1;TMA
+2015-09-09;AVA;Planifications;7;Constats VTSGN
+2015-09-10;AVA;Fine tuning;7;Constats VTSGN
+2015-09-11;AVA;Fine tuning;7;Constats VTSGN
+2015-09-14;AVA;Fixe bugs;7;Constats VTSGN
+2015-09-15;AVA;Fixe bugs;5;Constats VTSGN
+2015-09-15;GIILDA;Bootstrapisation DRM;2;DRM
+2015-09-16;GIILDA;Bootstrapisation DRM;7;DRM
+2015-09-17;GIILDA;Réunion Contrat et DRM;7;DRM
+2015-09-18;AVA;Gestion des mise à jours sur l'interface Mobile;3,5;Constats VTSGN
+2015-09-18;CIVA;Date de modifications PDF DR;1;TMA
+2015-09-21;AVA;Fixe bugs;5;Constats VTSGN
+2015-09-21;CIVA;DS problème déclarant et migration vers civa2;1;TMA
+2015-09-22;AVA;Fixe bugs;4;Constats VTSGN
+2015-09-22;CIVA;Exports des déclarant DS;1,5;TMA
+2015-09-22;Vins;Conf call douane authentfication;1,5;Vins
+2015-09-23;AVA;Fixe bugs;3,5;Constats VTSGN
+2015-09-23;CKC;Administration page partenaire;3,5;TMA
+2015-09-24;AVA;Fixe bugs;1;Constats VTSGN
+2015-09-24;CKC;Administration page partenaire;3,5;TMA
+2015-09-24;VINSI;Bug email télédéclarants;2,5;TMA
+2015-09-25;AVA;Fixe bugs;4;Constats VTSGN
+2015-09-25;VINSI;Bug email télédéclarants;1;TMA
+2015-09-28;AVA;Fixe bugs;3,5;Constats VTSGN
+2015-09-28;CIVA;Générations DS XML;1;TMA
+2015-09-29;AVA;Fixe bugs;1;Constats VTSGN
+2015-09-29;CIVA;Mise à dispositions stats DS;2;TMA
+2015-09-30;AVA;Fixe bugs;6;Constats VTSGN
+2015-08-03;VINSI;les produits autres sont enlevé;5;Télédeclaration DRM
+2015-08-04;VINSI;ajout des pt de vigilance et sorties contrat hors IL;7;Télédeclaration DRM
+2015-08-05;VINSI;maj de la strategie de suppression;6;Télédeclaration DRM
+2015-08-06;VINSI;maj de la config annualisé pour les mouvement;9;Télédeclaration DRM
+2015-08-07;VINSI;annualisation conf mise en prod;10;Télédeclaration DRM
+2015-08-10;Gestion;Mathurin fait ses temps;2;Temps
+2015-08-10;VINSI;Changement des alertes à 3 mois;1;TMA
+2015-08-10;VINSI;popup contrat vinsi sans les champs;3;Télédeclaration DRM
+2015-08-11;VINSI;popup et PDF télédeclaration DRM;7;Télédeclaration DRM
+2015-08-12;VINSI;popup création et Droits douane;7;Télédeclaration DRM
+2015-08-18;VINSI;restriction des liens et debug Crd;7;Télédeclaration DRM
+2015-08-19;VINSI;gestion des mails;7;Télédeclaration DRM
+2015-08-20;VINSI;update de l'arbre produit;7;Télédeclaration DRM
+2015-08-21;VINSI;mis en place EDI;7;Télédeclaration DRM
+2015-08-24;VINSI;reprise des produits dans EDI;7;Télédeclaration DRM
+2015-08-25;VINSI;annexe EDI et module specifique;7;Télédeclaration DRM
+2015-08-26;VINSI;utilisation d'un doc spécifique EDI;7;Télédeclaration DRM
+2015-08-28;VINSI;amélioration de l'import EDI;7;Télédeclaration DRM
+2015-08-31;AVA;Mise en place des module et plugins spécifiques;4;Constats VTSGN
+2015-08-31;AVA;Réunion d'initialisation;1;Constats VTSGN
+2015-09-01;AVA;Enregistrement des Rendezvous;5;Constats VTSGN
+2015-09-02;AVA;Modification des Rendezvous et vue générique;7;Constats VTSGN
+2015-09-03;AVA;Gestion des tournée par agents;7;Constats VTSGN
+2015-09-07;AVA;Trie des rendezvous par jour;3;Constats VTSGN
+2015-09-08;AVA;gestion des constats sur mobile;8;Constats VTSGN
+2015-09-09;AVA;gestion des constats sur mobile et maj etat rendezvous;8;Constats VTSGN
+2015-09-10;AVA;Fine Tuning;7;Constats VTSGN
+2015-09-11;AVA;Fine Tuning;7;Constats VTSGN
+2015-09-14;AVA;multi constats par rdv;7;Constats VTSGN
+2015-09-15;AVA;email de notif et adaptation constats;7;Constats VTSGN
+2015-09-16;AVA;maj remontée de vicky;7;Constats VTSGN
+2015-09-17;AVA;retrait des rdv non planifiés;6;Constats VTSGN
+2015-09-17;VINSI;maj correctif bug remonté des vrac par campagne;1;TMA
+2015-09-18;AVA;PDF constats et bug de vicky;7;Constats VTSGN
+2015-09-21;AVA;maj bypass des jours fériés et dimanche;7;Constats VTSGN
+2015-09-22;AVA;gestion d assemblage;4;Constats VTSGN
+2015-09-22;Vins;Confcall douane;1;Vins
+2015-09-23;VINSI;maj doc EDI;3;Télédeclaration DRM EDI
+2015-09-24;AVA;gestion de l'assemblage en visu;2;Constats VTSGN
+2015-09-24;VINSI;maj gestion EDI;5;Télédeclaration DRM EDI
+2015-09-25;VINSI;Wording et debug de l'appli;5;Télédeclaration DRM
+2015-09-28;VINSI;debug loire adaptation Conf;6;Télédeclaration DRM
+2015-09-28;VINSI;réunion télédeclaration DRM avec Fanny;2;Télédeclaration DRM
+2015-09-29;VINSI;adaptation nouveaux mouvements;7;Télédeclaration DRM
+2015-09-30;VINSI;tache d'adaptation des mvt;7;Télédeclaration DRM
+2015-08-03;DeclarVins;Teledeclaration DRM;7;Forfait
+2015-08-04;DeclarVins;Teledeclaration DRM;7;Forfait
+2015-08-04;DeclarVins;Mise à jour doc EDI externe;1;TMA
+2015-08-05;CIVA;Reunion DRM;7;TMA
+2015-08-05;DeclarVins;Assistance Saisie DRM IR;1;TMA
+2015-08-06;DeclarVins;Bug validation DRM;2;TMA
+2015-08-06;DeclarVins;Teledeclaration DRM;5;Forfait
+2015-08-07;DeclarVins;Teledeclaration DRM;7;Forfait
+2015-08-10;DeclarVins;Teledeclaration DRM;6;Forfait
+2015-08-11;DeclarVins;Teledeclaration DRM / Conf;7;Forfait
+2015-08-12;DeclarVins;Teledeclaration DRM / Conf;3;Forfait
+2015-08-12;DeclarVins;Mockup DRM;3;TMA
+2015-08-13;DeclarVins;Teledeclaration DRM / Conf;6;Forfait
+2015-08-13;NM;Evolutions;2;Forfait
+2015-08-14;NM;Evolutions;10;Forfait
+2015-08-17;24ème;Journee off;;24ème
+2015-08-18;DeclarVins;Tickets 15917 15924;5;TMA
+2015-08-18;GIILDA;Point sprint 3;2;Contrats
+2015-08-19;GIILDA;Sprint 3 Contrat;6;Contrats
+2015-08-20;GIILDA;Sprint 3 Contrat;7;Contrats
+2015-08-21;GIILDA;Sprint 3 Contrat;5;Contrats
+2015-08-25;DeclarVins;Ticket 15947;2;TMA
+2015-08-25;GIILDA;Sprint 3 Contrat;4;Contrats
+2015-08-26;DeclarVins;Reunion Avignon;7;TMA
+2015-08-28;GIILDA;Sprint 3 Contrat;6;Contrats
+2015-08-31;GIILDA;Sprint 3 Contrat;7;Contrats
+2015-09-01;GIILDA;Sprint 3 Contrat;4;Contrats
+2015-09-02;DeclarVins;Ticket 15998;2;TMA
+2015-09-02;GIILDA;Sprint 3 Contrat;4;Contrats
+2015-09-03;GIILDA;Sprint 3 Contrat;7;Contrats
+2015-09-04;GIILDA;Sprint 3 Contrat;4;Contrats
+2015-09-04;DeclarVins;Tickets 14493 15009 15604;4;TMA
+2015-09-23;DeclarVins;Point projet;2;TMA
+2015-09-23;DeclarVins;Tickets 16143 16071;4;TMA
+2015-09-25;DeclarVins;Reunion avec Antislash;4;TMA
+2015-09-28;Prisma;Newsletter;6;
+2015-09-28;Safo;Devis;1;
+2015-09-29;Prisma;Newsletter;2;
+2015-09-29;DeclarVins;Catalogue produit pour antislash;2;TMA
+2015-09-29;DeclarVins;EDI externe;2;TMA
+2015-09-30;DeclarVins;EDI externe;5;TMA
