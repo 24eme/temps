@@ -1,0 +1,17 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-10-01;AVA;Discussions evolutions + Fixe constats problème;2,5;Constats
+2015-10-02;AVA;Fixe bug + migration constats;2,5;Constats
+2015-10-05;AVA;Enquete sur l'emailing;1;Constats
+2015-10-06;AVA;Ajout dans les mails;0,5;Constats
+2015-10-07;AVA;Dédoublonnement de constats;1,5;Constats
+2015-10-21;AVA;Passage de la DRev 2015 en préprod;1,5;TMA
+2015-10-22;AVA;Export CSV des constats;3,5;Constats
+2015-10-22;AVA;Export CSV des factures avec syndicat viticole;2;Facturation
+2015-10-23;AVA;Export CSV des constats;2;Constats
+2015-10-23;AVA;Facturation DRev Marc;1,5;Facturation
+2015-10-26;AVA;Facturation DRev Marc fixe problème;1,5;Facturation
+2015-10-26;AVA;Ouverture de la DRev 2015;1,5;TMA
+2015-10-27;AVA;Fixe problème constats;0,5;Constats
+2015-10-27;AVA;Saisi des constats papiers;2;Constats
+2015-10-29;AVA;Rectification d'informations de constats;2,5;Constats
+2015-10-30;AVA;Réactivation Dégustation;0,5;Constats

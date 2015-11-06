@@ -1,0 +1,31 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-10-09;GIILDA;Début de mise en place;6;Facturation
+2015-10-12;GIILDA; maj PDF des factures ;4;Facturation
+2015-10-12;GIILDA;Point sprint;2;Forfait
+2015-10-13;GIILDA; facturation AVA avec loire pour Giilda;7;Facturation
+2015-10-13;GIILDA;Facturation + corrections;7;DRM
+2015-10-14;GIILDA;Création Facture avec Template VIERGE;7;Facturation
+2015-10-14;GIILDA;Facturation + corrections;7;DRM
+2015-10-14;GIILDA;Sprint 3 contrat;7;Forfait
+2015-10-15;GIILDA;facturation de mouvements dans modèle AVA;6;Facturation
+2015-10-15;GIILDA;Sprint 3 contrat;7;Forfait
+2015-10-16;GIILDA; formulaires de modification des factures;6;Facturation
+2015-10-16;GIILDA;Sprint 3 contrat;2;Forfait
+2015-10-19;GIILDA;adaptation des templates;6;Facturation
+2015-10-19;GIILDA;Dév;7;DRM
+2015-10-19;GIILDA;Gestion Avoir defacturation;1,5;Facturation
+2015-10-19;GIILDA;Point giilda;1;Facturation
+2015-10-19;GIILDA;Sprint 3 contrat;7;Forfait
+2015-10-20;GIILDA;Dév;3,5;DRM
+2015-10-20;GIILDA;Réunion;7;Facturation
+2015-10-21;GIILDA;mvt en 50 50 depuis les contrats;6;Facturation
+2015-10-21;GIILDA;Point equipe;3;Forfait
+2015-10-21;GIILDA;Point et discussion Facturation et DRM;2,5;DRM
+2015-10-22;GIILDA;mise en place entité MvtFacture;6;Facturation
+2015-10-23;GIILDA;Enregistrement MouvementFacture;2;Facturation
+2015-10-23;GIILDA;Plugin jquery format input number;2,5;Général
+2015-10-26;GIILDA;Utilisation du plugin jquery;1,5;Général
+2015-10-27;GIILDA;Etude des données BI IVSO;1;Import
+2015-10-29;GIILDA;Catalogue Produit;2;Forfait
+2015-10-29;GIILDA;Historique de données;1;Import
+2015-10-30;GIILDA;Etude des données BI IVSO;1,5;Import
