@@ -1,38 +1,35 @@
-2015-10-01;Vinsdeloire;intégration des pt d'aides partout;6;Teledeclaration DRM
-2015-10-02;Vinsdeloire;Mise en prod;1;Teledeclaration DRM
-2015-10-02;Vinsdeloire;Pt d'aides et wording de l'appli;6;Teledeclaration DRM
-2015-10-05;AVA;Enquete sur l'emailing;1;Constats
-2015-10-05;Vinsdeloire;Liaison Vinsi;3;Teledeclaration DRM
-2015-10-05;Vinsdeloire;Problème dans les stocks;0,5;TMA
-2015-10-06;AVA;Ajout dans les mails;0,5;Constats
-2015-10-06;Vinsdeloire;Problème de doublon dans SAGE;2;TMA
-2015-10-06;Vinsdeloire;Problème de facturation SV12;1;TMA
-2015-10-07;AVA;Dédoublonnement de constats;1,5;Constats
-2015-10-07;Vinsdeloire;Gestion d'effet de bord changement de conf;4;Teledeclaration DRM
-2015-10-07;Vinsdeloire;SV12 sans contrats;2;TMA
-2015-10-08;24EME;Appel Guesdon et estelle;0,5;Interne
-2015-10-08;24EME;Gestion Impot;0,5;Interne
-2015-10-08;Vinsdeloire;Conf Tannay Charite, pdf et mail de confimation DRM;5;Teledeclaration DRM
-2015-10-09;Giilda;Début de mise en place;6;Facture
-2015-10-12;24EME;Réunion hebdo;1;Interne
-2015-10-12;Giilda; maj PDF des factures ;4;Facture
-2015-10-13;Giilda; facturation AVA avec loire pour Giilda;7;Facture
-2015-10-14;Giilda;Création Facture avec Template VIERGE;7;Facture
-2015-10-15;Giilda;facturation de mouvements dans modèle AVA;6;Facture
-2015-10-16;Giilda; formulaires de modification des factures;6;Facture
-2015-10-19;Giilda;adaptation des templates;6;Facture
-2015-10-19;Giilda;Gestion Avoir defacturation;1,5;Facture
-2015-10-19;Giilda;Point giilda;1;Facture
-2015-10-20;Giilda;Réunion;7;Facture
-2015-10-21;Giilda;mvt en 50 50 depuis les contrats;6;Facture
-2015-10-22;Giilda;mise en place entité MvtFacture;6;Facture
-2015-10-23;Giilda;Enregistrement MouvementFacture;2;Facture
-2015-10-23;Vinsdeloire;Tache de répartition des mvt;3,5;TMA
-2015-10-26;Vinsdeloire;Maj Pdf, wording, droit douane;5;Teledeclaration DRM
-2015-10-26;Vinsdeloire;Réunion tel;2;Teledeclaration DRM
-2015-10-27;Vinsdeloire;Maj Edi, brouillon etape mvt;6;Teledeclaration DRM
-2015-10-28;24EME;Préparation Aurouze;3;Interne
-2015-10-28;24EME;SILLAGE;2;Interne
-2015-10-29;Vinsdeloire;Contrat de service, ajout brouillon..;6;Teledeclaration DRM
-2015-10-30;24EME;Aurouze;2;Interne
-2015-10-30;Vinsdeloire;Correctif Pdf et visu;3,5;Teledeclaration DRM
+2015-11-02;Giilda;remonté des mvtFacture en vue;3;Facture
+2015-11-02;Vinsdeloire;Ouverture calendrier, popup de choix de prod;3;Teledeclaration DRM
+2015-11-03;Vinsdeloire;Mouvement de Crd, popup réaffiché si non choisie...;7;Teledeclaration DRM
+2015-11-04;24EME;Temps;1,5;Interne
+2015-11-04;Vinsdeloire;Problème d'ajout produit;1;Teledeclaration DRM
+2015-11-04;Vinsdeloire;Problème de droit presse;1;TMA
+2015-11-05;Vinsdeloire;dévalidation de plusieurs DRM;1;Teledeclaration DRM
+2015-11-05;Vinsdeloire;Guide user;1;Teledeclaration DRM
+2015-11-05;Vinsdeloire; maj conf et entree de reintegration crds;1;Teledeclaration DRM
+2015-11-06;Vinsdeloire;maj application DRM droit Douane et Bi Stocks;4;Teledeclaration DRM
+2015-11-09;Giilda;Formulaire Facturation libre;6;Facture
+2015-11-10;24EME;Urscop;4;Interne
+2015-11-12;Giilda;Début import Contrat;6;Import
+2015-11-12;Vinsdeloire;adaptation de l'export bi libellé;2,5;Teledeclaration DRM
+2015-11-13;Vinsdeloire;changement Brouillon DRM PDF et de la validation;4,5;Teledeclaration DRM
+2015-11-16;Giilda;ligne de facture réaffecté (autocomplete);6;Facture
+2015-11-17;Giilda;maj formulaire de facturation libre avec auto-complete qui valide et post;5;Facture
+2015-11-17;Giilda;réunion tel avec Hélène;1;Facture
+2015-11-17;Vinsdeloire;protection double clik fav;1;Teledeclaration DRM
+2015-11-18;24EME; SAlon OWF;4;Salon
+2015-11-19;Giilda;dev des code analytique;4;Facture
+2015-11-19;Vinsdeloire;produits libéllé dans l'export DS BI;2;Teledeclaration DRM
+2015-11-20;Giilda;comportement Js des ajout de ligne de factures libres;5;Facture
+2015-11-23;Giilda;Fixtures et Codes analytiques;4;Facture
+2015-11-23;Vinsdeloire;changement mineur conf;1;Teledeclaration DRM
+2015-11-24;24EME;Urscop;4;Interne
+2015-11-24;Vinsdeloire;Annulation DRM et retraitement;1,5;Teledeclaration DRM
+2015-11-25;24EME;Organisation Banque + Sillage + libre entreprise;1;Interne
+2015-11-25;Vinsdeloire;traitement problème lié aux mauvais mouvement;4;Teledeclaration DRM
+2015-11-26;24EME;Appel Sillage décision Contrat travail;1,5;Interne
+2015-11-26;Giilda;enregistrement des Codes analytiques;2;Facture
+2015-11-26;Vinsdeloire;traitement problème lié aux mauvais mouvement;1;Teledeclaration DRM
+2015-11-27;24EME; SAlon des vignerons indépendants;4;Salon
+2015-11-27;Vinsdeloire;maj verso contrat;1;Teledeclaration DRM
+2015-11-28;24EME;Temps;1,5;Interne
