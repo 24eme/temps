@@ -1,0 +1,105 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2015-11-02;GIILDA;remonté des mvtFacture en vue;3;Facturation
+2015-11-02;VINSI;Ouverture calendrier, popup de choix de prod;3;Télédeclaration DRM
+2015-11-03;VINSI;Mouvement de Crd, popup réaffiché si non choisie...;7;Télédeclaration DRM
+2015-11-04;24ème;Temps;1,5;Interne
+2015-11-04;VINSI;Problème d'ajout produit;1;Télédeclaration DRM
+2015-11-04;VINSI;Problème de droit presse;1;TMA
+2015-11-05;VINSI;dévalidation de plusieurs DRM;1;Télédeclaration DRM
+2015-11-05;VINSI;Guide user;1;Télédeclaration DRM
+2015-11-05;VINSI; maj conf et entree de reintegration crds;1;Télédeclaration DRM
+2015-11-06;VINSI;maj application DRM droit Douane et Bi Stocks;4;Télédeclaration DRM
+2015-11-09;GIILDA;Formulaire Facturation libre;6;Facturation
+2015-11-10;24ème;Urscop;4;Interne
+2015-11-12;GIILDA;Début import Contrat;6;Import
+2015-11-12;VINSI;adaptation de l'export bi libellé;2,5;Télédeclaration DRM
+2015-11-13;VINSI;changement Brouillon DRM PDF et de la validation;4,5;Télédeclaration DRM
+2015-11-16;GIILDA;ligne de facture réaffecté (autocomplete);6;Facturation
+2015-11-17;GIILDA;maj formulaire de facturation libre avec auto-complete qui valide et post;5;Facturation
+2015-11-17;GIILDA;réunion tel avec Hélène;1;Facturation
+2015-11-17;VINSI;protection double clik fav;1;Télédeclaration DRM
+2015-11-18;24ème; SAlon OWF;4;Salon
+2015-11-19;GIILDA;dev des code analytique;4;Facturation
+2015-11-19;VINSI;produits libéllé dans l'export DS BI;2;Télédeclaration DRM
+2015-11-20;GIILDA;comportement Js des ajout de ligne de factures libres;5;Facturation
+2015-11-23;GIILDA;Fixtures et Codes analytiques;4;Facturation
+2015-11-23;VINSI;changement mineur conf;1;Télédeclaration DRM
+2015-11-24;24ème;Urscop;4;Interne
+2015-11-24;VINSI;Annulation DRM et retraitement;1,5;Télédeclaration DRM
+2015-11-25;24ème;Organisation Banque + Sillage + libre entreprise;1;Interne
+2015-11-25;VINSI;traitement problème lié aux mauvais mouvement;4;Télédeclaration DRM
+2015-11-26;24ème;Appel Sillage décision Contrat travail;1,5;Interne
+2015-11-26;GIILDA;enregistrement des Codes analytiques;2;Facturation
+2015-11-26;VINSI;traitement problème lié aux mauvais mouvement;1;Télédeclaration DRM
+2015-11-27;24ème; SAlon des vignerons indépendants;4;Salon
+2015-11-27;VINSI;maj verso contrat;1;Télédeclaration DRM
+2015-11-28;24ème;Temps;1,5;Interne
+2015-11-02;DeclarVins;Gestion ouverture des tests logiciel antislash + caves tests;2;TMA
+2015-11-02;DeclarVins;Ticket 16337;2;TMA
+2015-11-02;GIILDA;Catalogues produit;3;Import
+2015-11-03;GIILDA;Catalogues produit;5;Import
+2015-11-03;DeclarVins;Tickets 16332 16215;2;TMA
+2015-11-04;DeclarVins;Tickets 16264 16329 16340 16327;7;TMA
+2015-11-04;DeclarVins;Gestion projet Antislah;1;TMA
+2015-11-04;DeclarVins;Maintenance droits circulation;0,5;TMA
+2015-11-05;DeclarVins;Gestion projet Antislah;2;TMA
+2015-11-05;DeclarVins;Maintenance droits circulation;1;TMA
+2015-11-05;DeclarVins;Tickets 16349 16331;4;TMA
+2015-11-06;DeclarVins;Ticket 16270;7;TMA
+2015-11-06;DeclarVins;Maintenance droits circulation;0,5;TMA
+2015-11-18;DeclarVins;Ticket 16372;2;TMA
+2015-11-23;DeclarVins;Gestion de projet CIVP;0,5;TMA
+2015-11-23;DeclarVins;Maintenance droits circulation;1;TMA
+2015-11-23;24ème;Point reprise;5;Interne
+2015-11-24;24ème;URSCOP formation accord participation + point equipe;5;Interne
+2015-11-25;DeclarVins;Maintenance droits circulation;1;TMA
+2015-11-25;DeclarVins;Evolution DRM demat;5;Forfait
+2015-11-26;DeclarVins;Evolution DRM demat;7;Forfait
+2015-11-27;DeclarVins;Evolution DRM demat;7;Forfait
+2015-11-30;DeclarVins;Evolution DRM demat;7;Forfait
+2015-11-01;24ème;Temps du mois;1,5;Compta
+2015-11-01;AVA;Réhabilitation de la dégustation;1;Constats
+2015-11-01;GIILDA;Etude des données BI IVSO;1,5;Import
+2015-11-02;CIVA;Mise à jour tiers + divers petites demandes;2,5;TMA
+2015-11-02;GIILDA;Formatage des float;2;Général
+2015-11-03;GIILDA;Formatage des float;3;Général
+2015-11-04;24ème;Uniformisation des temps;1;Interne
+2015-11-04;AVA;Rectification de constats;2;Constats
+2015-11-04;GIILDA;Initialisation du script d'import;2;Import
+2015-11-05;24ème;Facturation;2,5;Interne
+2015-11-05;AVA;Rectification de constats;1;Constats
+2015-11-05;GIILDA;Intégration;1;Import
+2015-11-06;24ème;Référencement des factures & Github banque;4;Interne
+2015-11-06;AVA;Appel + Rectification des constats;1;Constats
+2015-11-09;AVA;Mode non conditionneur;2,5;DRev
+2015-11-09;VINSI;Réunion Loire;3,5;Télédeclaration DRM
+2015-11-10;24ème;URSCOP Contrat de travail;3,5;Interne
+2015-11-10;AVA;DRev;1;Évolutions
+2015-11-10;CIVA;DR fixe point de vigilance;1;TMA
+2015-11-12;AVA;Rectification Constats;2;Constats
+2015-11-12;GIILDA;Import de données;3,5;Import
+2015-11-12;Nathan Mode;Récup du projet et gitification;1,5;TMA
+2015-11-13;AVA;Export des comptes Vinificateurs;1;Évolutions
+2015-11-13;AVA;Rectification Constats;1;Constats
+2015-11-13;GIILDA;Import et point téléphonique;2;Import
+2015-11-16;GIILDA;Import des données;4;Import
+2015-11-17;AVA;Correction DR;1;Facturation
+2015-11-17;CIVA;Bootstrapisation de GIILDA;2;DRM
+2015-11-17;CIVA;Superficie à 0 import des CSV DR + maj tiers;1;TMA
+2015-11-18;24ème;OSS;3,5;Interne
+2015-11-18;CIVA;Bootstrapisation de GIILDA;5;DRM
+2015-11-18;CIVA;Migration CIV docs acheteurs;1;TMA
+2015-11-19;CIVA;Réunion DRM;7;DRM
+2015-11-20;AVA;Réunion expérience utilisateur et évolutions;7;Évolutions
+2015-11-20;Nathan Mode;Fixe bug;2;TMA
+2015-11-23;24ème;Point reprise JB;5;Interne
+2015-11-24;24ème;Accord de participation et préparation;5;Interne
+2015-11-25;AVA;Fixe DR;1;Facturation
+2015-11-25;CIVA;Fixe divers pb de tiers + mise à jour;1;TMA
+2015-11-25;GIILDA;Import des données;2,5;Import
+2015-11-26;24ème;Appel Sillage;1,5;Interne
+2015-11-26;24ème;Organisation Banque + Sillage + libre entreprise;1;Interne
+2015-11-26;VINSI;Fixe problème de mouvements avec Mathurin;2;Télédeclaration DRM
+2015-11-27;GIILDA;Interfaces contacts;3,5;Contacts
+2015-11-30;CIVA;Gestion du problème de DNS + préparation install des serveurs;1;TMA
+2015-11-30;GIILDA;Interfaces contacts;3,5;Contacts

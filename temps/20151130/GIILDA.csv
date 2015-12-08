@@ -1,0 +1,24 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-11-01;GIILDA;Etude des données BI IVSO;1,5;Import
+2015-11-02;GIILDA;Catalogues produit;3;Import
+2015-11-02;GIILDA;Formatage des float;2;Général
+2015-11-02;GIILDA;remonté des mvtFacture en vue;3;Facturation
+2015-11-03;GIILDA;Catalogues produit;5;Import
+2015-11-03;GIILDA;Formatage des float;3;Général
+2015-11-04;GIILDA;Initialisation du script d'import;2;Import
+2015-11-05;GIILDA;Intégration;1;Import
+2015-11-09;GIILDA;Formulaire Facturation libre;6;Facturation
+2015-11-12;GIILDA;Début import Contrat;6;Import
+2015-11-12;GIILDA;Import de données;3,5;Import
+2015-11-13;GIILDA;Import et point téléphonique;2;Import
+2015-11-16;GIILDA;Import des données;4;Import
+2015-11-16;GIILDA;ligne de facture réaffecté (autocomplete);6;Facturation
+2015-11-17;GIILDA;maj formulaire de facturation libre avec auto-complete qui valide et post;5;Facturation
+2015-11-17;GIILDA;réunion tel avec Hélène;1;Facturation
+2015-11-19;GIILDA;dev des code analytique;4;Facturation
+2015-11-20;GIILDA;comportement Js des ajout de ligne de factures libres;5;Facturation
+2015-11-23;GIILDA;Fixtures et Codes analytiques;4;Facturation
+2015-11-25;GIILDA;Import des données;2,5;Import
+2015-11-26;GIILDA;enregistrement des Codes analytiques;2;Facturation
+2015-11-27;GIILDA;Interfaces contacts;3,5;Contacts
+2015-11-30;GIILDA;Interfaces contacts;3,5;Contacts
