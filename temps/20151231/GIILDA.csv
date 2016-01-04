@@ -1,0 +1,20 @@
+Date;Projet;Description;Temps (en heure);Tache
+2015-12-01;GIILDA;Imports contrats + Bilan;5;Import
+2015-12-03;GIILDA;Import de la conf;3;Import
+2015-12-04;GIILDA;Import des produits;2,5;Import
+2015-12-08;GIILDA;Import;3;Import
+2015-12-09;GIILDA;Import;2,5;Import
+2015-12-10;GIILDA;Import et mis en préprod de l'Import IVSO;5;Import
+2015-12-15;GIILDA;Point données IVSO;3,5;Import
+2015-12-16;GIILDA;Point données IVBD avec antsys et début de l'Import;3,5;Import
+2015-12-17;GIILDA;Import IVBD;3,5;Import
+2015-12-18;GIILDA;Import IVBD pour mise en préprod + point téléphonique;6;Import
+2015-12-21;GIILDA;Mise à jour de l'EDI depuis loire;1,5;Import
+2015-12-28;GIILDA;Import;5;Import
+2015-12-28;GIILDA;Import contrats IVSO;6;Import
+2015-12-29;GIILDA;Import;3;Import
+2015-12-29;GIILDA;Import contrats IVSO;7;Import
+2015-12-30;GIILDA;Import contrat;2;Import
+2015-12-30;GIILDA;Import et automatisation serveur préprod;3,5;Import
+2015-12-31;GIILDA;changement dans les stocks;6;DRM
+2015-12-31;GIILDA;Import et automatisation serveur préprod;5;Import
