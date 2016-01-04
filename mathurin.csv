@@ -1,35 +1,7 @@
-2015-11-02;Giilda;remonté des mvtFacture en vue;3;Facture
-2015-11-02;Vinsdeloire;Ouverture calendrier, popup de choix de prod;3;Teledeclaration DRM
-2015-11-03;Vinsdeloire;Mouvement de Crd, popup réaffiché si non choisie...;7;Teledeclaration DRM
-2015-11-04;24EME;Temps;1,5;Interne
-2015-11-04;Vinsdeloire;Problème d'ajout produit;1;Teledeclaration DRM
-2015-11-04;Vinsdeloire;Problème de droit presse;1;TMA
-2015-11-05;Vinsdeloire;dévalidation de plusieurs DRM;1;Teledeclaration DRM
-2015-11-05;Vinsdeloire;Guide user;1;Teledeclaration DRM
-2015-11-05;Vinsdeloire; maj conf et entree de reintegration crds;1;Teledeclaration DRM
-2015-11-06;Vinsdeloire;maj application DRM droit Douane et Bi Stocks;4;Teledeclaration DRM
-2015-11-09;Giilda;Formulaire Facturation libre;6;Facture
-2015-11-10;24EME;Urscop;4;Interne
-2015-11-12;Giilda;Début import Contrat;6;Import
-2015-11-12;Vinsdeloire;adaptation de l'export bi libellé;2,5;Teledeclaration DRM
-2015-11-13;Vinsdeloire;changement Brouillon DRM PDF et de la validation;4,5;Teledeclaration DRM
-2015-11-16;Giilda;ligne de facture réaffecté (autocomplete);6;Facture
-2015-11-17;Giilda;maj formulaire de facturation libre avec auto-complete qui valide et post;5;Facture
-2015-11-17;Giilda;réunion tel avec Hélène;1;Facture
-2015-11-17;Vinsdeloire;protection double clik fav;1;Teledeclaration DRM
-2015-11-18;24EME; SAlon OWF;4;Salon
-2015-11-19;Giilda;dev des code analytique;4;Facture
-2015-11-19;Vinsdeloire;produits libéllé dans l'export DS BI;2;Teledeclaration DRM
-2015-11-20;Giilda;comportement Js des ajout de ligne de factures libres;5;Facture
-2015-11-23;Giilda;Fixtures et Codes analytiques;4;Facture
-2015-11-23;Vinsdeloire;changement mineur conf;1;Teledeclaration DRM
-2015-11-24;24EME;Urscop;4;Interne
-2015-11-24;Vinsdeloire;Annulation DRM et retraitement;1,5;Teledeclaration DRM
-2015-11-25;24EME;Organisation Banque + Sillage + libre entreprise;1;Interne
-2015-11-25;Vinsdeloire;traitement problème lié aux mauvais mouvement;4;Teledeclaration DRM
-2015-11-26;24EME;Appel Sillage décision Contrat travail;1,5;Interne
-2015-11-26;Giilda;enregistrement des Codes analytiques;2;Facture
-2015-11-26;Vinsdeloire;traitement problème lié aux mauvais mouvement;1;Teledeclaration DRM
-2015-11-27;24EME; SAlon des vignerons indépendants;4;Salon
-2015-11-27;Vinsdeloire;maj verso contrat;1;Teledeclaration DRM
-2015-11-28;24EME;Temps;1,5;Interne
+2015-12-22;24EME;Brief de rentré;2;24EME
+2015-12-26;24EME;Envoi recommandé;1;24EME
+2015-12-28;24EME;Appel Estelle;0,5;24EME
+2015-12-28;Giilda;import contrats IVSO;6;import
+2015-12-29;Giilda;import contrats IVSO;7;import
+2015-12-30;Giilda;import contrat;2;Import
+2015-12-31;Giilda;changement dans les stocks;6;DRM
