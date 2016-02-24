@@ -1,1 +1,75 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2015-12-01;DeclarVins;Reunion Avignon;7;TMA
+2015-12-04;DeclarVins;Devis suite demat;1,5;TMA
+2015-12-04;DeclarVins;Ouverture cave test civp;0,5;TMA
+2015-12-04;DeclarVins;Maintenance droits circulation;0,5;TMA
+2015-12-04;DeclarVins;Tickets 16499 16474 16423;3;TMA
+2015-12-07;DeclarVins;Gestion ES + TAS;2;TMA
+2015-12-07;24ème;Temps + Contrat de travail + Accords;4;24ème
+2015-12-08;DeclarVins;Maintenance droits circulation;1,5;TMA
+2015-12-08;DeclarVins;Tickets 16480 16412 16473 16475;6;TMA
+2015-12-08;NathanMode;Petit bug;1;TMA
+2015-12-09;DeclarVins;Maintenance droits circulation;1;TMA
+2015-12-09;DeclarVins;Gestion de projet CIVP;1;TMA
+2015-12-09;DeclarVins;Tickets 16547 16480;5;TMA
+2015-12-14;DeclarVins;Tickets 16556 16480;3;TMA
+2015-12-14;DeclarVins;VCI 16479;5;TMA
+2015-12-15;DeclarVins;VCI 16479;1;TMA
+2015-12-15;DeclarVins;Tickets 16533 14075 16566;6;TMA
+2015-12-16;DeclarVins;Ticket 16476;2,5;TMA
+2015-12-17;DeclarVins;Tache Annualisation DRM;4;TMA
+2015-12-18;DeclarVins;Tickets 16556 16570 16572;3,5;TMA
+2015-12-21;DeclarVins;Ticket 16480;1;TMA
+2015-12-22;DeclarVins;Extraction vrac IGP IVSE;3;TMA
+2015-12-22;DeclarVins;Gestion projet CIVP;1;TMA
+2015-12-22;DeclarVins;Bug calcul CVO vue EDI;3;TMA
+2015-12-23;DeclarVins;Evolution douane avenant;5;Forfait
+2015-12-22;24ème;Brief de rentré;2;24ème
+2015-12-26;24ème;Envoi recommandé;1;24ème
+2015-12-28;24ème;Appel Estelle;0,5;24ème
+2015-12-28;GIILDA;Import contrats IVSO;6;Import
+2015-12-29;GIILDA;Import contrats IVSO;7;Import
+2015-12-30;GIILDA;Import contrat;2;Import
+2015-12-31;GIILDA;changement dans les stocks;6;DRM
+2015-12-01;CIVA;Interventions DR;1;TMA
+2015-12-01;GIILDA;Imports contrats + Bilan;5;Import
+2015-12-02;CIVA;Installation des serveurs pour la saisie interne de la DR;7;TMA
+2015-12-03;GIILDA;Import de la conf;3;Import
+2015-12-04;AVA;Chiffrage déclaration de tirage Crémant;1;Chiffrage
+2015-12-04;CIVA;Interventions DR;1;TMA
+2015-12-04;GIILDA;Import des produits;2,5;Import
+2015-12-07;24ème;Temps, facturation et point;3,5;24ème
+2015-12-08;CIVA;Interventions DR;2;TMA
+2015-12-08;GIILDA;Import;3;Import
+2015-12-08;VINSI;Dépannage DRM;0,5;TMA
+2015-12-09;CIVA;Envoi du mail de rappel pour la DR;0,5;TMA
+2015-12-09;GIILDA;Import;2,5;Import
+2015-12-09;VINSI;Dépannage DRM et Calcul des droits avant l'impression du PDF en mode brouillon;1;TMA
+2015-12-10;CIVA;Dépannage - Intervention DR;2;TMA
+2015-12-10;GIILDA;Import et mis en préprod de l'Import IVSO;5;Import
+2015-12-11;CIVA;Dépannage - Intervention, Création automatique des DR;4;TMA
+2015-12-14;24ème;Point, Accords de participation, contrats de travail et facture aurouze;3,5;24ème
+2015-12-14;CIVA;Intervention et création autmatique des DR;2;TMA
+2015-12-15;GIILDA;Point données IVSO;3,5;Import
+2015-12-16;24ème;Points, contrats de travail;1;24ème
+2015-12-16;AVA;Fixe bug pdf brouillon;0,5;TMA
+2015-12-16;AVA;Revu chiffrage déclaration de crémance;0,5;Chiffrage
+2015-12-16;CIVA;Interventions et création automatique des DR;1;TMA
+2015-12-16;GIILDA;Point données IVBD avec antsys et début de l'Import;3,5;Import
+2015-12-17;AVA;Fixe Bug Tag dégustateurs;0,5;TMA
+2015-12-17;GIILDA;Import IVBD;3,5;Import
+2015-12-18;CIVA;Interventions DR;1;TMA
+2015-12-18;GIILDA;Import IVBD pour mise en préprod + point téléphonique;6;Import
+2015-12-21;AVA;Fixe DR pour la facturation;0,5;TMA
+2015-12-21;CIVA;Ouverture DS de décembre;1;TMA
+2015-12-21;GIILDA;Mise à jour de l'EDI depuis loire;1,5;Import
+2015-12-22;24ème;Point et organisation;3,5;24ème
+2015-12-22;CIVA;Interventions DR et DS;1;TMA
+2015-12-23;24ème;Point Gwen et devis GIILDA;1;24ème
+2015-12-24;CIVA;Amélioration récupération assemblage;0,5;TMA
+2015-12-28;CIVA;Export xml et maj tiers;0,5;TMA
+2015-12-28;GIILDA;Import;5;Import
+2015-12-29;24ème;Gestion sociale;1;24ème
+2015-12-29;GIILDA;Import;3;Import
+2015-12-30;GIILDA;Import et automatisation serveur préprod;3,5;Import
+2015-12-31;GIILDA;Import et automatisation serveur préprod;5;Import
