@@ -352,3 +352,64 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2015-12-29;GIILDA;Import;3;Import
 2015-12-30;GIILDA;Import et automatisation serveur préprod;3,5;Import
 2015-12-31;GIILDA;Import et automatisation serveur préprod;5;Import
+2016-01-04;24ème;Temps et Facturation;5;24ème
+2016-01-05;GIILDA;Import;4;Import
+2016-01-06;GIILDA;Import;4;Import
+2016-01-08;CIVA;Export douane;0,5;TMA
+2016-01-08;GIILDA;Import;4;Import
+2016-01-11;AVA;Non conditionneur sur la DRev;1;DRev
+2016-01-11;GIILDA;Mise en forme des comptes;6;Contact
+2016-01-12;GIILDA;Réunion;7;Réunion
+2016-01-13;GIILDA;Import;3,5;Import
+2016-01-14;GIILDA;Import;3,5;Import
+2016-01-15;Aurouze;Serveurs et tinc;5;Aurouze
+2016-01-15;GIILDA;Import;1;Import
+2016-01-18;Aurouze;Réu, Mockup, Serveur et tinc;7;Aurouze
+2016-01-18;GIILDA;Import;1;Import
+2016-01-19;Aurouze;Réu, Mockup, Serveur et tinc;3,5;Dév
+2016-01-19;GIILDA;Point IVBD Données et expertime pour IVSO;3,5;Import
+2016-01-20;GIILDA;Import;3,5;Import
+2016-01-21;AVA;Amélioration dégustation;2;Dégustation
+2016-01-21;VINSI;FIx pb contact;0,5;TMA
+2016-01-22;AVA;Amélioration dégustation;7;Dégustation
+2016-01-25;GIILDA;Import;2;Import
+2016-01-25;Sancerre;Réunion;3,5;Sancerre
+2016-01-26;Aurouze;Dév;6;Dév
+2016-01-26;AVA;Amélioration dégustation;1;Dégustation
+2016-01-27;Aurouze;Dév;7;Dév
+2016-01-28;GIILDA;Import;5;Import
+2016-01-29;GIILDA;Import;5;Import
+2016-02-01;Aurouze;Dév;1;Dév
+2016-02-01;GIILDA;Dév;4;Dév
+2016-02-02;Aurouze;Dév;7;Dév
+2016-02-03;GIILDA;Dév;4;Dév
+2016-02-03;VINSI;Problème de synchro DRM;3;Garantie
+2016-02-04;AVA;Fix bug degustation;1;Global
+2016-02-04;CIVA;Cloture de contrat;0,5;TMA
+2016-02-04;GIILDA;Import;3,5;Import
+2016-02-05;GIILDA;Import et interface;6;Global
+2016-02-06;GIILDA;Dév;2;Dév
+2016-02-08;GIILDA;Dév;8;Global
+2016-02-09;AVA;Modification Parcellaire;2;Parcellaire
+2016-02-09;GIILDA;Dév;5;Dév
+2016-02-10;GIILDA;Dév;7;Dév
+2016-02-11;GIILDA;Dév;8;Dév
+2016-02-12;GIILDA;Dév;5;Dév
+2016-02-15;AVA;Evolution parcellaire;10;Parcellaire
+2016-02-16;CIVA;PDF Vierge;0,5;TMA
+2016-02-16;GIILDA;Dév;2;Dév
+2016-02-16;VINSI;Bug calcul de CVO;4;Garantie
+2016-02-17;AVA;Envoi du parcellaire aux acheteurs;4;Parcellaire
+2016-02-17;VINSI;Bug Cvo < 0;2;Garantie
+2016-02-18;Aurouze;Dév;3,5;Dév
+2016-02-18;GIILDA;Import;3,5;Import
+2016-02-19;Aurouze;Présentation;3,5;Dév
+2016-02-19;CIVA;Changement sur le PDF;1;TMA
+2016-02-19;GIILDA;Dév;1,5;Dév
+2016-02-22;AVA;Déclration de Tirage;11;Tirage
+2016-02-23;GIILDA;Import;6;Import
+2016-02-24;GIILDA;Dév;8;Dév
+2016-02-25;GIILDA;Dév;7;Dév
+2016-02-26;GIILDA;Dév;7;Dév
+2016-02-29;AVA;Fix bug parcellaire;2,5;Parcellaire
+2016-02-29;GIILDA;Import;5,5;Import
