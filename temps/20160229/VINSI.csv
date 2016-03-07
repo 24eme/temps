@@ -1,0 +1,14 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-01-12;VINSI;Changement des facture masque et communication;0,5;TMA
+2016-01-12;VINSI;Clean des valeur CRD conditionnés;1,5;TMA
+2016-01-13;VINSI;Changement des facture (chèque);3;TMA
+2016-01-21;VINSI;FIx pb contact;0,5;TMA
+2016-02-03;VINSI;Changement taux douane à Date;1;TMA
+2016-02-03;VINSI;Problème de saisie DRM;1;TMA
+2016-02-03;VINSI;Problème de saisie DRM Capsule;1;TMA
+2016-02-03;VINSI;Problème de synchro DRM;4;Migration
+2016-02-04;VINSI;Problème de numéro Fournisseur;1;Compte
+2016-02-04;VINSI;Problème de synchro migration;6;Migration
+2016-02-16;VINSI;Bug calcul de CVO;4;Garantie
+2016-02-16;VINSI;Task Mvt DRM et analyse Facture CVO;5;Garantie
+2016-02-17;VINSI;Bug Cvo < 0;2;Garantie

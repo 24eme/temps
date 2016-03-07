@@ -1,0 +1,85 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-01-05;Giilda;configuration avec entrées sorties revendiquantes;7;Admin
+2016-01-05;Giilda;Import;4;Import
+2016-01-06;Giilda;adaptation detail revendiquant;7;DRM
+2016-01-06;Giilda;ELK Stats;3;Forfait
+2016-01-06;Giilda;Import;4;Import
+2016-01-07;Giilda;ELK Stats;4;Forfait
+2016-01-07;Giilda;pt bloquant DRM et saisie;7;DRM
+2016-01-08;Giilda;arrangement des Factures;7;Facture
+2016-01-08;Giilda;ELK Stats;7;Forfait
+2016-01-08;Giilda;Import;4;Import
+2016-01-11;Giilda;changement pdf pour les lignes de DRM;4;Facture
+2016-01-11;Giilda;ELK Stats;7;Forfait
+2016-01-11;Giilda;maj des details de DRM;4;DRM
+2016-01-11;Giilda;maj elasticsearch;1;Configuration
+2016-01-11;Giilda;Mise en forme des comptes;6;Contact
+2016-01-12;Giilda;Réunion;6;Réunion
+2016-01-12;Giilda;Réunion;7;Réunion
+2016-01-13;Giilda;adaptation du pdf pour les lignes de facture DRM contrat;4;Facture
+2016-01-13;Giilda;Import;3,5;Import
+2016-01-14;Giilda; adaptation du pdf pour les lignes de facture DRM contrat;7;Facture
+2016-01-14;Giilda;Import;3,5;Import
+2016-01-15;Giilda;Import;1;Import
+2016-01-15;Giilda;Import des contrat;7;Import
+2016-01-18;Giilda;Import;1;Import
+2016-01-19;Giilda;Point IVBD Données et expertime pour IVSO;3,5;Import
+2016-01-20;Giilda;Import;3,5;Import
+2016-01-21;Giilda;facturation Massive;3;Facture
+2016-01-22;Giilda;facturation Massive;4;Facture
+2016-01-22;Giilda;Remonter DRM dans les contrats;3;DRM
+2016-01-25;Giilda;Import;2;Import
+2016-01-28;Giilda;Adaptation conf * et stock rev;5;DRM
+2016-01-28;Giilda;annulation des contrats;2;Contrat
+2016-01-28;Giilda;Import;5;Import
+2016-01-29;Giilda;Changements Mvt DRM;5;DRM
+2016-01-29;Giilda;Import;5;Import
+2016-02-01;Giilda;Dév;4;Dév
+2016-02-03;Giilda;Débridage Admin et CVO;4;Admin
+2016-02-03;Giilda;Dév;4;Dév
+2016-02-03;Giilda;ELK Stats;5;Forfait
+2016-02-04;Giilda;ELK Stats;4;Forfait
+2016-02-04;Giilda;Gestion des reservations fine tuning;2;Forfait
+2016-02-04;Giilda;Import;3,5;Import
+2016-02-05;Giilda;Adaptation Droit CVO;7;Admin
+2016-02-05;Giilda;ELK Stats;3;Forfait
+2016-02-05;Giilda;Import et interface;6;Global
+2016-02-06;Giilda;Dév;2;Dév
+2016-02-07;Giilda;DRM, contrat et Admin;3;Admin
+2016-02-07;Giilda;ELK Stats;5;Forfait
+2016-02-08;Giilda;Dév;8;Global
+2016-02-08;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-08;Giilda;Fine tuning;7;Forfait
+2016-02-09;Giilda;Dév;5;Dév
+2016-02-09;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-09;Giilda;Fine tuning;7;Forfait
+2016-02-10;Giilda;Dév;7;Dév
+2016-02-10;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-11;Giilda;Dév;8;Dév
+2016-02-11;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-12;Giilda;Dév;5;Dév
+2016-02-12;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-16;Giilda;Dév;2;Dév
+2016-02-16;Giilda;Réactivation des raccourcis;2;DRM
+2016-02-16;Giilda;Tickets;7;Forfait
+2016-02-17;Giilda;ELK Stats;7;Forfait
+2016-02-17;Giilda;Réactivation des popups;6;DRM
+2016-02-18;Giilda;Import;3,5;Import
+2016-02-18;Giilda;Ticket pour la Facturation Libre;3;Facture
+2016-02-19;Giilda;Dév;1,5;Dév
+2016-02-19;Giilda;Point téléphonique avec Eric;1;DRM
+2016-02-21;Giilda;ELK Stats;2;Forfait
+2016-02-23;Giilda;Import;6;Import
+2016-02-23;Giilda;Tickets;7;DRM
+2016-02-23;Giilda;Tickets;7;Forfait
+2016-02-24;Giilda;Dév;8;Dév
+2016-02-24;Giilda;Tickets;2;Accueil
+2016-02-24;Giilda;Tickets;6;DRM
+2016-02-24;Giilda;Tickets;7;Forfait
+2016-02-25;Giilda;Dév;7;Dév
+2016-02-25;Giilda;Tickets;7;DRM
+2016-02-25;Giilda;Tickets;7;Forfait
+2016-02-26;Giilda;Dév;7;Dév
+2016-02-26;Giilda;Tickets;5;Forfait
+2016-02-26;Giilda;Tickets;7;Contact
+2016-02-29;Giilda;Import;5,5;Import

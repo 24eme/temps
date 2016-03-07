@@ -1,0 +1,189 @@
+2016-01-05;Giilda;configuration avec entrées sorties revendiquantes;7;Admin
+2016-01-06;Giilda;adaptation detail revendiquant;7;DRM
+2016-01-07;Giilda;pt bloquant DRM et saisie;7;DRM
+2016-01-08;Giilda;arrangement des Factures;7;Facture
+2016-01-11;Giilda;changement pdf pour les lignes de DRM;4;Facture
+2016-01-11;Giilda;maj des details de DRM;4;DRM
+2016-01-11;Giilda;maj elasticsearch;1;Configuration
+2016-01-12;Giilda;Réunion;6;Réunion
+2016-01-12;VINSI;Changement des facture masque et communication;0,5;TMA
+2016-01-12;VINSI;Clean des valeur CRD conditionnés;1,5;TMA
+2016-01-13;Giilda;adaptation du pdf pour les lignes de facture DRM contrat;4;Facture
+2016-01-13;VINSI;Changement des facture (chèque);3;TMA
+2016-01-14;Giilda; adaptation du pdf pour les lignes de facture DRM contrat;7;Facture
+2016-01-15;Giilda;Import des contrat;7;Import
+2016-01-18;Aurouze;Réunion début de projet;7;Plannification
+2016-01-19;Aurouze;dévelloppement MongoDb;7;Plannification
+2016-01-20;Aurouze;Dév;7;Plannification
+2016-01-21;Aurouze;Import des ETB;4;Plannification
+2016-01-21;Giilda;facturation Massive;3;Facture
+2016-01-22;Giilda;facturation Massive;4;Facture
+2016-01-22;Giilda;Remonter DRM dans les contrats;3;DRM
+2016-01-25;Sancerre;réunion technique;4;PréProjet
+2016-01-26;Aurouze;Dév;7;Plannification
+2016-01-27;Aurouze;Dév;6;Plannification
+2016-01-28;Giilda;Adaptation conf * et stock rev;5;DRM
+2016-01-28;Giilda;annulation des contrats;2;Contrat
+2016-01-29;Giilda;Changements Mvt DRM;5;DRM
+2016-02-01;Aurouze;Plannification calendrier;8;Plannification
+2016-02-02;24ème;Malade;7;24ème
+2016-02-03;Giilda;Débridage Admin et CVO;4;Admin
+2016-02-03;VINSI;Changement taux douane à Date;1;TMA
+2016-02-03;VINSI;Problème de saisie DRM;1;TMA
+2016-02-03;VINSI;Problème de saisie DRM Capsule;1;TMA
+2016-02-04;VINSI;Problème de numéro Fournisseur;1;Compte
+2016-02-04;VINSI;Problème de synchro migration;6;Migration
+2016-02-05;Giilda;Adaptation Droit CVO;7;Admin
+2016-02-07;Giilda;DRM, contrat et Admin;3;Admin
+2016-02-08;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-09;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-10;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-11;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-12;Giilda;Fine Tuning;7;Fine Tuning
+2016-02-15;AVA;Adaptations Parcellaire;10;Parcellaire
+2016-02-16;Giilda;Réactivation des raccourcis;2;DRM
+2016-02-16;VINSI;Task Mvt DRM et analyse Facture CVO;5;Garantie
+2016-02-17;AVA;Adaptations PDF;1;Parcellaire
+2016-02-17;Giilda;Réactivation des popups;6;DRM
+2016-02-18;24ème;Interview;1;24ème
+2016-02-18;Aurouze;Plannification calendrier;4;Plannification
+2016-02-18;Giilda;Ticket pour la Facturation Libre;3;Facture
+2016-02-19;Aurouze;Réunion fin de sprint;7;Plannification
+2016-02-19;Giilda;Point téléphonique avec Eric;1;DRM
+2016-02-22;AVA;Tirage Crémant;10,5;Tirage
+2016-02-23;Giilda;Tickets;7;DRM
+2016-02-24;Giilda;Tickets;2;Accueil
+2016-02-24;Giilda;Tickets;6;DRM
+2016-02-25;Giilda;Tickets;7;DRM
+2016-02-26;Giilda;Tickets;7;Contact
+2016-02-29;AVA;Tirage Crémant;8;Tirage
+2016-01-04;24ème;Temps et Facturation;5;24ème
+2016-01-05;Giilda;Import;4;Import
+2016-01-06;Giilda;Import;4;Import
+2016-01-08;CIVA;Export douane;0,5;TMA
+2016-01-08;Giilda;Import;4;Import
+2016-01-11;AVA;Non conditionneur sur la DRev;1;DRev
+2016-01-11;Giilda;Mise en forme des comptes;6;Contact
+2016-01-12;Giilda;Réunion;7;Réunion
+2016-01-13;Giilda;Import;3,5;Import
+2016-01-14;Giilda;Import;3,5;Import
+2016-01-15;Aurouze;Serveurs et tinc;5;Serveur
+2016-01-15;Giilda;Import;1;Import
+2016-01-18;Aurouze;Réu, Mockup, Serveur et tinc;7;Réunion
+2016-01-18;Giilda;Import;1;Import
+2016-01-19;Aurouze;Réu, Mockup, Serveur et tinc;3,5;Réunion
+2016-01-19;Giilda;Point IVBD Données et expertime pour IVSO;3,5;Import
+2016-01-20;Giilda;Import;3,5;Import
+2016-01-21;AVA;Amélioration dégustation;2;Dégustation
+2016-01-21;VINSI;FIx pb contact;0,5;TMA
+2016-01-22;AVA;Amélioration dégustation;7;Dégustation
+2016-01-25;Giilda;Import;2;Import
+2016-01-25;Sancerre;Réunion;3,5;PréProjet
+2016-01-26;Aurouze;Dév;6;Plannification
+2016-01-26;AVA;Amélioration dégustation;1;Dégustation
+2016-01-27;Aurouze;Dév;7;Plannification
+2016-01-28;Giilda;Import;5;Import
+2016-01-29;Giilda;Import;5;Import
+2016-02-01;Aurouze;Dév;1;Plannification
+2016-02-01;Giilda;Dév;4;Dév
+2016-02-02;Aurouze;Dév;7;Plannification
+2016-02-03;Giilda;Dév;4;Dév
+2016-02-03;VINSI;Problème de synchro DRM;4;Migration
+2016-02-04;AVA;Fix bug degustation;1;Global
+2016-02-04;CIVA;Cloture de contrat;0,5;TMA
+2016-02-04;Giilda;Import;3,5;Import
+2016-02-05;Giilda;Import et interface;6;Global
+2016-02-06;Giilda;Dév;2;Dév
+2016-02-08;Giilda;Dév;8;Global
+2016-02-09;AVA;Modification Parcellaire;2;Parcellaire
+2016-02-09;Giilda;Dév;5;Dév
+2016-02-10;Giilda;Dév;7;Dév
+2016-02-11;Giilda;Dév;8;Dév
+2016-02-12;Giilda;Dév;5;Dév
+2016-02-15;AVA;Evolution parcellaire;10;Parcellaire
+2016-02-16;CIVA;PDF Vierge;0,5;TMA
+2016-02-16;Giilda;Dév;2;Dév
+2016-02-16;VINSI;Bug calcul de CVO;4;Garantie
+2016-02-17;AVA;Envoi du parcellaire aux acheteurs;4;Parcellaire
+2016-02-17;VINSI;Bug Cvo < 0;2;Garantie
+2016-02-18;Aurouze;Dév;3,5;Plannification
+2016-02-18;Giilda;Import;3,5;Import
+2016-02-19;Aurouze;Présentation;3,5;Plannification
+2016-02-19;CIVA;Changement sur le PDF;1;TMA
+2016-02-19;Giilda;Dév;1,5;Dév
+2016-02-22;AVA;Déclration de Tirage;11;Tirage
+2016-02-23;Giilda;Import;6;Import
+2016-02-24;Giilda;Dév;8;Dév
+2016-02-25;Giilda;Dév;7;Dév
+2016-02-26;Giilda;Dév;7;Dév
+2016-02-29;AVA;Fix bug parcellaire;2,5;Parcellaire
+2016-02-29;Giilda;Import;5,5;Import
+2016-01-04;24ème;Point retour vacance Jb;1;24ème
+2016-01-05;DeclarVins;Ticket 16480;3;TMA
+2016-01-05;DeclarVins;Ticket 16571;1;TMA
+2016-01-05;DeclarVins;Ticket 16480;1;TMA
+2016-01-05;DeclarVins;Maintenance droits circulation;0,5;TMA
+2016-01-05;DeclarVins;Ouverture cave test civp;0,5;TMA
+2016-01-06;DeclarVins;Maintenance droits circulation;2;TMA
+2016-01-06;DeclarVins;Ticket 16479;1;TMA
+2016-01-06;Giilda;ELK Stats;3;Forfait
+2016-01-07;Giilda;ELK Stats;4;Forfait
+2016-01-07;DeclarVins;Maintenance droits circulation;1;TMA
+2016-01-07;DeclarVins;Complement Devis gestion de projet;1;TMA
+2016-01-08;DeclarVins;Ticket 16480;1,5;TMA
+2016-01-08;Giilda;ELK Stats;7;Forfait
+2016-01-11;Giilda;ELK Stats;7;Forfait
+2016-01-12;DeclarVins;Evolution DRM Douane;7;Forfait
+2016-01-13;DeclarVins;Evolution DRM Douane;7;Forfait
+2016-01-14;DeclarVins;Reunion;7;TMA
+2016-01-15;DeclarVins;Ticket 16723;6;TMA
+2016-01-18;Aurouze;Dev;7;Plannification
+2016-01-19;Aurouze;Dev;7;Plannification
+2016-01-20;Aurouze;Dev;7;Plannification
+2016-01-21;DeclarVins;Tickets 16740 16744 16331 16722;5;TMA
+2016-01-21;DeclarVins;Maintenance CVO IVSE;1,5;TMA
+2016-01-21;DeclarVins;Maintenance droits circulation;0,5;TMA
+2016-01-22;DeclarVins;Tickets 16567 16723 16637;4;TMA
+2016-01-22;DeclarVins;Modification VCI;0,5;TMA
+2016-01-22;DeclarVins;Correction autocomplete global;0,5;TMA
+2016-01-22;DeclarVins;Corrections et cron des taches vrac;1,5;TMA
+2016-01-25;Sancerre;Reunion;4;PréProjet
+2016-01-25;DeclarVins;Maintenance droits circulation;1;TMA
+2016-01-26;Aurouze;Dev;7;Plannification
+2016-01-27;Aurouze;Dev;7;Plannification
+2016-02-01;Aurouze;Dev;7;Plannification
+2016-02-01;DeclarVins;Ticket 16803;1,5;TMA
+2016-02-02;Aurouze;Dev;7;Plannification
+2016-02-02;DeclarVins;Maintenance droits circulation;0,5;TMA
+2016-02-03;Giilda;ELK Stats;5;Forfait
+2016-02-03;DeclarVins;Correction bug contrat etape soussigne mandataire;1;TMA
+2016-02-03;DeclarVins;Maintenance droits circulation;1;TMA
+2016-02-04;Giilda;ELK Stats;4;Forfait
+2016-02-04;DeclarVins;Maintenance droits circulation;1;TMA
+2016-02-04;Giilda;Gestion des reservations fine tuning;2;Forfait
+2016-02-05;Giilda;ELK Stats;3;Forfait
+2016-02-05;DeclarVins;Application lente;2;TMA
+2016-02-05;DeclarVins;Correctif PDF DRM;1;TMA
+2016-02-07;Giilda;ELK Stats;5;Forfait
+2016-02-08;Giilda;Fine tuning;7;Forfait
+2016-02-09;Giilda;Fine tuning;7;Forfait
+2016-02-10;DeclarVins;CAS avec vinternet;1;TMA
+2016-02-10;DeclarVins;Maintenance droits circulation;2;TMA
+2016-02-11;DeclarVins;Ticket 16844;2;TMA
+2016-02-12;DeclarVins;Evolution DRM Douane;2;Forfait
+2016-02-12;Aurouze;Dev;5;Plannification
+2016-02-15;AVA;Ticket parcellaire;7;Forfait
+2016-02-16;Giilda;Tickets;7;Forfait
+2016-02-17;Giilda;ELK Stats;7;Forfait
+2016-02-18;Aurouze;Dev;7;Plannification
+2016-02-19;Aurouze;Dev;5;Plannification
+2016-02-19;DeclarVins;OIOC EDI gestion des doublons;3;TMA
+2016-02-21;Giilda;ELK Stats;2;Forfait
+2016-02-22;AVA;Declaration de tirage;7;Forfait
+2016-02-23;Giilda;Tickets;7;Forfait
+2016-02-24;Giilda;Tickets;7;Forfait
+2016-02-25;Giilda;Tickets;7;Forfait
+2016-02-26;Giilda;Tickets;5;Forfait
+2016-02-26;DeclarVins;Bug label EDI DRM;2;TMA
+2016-02-29;DeclarVins;Bug du mandataire contrat vrac dans les envoies de mail;1,5;TMA
+2016-02-29;AVA;Tickets;6;Forfait

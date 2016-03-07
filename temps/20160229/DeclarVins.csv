@@ -1,0 +1,37 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-01-05;DeclarVins;Maintenance droits circulation;0,5;TMA
+2016-01-05;DeclarVins;Ouverture cave test civp;0,5;TMA
+2016-01-05;DeclarVins;Ticket 16480;1;TMA
+2016-01-05;DeclarVins;Ticket 16480;3;TMA
+2016-01-05;DeclarVins;Ticket 16571;1;TMA
+2016-01-06;DeclarVins;Maintenance droits circulation;2;TMA
+2016-01-06;DeclarVins;Ticket 16479;1;TMA
+2016-01-07;DeclarVins;Complement Devis gestion de projet;1;TMA
+2016-01-07;DeclarVins;Maintenance droits circulation;1;TMA
+2016-01-08;DeclarVins;Ticket 16480;1,5;TMA
+2016-01-12;DeclarVins;Evolution DRM Douane;7;Forfait
+2016-01-13;DeclarVins;Evolution DRM Douane;7;Forfait
+2016-01-14;DeclarVins;Reunion;7;TMA
+2016-01-15;DeclarVins;Ticket 16723;6;TMA
+2016-01-21;DeclarVins;Maintenance CVO IVSE;1,5;TMA
+2016-01-21;DeclarVins;Maintenance droits circulation;0,5;TMA
+2016-01-21;DeclarVins;Tickets 16740 16744 16331 16722;5;TMA
+2016-01-22;DeclarVins;Correction autocomplete global;0,5;TMA
+2016-01-22;DeclarVins;Corrections et cron des taches vrac;1,5;TMA
+2016-01-22;DeclarVins;Modification VCI;0,5;TMA
+2016-01-22;DeclarVins;Tickets 16567 16723 16637;4;TMA
+2016-01-25;DeclarVins;Maintenance droits circulation;1;TMA
+2016-02-01;DeclarVins;Ticket 16803;1,5;TMA
+2016-02-02;DeclarVins;Maintenance droits circulation;0,5;TMA
+2016-02-03;DeclarVins;Correction bug contrat etape soussigne mandataire;1;TMA
+2016-02-03;DeclarVins;Maintenance droits circulation;1;TMA
+2016-02-04;DeclarVins;Maintenance droits circulation;1;TMA
+2016-02-05;DeclarVins;Application lente;2;TMA
+2016-02-05;DeclarVins;Correctif PDF DRM;1;TMA
+2016-02-10;DeclarVins;CAS avec vinternet;1;TMA
+2016-02-10;DeclarVins;Maintenance droits circulation;2;TMA
+2016-02-11;DeclarVins;Ticket 16844;2;TMA
+2016-02-12;DeclarVins;Evolution DRM Douane;2;Forfait
+2016-02-19;DeclarVins;OIOC EDI gestion des doublons;3;TMA
+2016-02-26;DeclarVins;Bug label EDI DRM;2;TMA
+2016-02-29;DeclarVins;Bug du mandataire contrat vrac dans les envoies de mail;1,5;TMA
