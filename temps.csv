@@ -1,1 +1,108 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2016-03-01;GIILDA;Tickets;6;Forfait
+2016-03-02;GIILDA;Tickets;7;Forfait
+2016-03-03;Aurouze;Dev;7;Forfait
+2016-03-04;Aurouze;Dev;7;Forfait
+2016-03-07;DeclarVins;Tickets 16930 16986 16972;2;TMA
+2016-03-07;DeclarVins;Ticket 16885;4;TMA
+2016-03-08;DeclarVins;Ticket 16985;6;TMA
+2016-03-08;DeclarVins;Ticket 16805;2;TMA
+2016-03-08;DeclarVins;Ticket 17014;0,5;TMA
+2016-03-09;GIILDA;Tickets;6;Forfait
+2016-03-10;Aurouze;Dev;7;Forfait
+2016-03-11;Aurouze;Dev;7;Forfait
+2016-03-14;Aurouze;Dev;7;Forfait
+2016-03-15;Aurouze;Dev;7;Forfait
+2016-03-16;Aurouze;Dev;7;Forfait
+2016-03-17;DeclarVins;Ticket 17017;1;TMA
+2016-03-18;DeclarVins;Evol CIEL;5;Forfait
+2016-03-19;DeclarVins;Evol CIEL;7;Forfait
+2016-03-21;Aurouze;Dev;7;Forfait
+2016-03-22;Aurouze;Dev;7;Forfait
+2016-03-23;Aurouze;Dev;4;Forfait
+2016-03-23;DeclarVins;Evol CIEL;3;Forfait
+2016-03-24;DeclarVins;Evol CIEL;7;Forfait
+2016-03-25;DeclarVins;Evol CIEL;2;Forfait
+2016-03-25;DeclarVins;Mise en place preprodv2;4;TMA
+2016-03-29;DeclarVins;Evol CIEL;7;Forfait
+2016-03-30;DeclarVins;Reunion Avignon;7;TMA
+2016-03-31;DeclarVins;Ticket 17002;4;TMA
+2016-03-31;Tickets 16937 17132;1;TMA
+2016-03-31;Ticket 17076;2;TMA
+2016-03-01;Giilda;Tickets;11,5;Contact
+2016-03-02;Giilda;Tickets;12,5;Contact
+2016-03-03;Aurouze;r et D;2,5;mongodb
+2016-03-03;Giilda;Tickets;4,5;import
+2016-03-04;Aurouze;Tickets;7;planification
+2016-03-07;24ème;Facturation pour actualys;2,5;24ème
+2016-03-07;Giilda;Etablissements et point téléphonique;1,5;Mis en prod
+2016-03-07;VINSI;réparation de bug;3,5;TMA
+2016-03-08;Giilda;bug issus de l'enregistrement des lignes de facture;4,5;Facturation
+2016-03-08;Giilda;relais de la tabulation sur le calendrier;2;DRM
+2016-03-09;Giilda;agregat des lignes de facture;2,5;Facturation
+2016-03-10;Aurouze;import des coordonnées d'établissement;5,5;import
+2016-03-10;Giilda;ligne de facture depuis mvt multiples;3;Facturation
+2016-03-11;Aurouze;présentation carte et user;5;planification
+2016-03-11;VINSI;export bi des igp;2;TMA
+2016-03-14;Aurouze;import des contrats;7;contrat
+2016-03-15;Aurouze;gestion des contrats;8;contrat
+2016-03-16;Aurouze;gestion des contrats;7;contrat
+2016-03-17;Giilda;Tickets DRM et contrat;7;contrat
+2016-03-17;VINSI;Export IGP et controle tag manuel ;1;TMA
+2016-03-18;Giilda;Tickets DRM et contrat;4,5;contrat
+2016-03-18;VINSI;Export facturation 2016;3;TMA
+2016-03-21;Aurouze;adaptation des passages et contrats;7;Contrat
+2016-03-21;VINSI;manipulation Contrat ;1;TMA
+2016-03-22;Aurouze;adaptation des passages et contrats;8;Reunion
+2016-03-23;24EME;Gestion Urssaf et papiers;1;24EME
+2016-03-23;Giilda;Contrat Export;6;Export IGP
+2016-03-23;VINSI;réparation DS et numéro archivage contrat ;2;TMA
+2016-03-24;24EME;Gestion Urssaf et papiers;1,5;24EME
+2016-03-24;Giilda;correction DRMS;1;Import
+2016-03-24;Giilda;correction facturation libre;5;Facture
+2016-03-25;Giilda;adaptation facture libre;6;Facture
+2016-03-25;Giilda;Tickets contrat ivso;1;contrat
+2016-03-29;Aurouze;configuration des prestations;7;configuration
+2016-03-30;Aurouze;remonté des prestations;4;configuration
+2016-03-30;Giilda;correction de l'import et adaptation de la facturation;3;import
+2016-03-31;Giilda;traitement export bi;7;export bi
+2016-03-01;AVA;Parcellaire corrections et envoi aux acheteurs;3;Parcellaire
+2016-03-01;AVA;Tirage corrections;1,5;Tirage
+2016-03-01;GIILDA;Corrections;4;Dév
+2016-03-02;GIILDA;Reformatage des comptes;10;Dév
+2016-03-03;GIILDA;Reformatage des comptes;7;Dév
+2016-03-04;Aurouze;Carto;3,5;Dév
+2016-03-04;AVA;Fix bug;1;TMA
+2016-03-04;GIILDA;Fix bug import;1,5;Dév
+2016-03-07;24ème;Facturation;3,5;24ème
+2016-03-07;GIILDA;Mise en prod;3,5;Dév
+2016-03-08;GIILDA;Corrections;3,5;Dév
+2016-03-09;CIVA;Mise à jour du verso du PDF contrat;1;TMA
+2016-03-09;GIILDA;Cohérence de stocks;2,5;Dév
+2016-03-10;Aurouze;Dév;1;Dév
+2016-03-10;GIILDA;Cohérence de stocks;4;Dév
+2016-03-11;Aurouze;Uniformisation Adresse;3,5;Dév
+2016-03-11;CIVA;Mise à jour des tiers;0,5;TMA
+2016-03-11;GIILDA;Fix Import;3,5;Dév
+2016-03-12;GIILDA;Fix bug import;1;Dév
+2016-03-14;Aurouze;Marqueur;5,5;Dév
+2016-03-14;GIILDA;Mise à jour données;1,5;Dév
+2016-03-15;Aurouze;Dév;5,5;Dév
+2016-03-15;AVA;Envoi acheteurs après désactivation;1,5;Parcellaire
+2016-03-16;Aurouze;Dév;7;Dév
+2016-03-17;GIILDA;Dév;5;Dév
+2016-03-18;GIILDA;Dév;7;Dév
+2016-03-21;Aurouze;Dév;6;Dév
+2016-03-21;GIILDA;Mise à jour données;1;Dév
+2016-03-22;Aurouze;Dév;7;Dév
+2016-03-23;AVA;Démarrage d'une ancienne drev et problème liste dégustateurs expers;1,5;TMA
+2016-03-23;GIILDA;Import des interlocuteurs IVSO;4;Dév
+2016-03-24;GIILDA;Dév;6;Dév
+2016-03-25;GIILDA;Dév;6;Dév
+2016-03-29;Aurouze;Dév;5,5;Dév
+2016-03-29;GIILDA;Mise à jour données et fixe DRM IVBD;1,5;Dév
+2016-03-30;Aurouze;Dév;3,5;Dév
+2016-03-30;GIILDA;Correction réparition CVO contrats IVBD;3,5;Dév
+2016-03-31;AVA;Récupération des DR et Facturation 2016;4,5;Facturation
+2016-03-31;AVA;Tentative de correction de bug autocomplete permissif;1;Parcellaire
+2016-03-31;GIILDA;Point;1;Dév
