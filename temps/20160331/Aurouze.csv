@@ -1,0 +1,32 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-03-03;Aurouze;Dev;7;Forfait
+2016-03-03;Aurouze;r et D;2,5;mongodb
+2016-03-04;Aurouze;Carto;3,5;Dév
+2016-03-04;Aurouze;Dev;7;Forfait
+2016-03-04;Aurouze;Tickets;7;planification
+2016-03-10;Aurouze;Dév;1;Dév
+2016-03-10;Aurouze;Dev;7;Forfait
+2016-03-10;Aurouze;import des coordonnées d'établissement;5,5;Import
+2016-03-11;Aurouze;Dev;7;Forfait
+2016-03-11;Aurouze;présentation carte et user;5;planification
+2016-03-11;Aurouze;Uniformisation Adresse;3,5;Dév
+2016-03-14;Aurouze;Dev;7;Forfait
+2016-03-14;Aurouze;import des contrats;7;Contrat
+2016-03-14;Aurouze;Marqueur;5,5;Dév
+2016-03-15;Aurouze;Dév;5,5;Dév
+2016-03-15;Aurouze;Dev;7;Forfait
+2016-03-15;Aurouze;gestion des contrats;8;Contrat
+2016-03-16;Aurouze;Dév;7;Dév
+2016-03-16;Aurouze;Dev;7;Forfait
+2016-03-16;Aurouze;gestion des contrats;7;Contrat
+2016-03-21;Aurouze;adaptation des passages et contrats;7;Contrat
+2016-03-21;Aurouze;Dév;6;Dév
+2016-03-21;Aurouze;Dev;7;Forfait
+2016-03-22;Aurouze;adaptation des passages et contrats;8;Reunion
+2016-03-22;Aurouze;Dév;7;Dév
+2016-03-22;Aurouze;Dev;7;Forfait
+2016-03-23;Aurouze;Dev;4;Forfait
+2016-03-29;Aurouze;configuration des prestations;7;configuration
+2016-03-29;Aurouze;Dév;5,5;Dév
+2016-03-30;Aurouze;Dév;3,5;Dév
+2016-03-30;Aurouze;remonté des prestations;4;configuration
