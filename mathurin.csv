@@ -1,59 +1,37 @@
-2016-01-05;Giilda;configuration avec entrées sorties revendiquantes;7;Admin
-2016-01-06;Giilda;adaptation detail revendiquant;7;DRM
-2016-01-07;Giilda;pt bloquant DRM et saisie;7;DRM
-2016-01-08;Giilda; arrangement des Factures;7;Facture
-2016-01-11;Giilda;changement pdf pour les lignes de DRM;4;Facture
-2016-01-11;Giilda;maj des details de DRM;4;DRM
-2016-01-11;Giilda;maj elasticsearch;1;Configuration
-2016-01-12;Giilda;Réunion;6;Réunion
-2016-01-12;Vinsdeloire;Changement des facture masque et communication;0,5;TMA
-2016-01-12;Vinsdeloire;Clean des valeur CRD conditionnés;1,5;TMA
-2016-01-13;Giilda;adaptation du pdf pour les lignes de facture DRM contrat;4;Facture
-2016-01-13;Vinsdeloire;Changement des facture (chèque);3;TMA
-2016-01-14;Giilda; adaptation du pdf pour les lignes de facture DRM contrat;7;Facture
-2016-01-15;Giilda;Import des contrat;7;Import
-2016-01-18;Aurouze;Réunion début de projet;7;Plannification
-2016-01-19;Aurouze;dévelloppement MongoDb;7;Plannification
-2016-01-20;Aurouze;Dév;7;Plannification
-2016-01-21;Aurouze;Import des ETB;4;Plannification
-2016-01-21;Giilda;facturation Massive;3;Facture
-2016-01-22;Giilda;facturation Massive;4;Facture
-2016-01-22;Giilda;Remonter DRM dans les contrats;3;DRM
-2016-01-25;Sancerre;réunion technique;4;PréProjet
-2016-01-26;Aurouze;Dév;7;Plannification
-2016-01-27;Aurouze;Dév;6;Plannification
-2016-01-28;Giilda;Adaptation conf * et stock rev;5;DRM
-2016-01-28;Giilda;annulation des contrats;2;Contrat
-2016-01-29;Giilda;Changements Mvt DRM;5;DRM
-2016-02-01;Aurouze;Plannification calendrier;8;Plannification
-2016-02-02;24EME;Malade;7;24EME
-2016-02-03;Giilda;Débridage Admin et CVO;4;Admin
-2016-02-03;Vinsdeloire;Changement taux douane à Date;1;TMA
-2016-02-03;Vinsdeloire;Problème de saisie DRM;1;TMA
-2016-02-03;Vinsdeloire;Problème de saisie DRM Capsule;1;TMA
-2016-02-04;Vinsdeloire;Problème de numéro Fournisseur;1;Compte
-2016-02-04;Vinsdeloire;Problème de synchro migration;6;Garantie ou migration
-2016-02-05;Giilda;Adaptation Droit CVO;7;Admin
-2016-02-07;Giilda;DRM, contrat et Admin;3;Admin
-2016-02-08;Giilda;Fine Tuning;7;Fine Tuning
-2016-02-09;Giilda;Fine Tuning;7;Fine Tuning
-2016-02-10;Giilda;Fine Tuning;7;Fine Tuning
-2016-02-11;Giilda;Fine Tuning;7;Fine Tuning
-2016-02-12;Giilda;Fine Tuning;7;Fine Tuning
-2016-02-15;AVA;Adaptations Parcellaire;10;Parcellaire
-2016-02-16;Giilda;Réactivation des raccourcis;2;DRM
-2016-02-16;Vinsdeloire;Task Mvt DRM et analyse Facture CVO;5;Garantie
-2016-02-17;AVA;Adaptations PDF;1;Parcellaire
-2016-02-17;Giilda;Réactivation des popups;6;DRM
-2016-02-18;24EME;Interview;1;24EME
-2016-02-18;Aurouze;Plannification calendrier;4;Plannification
-2016-02-18;Giilda;Ticket pour la Facturation Libre;3;Facture
-2016-02-19;Aurouze;Réunion fin de sprint;7;Plannification
-2016-02-19;Giilda;Point téléphonique avec Eric;1;DRM
-2016-02-22;AVA;Tirage Crémant;10,5;Tirage
-2016-02-23;Giilda;Tickets;7;DRM
-2016-02-24;Giilda;Tickets;2;Accueil
-2016-02-24;Giilda;Tickets;6;DRM
-2016-02-25;Giilda;Tickets;7;DRM
-2016-02-26;Giilda;Tickets;7;Contact
-2016-02-29;AVA;Tirage Crémant;8;Tirage
+2016-03-01;Giilda;Tickets;11,5;Contact
+2016-03-02;Giilda;Tickets;12,5;Contact
+2016-03-03;Aurouze;r et D;2,5;mongodb
+2016-03-03;Giilda;Tickets;4,5;import
+2016-03-04;Aurouze;Tickets;7;planification
+2016-03-07;24ème;Facturation pour actualys;2,5;24ème
+2016-03-07;Giilda;Etablissements et point téléphonique;1,5;Mis en prod
+2016-03-07;VINSI;réparation de bug;3,5;TMA
+2016-03-08;Giilda;bug issus de l'enregistrement des lignes de facture;4,5;Facturation
+2016-03-08;Giilda;relais de la tabulation sur le calendrier;2;DRM
+2016-03-09;Giilda;agregat des lignes de facture;2,5;Facturation
+2016-03-10;Aurouze;import des coordonnées d'établissement;5,5;import
+2016-03-10;Giilda;ligne de facture depuis mvt multiples;3;Facturation
+2016-03-11;Aurouze;présentation carte et user;5;planification
+2016-03-11;VINSI;export bi des igp;2;TMA
+2016-03-14;Aurouze;import des contrats;7;contrat
+2016-03-15;Aurouze;gestion des contrats;8;contrat
+2016-03-16;Aurouze;gestion des contrats;7;contrat
+2016-03-17;Giilda;Tickets DRM et contrat;7;contrat
+2016-03-17;VINSI;Export IGP et controle tag manuel ;1;TMA
+2016-03-18;Giilda;Tickets DRM et contrat;4,5;contrat
+2016-03-18;VINSI;Export facturation 2016;3;TMA
+2016-03-21;Aurouze;adaptation des passages et contrats;7;Contrat
+2016-03-21;VINSI;manipulation Contrat ;1;TMA
+2016-03-22;Aurouze;adaptation des passages et contrats;8;Reunion
+2016-03-23;24EME;Gestion Urssaf et papiers;1;24EME
+2016-03-23;Giilda;Contrat Export;6;Export IGP
+2016-03-23;VINSI;réparation DS et numéro archivage contrat ;2;TMA
+2016-03-24;24EME;Gestion Urssaf et papiers;1,5;24EME
+2016-03-24;Giilda;correction DRMS;1;Import
+2016-03-24;Giilda;correction facturation libre;5;Facture
+2016-03-25;Giilda;adaptation facture libre;6;Facture
+2016-03-25;Giilda;Tickets contrat ivso;1;contrat
+2016-03-29;Aurouze;configuration des prestations;7;configuration
+2016-03-30;Aurouze;remonté des prestations;4;configuration
+2016-03-30;Giilda;correction de l'import et adaptation de la facturation;3;import
+2016-03-31;Giilda;traitement export bi;7;export bi
