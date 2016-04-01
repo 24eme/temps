@@ -413,3 +413,43 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-02-26;GIILDA;Dév;7;Dév
 2016-02-29;AVA;Fix bug parcellaire;2,5;Parcellaire
 2016-02-29;GIILDA;Import;5,5;Import
+2016-03-01;AVA;Parcellaire corrections et envoi aux acheteurs;3;Parcellaire
+2016-03-01;AVA;Tirage corrections;1,5;Tirage
+2016-03-01;GIILDA;Corrections;4;Dév
+2016-03-02;GIILDA;Reformatage des comptes;10;Dév
+2016-03-03;GIILDA;Reformatage des comptes;7;Dév
+2016-03-04;Aurouze;Carto;3,5;Dév
+2016-03-04;AVA;Fix bug;1;TMA
+2016-03-04;GIILDA;Fix bug import;1,5;Dév
+2016-03-07;24ème;Facturation;3,5;24ème
+2016-03-07;GIILDA;Mise en prod;3,5;Dév
+2016-03-08;GIILDA;Corrections;3,5;Dév
+2016-03-09;CIVA;Mise à jour du verso du PDF contrat;1;TMA
+2016-03-09;GIILDA;Cohérence de stocks;2,5;Dév
+2016-03-10;Aurouze;Dév;1;Dév
+2016-03-10;GIILDA;Cohérence de stocks;4;Dév
+2016-03-11;Aurouze;Uniformisation Adresse;3,5;Dév
+2016-03-11;CIVA;Mise à jour des tiers;0,5;TMA
+2016-03-11;GIILDA;Fix Import;3,5;Dév
+2016-03-12;GIILDA;Fix bug import;1;Dév
+2016-03-14;Aurouze;Marqueur;5,5;Dév
+2016-03-14;GIILDA;Mise à jour données;1,5;Dév
+2016-03-15;Aurouze;Dév;5,5;Dév
+2016-03-15;AVA;Envoi acheteurs après désactivation;1,5;Parcellaire
+2016-03-16;Aurouze;Dév;7;Dév
+2016-03-17;GIILDA;Dév;5;Dév
+2016-03-18;GIILDA;Dév;7;Dév
+2016-03-21;Aurouze;Dév;6;Dév
+2016-03-21;GIILDA;Mise à jour données;1;Dév
+2016-03-22;Aurouze;Dév;7;Dév
+2016-03-23;AVA;Démarrage d'une ancienne drev et problème liste dégustateurs expers;1,5;TMA
+2016-03-23;GIILDA;Import des interlocuteurs IVSO;4;Dév
+2016-03-24;GIILDA;Dév;6;Dév
+2016-03-25;GIILDA;Dév;6;Dév
+2016-03-29;Aurouze;Dév;5,5;Dév
+2016-03-29;GIILDA;Mise à jour données et fixe DRM IVBD;1,5;Dév
+2016-03-30;Aurouze;Dév;3,5;Dév
+2016-03-30;GIILDA;Correction réparition CVO contrats IVBD;3,5;Dév
+2016-03-31;AVA;Récupération des DR et Facturation 2016;4,5;Facturation
+2016-03-31;AVA;Tentative de correction de bug autocomplete permissif;1;Parcellaire
+2016-03-31;GIILDA;Point;1;Dév
