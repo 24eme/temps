@@ -1,0 +1,36 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24ème;24ème;8,5;1,2
+24ème;TOTAL;8,5;1,2
+Aurouze;configuration;11;1,6
+Aurouze;Contrat;29;4,1
+Aurouze;Dév;48;6,9
+Aurouze;Forfait;67;9,6
+Aurouze;Import;5,5;0,8
+Aurouze;mongodb;2,5;0,4
+Aurouze;planification;12;1,7
+Aurouze;Reunion;8;1,1
+Aurouze;TOTAL;183;26,1
+AVA;Facturation;4,5;0,6
+AVA;Parcellaire;5,5;0,8
+AVA;Tirage;1,5;0,2
+AVA;TMA;2,5;0,4
+AVA;TOTAL;14;2,0
+CIVA;TMA;1,5;0,2
+CIVA;TOTAL;1,5;0,2
+DeclarVins;Forfait;31;4,4
+DeclarVins;TMA;33,5;4,8
+DeclarVins;TOTAL;64,5;9,2
+GIILDA;Contact;24;3,4
+GIILDA;Contrat;12,5;1,8
+GIILDA;Dév;77;11,0
+GIILDA;DRM;2;0,3
+GIILDA;export bi;7;1,0
+GIILDA;Export IGP;6;0,9
+GIILDA;Facturation;10;1,4
+GIILDA;Facture;11;1,6
+GIILDA;Forfait;19;2,7
+GIILDA;Import;8,5;1,2
+GIILDA;Mis en prod;1,5;0,2
+GIILDA;TOTAL;178,5;25,5
+VINSI;TMA;12,5;1,8
+VINSI;TOTAL;12,5;1,8
