@@ -1,37 +1,40 @@
-2016-03-01;Giilda;Tickets;11,5;Contact
-2016-03-02;Giilda;Tickets;12,5;Contact
-2016-03-03;Aurouze;r et D;2,5;mongodb
-2016-03-03;Giilda;Tickets;4,5;import
-2016-03-04;Aurouze;Tickets;7;planification
-2016-03-07;24ème;Facturation pour actualys;2,5;24ème
-2016-03-07;Giilda;Etablissements et point téléphonique;1,5;Mis en prod
-2016-03-07;VINSI;réparation de bug;3,5;TMA
-2016-03-08;Giilda;bug issus de l'enregistrement des lignes de facture;4,5;Facturation
-2016-03-08;Giilda;relais de la tabulation sur le calendrier;2;DRM
-2016-03-09;Giilda;agregat des lignes de facture;2,5;Facturation
-2016-03-10;Aurouze;import des coordonnées d'établissement;5,5;import
-2016-03-10;Giilda;ligne de facture depuis mvt multiples;3;Facturation
-2016-03-11;Aurouze;présentation carte et user;5;planification
-2016-03-11;VINSI;export bi des igp;2;TMA
-2016-03-14;Aurouze;import des contrats;7;contrat
-2016-03-15;Aurouze;gestion des contrats;8;contrat
-2016-03-16;Aurouze;gestion des contrats;7;contrat
-2016-03-17;Giilda;Tickets DRM et contrat;7;contrat
-2016-03-17;VINSI;Export IGP et controle tag manuel ;1;TMA
-2016-03-18;Giilda;Tickets DRM et contrat;4,5;contrat
-2016-03-18;VINSI;Export facturation 2016;3;TMA
-2016-03-21;Aurouze;adaptation des passages et contrats;7;Contrat
-2016-03-21;VINSI;manipulation Contrat ;1;TMA
-2016-03-22;Aurouze;adaptation des passages et contrats;8;Reunion
-2016-03-23;24EME;Gestion Urssaf et papiers;1;24EME
-2016-03-23;Giilda;Contrat Export;6;Export IGP
-2016-03-23;VINSI;réparation DS et numéro archivage contrat ;2;TMA
-2016-03-24;24EME;Gestion Urssaf et papiers;1,5;24EME
-2016-03-24;Giilda;correction DRMS;1;Import
-2016-03-24;Giilda;correction facturation libre;5;Facture
-2016-03-25;Giilda;adaptation facture libre;6;Facture
-2016-03-25;Giilda;Tickets contrat ivso;1;contrat
-2016-03-29;Aurouze;configuration des prestations;7;configuration
-2016-03-30;Aurouze;remonté des prestations;4;configuration
-2016-03-30;Giilda;correction de l'import et adaptation de la facturation;3;import
-2016-03-31;Giilda;traitement export bi;7;export bi
+2016-04-04;Aurouze;transformation structure des contrats et passages;7;contrat
+2016-04-05;Aurouze;transformation structure des contrats et passages;7;import
+2016-04-06;Giilda;contrat igp fa;6;export France agrimer
+2016-04-06;VINSI;recherche problème CVO;1;TMA
+2016-04-07;Giilda;avancement mis en production;1;réunion
+2016-04-07;Giilda;gestion pdf facture libre;2,5;Facturation
+2016-04-07;VINSI;correction problème répartition et gestion preprod;2;TMA
+2016-04-07;VINSI;DRM igp et problème de facturation;2;réunion
+2016-04-08;Giilda;contrat igp fa;3;export France agrimer
+2016-04-08;Giilda;gestion pt bloquant et commentaire;1;contrat
+2016-04-08;VINSI;bug d'export bi;3;TMA
+2016-04-08;VINSI;erreur saisi droit douane;1;TMA
+2016-04-10;24EME;Gestion facturation ratée;0,5;24EME
+2016-04-11;Aurouze;gestion des prestatations dans les contrats;7;contrat
+2016-04-12;Giilda;IVBD export bi;2;export Bi
+2016-04-12;VINSI;bug d'export bi;1;TMA
+2016-04-12;VINSI;Facturation 100% viti;3;TMA
+2016-04-13;CIVA;Reunion DRM;7;Reunion
+2016-04-13;Giilda;IVBD export bi contrat annulés;1;export Bi
+2016-04-14;CIVA;Reunion DRM;4;Reunion
+2016-04-14;Giilda;contrat igp fa;3;export France agrimer
+2016-04-14;VINSI;bug alerte;0,5;TMA
+2016-04-14;VINSI;bug d'export bi;0,5;TMA
+2016-04-15;Aurouze;enregistrements contrats et produits;7;contrat
+2016-04-18;Aurouze;import des passages;9;import
+2016-04-19;Aurouze;gestion de l'import;7;import
+2016-04-20;Aurouze;gestion de l'import;7;import
+2016-04-21;Aurouze;import et post process d'import;8;import
+2016-04-22;Aurouze;maj vue passage et contrat;7;passages
+2016-04-25;24EME;Gestion facturation ratée;1;24EME
+2016-04-25;Aurouze;visu passages;6;passages
+2016-04-25;Giilda;IVSO lancement cron FA;0,5;contrat FA
+2016-04-26;Aurouze;import comptes et visu comptes;8;comptes
+2016-04-27;Aurouze;passages, contrats, calendrier;8;plannification
+2016-04-28;Aurouze;début import factures;2,5;import
+2016-04-28;Giilda;petit bug dans l'export FA;1;contrat FA
+2016-04-28;VINSI;gestion IGP dans contrat;3;Contrat IGP
+2016-04-28;VINSI;reunion telephonique;1,5;reunion
+2016-04-29;Aurouze;épurement des préstation;5;import
+2016-04-29;Aurouze;import factures;2;import
