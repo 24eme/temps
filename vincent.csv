@@ -453,3 +453,46 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-03-31;AVA;Récupération des DR et Facturation 2016;4,5;Facturation
 2016-03-31;AVA;Tentative de correction de bug autocomplete permissif;1;Parcellaire
 2016-03-31;GIILDA;Point;1;Dév
+2016-04-01;24ème;Facturation Avril;3,5;24ème
+2016-04-01;AVA;Bug Facturation 2016 et tournée;3;Facturation
+2016-04-01;GIILDA;Serveur;0,5;AdminSys
+2016-04-04;Aurouze;Dév;5;Dév
+2016-04-04;AVA;Bug Facturation 2016;2;Facturation
+2016-04-05;Aurouze;Dév;5,5;Dév
+2016-04-05;AVA;Fixe bug tournée;1;TMA
+2016-04-05;GIILDA;Export BI;0,5;Dév
+2016-04-06;AVA;Fix bug tournée;3,5;TMA
+2016-04-06;VINSI;Intervention DRM + tableau des mouvements;1;TMA
+2016-04-07;AVA;Facturation 2016;1,5;TMA
+2016-04-08;24ème;Problème TVA Facturation Avril;1,5;24ème
+2016-04-08;AVA;Bug Facturation 2016;2;Facturation
+2016-04-08;CIVA;Conversion db2 en CSV;3;DRM
+2016-04-08;VINSI;Intervention DRM;0,5;TMA
+2016-04-11;Aurouze;Dév;2;Dév
+2016-04-11;AVA;Bug Facturation et Tournée;1;TMA
+2016-04-11;CIVA;Mouvement suspendus et acquittés;4;DRM
+2016-04-12;CIVA;Mouvement suspendus et acquittés;7;DRM
+2016-04-13;CIVA;Réunion;7;DRM
+2016-04-14;24ème;Enrichissement projet github et site inernet;2;24ème
+2016-04-14;AVA;Bug Facturation et Tournée;1;TMA
+2016-04-14;CIVA;Réunion;3,5;DRM
+2016-04-15;Aurouze;Dév;6;Dév
+2016-04-18;Aurouze;Dév;7;Dév
+2016-04-19;Aurouze;Dév;3;Dév
+2016-04-19;AVA;Correction Tournée;1;TMA
+2016-04-20;AVA;Correction saisie tournée;0,5;TMA
+2016-04-20;GIILDA;Import IVSO;6,5;Dév
+2016-04-21;Aurouze;Dév;5;Dév
+2016-04-22;Aurouze;Dév;3,5;Dév
+2016-04-22;GIILDA;Import IVSO;3,5;Dév
+2016-04-25;AVA;Fix problème sage;1;TMA
+2016-04-25;GIILDA;Import IVSO;3,5;Dév
+2016-04-26;Aurouze;Dév;1,5;Dév
+2016-04-26;AVA;Intervention Facturation;1;TMA
+2016-04-26;GIILDA;Import IVSO;4;Dév
+2016-04-27;Aurouze;Dév;3,5;Dév
+2016-04-27;AVA;Stats facturation;1;TMA
+2016-04-27;GIILDA;Import IVSO;2,5;Dév
+2016-04-28;AVA;Correction problème d'affichage des acheteurs dans le PDF;1;TMA
+2016-04-28;GIILDA;Import IVSO;6;Dév
+2016-04-29;Aurouze;Dév;4;Dév

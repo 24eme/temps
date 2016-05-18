@@ -328,5 +328,45 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-03-29;DeclarVins;Evol CIEL;7;Forfait
 2016-03-30;DeclarVins;Reunion Avignon;7;TMA
 2016-03-31;DeclarVins;Ticket 17002;4;TMA
-2016-03-31;Tickets 16937 17132;1;TMA
-2016-03-31;Ticket 17076;2;TMA
+2016-03-31;DeclarVins;Tickets 16937 17132;1;TMA
+2016-03-31;DeclarVins;Ticket 17076;2;TMA
+2016-04-01;DeclarVins;Ticket 16885;5;TMA
+2016-04-01;DeclarVins;Ticket 17146;1;TMA
+2016-04-04;DeclarVins;Ticket 17150;3;TMA
+2016-04-04;Aurouze;Dev;4;Forfait
+2016-04-05;Aurouze;Dev;7;Forfait
+2016-04-06;DeclarVins;Ticket 17147;4;TMA
+2016-04-06;DeclarVins;Evol CIEL;3;Forfait
+2016-04-07;DeclarVins;Evol CIEL;7;Forfait
+2016-04-08;DeclarVins;Evol CIEL;7;Forfait
+2016-04-11;Aurouze;Dev;7;Forfait
+2016-04-12;CIVA;DRM;7;Forfait
+2016-04-13;CIVA;Reunion;TMA
+2016-04-14;Aurouze;Dev;7;Forfait
+2016-04-15;DeclarVins;Mise a jour CAS / LDAP pour vinternet;3;TMA
+2016-04-15;Aurouze;Dev;5;Forfait
+2016-04-18;Aurouze;Dev;7;Forfait
+2016-04-19;DeclarVins;Evol CIEL;7;Forfait
+2016-04-20;24eme;Malade;
+2016-04-21;DeclarVins;Evol CIEL;7;Forfait
+2016-04-22;Aurouze;Dev;7;Forfait
+2016-04-25;Aurouze;Dev;7;Forfait
+2016-04-26;Aurouze;Dev;7;Forfait
+2016-04-27;Aurouze;Dev;7;Forfait
+2016-04-28;24eme;FranceViande Preparation;
+2016-04-28;DeclarVins;Evol CIEL;2;Forfait
+2016-04-29;24eme;FranceViande Preparation + RDV;
+2016-04-29;Aurouze;Dev;3;Forfait
+2016-05-02;Aurouze;Dev;7;Forfait
+2016-05-03;24eme;Osteo;
+2016-05-04;Aurouze;Dev;7;Forfait
+2016-05-05;24eme;Ferie;
+2016-05-06;24eme;Pont;
+2016-05-09;Aurouze;Dev;7;Forfait
+2016-05-10;Aurouze;Dev;7;Forfait
+2016-05-11;Aurouze;Dev;7;Forfait
+2016-05-12;Aurouze;Dev;7;Forfait
+2016-05-13;Aurouze;Dev;7;Forfait
+2016-05-16;24eme;Ferie;
+2016-05-17;Aurouze;Dev;2;Forfait
+2016-05-17;24eme;Point
