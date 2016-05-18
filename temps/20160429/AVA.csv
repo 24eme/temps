@@ -1,0 +1,15 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-04-01;AVA;Bug Facturation 2016 et tournée;3;Facturation
+2016-04-04;AVA;Bug Facturation 2016;2;Facturation
+2016-04-05;AVA;Fixe bug tournée;1;TMA
+2016-04-06;AVA;Fix bug tournée;3,5;TMA
+2016-04-07;AVA;Facturation 2016;1,5;TMA
+2016-04-08;AVA;Bug Facturation 2016;2;Facturation
+2016-04-11;AVA;Bug Facturation et Tournée;1;TMA
+2016-04-14;AVA;Bug Facturation et Tournée;1;TMA
+2016-04-19;AVA;Correction Tournée;1;TMA
+2016-04-20;AVA;Correction saisie tournée;0,5;TMA
+2016-04-25;AVA;Fix problème sage;1;TMA
+2016-04-26;AVA;Intervention Facturation;1;TMA
+2016-04-27;AVA;Stats facturation;1;TMA
+2016-04-28;AVA;Correction problème d'affichage des acheteurs dans le PDF;1;TMA

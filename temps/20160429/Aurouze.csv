@@ -1,0 +1,38 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-04-04;Aurouze;Dev;4;Forfait
+2016-04-04;Aurouze;Dév;5;Dév
+2016-04-04;Aurouze;transformation structure des contrats et passages;7;contrat
+2016-04-05;Aurouze;Dév;5,5;Dév
+2016-04-05;Aurouze;Dev;7;Forfait
+2016-04-05;Aurouze;transformation structure des contrats et passages;7;import
+2016-04-11;Aurouze;Dév;2;Dév
+2016-04-11;Aurouze;Dev;7;Forfait
+2016-04-11;Aurouze;gestion des prestatations dans les contrats;7;contrat
+2016-04-14;Aurouze;Dev;7;Forfait
+2016-04-15;Aurouze;Dev;5;Forfait
+2016-04-15;Aurouze;Dév;6;Dév
+2016-04-15;Aurouze;enregistrements contrats et produits;7;contrat
+2016-04-18;Aurouze;Dév;7;Dév
+2016-04-18;Aurouze;Dev;7;Forfait
+2016-04-18;Aurouze;import des passages;9;import
+2016-04-19;Aurouze;Dév;3;Dév
+2016-04-19;Aurouze;gestion de l'import;7;import
+2016-04-20;Aurouze;gestion de l'import;7;import
+2016-04-21;Aurouze;Dév;5;Dév
+2016-04-21;Aurouze;import et post process d'import;8;import
+2016-04-22;Aurouze;Dév;3,5;Dév
+2016-04-22;Aurouze;Dev;7;Forfait
+2016-04-22;Aurouze;maj vue passage et contrat;7;passages
+2016-04-25;Aurouze;Dev;7;Forfait
+2016-04-25;Aurouze;visu passages;6;passages
+2016-04-26;Aurouze;Dév;1,5;Dév
+2016-04-26;Aurouze;Dev;7;Forfait
+2016-04-26;Aurouze;import comptes et visu comptes;8;comptes
+2016-04-27;Aurouze;Dév;3,5;Dév
+2016-04-27;Aurouze;Dev;7;Forfait
+2016-04-27;Aurouze;passages, contrats, calendrier;8;plannification
+2016-04-28;Aurouze;début import factures;2,5;import
+2016-04-29;Aurouze;Dev;3;Forfait
+2016-04-29;Aurouze;Dév;4;Dév
+2016-04-29;Aurouze;épurement des préstation;5;import
+2016-04-29;Aurouze;import factures;2;import

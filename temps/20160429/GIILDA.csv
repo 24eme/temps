@@ -1,0 +1,20 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-04-01;GIILDA;Serveur;0,5;AdminSys
+2016-04-01;GIILDA;traitement export bi;6;export bi
+2016-04-05;GIILDA;Export BI;0,5;Dév
+2016-04-06;GIILDA;contrat igp fa;6;export France agrimer
+2016-04-07;GIILDA;avancement mis en production;1;Réunion
+2016-04-07;GIILDA;gestion pdf facture libre;2,5;Facturation
+2016-04-08;GIILDA;contrat igp fa;3;export France agrimer
+2016-04-08;GIILDA;gestion pt bloquant et commentaire;1;contrat
+2016-04-12;GIILDA;IVBD export bi;2;export Bi
+2016-04-13;GIILDA;IVBD export bi contrat annulés;1;export Bi
+2016-04-14;GIILDA;contrat igp fa;3;export France agrimer
+2016-04-20;GIILDA;Import IVSO;6,5;Dév
+2016-04-22;GIILDA;Import IVSO;3,5;Dév
+2016-04-25;GIILDA;Import IVSO;3,5;Dév
+2016-04-25;GIILDA;IVSO lancement cron FA;0,5;contrat FA
+2016-04-26;GIILDA;Import IVSO;4;Dév
+2016-04-27;GIILDA;Import IVSO;2,5;Dév
+2016-04-28;GIILDA;Import IVSO;6;Dév
+2016-04-28;GIILDA;petit bug dans l'export FA;1;contrat FA
