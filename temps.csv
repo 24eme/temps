@@ -1,1 +1,113 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2016-04-01;DeclarVins;Ticket 16885;5;TMA
+2016-04-01;DeclarVins;Ticket 17146;1;TMA
+2016-04-04;DeclarVins;Ticket 17150;3;TMA
+2016-04-04;Aurouze;Dev;4;Forfait
+2016-04-05;Aurouze;Dev;7;Forfait
+2016-04-06;DeclarVins;Ticket 17147;4;TMA
+2016-04-06;DeclarVins;Evol CIEL;3;Forfait
+2016-04-07;DeclarVins;Evol CIEL;7;Forfait
+2016-04-08;DeclarVins;Evol CIEL;7;Forfait
+2016-04-11;Aurouze;Dev;7;Forfait
+2016-04-12;CIVA;DRM;7;Forfait
+2016-04-13;CIVA;Reunion;7;Réunion
+2016-04-14;Aurouze;Dev;7;Forfait
+2016-04-15;DeclarVins;Mise a jour CAS / LDAP pour vinternet;3;TMA
+2016-04-15;Aurouze;Dev;5;Forfait
+2016-04-18;Aurouze;Dev;7;Forfait
+2016-04-19;DeclarVins;Evol CIEL;7;Forfait
+2016-04-20;24ème;Malade;0;24ème
+2016-04-21;DeclarVins;Evol CIEL;7;Forfait
+2016-04-22;Aurouze;Dev;7;Forfait
+2016-04-25;Aurouze;Dev;7;Forfait
+2016-04-26;Aurouze;Dev;7;Forfait
+2016-04-27;Aurouze;Dev;7;Forfait
+2016-04-28;24ème;FranceViande Preparation;0;24ème
+2016-04-28;DeclarVins;Evol CIEL;2;Forfait
+2016-04-29;24ème;FranceViande Preparation + RDV;0;24ème
+2016-04-29;Aurouze;Dev;3;Forfait
+2016-04-01;GIILDA;traitement export bi;6;export bi
+2016-04-01;VINSI;Controle Facturation 2015;1;TMA
+2016-04-04;Aurouze;transformation structure des contrats et passages;7;contrat
+2016-04-05;Aurouze;transformation structure des contrats et passages;7;import
+2016-04-06;GIILDA;contrat igp fa;6;export France agrimer
+2016-04-06;VINSI;recherche problème CVO;1;TMA
+2016-04-07;GIILDA;avancement mis en production;1;Réunion
+2016-04-07;GIILDA;gestion pdf facture libre;2,5;Facturation
+2016-04-07;VINSI;correction problème répartition et gestion preprod;2;TMA
+2016-04-07;VINSI;DRM igp et problème de facturation;2;Réunion
+2016-04-08;GIILDA;contrat igp fa;3;export France agrimer
+2016-04-08;GIILDA;gestion pt bloquant et commentaire;1;contrat
+2016-04-08;VINSI;bug d'export bi;3;TMA
+2016-04-08;VINSI;erreur saisi droit douane;1;TMA
+2016-04-10;24ème;Gestion facturation ratée;0,5;24ème
+2016-04-11;Aurouze;gestion des prestatations dans les contrats;7;contrat
+2016-04-12;GIILDA;IVBD export bi;2;export Bi
+2016-04-12;VINSI;bug d'export bi;1;TMA
+2016-04-12;VINSI;Facturation 100% viti;3;TMA
+2016-04-13;CIVA;Reunion DRM;7;Réunion
+2016-04-13;GIILDA;IVBD export bi contrat annulés;1;export Bi
+2016-04-14;CIVA;Reunion DRM;4;Réunion
+2016-04-14;GIILDA;contrat igp fa;3;export France agrimer
+2016-04-14;VINSI;bug alerte;0,5;TMA
+2016-04-14;VINSI;bug d'export bi;0,5;TMA
+2016-04-15;Aurouze;enregistrements contrats et produits;7;contrat
+2016-04-18;Aurouze;import des passages;9;import
+2016-04-19;Aurouze;gestion de l'import;7;import
+2016-04-20;Aurouze;gestion de l'import;7;import
+2016-04-21;Aurouze;import et post process d'import;8;import
+2016-04-22;Aurouze;maj vue passage et contrat;7;passages
+2016-04-25;24ème;Gestion facturation ratée;1;24ème
+2016-04-25;Aurouze;visu passages;6;passages
+2016-04-25;GIILDA;IVSO lancement cron FA;0,5;contrat FA
+2016-04-26;Aurouze;import comptes et visu comptes;8;comptes
+2016-04-27;Aurouze;passages, contrats, calendrier;8;plannification
+2016-04-28;Aurouze;début import factures;2,5;import
+2016-04-28;GIILDA;petit bug dans l'export FA;1;contrat FA
+2016-04-28;VINSI;gestion IGP dans contrat;3;Contrat IGP
+2016-04-28;VINSI;reunion telephonique;1,5;Réunion
+2016-04-29;Aurouze;épurement des préstation;5;import
+2016-04-29;Aurouze;import factures;2;import
+2016-04-01;24ème;Facturation Avril;3,5;24ème
+2016-04-01;AVA;Bug Facturation 2016 et tournée;3;Facturation
+2016-04-01;GIILDA;Serveur;0,5;AdminSys
+2016-04-04;Aurouze;Dév;5;Dév
+2016-04-04;AVA;Bug Facturation 2016;2;Facturation
+2016-04-05;Aurouze;Dév;5,5;Dév
+2016-04-05;AVA;Fixe bug tournée;1;TMA
+2016-04-05;GIILDA;Export BI;0,5;Dév
+2016-04-06;AVA;Fix bug tournée;3,5;TMA
+2016-04-06;VINSI;Intervention DRM + tableau des mouvements;1;TMA
+2016-04-07;AVA;Facturation 2016;1,5;TMA
+2016-04-08;24ème;Problème TVA Facturation Avril;1,5;24ème
+2016-04-08;AVA;Bug Facturation 2016;2;Facturation
+2016-04-08;CIVA;Conversion db2 en CSV;3;DRM
+2016-04-08;VINSI;Intervention DRM;0,5;TMA
+2016-04-11;Aurouze;Dév;2;Dév
+2016-04-11;AVA;Bug Facturation et Tournée;1;TMA
+2016-04-11;CIVA;Mouvement suspendus et acquittés;4;DRM
+2016-04-12;CIVA;Mouvement suspendus et acquittés;7;DRM
+2016-04-13;CIVA;Réunion;7;Réunion
+2016-04-14;24ème;Enrichissement projet github et site inernet;2;24ème
+2016-04-14;AVA;Bug Facturation et Tournée;1;TMA
+2016-04-14;CIVA;Réunion;3,5;DRM
+2016-04-15;Aurouze;Dév;6;Dév
+2016-04-18;Aurouze;Dév;7;Dév
+2016-04-19;Aurouze;Dév;3;Dév
+2016-04-19;AVA;Correction Tournée;1;TMA
+2016-04-20;AVA;Correction saisie tournée;0,5;TMA
+2016-04-20;GIILDA;Import IVSO;6,5;Dév
+2016-04-21;Aurouze;Dév;5;Dév
+2016-04-22;Aurouze;Dév;3,5;Dév
+2016-04-22;GIILDA;Import IVSO;3,5;Dév
+2016-04-25;AVA;Fix problème sage;1;TMA
+2016-04-25;GIILDA;Import IVSO;3,5;Dév
+2016-04-26;Aurouze;Dév;1,5;Dév
+2016-04-26;AVA;Intervention Facturation;1;TMA
+2016-04-26;GIILDA;Import IVSO;4;Dév
+2016-04-27;Aurouze;Dév;3,5;Dév
+2016-04-27;AVA;Stats facturation;1;TMA
+2016-04-27;GIILDA;Import IVSO;2,5;Dév
+2016-04-28;AVA;Correction problème d'affichage des acheteurs dans le PDF;1;TMA
+2016-04-28;GIILDA;Import IVSO;6;Dév
+2016-04-29;Aurouze;Dév;4;Dév
