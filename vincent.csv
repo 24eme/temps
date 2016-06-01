@@ -496,3 +496,40 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-04-28;AVA;Correction problème d'affichage des acheteurs dans le PDF;1;TMA
 2016-04-28;GIILDA;Import IVSO;6;Dév
 2016-04-29;Aurouze;Dév;4;Dév
+2016-05-02;Aurouze;Dév;7;Dév
+2016-05-03;Aurouze;Dév;7;Dév
+2016-05-04;Aurouze;Dév;5;Dév
+2016-05-04;AVA;Mise à jour courrier puis intervention diverse;1;TMA
+2016-05-06;Aurouze;Dév;7;Dév
+2016-05-07;Aurouze;Dév;2,5;Dév
+2016-05-08;Aurouze;Dév;7;Dév
+2016-05-09;Aurouze;Dév;7;Dév
+2016-05-10;Aurouze;Dév;7;Dév
+2016-05-11;Aurouze;Dév;7;Dév
+2016-05-12;Aurouze;Dév;7;Dév
+2016-05-13;Aurouze;Dév;6,5;Dév
+2016-05-13;AVA;Interventions Corrections;0,5;TMA
+2016-05-16;Aurouze;Dév;4;Dév
+2016-05-17;Aurouze;Dév;3,5;Dév
+2016-05-18;24ème;Temps et facturation;3,5;24ème
+2016-05-18;Aurouze;Dév;1,5;Dév
+2016-05-18;AVA;Points et corrections;1;TMA
+2016-05-18;GIILDA;Gestion du numéro de contrat dans les factures en configuration;1;Dév
+2016-05-19;Aurouze;Dév;7;Dév
+2016-05-20;Aurouze;Dév;7;Dév
+2016-05-23;GIILDA;Export INAO;1;Dév
+2016-05-24;Aurouze;Dév;1,5;Dév
+2016-05-24;AVA;Interventions et corrections;1;TMA
+2016-05-24;GIILDA;Export INAO;4,5;Dév
+2016-05-25;Aurouze;Dév;3,5;Dév
+2016-05-25;AVA;Interventions et corrections;0,5;TMA
+2016-05-26;24ème;Rendez vous Formation;2,5;24ème
+2016-05-26;Aurouze;Dév;4;Dév
+2016-05-27;Aurouze;Dév;3,5;Dév
+2016-05-27;AVA;Interventions et corrections;1,5;TMA
+2016-05-27;GIILDA;Préparation de l'import global IVBD;1,5;Dév
+2016-05-30;Aurouze;Dév;3;Dév
+2016-05-30;GIILDA;Points, debug et import;2;Dév
+2016-05-31;Aurouze;Dév;5;Dév
+2016-05-31;CIVA;Screenshot DR VT-SGN;1;TMA
+2016-05-31;GIILDA;Points, debug et import;1;Dév
