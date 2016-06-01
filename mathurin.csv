@@ -1,42 +1,34 @@
-2016-04-01;Giilda;traitement export bi;6;export bi
-2016-04-01;VINSI;Controle Facturation 2015;1;TMA
-2016-04-04;Aurouze;transformation structure des contrats et passages;7;contrat
-2016-04-05;Aurouze;transformation structure des contrats et passages;7;import
-2016-04-06;Giilda;contrat igp fa;6;export France agrimer
-2016-04-06;VINSI;recherche problème CVO;1;TMA
-2016-04-07;Giilda;avancement mis en production;1;réunion
-2016-04-07;Giilda;gestion pdf facture libre;2,5;Facturation
-2016-04-07;VINSI;correction problème répartition et gestion preprod;2;TMA
-2016-04-07;VINSI;DRM igp et problème de facturation;2;réunion
-2016-04-08;Giilda;contrat igp fa;3;export France agrimer
-2016-04-08;Giilda;gestion pt bloquant et commentaire;1;contrat
-2016-04-08;VINSI;bug d'export bi;3;TMA
-2016-04-08;VINSI;erreur saisi droit douane;1;TMA
-2016-04-10;24EME;Gestion facturation ratée;0,5;24EME
-2016-04-11;Aurouze;gestion des prestatations dans les contrats;7;contrat
-2016-04-12;Giilda;IVBD export bi;2;export Bi
-2016-04-12;VINSI;bug d'export bi;1;TMA
-2016-04-12;VINSI;Facturation 100% viti;3;TMA
-2016-04-13;CIVA;Reunion DRM;7;Reunion
-2016-04-13;Giilda;IVBD export bi contrat annulés;1;export Bi
-2016-04-14;CIVA;Reunion DRM;4;Reunion
-2016-04-14;Giilda;contrat igp fa;3;export France agrimer
-2016-04-14;VINSI;bug alerte;0,5;TMA
-2016-04-14;VINSI;bug d'export bi;0,5;TMA
-2016-04-15;Aurouze;enregistrements contrats et produits;7;contrat
-2016-04-18;Aurouze;import des passages;9;import
-2016-04-19;Aurouze;gestion de l'import;7;import
-2016-04-20;Aurouze;gestion de l'import;7;import
-2016-04-21;Aurouze;import et post process d'import;8;import
-2016-04-22;Aurouze;maj vue passage et contrat;7;passages
-2016-04-25;24EME;Gestion facturation ratée;1;24EME
-2016-04-25;Aurouze;visu passages;6;passages
-2016-04-25;Giilda;IVSO lancement cron FA;0,5;contrat FA
-2016-04-26;Aurouze;import comptes et visu comptes;8;comptes
-2016-04-27;Aurouze;passages, contrats, calendrier;8;plannification
-2016-04-28;Aurouze;début import factures;2,5;import
-2016-04-28;Giilda;petit bug dans l'export FA;1;contrat FA
-2016-04-28;VINSI;gestion IGP dans contrat;3;Contrat IGP
-2016-04-28;VINSI;reunion telephonique;1,5;reunion
-2016-04-29;Aurouze;épurement des préstation;5;import
-2016-04-29;Aurouze;import factures;2;import
+2016-05-02;Aurouze;facture et commentaires;7;import
+2016-05-02;Giilda;IVSO lancement cron FA;1;contrat FA
+2016-05-03;Aurouze;passages rapides bons bleu;7;passages
+2016-05-04;Aurouze;statut contrats techniciens;8;contrats
+2016-05-05;Aurouze;prestations des passages;8;import
+2016-05-06;Aurouze;créa modif de compte;8;compte
+2016-05-07;Aurouze;visu société et import;5;import
+2016-05-08;Aurouze;résiliation contrat et import;3;Mis en prod
+2016-05-09;Aurouze;Fine tuning Aurouze;8;fine tuning
+2016-05-10;Aurouze;Fine tuning Aurouze;8;fine tuning
+2016-05-11;Aurouze;Fine tuning Aurouze;8;fine tuning
+2016-05-12;Aurouze;Fine tuning Aurouze;8;fine tuning
+2016-05-13;Aurouze;Fine tuning Aurouze;8;fine tuning
+2016-05-14;Aurouze;passages suivants ouverts en inter contrats;1;contrats
+2016-05-17;24EME;point projet;3,5;24EME
+2016-05-17;Aurouze;bon de passage et OSM;3,5;Compte
+2016-05-18;Aurouze;annulation de passage;7;Passage
+2016-05-19;Aurouze;import Paiements;7;Paiements
+2016-05-21;Aurouze;import Paiements 2;2;Paiements
+2016-05-23;24EME;visite médicale;1,5;Visite Médicale
+2016-05-23;Aurouze; Paiements form;2;Paiements
+2016-05-23;Giilda;Adaptation France Agrimer;2;Export
+2016-05-24;Aurouze;Gestion form Etablissements;2;Compte
+2016-05-24;Giilda;Adaptation Facture libre débug;5;Facture
+2016-05-25;Aurouze;Changement de facturation contrat;2,5;Contrat
+2016-05-25;Giilda;Adaptation Facture libre débug;4;Facture
+2016-05-25;Giilda;Export Sage;1,5;Export
+2016-05-25;VINSI;debug pour la saisie des revendiqués;1,5;TMA
+2016-05-26;24EME;rencontre formation;1,5;Formation
+2016-05-26;Aurouze;Paiement et facture;4;Import
+2016-05-26;Giilda;prendre en compte en facturation libre les societes sans etbs;1,5;Facture
+2016-05-27;Aurouze;Paiement saisie et visu;8;Paiement
+2016-05-30;Aurouze;Paiement pdf;3;Paiement
+2016-05-31;Aurouze;facture force cloture et decloture;6;Facture
