@@ -1,0 +1,38 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24EME;;0;0,0
+24EME;24EME;9,5;1,4
+24EME;Formation;1,5;0,2
+24EME;Visite Médicale;1,5;0,2
+24EME;TOTAL;12,5;1,8
+Actualys;TMA;3;0,4
+Actualys;TOTAL;3;0,4
+Aurouze;Compte;5,5;0,8
+Aurouze;compte;8;1,1
+Aurouze;Contrat;2,5;0,4
+Aurouze;contrats;9;1,3
+Aurouze;Dév;113,5;16,2
+Aurouze;Facture;6;0,9
+Aurouze;fine tuning;40;5,7
+Aurouze;Forfait;75;10,7
+Aurouze;import;20;2,9
+Aurouze;Import;4;0,6
+Aurouze;Mis en prod;3;0,4
+Aurouze;Paiement;11;1,6
+Aurouze;Paiements;11;1,6
+Aurouze;Passage;7;1,0
+Aurouze;passages;7;1,0
+Aurouze;TOTAL;322,5;46,1
+AVA;TMA;5,5;0,8
+AVA;TOTAL;5,5;0,8
+CIVA;TMA;1;0,1
+CIVA;TOTAL;1;0,1
+DeclarVins;Forfait;22;3,1
+DeclarVins;TMA;14;2,0
+DeclarVins;TOTAL;36;5,1
+GIILDA;contrat FA;1;0,1
+GIILDA;Dév;11;1,6
+GIILDA;Export;3,5;0,5
+GIILDA;Facture;10,5;1,5
+GIILDA;TOTAL;26;3,7
+VINSI;TMA;1,5;0,2
+VINSI;TOTAL;1,5;0,2

@@ -1,0 +1,13 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-05-02;GIILDA;IVSO lancement cron FA;1;contrat FA
+2016-05-18;GIILDA;Gestion du numéro de contrat dans les factures en configuration;1;Dév
+2016-05-23;GIILDA;Adaptation France Agrimer;2;Export
+2016-05-23;GIILDA;Export INAO;1;Dév
+2016-05-24;GIILDA;Adaptation Facture libre débug;5;Facture
+2016-05-24;GIILDA;Export INAO;4,5;Dév
+2016-05-25;GIILDA;Adaptation Facture libre débug;4;Facture
+2016-05-25;GIILDA;Export Sage;1,5;Export
+2016-05-26;GIILDA;prendre en compte en facturation libre les societes sans etbs;1,5;Facture
+2016-05-27;GIILDA;Préparation de l'import global IVBD;1,5;Dév
+2016-05-30;GIILDA;Points, debug et import;2;Dév
+2016-05-31;GIILDA;Points, debug et import;1;Dév
