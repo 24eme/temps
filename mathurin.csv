@@ -1,34 +1,31 @@
-2016-05-02;Aurouze;facture et commentaires;7;import
-2016-05-02;Giilda;IVSO lancement cron FA;1;contrat FA
-2016-05-03;Aurouze;passages rapides bons bleu;7;passages
-2016-05-04;Aurouze;statut contrats techniciens;8;contrats
-2016-05-05;Aurouze;prestations des passages;8;import
-2016-05-06;Aurouze;créa modif de compte;8;compte
-2016-05-07;Aurouze;visu société et import;5;import
-2016-05-08;Aurouze;résiliation contrat et import;3;Mis en prod
-2016-05-09;Aurouze;Fine tuning Aurouze;8;fine tuning
-2016-05-10;Aurouze;Fine tuning Aurouze;8;fine tuning
-2016-05-11;Aurouze;Fine tuning Aurouze;8;fine tuning
-2016-05-12;Aurouze;Fine tuning Aurouze;8;fine tuning
-2016-05-13;Aurouze;Fine tuning Aurouze;8;fine tuning
-2016-05-14;Aurouze;passages suivants ouverts en inter contrats;1;contrats
-2016-05-17;24EME;point projet;3,5;24EME
-2016-05-17;Aurouze;bon de passage et OSM;3,5;Compte
-2016-05-18;Aurouze;annulation de passage;7;Passage
-2016-05-19;Aurouze;import Paiements;7;Paiements
-2016-05-21;Aurouze;import Paiements 2;2;Paiements
-2016-05-23;24EME;visite médicale;1,5;Visite Médicale
-2016-05-23;Aurouze; Paiements form;2;Paiements
-2016-05-23;Giilda;Adaptation France Agrimer;2;Export
-2016-05-24;Aurouze;Gestion form Etablissements;2;Compte
-2016-05-24;Giilda;Adaptation Facture libre débug;5;Facture
-2016-05-25;Aurouze;Changement de facturation contrat;2,5;Contrat
-2016-05-25;Giilda;Adaptation Facture libre débug;4;Facture
-2016-05-25;Giilda;Export Sage;1,5;Export
-2016-05-25;VINSI;debug pour la saisie des revendiqués;1,5;TMA
-2016-05-26;24EME;rencontre formation;1,5;Formation
-2016-05-26;Aurouze;Paiement et facture;4;Import
-2016-05-26;Giilda;prendre en compte en facturation libre les societes sans etbs;1,5;Facture
-2016-05-27;Aurouze;Paiement saisie et visu;8;Paiement
-2016-05-30;Aurouze;Paiement pdf;3;Paiement
-2016-05-31;Aurouze;facture force cloture et decloture;6;Facture
+2016-06-01;24EME;bordel de prise de tête;3;Réinstall PC
+2016-06-01;Douane;Réunion téléphonique;1;DRM Douane
+2016-06-01;VINSI;Correction de DRM;1;TMA
+2016-06-02;Aurouze;Pdf et export des factures paiement;4;Paiements
+2016-06-03;Aurouze;impacte de l'encours paiement dans les factures;2;Paiements
+2016-06-03;Giilda;Correction des Factures libre;1;TMA
+2016-06-03;VINSI;Correction Drev;2,5;TMA
+2016-06-03;VINSI;PDF facture;1,5;TMA
+2016-06-06;Aurouze;Gestion des produits;2,5;Configuration
+2016-06-06;Civa;Adptation PDF dominiquain;2;DRM
+2016-06-06;Civa;réparation Favoris;3;DRM
+2016-06-07;Aurouze;Enregistrement et agrégat Chèques;5;Paiements
+2016-06-07;Civa;Adptation PDF dominiquain;3;DRM
+2016-06-08;Aurouze;Correction document;0,5;Correction BDD
+2016-06-08;Civa;Télédeclaration DRM;7;DRM
+2016-06-09;Civa;Réunion DRM;7;DRM
+2016-06-10;Aurouze;Enregistrement et PDF et avoir;5;Paiements
+2016-06-10;Giilda;tache et correctif pour export Sage;2;Facture
+2016-06-13;Aurouze;Export Paiements et Factures;7;Exports
+2016-06-14;24EME;Réunion Tactical;3;24EME tactical
+2016-06-14;Aurouze;Export Paiements;2;Paiements
+2016-06-14;VINSI;Réunion adaption Douane;2;TMA?
+2016-06-15;Aurouze;Exports comptables et statistiques;7;Exports
+2016-06-16;Giilda;Démat contrat et DRM début;8;Télédeclaration
+2016-06-17;Giilda;Réunion démat;7;Réunion
+2016-06-17;VINSI;Correction document;0,5;DRM
+2016-06-20;Aurouze;export comptable et rapport activité;4;Export
+2016-06-21;Aurouze;Adaptation export comptable et reconduction de contrat;7;Export
+2016-06-22;24EME;Compta;1;24EME
+2016-06-22;24EME;Temps;1;24EME
+2016-06-22;Aurouze;Réparation de la reconduction;1;Aurouze
