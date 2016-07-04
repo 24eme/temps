@@ -533,3 +533,36 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-05-31;Aurouze;Dév;5;Dév
 2016-05-31;CIVA;Screenshot DR VT-SGN;1;TMA
 2016-05-31;GIILDA;Points, debug et import;1;Dév
+2016-06-01;24ème;Temps et Facturation;2,5;24ème
+2016-06-01;Aurouze;Dév;4,5;Dév
+2016-06-02;Aurouze;Dév;3;Dév
+2016-06-03;Aurouze;Dév;7;Dév
+2016-06-06;Aurouze;Dév;1;Dév
+2016-06-06;CIVA;Arbre produit;4;DRM
+2016-06-06;GIILDA;Fix bug log;1;Dév
+2016-06-07;CIVA;Adaptation depuis GIILDA;7;DRM
+2016-06-08;CIVA;Adaptation depuis GIILDA;7;DRM
+2016-06-09;Aurouze;Dév;1;Dév
+2016-06-09;CIVA;Réunion;7;DRM
+2016-06-10;Aurouze;Dév;3;Dév
+2016-06-10;AVA;Débugguage déclaration de tirage;1;TMA
+2016-06-13;Aurouze;Dév;7;Dév
+2016-06-14;24ème;Tactical Meeting;3,5;24ème
+2016-06-14;Aurouze;Dév;3,5;Dév
+2016-06-15;Aurouze;Dév;4;Dév
+2016-06-15;CIVA;Modification du PDF des contrats;1;TMA
+2016-06-20;Formation;Formation Symfony;7;Formation
+2016-06-21;Formation;Formation Symfony;7;Formation
+2016-06-22;Formation;Formation Symfony;7;Formation
+2016-06-23;24ème;Note de frais carte bleu;1;24ème
+2016-06-23;24ème;Point;2;24ème
+2016-06-23;24ème;Temps;1;24ème
+2016-06-23;AVA;Traitement divers Facturation, tirage crémant;1;TMA
+2016-06-24;AVA;Traitement divers Facturation, tirage crémant;1;TMA
+2016-06-24;CIVA;Migration des comptes;4;Migration des comptes
+2016-06-25;Formation;Documentation du projet GIT;2;Formation
+2016-06-27;CIVA;Migration des comptes;1;Migration des comptes
+2016-06-27;Savoie;Réunion commerciale et préparation;4;Savoie
+2016-06-28;CIVA;Migration des comptes;6;Migration des comptes
+2016-06-29;CIVA;Migration des comptes;5;Migration des comptes
+2016-06-30;CIVA;Migration des comptes;5;Migration des comptes
