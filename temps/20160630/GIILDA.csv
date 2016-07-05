@@ -1,0 +1,12 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-06-03;GIILDA;Correction des Factures libre;1;TMA
+2016-06-06;GIILDA;Fix bug log;1;Dév
+2016-06-10;GIILDA;tache et correctif pour export Sage;2;Facture
+2016-06-16;GIILDA;Démat contrat et DRM début;8;Télédeclaration
+2016-06-17;GIILDA;Réunion démat;7;Réunion
+2016-06-22;GIILDA;Rétablissement de l'annuaire;3;Télédeclaration
+2016-06-23;GIILDA;Intégration de l'annuaire;3;Télédeclaration
+2016-06-27;GIILDA;Mis à jour vue contrat et adaptation de la remontée des infos;3,5;Télédeclaration
+2016-06-28;GIILDA;No cas et connexion;7;Télédeclaration
+2016-06-29;GIILDA;Popup signature et gestion contrat;7;Télédeclaration
+2016-06-30;GIILDA;Intégration vrac popup création DRM;3;Télédeclaration

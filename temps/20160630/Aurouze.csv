@@ -1,0 +1,31 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-06-01;Aurouze;Dév;4,5;Dév
+2016-06-02;Aurouze;Dév;3;Dév
+2016-06-02;Aurouze;Pdf et export des factures paiement;4;Paiements
+2016-06-03;Aurouze;Dév;7;Dév
+2016-06-03;Aurouze;impacte de l'encours paiement dans les factures;2;Paiements
+2016-06-06;Aurouze;Dév;1;Dév
+2016-06-06;Aurouze;Gestion des produits;2,5;Configuration
+2016-06-07;Aurouze;Enregistrement et agrégat Chèques;5;Paiements
+2016-06-08;Aurouze;Correction document;0,5;Correction BDD
+2016-06-09;Aurouze;Dév;1;Dév
+2016-06-10;Aurouze;Dév;3;Dév
+2016-06-10;Aurouze;Enregistrement et PDF et avoir;5;Paiements
+2016-06-13;Aurouze;Dév;7;Dév
+2016-06-13;Aurouze;Dev recherche avancee;5;Forfait
+2016-06-13;Aurouze;Export Paiements et Factures;7;Exports
+2016-06-14;Aurouze;Dév;3,5;Dév
+2016-06-14;Aurouze;Export Paiements;2;Paiements
+2016-06-15;Aurouze;Dév;4;Dév
+2016-06-15;Aurouze;Dev recherche avancee;4;Forfait
+2016-06-15;Aurouze;Exports comptables et statistiques;7;Exports
+2016-06-16;Aurouze;Dev recherche avancee;7;Forfait
+2016-06-17;Aurouze;Dev recherche avancee;7;Forfait
+2016-06-20;Aurouze;Dev recherche avancee;4;Forfait
+2016-06-20;Aurouze;export comptable et rapport activité;4;Export
+2016-06-21;Aurouze;Adaptation export comptable et reconduction de contrat;7;Export
+2016-06-21;Aurouze;Dev correctifs;5;Forfait
+2016-06-22;Aurouze;Dev liste passages print;4;Forfait
+2016-06-22;Aurouze;Réparation de la reconduction;1;Aurouze
+2016-06-30;Aurouze;export comptable et rapport activité débridable;3;Export
+2016-06-30;Aurouze;Recherche avancée + montée de version;4;Forfait
