@@ -1,34 +1,24 @@
-2016-07-01;Giilda;Télédeclaration avec mutualisation fctlités civa ;7;Télédeclaration
-2016-07-04;Giilda;Télédeclaration DRM vue et PDF ;7;Télédeclaration
-2016-07-05;VINSI;Changement du PDF des Igp;3;Contrat IGP
-2016-07-05;VINSI;Résolution de problèmes dans les revendiqués (format fichier);4;TMA
-2016-07-06;Aurouze;exports génériques en popup;4;Export
-2016-07-06;Giilda;Tache annuaire;2;Télédeclaration
-2016-07-06;VINSI;Changement du PDF des Igp;1,5;Contrat IGP
-2016-07-07;Aurouze;nouvel export pour commerciaux;5;Export
-2016-07-07;Giilda;Mis à jour des mouvements avec Acq et Susp;2;Télédeclaration
-2016-07-11;VINSI;Adaptation annexes douanes;3;DRM Douane
-2016-07-12;Aurouze;Correction d'une export et point tél;1;Export
-2016-07-12;VINSI;Ajout des statistiques Européenes;6;DRM Douane
-2016-07-13;VINSI;Observations au niveau détail;7;DRM Douane
-2016-07-18;24EME;Sauver Victoire;1;Victoire
-2016-07-18;Giilda;Bug reprise DRM avec Acq et Susp;3;Télédeclaration
-2016-07-18;VINSI;Coche dans la popup;3;DRM Douane
-2016-07-19;Giilda;Déploiement Préprod IVBD;3;Télédeclaration
-2016-07-19;Giilda;Inté pour les espaces d'accueil;3;Télédeclaration
-2016-07-20;Giilda;générisisation des mails;3;Télédeclaration
-2016-07-20;Giilda;Inté et picto;3;Télédeclaration
-2016-07-20;VINSI;Téléphone Fanny Vrac IGP;1;Contrat IGP
-2016-07-21;Giilda;Inté des mdp oublié, espace compte...;7;Télédeclaration
-2016-07-22;Giilda;Adaptation Vrac pour courtier;4;Télédeclaration
-2016-07-22;Giilda;Déploiement Préprod IVSO;3;Télédeclaration
-2016-07-25;Giilda;Adaptation écran Soussignés;4;Télédeclaration
-2016-07-25;VINSI;Gestion de coche transmission avec droit;3;DRM Douane
-2016-07-26;Giilda;Reprise Js d'avant;1;Télédeclaration
-2016-07-26;VINSI;Débug IGP en attendant les contrats;1,5;Contrat IGP
-2016-07-27;Aurouze;Adaptation Exports avec évolutions;2;Export
-2016-07-27;Aurouze;Factures libres avec Commerciaux;3,5;Facture
-2016-07-27;Aurouze;Point avec les filles sur évol;2;Réunion
-2016-07-28;Aurouze;Adaptation Exports avec Pdf et tout;4,5;Export
-2016-07-29;24EME;Tsaisie emps;1;Temps
-2016-07-29;Giilda;Mis à jour préprod IVSO et correction bugs;5;Télédeclaration
+2016-08-01;24EME;préparation Bilan Comptable 2016;1;Bilan comptable
+2016-08-01;Giilda;Contrats et DRM réparation popup export;6;Télédeclaration
+2016-08-02;24EME;Bilan Comptable 2016;2;Bilan comptable
+2016-08-02;Giilda;Merge de branche, alignement teledeclaration et master;5;Télédeclaration
+2016-08-03;Aurouze;Ajout de description dans Bon bleu;2;Contrat
+2016-08-03;Civa;Boostrapisation des template début;3;DRM
+2016-08-03;Giilda;Merge et gestion popup;3;Télédeclaration
+2016-08-04;Civa;Inté conforme et réparation Popup;6;DRM
+2016-08-05;Aurouze;Réparation bug Contrat;1;Contrat
+2016-08-05;Civa;Doc EDI;3;DRM EDI
+2016-08-05;VINSI;Doc EDI;3;DRM EDI
+2016-08-08;Civa;Popup inté et popup contrat et vue;7;DRM
+2016-08-09;Civa;Reprise des données des autres doc pour création de DRM;6;DRM
+2016-08-10;Civa;Réparation import EDI ac et susp;6;DRM
+2016-08-11;Civa;Reprise des données autres doc pour création en vue;6;DRM
+2016-08-12;24EME;aide à victoire;2;Victoire
+2016-08-12;Civa;Vue Ac, sups;2;DRM
+2016-08-15;24EME;Point tactical;4;24eme
+2016-08-16;24EME;Orga projet vins;1;VINS
+2016-08-16;Civa;Ajout Annexes, obs;5;DRM
+2016-08-17;Civa;Annexes ajout js, stats europeenes, retrait sucre et droit douanes;6;DRM
+2016-08-18;Civa;Annexes ajout observations pt vigilance et visu et js;6;DRM
+2016-08-19;24EME;faisage de temps;2;24eme
+2016-08-19;Aurouze;Gestion de la reconduction;4;Contrat

@@ -1,0 +1,13 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-07-04;Aurouze;Dév;1;Dév
+2016-07-06;Aurouze;exports génériques en popup;4;Export
+2016-07-06;Aurouze;Recherche avancée, Pagination Facture, Forcer la génération d'une facture;7;Dév
+2016-07-07;Aurouze;nouvel export pour commerciaux;5;Export
+2016-07-08;Aurouze;Recherche avancée, modification d'un passage, correction de bugs;7;Dév
+2016-07-11;Aurouze;Correction export compta;2,5;Dév
+2016-07-12;Aurouze;Correction d'une export et point tél;1;Export
+2016-07-27;Aurouze;Adaptation Exports avec évolutions;2;Export
+2016-07-27;Aurouze;Factures libres avec Commerciaux;3,5;Facture
+2016-07-27;Aurouze;Point avec les filles sur évol;2;Réunion
+2016-07-28;Aurouze;Adaptation Exports avec Pdf et tout;4,5;Export
+2016-07-29;Aurouze;Dev;2;Forfait
