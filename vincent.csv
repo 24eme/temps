@@ -591,3 +591,22 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-07-13;CIVA;Envoi des mails, import des lieux de stockage et Ouverture de la DS;2,5;TMA
 2016-07-13;CIVA;Migration des comptes;3,5;Migration des comptes
 2016-07-13;CIVA;Plugin Configuration et DRM dans le projet;3,5;DRM
+2016-08-15;24ème;Tactical Meeting;3,5;24ème
+2016-08-16;CIVA;Adaptation de la DS à la nouvelle conf;3,5;Migration des comptes
+2016-08-17;CIVA;Adaptation de la DS à la nouvelle conf;5;Migration des comptes
+2016-08-18;CIVA;Adaptation de la DR à la nouvelle conf;7;Migration des comptes
+2016-08-19;CIVA;Adaptation de la DR à la nouvelle conf;2;Migration des comptes
+2016-08-19;CIVA;VTSGN dans la conf de la DR, optimisation de la conf;5;DR VTSGN
+2016-08-22;CIVA;VTSGN dans la DR;4;DR VTSGN
+2016-08-22;VINSI;Fixe bug de reprise de produits non télédéclaré en inter campagne;1;TMA
+2016-08-23;CIVA;VTSGN dans la DR;5;DR VTSGN
+2016-08-24;CIVA;VTSGN dans la DR;3,5;DR VTSGN
+2016-08-25;CIVA;VTSGN dans la DR;3,5;DR VTSGN
+2016-08-26;CIVA;VTSGN dans la DR;7;DR VTSGN
+2016-08-28;CIVA;VTSGN dans la DR;3,5;DR VTSGN
+2016-08-29;CIVA;Réunion CIVA DRM;3,5;DRM
+2016-08-29;CIVA;Réunion CIVA VTSGN;3,5;DR VTSGN
+2016-08-30;CIVA;Correction migration des comptes;2;Migration des comptes
+2016-08-30;CIVA;Réunion CIVA Migration des comptes;3,5;Migration des comptes
+2016-08-31;CIVA;Correction migration des comptes;2,5;Migration des comptes
+2016-08-31;GIILDA;Correction export csv de la facturation et code comptable;2,5;TMA
