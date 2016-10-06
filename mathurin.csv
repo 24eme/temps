@@ -1,24 +1,28 @@
-2016-08-01;24EME;préparation Bilan Comptable 2016;1;Bilan comptable
-2016-08-01;Giilda;Contrats et DRM réparation popup export;6;Télédeclaration
-2016-08-02;24EME;Bilan Comptable 2016;2;Bilan comptable
-2016-08-02;Giilda;Merge de branche, alignement teledeclaration et master;5;Télédeclaration
-2016-08-03;Aurouze;Ajout de description dans Bon bleu;2;Contrat
-2016-08-03;Civa;Boostrapisation des template début;3;DRM
-2016-08-03;Giilda;Merge et gestion popup;3;Télédeclaration
-2016-08-04;Civa;Inté conforme et réparation Popup;6;DRM
-2016-08-05;Aurouze;Réparation bug Contrat;1;Contrat
-2016-08-05;Civa;Doc EDI;3;DRM EDI
-2016-08-05;VINSI;Doc EDI;3;DRM EDI
-2016-08-08;Civa;Popup inté et popup contrat et vue;7;DRM
-2016-08-09;Civa;Reprise des données des autres doc pour création de DRM;6;DRM
-2016-08-10;Civa;Réparation import EDI ac et susp;6;DRM
-2016-08-11;Civa;Reprise des données autres doc pour création en vue;6;DRM
-2016-08-12;24EME;aide à victoire;2;Victoire
-2016-08-12;Civa;Vue Ac, sups;2;DRM
-2016-08-15;24EME;Point tactical;4;24eme
-2016-08-16;24EME;Orga projet vins;1;VINS
-2016-08-16;Civa;Ajout Annexes, obs;5;DRM
-2016-08-17;Civa;Annexes ajout js, stats europeenes, retrait sucre et droit douanes;6;DRM
-2016-08-18;Civa;Annexes ajout observations pt vigilance et visu et js;6;DRM
-2016-08-19;24EME;faisage de temps;2;24eme
-2016-08-19;Aurouze;Gestion de la reconduction;4;Contrat
+2016-09-12;24EME;Retour Vacances dépilage mails;3;24EME
+2016-09-12;VINSI;Modificatrices DRM Aout;1,5;TMA
+2016-09-13;Aurouze;Suppression de doublon;3;Contrat
+2016-09-13;VINSI;Correction bug DRM teledeclare;0,5;TMA
+2016-09-14;Aurouze;code postal dans visu et mois;2;Plannification
+2016-09-14;Aurouze; plus de statut A venir;3;Contrat
+2016-09-14;Aurouze; réparation bugs page passages et reconductions;2;Contrat
+2016-09-15;24EME;Tactical meeting Grands voisins;5;Tactical meeting
+2016-09-15;Aurouze;cohérence des status;2;Passage
+2016-09-16;Aurouze;Retard de paiement;7;Relances
+2016-09-19;Aurouze;Pdf des relances;2;Relances
+2016-09-19;Civa;Fine tuning DR;6;DR
+2016-09-20;Aurouze;filtres des relances et formulaire;2;Relances
+2016-09-20;Civa;ticket DR et protection url;5;DR
+2016-09-21;Giilda;Fine tuning;2;Télédeclaration DRM
+2016-09-21;Giilda;points d'aides IVBD;5;Télédeclaration DRM
+2016-09-22;Aurouze;mini fine tuning;3;Relances
+2016-09-22;Aurouze;pdf spécifiques relances;4;Relances
+2016-09-23;Aurouze;gestion des relances;5;Relances
+2016-09-26;Giilda;80 points d'aides des contrats IVBD;7;Télédeclaration DRM
+2016-09-27;Aurouze;dernière adaptation courriers des relances;5;Relances
+2016-09-27;VINSI;Adaptation xml;1,5;Xml douane
+2016-09-28;Aurouze;bugs timepicker et factures;2;Contrat
+2016-09-28;Giilda;Téléphone à Eric;2;Délire téléphonique avec Eric Hugo
+2016-09-28;VINSI;Préparation test de Fanny;2,5;Xml douane
+2016-09-29;Giilda;Points d'aides et tickets;5;Télédeclaration DRM
+2016-09-29;VINSI;les code inao dans la DRM;3;Xml douane
+2016-09-30;Giilda;Gros merge pour preprod;7;Télédeclaration DRM

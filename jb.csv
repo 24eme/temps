@@ -420,5 +420,126 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-07-27;DeclarVins;Tickets 17596 17594 17604;6;TMA
 2016-07-28;DeclarVins;Ticket 17645;5;TMA
 2016-07-29;DeclarVins;Ticket 17645;3;TMA
-2016-07-29;DeclarVins;EDIV2;2;TMA
+2016-07-29;DeclarVins;EDIV2 #17674;2;TMA
 2016-07-29;Aurouze;Dev;2;Forfait
+2016-08-01;DeclarVins;EDIV2 #17674;5;TMA
+2016-08-01;DeclarVins;Ticket 17575;2;TMA
+2016-08-02;24eme;Bilan comptable + facturation;
+2016-08-02;DeclarVins;EDIV2 #17674;2;TMA
+2016-08-03;DeclarVins;EDIV2 finalisation + doc #17674;5;TMA
+2016-08-03;DeclarVins;adhesion ciel #17584;2;TMA
+2016-08-04;DeclarVins;adhesion ciel #17584;7;TMA
+2016-08-05;DeclarVins;adhesion ciel #17584;4;TMA
+2016-08-08;DeclarVins;adhesion ciel #17584;7;TMA
+2016-08-09;DeclarVins;adhesion ciel #17584;7;TMA
+2016-08-10;DeclarVins;adhesion ciel #17584;5;TMA
+2016-08-10;DeclarVins;Mise a jour doc EDI V2 #17674;2;TMA
+2016-08-11;DeclarVins;Ticket #17582;2;TMA
+2016-08-11;DeclarVins;Ticket #17721;1;TMA
+2016-08-11;DeclarVins;Ticket #17725;1;TMA
+2016-08-11;DeclarVins;Ticket #17580;0.5;TMA
+2016-08-12;DeclarVins;Tickets #17579 #17578;4;TMA
+2016-08-12;DeclarVins;Ticket #17577;1;TMA
+2016-08-12;DeclarVins;Ticket #17558;1;TMA
+2016-08-15;24eme;Tactical meeting;4;
+2016-08-22;DeclarVins;Tickets #17747 #17718;2;TMA
+2016-08-22;DeclarVins;Ticket #17575;1;TMA
+2016-08-22;DeclarVins;Traitement email Marine 22/08 nug transfert ciel + email Brice A. 16/08 erreur 500;2;TMA
+2016-08-23;DeclarVins;Ticket #17740;2;TMA
+2016-08-23;DeclarVins;Ticket #16182;3;TMA
+2016-08-23;DeclarVins;Ticket #17575;1;TMA
+2016-08-23;DeclarVins;Gestion projet CIEL;1;TMA
+2016-08-24;DeclarVins;Ticket #16182;1;TMA
+2016-08-24;DeclarVins;Ticket #17801;3;TMA
+2016-08-25;DeclarVins;Ticket #17822;7;TMA
+2016-08-26;DeclarVins;Ticket #17822;5;TMA
+2016-08-29;CIVA;Reunion DR, Comptes, DRM;7;TMA
+2016_08-29;DeclarVins;Ticket #17809;0.5;TMA
+2016-08-30;DeclarVins;Ticket #17831;1;TMA
+2016-08-30;CIVA;Reunion DR, Compte, DRM;4;TMA
+2016-08-30;DeclarVins;Ticket #17807;2;TMA
+2016-08-31;Aurouze;Dev;6;Forfait
+2016-08-31;DeclarVins;Gestion de projet;1;TMA
+2016-09-01;24eme;Reunion Emmanuelle roux;1;
+2016-09-01;24eme;Toit de Paris;2;
+2016-09-01;Aurouze;Dev;3;Forfait
+2016-09-02;DeclarVins;Ticket #17857;1;TMA
+2016-09-02;DeclarVins;Ticket #17852;0.5;TMA
+2016-09-02;DeclarVins;Ticket #17583;6;TMA
+2016-09-05;DeclarVins;Ticket #17584;5;TMA
+2016-09-05;GIILDA;Point tel;1;TMA
+2016-09-06;Sancerre;Deployement;5;Forfait
+2016-09-06;24eme;Compta;2;
+2016-09-07;Aurouze;Correctifs;4;
+2016-09-07;24eme;Momo + Anniv Mathurin;3;
+2016-09-08;Aurouze;Correctifs;5;
+2016-09-08;DeclarVins;Gestion projet CIEL;1;TMA
+2016-09-09;DeclarVins;Gestion projet CIEL;1;TMA
+2016-09-09;DeclarVins;Ticket #17890;3.5;TMA
+2016-09-09;DeclarVins;Tickets #17886 #17885;1;TMA
+2016-09-09;DeclarVins;Tickets #17883 #17880;1.5;TMA
+2016-09-09;Aurouze;Correctifs;1;
+2016-09-12;Sancerre;Réunion;7;Forfait
+2016-09-13;24eme;Point avec Mathurin;3;
+2019-09-13;DeclarVins;Ticket #17584;3;TMA
+2016-09-13;DeclarVins;Ticket #17894;0.5;TMA
+2016-09-14;DeclarVins;Ticket #17891;0.5;TMA
+2016-09-14;DeclarVins;Ticket #17604;1.5;TMA
+2016-09-14;DeclarVins;Ticket #17895;1;TMA
+2016-09-14;DeclarVins;Gestion projet;1.5;TMA
+2016-09-14;DeclarVins;Gestion du certificat CIVP;1;TMA
+2016-09-14;DeclarVins;Preparation à la mise en prod;2;TMA
+2016-09-15;DeclarVins;Mise en prod;4;TMA
+2016-09-15;DeclarVins;Pb VCI pour test;1;TMA
+2016-09-15;24eme;Tactical meeting;4;
+2016-09-16;DeclarVins;Ticket #17904;1;TMA
+2016-09-16;DeclarVins;Ticket #17905;0.5;TMA
+2016-09-16;DeclarVins;Ticket #17907;0.5;TMA
+2016-09-16;DeclarVins;Ticket #17909;2.5;TMA
+2016-09-16;DeclarVins;Ticket #17911;1.5;TMA
+2016-09-16;DeclarVins;Ticket #17913;3;TMA
+2016-09-19;CIVA;Fine tuning;7;Forfait
+2016-09-20;DeclarVins;Reunion;7;TMA
+2016-09-21;DeclarVins;Ticket #17938;1.5;TMA
+2016-09-21;DeclarVins;Ticket #17945;1.5;TMA
+2016-09-21;DeclarVins;Decalage colonne EDI DRM;1;TMA
+2016-09-21;GIILDA;Fine tuning;3;TMA
+2016-09-22;Aurouze;Fine tuning;7;Forfait
+2016-09-23;DeclarVins;Ticket #17929;1;TMA
+2016-09-23;DeclarVins;Tickets #17928 #17924;0.5;TMA
+2016-09-23;DeclarVins;Ticket #17921;1;TMA
+2016-09-23;DeclarVins;Ticket #17918;0.5;TMA
+2016-09-23;DeclarVins;Ticket #17940;1;TMA
+2016-09-23;DeclarVins;Ticket #17931;0.5;TMA
+2016-09-23;DeclarVins;Ticket #17917;0.5;TMA
+2016-09-23;DeclarVins;Tickets #17974 #17976;1;TMA
+2016-09-26;DeclarVins;Ticket #17908;4.5;TMA
+2016-09-26;DeclarVins;Ticket #17950;2;TMA
+2016-09-26;DeclarVins;Ticket #17982;0.5;TMA
+2016-09-27;DeclarVins;Tickets #17993 #17988;1;TMA
+2016-09-27;DeclarVins;Ticket #17908;6;TMA
+2016-09-28;DeclarVins;Ticket #17989;0.5;TMA
+2016-09-28;DeclarVins;Tickets #17985 #17476;3.5;TMA
+2016-09-28;DeclarVins;Ticket #18004;0.5;TMA
+2016-09-28;DeclarVins;Ticket #17809;0.5;TMA
+2016-09-28;DeclarVins;Certificat CIVP;2;TMA
+2016-09-28;DeclarVins;Ticket #17930;0.5;TMA
+2016-09-29;DeclarVins;Assistance Ciel;1;TMA
+2016-09-29;DeclarVins;Ticket #17988;2;TMA
+2016-09-29;DeclarVins;Ticket #18016;0.5;TMA
+2016-09-29;DeclarVins;Ticket #18002;2;TMA
+2016-09-29;DeclarVins;Ticket #17873;1.5;TMA
+2016-09-30;DeclarVins;Ticket #17908;6;TMA
+2016-10-03;DeclarVins;Ticket #18041;0.5;TMA
+2016-10-03;DeclarVins;Ticket #18044;0.5;TMA
+2016-10-03;DeclarVins;Ticket #18051;0.5;TMA
+2016-10-03;DeclarVins;Ticket #18042;1;TMA
+2016-10-03;DeclarVins;Ticket #18047;1;TMA
+2016-10-03;DeclarVins;demandes mails;3;TMA
+2016-10-04;DeclarVins;Ticket #18055;0.5;TMA
+2016-10-04;DeclarVins;Ticket #18056;0.5;TMA
+2016-10-04;DeclarVins;Ticket #18061;0.5;TMA
+2016-10-04;DeclarVins;Ticket #17908;4;TMA
+2016-10-04;DeclarVins;Ticket #18063;0.5;TMA
+2016-10-04;DeclarVins;Ticket #18068;1.5;TMA
+2016-10-04;DeclarVins;Ticket #17989;0.5;TMA
