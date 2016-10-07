@@ -12,17 +12,17 @@
 2016-09-19;Civa;Fine tuning DR;6;DR
 2016-09-20;Aurouze;filtres des relances et formulaire;2;Relances
 2016-09-20;Civa;ticket DR et protection url;5;DR
-2016-09-21;Giilda;Fine tuning;2;Télédeclaration DRM
-2016-09-21;Giilda;points d'aides IVBD;5;Télédeclaration DRM
+2016-09-21;GIILDA;Fine tuning;2;GIILDA
+2016-09-21;GIILDA;points d'aides IVBD;5;IVBD
 2016-09-22;Aurouze;mini fine tuning;3;Relances
 2016-09-22;Aurouze;pdf spécifiques relances;4;Relances
 2016-09-23;Aurouze;gestion des relances;5;Relances
-2016-09-26;Giilda;80 points d'aides des contrats IVBD;7;Télédeclaration DRM
+2016-09-26;GIILDA;80 points d'aides des contrats IVBD;7;GIILDA
 2016-09-27;Aurouze;dernière adaptation courriers des relances;5;Relances
 2016-09-27;VINSI;Adaptation xml;1,5;Xml douane
 2016-09-28;Aurouze;bugs timepicker et factures;2;Contrat
-2016-09-28;Giilda;Téléphone à Eric;2;Délire téléphonique avec Eric Hugo
+2016-09-28;GIILDA;Téléphone à Eric;2;IVBD
 2016-09-28;VINSI;Préparation test de Fanny;2,5;Xml douane
-2016-09-29;Giilda;Points d'aides et tickets;5;Télédeclaration DRM
+2016-09-29;GIILDA;Points d'aides et tickets;5;GIILDA
 2016-09-29;VINSI;les code inao dans la DRM;3;Xml douane
-2016-09-30;Giilda;Gros merge pour preprod;7;Télédeclaration DRM
+2016-09-30;GIILDA;Gros merge pour preprod;7;IVBD
