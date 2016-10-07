@@ -6,7 +6,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-09-02;DeclarVins;Ticket #17852;0.5;TMA
 2016-09-02;DeclarVins;Ticket #17583;6;TMA
 2016-09-05;DeclarVins;Ticket #17584;5;TMA
-2016-09-05;GIILDA;Point tel;1;TMA
+2016-09-05;GIILDA;Point tel;1;GIILDA
 2016-09-06;Sancerre;Deployement;5;Forfait
 2016-09-06;24eme;Compta;2;
 2016-09-07;Aurouze;Correctifs;4;
@@ -42,7 +42,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-09-21;DeclarVins;Ticket #17938;1.5;TMA
 2016-09-21;DeclarVins;Ticket #17945;1.5;TMA
 2016-09-21;DeclarVins;Decalage colonne EDI DRM;1;TMA
-2016-09-21;GIILDA;Fine tuning;3;TMA
+2016-09-21;GIILDA;Fine tuning;3;GIILDA
 2016-09-22;Aurouze;Fine tuning;7;Forfait
 2016-09-23;DeclarVins;Ticket #17929;1;TMA
 2016-09-23;DeclarVins;Tickets #17928 #17924;0.5;TMA
