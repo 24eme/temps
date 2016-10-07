@@ -613,23 +613,23 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-09-01;Aurouze;Recherche et Point;2,5;Dév
 2016-09-02;24ème;Temps;1,5;24ème
 2016-09-02;Aurouze;Correction de bugs;2,5;Dév
-2016-09-02;GIILDA;Date de mouvement pour la facturation +  contrat export france agrimer;2;TMA
+2016-09-02;GIILDA;Date de mouvement pour la facturation +  contrat export france agrimer;2;IVSO
 2016-09-05;CIVA;Id dans les urls;5;DR VTSGN
-2016-09-05;GIILDA;Import de l'historique;2;Dév
+2016-09-05;GIILDA;Import de l'historique;2;GIILDA
 2016-09-06;Aurouze;Correction de bugs;3,5;Dév
 2016-09-06;CIVA;Id dans les urls;2,5;DR VTSGN
 2016-09-07;Aurouze;Optimisation de la page des passage;7;Dév
 2016-09-08;Aurouze;Correction de bugs;2;Dév
 2016-09-08;CIVA;Dév;3,5;DR VTSGN
-2016-09-08;GIILDA;Réparation breadcrump;0,5;Dév
+2016-09-08;GIILDA;Réparation breadcrump;0,5;GIILDA
 2016-09-09;Aurouze;Correction de bugs;2;Dév
 2016-09-09;CIVA;Captures d'écran de l'évolution;2;DR VTSGN
-2016-09-09;GIILDA;Import de l'historique;1;Dév
+2016-09-09;GIILDA;Import de l'historique;1;GIILDA
 2016-09-12;Sancerre;Réunion;7;Réunion
 2016-09-13;Aurouze;Correction de bugs;2;Dév
 2016-09-13;CIVA;Date de validation;0,5;TMA
 2016-09-13;CIVA;Id dans les urls;3,5;Migration des comptes
-2016-09-13;GIILDA;Bug de facturation;1;TMA
+2016-09-13;GIILDA;Bug de facturation;1;IVSO
 2016-09-14;CIVA;Migration de compte;11;Migration des comptes
 2016-09-15;24ème;Tactical meeting;3,5;24ème
 2016-09-15;CIVA;Migration de compte;2,5;Migration des comptes
@@ -639,18 +639,18 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-09-20;Aurouze;Corrections;2,5;Dév
 2016-09-20;CIVA;Correction de bugs;2,5;Migration des comptes
 2016-09-21;CIVA;Correction de bugs;4;Migration des comptes
-2016-09-21;GIILDA;Import et merge de la télédéclarations CIVA ;3;Dév
+2016-09-21;GIILDA;Import et merge de la télédéclarations CIVA;3;GIILDA
 2016-09-22;Aurouze;Point et corrections;5;Dév
 2016-09-22;CIVA;Correction de bugs;1,5;Migration des comptes
 2016-09-23;Aurouze;Corrections;1,5;Dév
 2016-09-23;CIVA;Tâche DS manquante;2,5;TMA
-2016-09-23;GIILDA;Import de l'historique ;2;Dév
+2016-09-23;GIILDA;Import de l'historique;2;GIILDA
 2016-09-26;Aurouze;Corrections;4;Dév
-2016-09-26;GIILDA;Correction d'un bug de facturation;2;Dév
+2016-09-26;GIILDA;Correction d'un bug de facturation;2;IVSO
 2016-09-27;AVA;Ouverture de la facturation DRev MARC;1;TMA
 2016-09-27;CIVA;Adaptation des expors XML et CIVA dans la DS + corrections de bug;5;Migration des comptes
 2016-09-28;Aurouze;Bug de dates;1;Dév
-2016-09-28;GIILDA;Télédéclaration point avec Eric Hugot;5;Dév
-2016-09-29;GIILDA;Merge master vers ivbd;4;Dév
-2016-09-29;VINSI;Test envoi XML Douane + correction d'un bug;2,5;TMA
-2016-09-30;GIILDA;Dév télédéclaration pour mise en prod;7;Dév
+2016-09-28;GIILDA;Télédéclaration point avec Eric Hugot;5;IVBD
+2016-09-29;GIILDA;Merge master vers ivbd;4;GIILDA
+2016-09-29;VINSI;Test envoi XML Douane + correction d'un bug;2,5;XML Douane
+2016-09-30;GIILDA;Dév télédéclaration pour mise en prod;7;GIILDA
