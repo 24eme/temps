@@ -545,4 +545,34 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-10-04;DeclarVins;Ticket #17989;0.5;TMA
 2016-10-05;DeclarVins;Ticket #18072;1.5;TMA
 2016-10-05;DeclarVins;Ticket #18065;2.5;TMA
-2016-10-05;DeclarVins;EDI DRM V2;3;TMA
+2016-10-05;DeclarVins;EDI Partenaire;3;TMA
+2016-10-06;DeclarVins;EDI Partenaire;5;TMA
+2016-10-06;DeclarVins;assistance CIEL;0.5;TMA
+2016-10-06;DeclarVins;Ticket #18098;0.5;TMA
+2016-10-07;24eme;Facturation;2;
+2016-10-07;DeclarVins;Ticket #18100;0.5;TMA
+2016-10-07;DeclarVins;Ticket #18102;1;TMA
+2016-10-07;DeclarVins;Ticket #18065;2;TMA
+2016-10-07;DeclarVins;Ticket #18100;1;TMA
+2016-10-10;DeclarVins;Ticket #18102;1;TMA
+2016-10-10;DeclarVins;Ticket #17908;0.5;TMA
+2016-10-10;DeclarVins;Ticket #18106;3;TMA
+2016-10-10;DeclarVins;Ticket #18125;1;TMA
+2016-10-11;DeclarVins;Ticket #18111;0.5;TMA
+2016-10-11;DeclarVins;Ticket #18114;1;TMA
+2016-10-11;DeclarVins;Ticket #18115;0.5;TMA
+2016-10-11;DeclarVins;Ticket #17908;1;TMA
+2016-10-11;DeclarVins;Ticket #18102;2.5;TMA
+2016-10-11;24eme;NDF;1;
+2016-10-12;DeclarVins;Ticket #18102;0.5;TMA
+2016-10-12;DeclarVins;Ticket #18126;3;TMA
+2016-10-12;DeclarVins;Ticket #18100;0.5;TMA
+2016-10-12;DeclarVins;EDI Partenaire;1;TMA
+2016-10-12;DeclarVins;Gestion projet;0.5;TMA
+2016-10-12;BIVB;Demandes VPN;1.5;TMA
+2016-10-13;DeclarVins;Log de saisies frequence paiement douane et produit sans ig autre cepage;2;TMA
+2016-10-13;DeclarVins;EDI Partenaire;2.5;TMA
+2016-10-14;VINSI;Point telephonique;1.5;TMA
+2016-10-14;DeclarVins;Assistance IVSE certificat;0.5;TMA
+2016-10-14;DeclarVins;Bug saisie stock debut de mois en admin;1;TMA
+2016-10-14;EliteAuto;Etude demande devis;1;
