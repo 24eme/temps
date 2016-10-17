@@ -1,0 +1,20 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-09-02;GIILDA;Date de mouvement pour la facturation +  contrat export france agrimer;2;IVSO
+2016-09-05;GIILDA;Import de l'historique;2;GIILDA
+2016-09-05;GIILDA;Point tel;1;GIILDA
+2016-09-08;GIILDA;Réparation breadcrump;0,5;GIILDA
+2016-09-09;GIILDA;Import de l'historique;1;GIILDA
+2016-09-13;GIILDA;Bug de facturation;1;IVSO
+2016-09-21;GIILDA;Fine tuning;2;GIILDA
+2016-09-21;GIILDA;Fine tuning;3;GIILDA
+2016-09-21;GIILDA;Import et merge de la télédéclarations CIVA;3;GIILDA
+2016-09-21;GIILDA;points d'aides IVBD;5;IVBD
+2016-09-23;GIILDA;Import de l'historique;2;GIILDA
+2016-09-26;GIILDA;80 points d'aides des contrats IVBD;7;GIILDA
+2016-09-26;GIILDA;Correction d'un bug de facturation;2;IVSO
+2016-09-28;GIILDA;Télédéclaration point avec Eric Hugot;5;IVBD
+2016-09-28;GIILDA;Téléphone à Eric;2;IVBD
+2016-09-29;GIILDA;Merge master vers ivbd;4;GIILDA
+2016-09-29;GIILDA;Points d'aides et tickets;5;GIILDA
+2016-09-30;GIILDA;Dév télédéclaration pour mise en prod;7;GIILDA
+2016-09-30;GIILDA;Gros merge pour preprod;7;IVBD

@@ -1,0 +1,143 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2016-09-01;24eme;Reunion Emmanuelle roux;1;
+2016-09-01;24eme;Toit de Paris;2;
+2016-09-01;Aurouze;Dev;3;Forfait
+2016-09-02;DeclarVins;Ticket #17857;1;TMA
+2016-09-02;DeclarVins;Ticket #17852;0.5;TMA
+2016-09-02;DeclarVins;Ticket #17583;6;TMA
+2016-09-05;DeclarVins;Ticket #17584;5;TMA
+2016-09-05;GIILDA;Point tel;1;GIILDA
+2016-09-06;Sancerre;Deployement;5;Forfait
+2016-09-06;24eme;Compta;2;
+2016-09-07;Aurouze;Correctifs;4;
+2016-09-07;24eme;Momo + Anniv Mathurin;3;
+2016-09-08;Aurouze;Correctifs;5;
+2016-09-08;DeclarVins;Gestion projet CIEL;1;TMA
+2016-09-09;DeclarVins;Gestion projet CIEL;1;TMA
+2016-09-09;DeclarVins;Ticket #17890;3.5;TMA
+2016-09-09;DeclarVins;Tickets #17886 #17885;1;TMA
+2016-09-09;DeclarVins;Tickets #17883 #17880;1.5;TMA
+2016-09-09;Aurouze;Correctifs;1;
+2016-09-12;Sancerre;Réunion;7;Forfait
+2016-09-13;24eme;Point avec Mathurin;3;
+2019-09-13;DeclarVins;Ticket #17584;3;TMA
+2016-09-13;DeclarVins;Ticket #17894;0.5;TMA
+2016-09-14;DeclarVins;Ticket #17891;0.5;TMA
+2016-09-14;DeclarVins;Ticket #17604;1.5;TMA
+2016-09-14;DeclarVins;Ticket #17895;1;TMA
+2016-09-14;DeclarVins;Gestion projet;1.5;TMA
+2016-09-14;DeclarVins;Gestion du certificat CIVP;1;TMA
+2016-09-14;DeclarVins;Preparation à la mise en prod;2;TMA
+2016-09-15;DeclarVins;Mise en prod;4;TMA
+2016-09-15;DeclarVins;Pb VCI pour test;1;TMA
+2016-09-15;24eme;Tactical meeting;4;
+2016-09-16;DeclarVins;Ticket #17904;1;TMA
+2016-09-16;DeclarVins;Ticket #17905;0.5;TMA
+2016-09-16;DeclarVins;Ticket #17907;0.5;TMA
+2016-09-16;DeclarVins;Ticket #17909;2.5;TMA
+2016-09-16;DeclarVins;Ticket #17911;1.5;TMA
+2016-09-16;DeclarVins;Ticket #17913;3;TMA
+2016-09-19;CIVA;Fine tuning;7;Migration des comptes
+2016-09-20;DeclarVins;Reunion;7;TMA
+2016-09-21;DeclarVins;Ticket #17938;1.5;TMA
+2016-09-21;DeclarVins;Ticket #17945;1.5;TMA
+2016-09-21;DeclarVins;Decalage colonne EDI DRM;1;TMA
+2016-09-21;GIILDA;Fine tuning;3;GIILDA
+2016-09-22;Aurouze;Fine tuning;7;Forfait
+2016-09-23;DeclarVins;Ticket #17929;1;TMA
+2016-09-23;DeclarVins;Tickets #17928 #17924;0.5;TMA
+2016-09-23;DeclarVins;Ticket #17921;1;TMA
+2016-09-23;DeclarVins;Ticket #17918;0.5;TMA
+2016-09-23;DeclarVins;Ticket #17940;1;TMA
+2016-09-23;DeclarVins;Ticket #17931;0.5;TMA
+2016-09-23;DeclarVins;Ticket #17917;0.5;TMA
+2016-09-23;DeclarVins;Tickets #17974 #17976;1;TMA
+2016-09-26;DeclarVins;Ticket #17908;4.5;TMA
+2016-09-26;DeclarVins;Ticket #17950;2;TMA
+2016-09-26;DeclarVins;Ticket #17982;0.5;TMA
+2016-09-27;DeclarVins;Tickets #17993 #17988;1;TMA
+2016-09-27;DeclarVins;Ticket #17908;6;TMA
+2016-09-28;DeclarVins;Ticket #17989;0.5;TMA
+2016-09-28;DeclarVins;Tickets #17985 #17476;3.5;TMA
+2016-09-28;DeclarVins;Ticket #18004;0.5;TMA
+2016-09-28;DeclarVins;Ticket #17809;0.5;TMA
+2016-09-28;DeclarVins;Certificat CIVP;2;TMA
+2016-09-28;DeclarVins;Ticket #17930;0.5;TMA
+2016-09-29;DeclarVins;Assistance Ciel;1;TMA
+2016-09-29;DeclarVins;Ticket #17988;2;TMA
+2016-09-29;DeclarVins;Ticket #18016;0.5;TMA
+2016-09-29;DeclarVins;Ticket #18002;2;TMA
+2016-09-29;DeclarVins;Ticket #17873;1.5;TMA
+2016-09-30;DeclarVins;Ticket #17908;6;TMA
+2016-09-12;24ème;Retour Vacances dépilage mails;3;24ème
+2016-09-12;VINSI;Modificatrices DRM Aout;1,5;TMA
+2016-09-13;Aurouze;Suppression de doublon;3;Contrat
+2016-09-13;VINSI;Correction bug DRM teledeclare;0,5;TMA
+2016-09-14;Aurouze;code postal dans visu et mois;2;Plannification
+2016-09-14;Aurouze; plus de statut A venir;3;Contrat
+2016-09-14;Aurouze; réparation bugs page passages et reconductions;2;Contrat
+2016-09-15;24ème;Tactical meeting Grands voisins;5;Tactical meeting
+2016-09-15;Aurouze;cohérence des status;2;Passage
+2016-09-16;Aurouze;Retard de paiement;7;Relances
+2016-09-19;Aurouze;Pdf des relances;2;Relances
+2016-09-19;CIVA;Fine tuning DR;6;DR VTSGN
+2016-09-20;Aurouze;filtres des relances et formulaire;2;Relances
+2016-09-20;CIVA;ticket DR et protection url;5;DR VTSGN
+2016-09-21;GIILDA;Fine tuning;2;GIILDA
+2016-09-21;GIILDA;points d'aides IVBD;5;IVBD
+2016-09-22;Aurouze;mini fine tuning;3;Relances
+2016-09-22;Aurouze;pdf spécifiques relances;4;Relances
+2016-09-23;Aurouze;gestion des relances;5;Relances
+2016-09-26;GIILDA;80 points d'aides des contrats IVBD;7;GIILDA
+2016-09-27;Aurouze;dernière adaptation courriers des relances;5;Relances
+2016-09-27;VINSI;Adaptation xml;1,5;XML Douane
+2016-09-28;Aurouze;bugs timepicker et factures;2;Contrat
+2016-09-28;GIILDA;Téléphone à Eric;2;IVBD
+2016-09-28;VINSI;Préparation test de Fanny;2,5;XML Douane
+2016-09-29;GIILDA;Points d'aides et tickets;5;GIILDA
+2016-09-29;VINSI;les code inao dans la DRM;3;XML Douane
+2016-09-30;GIILDA;Gros merge pour preprod;7;IVBD
+2016-09-01;Aurouze;Recherche et Point;2,5;Dév
+2016-09-02;24ème;Temps;1,5;24ème
+2016-09-02;Aurouze;Correction de bugs;2,5;Dév
+2016-09-02;GIILDA;Date de mouvement pour la facturation +  contrat export france agrimer;2;IVSO
+2016-09-05;CIVA;Id dans les urls;5;DR VTSGN
+2016-09-05;GIILDA;Import de l'historique;2;GIILDA
+2016-09-06;Aurouze;Correction de bugs;3,5;Dév
+2016-09-06;CIVA;Id dans les urls;2,5;DR VTSGN
+2016-09-07;Aurouze;Optimisation de la page des passage;7;Dév
+2016-09-08;Aurouze;Correction de bugs;2;Dév
+2016-09-08;CIVA;Dév;3,5;DR VTSGN
+2016-09-08;GIILDA;Réparation breadcrump;0,5;GIILDA
+2016-09-09;Aurouze;Correction de bugs;2;Dév
+2016-09-09;CIVA;Captures d'écran de l'évolution;2;DR VTSGN
+2016-09-09;GIILDA;Import de l'historique;1;GIILDA
+2016-09-12;Sancerre;Réunion;7;Réunion
+2016-09-13;Aurouze;Correction de bugs;2;Dév
+2016-09-13;CIVA;Date de validation;0,5;TMA
+2016-09-13;CIVA;Id dans les urls;3,5;Migration des comptes
+2016-09-13;GIILDA;Bug de facturation;1;IVSO
+2016-09-14;CIVA;Migration de compte;11;Migration des comptes
+2016-09-15;24ème;Tactical meeting;3,5;24ème
+2016-09-15;CIVA;Migration de compte;2,5;Migration des comptes
+2016-09-16;CIVA;Migration de compte;9;Migration des comptes
+2016-09-18;CIVA;Migration de compte;2;Migration des comptes
+2016-09-19;CIVA;Migration de compte;8;Migration des comptes
+2016-09-20;Aurouze;Corrections;2,5;Dév
+2016-09-20;CIVA;Correction de bugs;2,5;Migration des comptes
+2016-09-21;CIVA;Correction de bugs;4;Migration des comptes
+2016-09-21;GIILDA;Import et merge de la télédéclarations CIVA;3;GIILDA
+2016-09-22;Aurouze;Point et corrections;5;Dév
+2016-09-22;CIVA;Correction de bugs;1,5;Migration des comptes
+2016-09-23;Aurouze;Corrections;1,5;Dév
+2016-09-23;CIVA;Tâche DS manquante;2,5;TMA
+2016-09-23;GIILDA;Import de l'historique;2;GIILDA
+2016-09-26;Aurouze;Corrections;4;Dév
+2016-09-26;GIILDA;Correction d'un bug de facturation;2;IVSO
+2016-09-27;AVA;Ouverture de la facturation DRev MARC;1;TMA
+2016-09-27;CIVA;Adaptation des expors XML et CIVA dans la DS + corrections de bug;5;Migration des comptes
+2016-09-28;Aurouze;Bug de dates;1;Dév
+2016-09-28;GIILDA;Télédéclaration point avec Eric Hugot;5;IVBD
+2016-09-29;GIILDA;Merge master vers ivbd;4;GIILDA
+2016-09-29;VINSI;Test envoi XML Douane + correction d'un bug;2,5;XML Douane
+2016-09-30;GIILDA;Dév télédéclaration pour mise en prod;7;GIILDA

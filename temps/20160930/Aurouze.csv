@@ -1,0 +1,31 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-09-01;Aurouze;Dev;3;Forfait
+2016-09-01;Aurouze;Recherche et Point;2,5;Dév
+2016-09-02;Aurouze;Correction de bugs;2,5;Dév
+2016-09-06;Aurouze;Correction de bugs;3,5;Dév
+2016-09-07;Aurouze;Correctifs;4;
+2016-09-07;Aurouze;Optimisation de la page des passage;7;Dév
+2016-09-08;Aurouze;Correctifs;5;
+2016-09-08;Aurouze;Correction de bugs;2;Dév
+2016-09-09;Aurouze;Correctifs;1;
+2016-09-09;Aurouze;Correction de bugs;2;Dév
+2016-09-13;Aurouze;Correction de bugs;2;Dév
+2016-09-13;Aurouze;Suppression de doublon;3;Contrat
+2016-09-14;Aurouze;code postal dans visu et mois;2;Plannification
+2016-09-14;Aurouze; plus de statut A venir;3;Contrat
+2016-09-14;Aurouze; réparation bugs page passages et reconductions;2;Contrat
+2016-09-15;Aurouze;cohérence des status;2;Passage
+2016-09-16;Aurouze;Retard de paiement;7;Relances
+2016-09-19;Aurouze;Pdf des relances;2;Relances
+2016-09-20;Aurouze;Corrections;2,5;Dév
+2016-09-20;Aurouze;filtres des relances et formulaire;2;Relances
+2016-09-22;Aurouze;Fine tuning;7;Forfait
+2016-09-22;Aurouze;mini fine tuning;3;Relances
+2016-09-22;Aurouze;pdf spécifiques relances;4;Relances
+2016-09-22;Aurouze;Point et corrections;5;Dév
+2016-09-23;Aurouze;Corrections;1,5;Dév
+2016-09-23;Aurouze;gestion des relances;5;Relances
+2016-09-26;Aurouze;Corrections;4;Dév
+2016-09-27;Aurouze;dernière adaptation courriers des relances;5;Relances
+2016-09-28;Aurouze;Bug de dates;1;Dév
+2016-09-28;Aurouze;bugs timepicker et factures;2;Contrat
