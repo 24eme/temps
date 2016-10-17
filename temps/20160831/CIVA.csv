@@ -1,0 +1,30 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-08-03;CIVA;Boostrapisation des template début;3;DRM
+2016-08-04;CIVA;Inté conforme et réparation Popup;6;DRM
+2016-08-05;CIVA;Doc EDI;3;DRM EDI
+2016-08-08;CIVA;Popup inté et popup contrat et vue;7;DRM
+2016-08-09;CIVA;Reprise des données des autres doc pour création de DRM;6;DRM
+2016-08-10;CIVA;Réparation import EDI ac et susp;6;DRM
+2016-08-11;CIVA;Reprise des données autres doc pour création en vue;6;DRM
+2016-08-12;CIVA;Vue Ac, sups;2;DRM
+2016-08-16;CIVA;Adaptation de la DS à la nouvelle conf;3,5;Migration des comptes
+2016-08-16;CIVA;Ajout Annexes, obs;5;DRM
+2016-08-17;CIVA;Adaptation de la DS à la nouvelle conf;5;Migration des comptes
+2016-08-17;CIVA;Annexes ajout js, stats europeenes, retrait sucre et droit douanes;6;DRM
+2016-08-18;CIVA;Adaptation de la DR à la nouvelle conf;7;Migration des comptes
+2016-08-18;CIVA;Annexes ajout observations pt vigilance et visu et js;6;DRM
+2016-08-19;CIVA;Adaptation de la DR à la nouvelle conf;2;Migration des comptes
+2016-08-19;CIVA;VTSGN dans la conf de la DR, optimisation de la conf;5;DR VTSGN
+2016-08-22;CIVA;VTSGN dans la DR;4;DR VTSGN
+2016-08-23;CIVA;VTSGN dans la DR;5;DR VTSGN
+2016-08-24;CIVA;VTSGN dans la DR;3,5;DR VTSGN
+2016-08-25;CIVA;VTSGN dans la DR;3,5;DR VTSGN
+2016-08-26;CIVA;VTSGN dans la DR;7;DR VTSGN
+2016-08-28;CIVA;VTSGN dans la DR;3,5;DR VTSGN
+2016-08-29;CIVA;Réunion CIVA DRM;3,5;DRM
+2016-08-29;CIVA;Réunion CIVA VTSGN;3,5;DR VTSGN
+2016-08-29;CIVA;Reunion DR, Comptes, DRM;7;TMA
+2016-08-30;CIVA;Correction migration des comptes;2;Migration des comptes
+2016-08-30;CIVA;Réunion CIVA Migration des comptes;3,5;Migration des comptes
+2016-08-30;CIVA;Reunion DR, Compte, DRM;4;TMA
+2016-08-31;CIVA;Correction migration des comptes;2,5;Migration des comptes
