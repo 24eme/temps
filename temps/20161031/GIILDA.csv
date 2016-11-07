@@ -1,0 +1,47 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-10-03;GIILDA;Dév télédéclaration pour mise en prod;8;Dév
+2016-10-03;GIILDA;Mise en prod;2;IVBD
+2016-10-03;GIILDA;Tickets à la pelle ivbd;6;GIILDA
+2016-10-04;GIILDA;crd popup ivbd;3;IVBD
+2016-10-04;GIILDA;Dév télédéclaration pour mise en prod;8;Dév
+2016-10-04;GIILDA;tache ouverture ivbd;3;IVBD
+2016-10-04;GIILDA;tickets ivbd;2;GIILDA
+2016-10-05;GIILDA;Dév télédéclaration pour mise en prod;7;Dév
+2016-10-05;GIILDA;emailing pour ouverture;1;IVBD
+2016-10-05;GIILDA;réparation de l'export vrac;3;GIILDA
+2016-10-05;GIILDA;tickets ivbd et pdf un peu cassé;3;GIILDA
+2016-10-06;GIILDA;Dév télédéclaration pour mise en prod;1,5;Dév
+2016-10-06;GIILDA;réparation coquille de DRM foireuse;1;IVBD
+2016-10-07;GIILDA;points d'aide et tickets;4;IVBD
+2016-10-07;GIILDA;spécif points d'aide ivso;1;IVSO
+2016-10-10;GIILDA;interface des droits de télédeclaration dans la visu interne;3;IVBD
+2016-10-10;GIILDA;interface des droits de télédeclaration dans la visu interne + pt aides;4;IVSO
+2016-10-11;GIILDA;adresse complémentaire sur ligne supplémentaire facture;2,5;IVSO
+2016-10-11;GIILDA;Corrections de bugs et BI;2,5;Dév
+2016-10-11;GIILDA;réparation bug ;2;IVSO
+2016-10-12;GIILDA;Corrections de bugs et BI;2,5;Dév
+2016-10-12;GIILDA;remise en place transmission douane et gif;7;GIILDA
+2016-10-13;GIILDA;Corrections de bugs et BI;1;Dév
+2016-10-13;GIILDA;gestion du pt vigilence débug;5;IVBD
+2016-10-14;GIILDA;Fichier par environnement entre IVSO et IVBD;2;Dév
+2016-10-14;GIILDA;mail de validation de Contrat;2,5;IVBD
+2016-10-14;GIILDA;mail de validation de Contrat;2,5;IVSO
+2016-10-18;GIILDA;Corrections de bugs et BI;1,5;Dév
+2016-10-18;GIILDA;gestion des details multiples;6;GIILDA
+2016-10-19;GIILDA;default popup CRD;5;GIILDA
+2016-10-20;GIILDA;Cvo et arbre produit ;3;IVSO
+2016-10-20;GIILDA;debug arbre produit ;2;GIILDA
+2016-10-20;GIILDA;Recettte VDI;2;Dév
+2016-10-20;GIILDA;Test VDI ;3;GIILDA
+2016-10-21;GIILDA;email et vrac ;2;GIILDA
+2016-10-21;GIILDA;Emailing des contrats ;4;IVSO
+2016-10-24;GIILDA;contrat picto et nom à afficher ldap;7;GIILDA
+2016-10-25;GIILDA;Emailing problématique point tel;3;IVSO
+2016-10-26;GIILDA;gestion arbre produit pour douane;3;GIILDA
+2016-10-27;GIILDA;mis en preprod et gestion contrat;3;IVSO
+2016-10-28;GIILDA;Correction d'un bug de facturation IVSO;1;Dév
+2016-10-28;GIILDA;inté et conditionnement droit douane;3;GIILDA
+2016-10-28;GIILDA;mis en prod;2;IVSO
+2016-10-28;GIILDA;pdf dix produits par page;3;IVSO
+2016-10-31;GIILDA;mis en prod douane et tests;2,5;IVBD
+2016-10-31;GIILDA;mis en prod douane et tests;2,5;IVSO
