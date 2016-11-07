@@ -654,3 +654,41 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2016-09-29;GIILDA;Merge master vers ivbd;4;GIILDA
 2016-09-29;VINSI;Test envoi XML Douane + correction d'un bug;2,5;XML Douane
 2016-09-30;GIILDA;Dév télédéclaration pour mise en prod;7;GIILDA
+2016-10-03;GIILDA;Dév télédéclaration pour mise en prod;8;Dév
+2016-10-04;GIILDA;Dév télédéclaration pour mise en prod;8;Dév
+2016-10-05;GIILDA;Dév télédéclaration pour mise en prod;7;Dév
+2016-10-06;24ème;Temps de septembre;2;Temps
+2016-10-06;AVA;Évolution constats VTSGN;3,5;TMA
+2016-10-06;GIILDA;Dév télédéclaration pour mise en prod;1,5;Dév
+2016-10-07;24ème;Facturation et note de frais;3;24ème
+2016-10-10;AVA;Évolution constats VTSGN;3,5;TMA
+2016-10-11;CIVA;Fonctionnement de l'ouverture de la DR en app;1,5;DR VTSGN
+2016-10-11;GIILDA;Corrections de bugs et BI;2,5;Dév
+2016-10-11;VINSI;Exclusion des établissements suspendu en mode télédéclaration;2;TMA
+2016-10-12;GIILDA;Corrections de bugs et BI;2,5;Dév
+2016-10-13;CIVA;Regroupement des onglets;4;DR VTSGN
+2016-10-13;GIILDA;Corrections de bugs et BI;1;Dév
+2016-10-14;CIVA;Regroupement des onglets;4;DR VTSGN
+2016-10-14;GIILDA;Fichier par environnement entre IVSO et IVBD;2;Dév
+2016-10-14;VINSI;Point téléphonique;1;TMA
+2016-10-17;24ème;Tactical meeting;3,5;24ème
+2016-10-17;Aurouze;Point avec Cécile;1,5;Réunion
+2016-10-17;CIVA;Adaptation VTSGN;2;DR VTSGN
+2016-10-18;AVA;Correction facture et échanges;1;TMA
+2016-10-18;CIVA;GAMMA Consercation du login original;3,5;TMA
+2016-10-18;Elite Auto;Chiffrage;1,5;Chiffrage
+2016-10-18;GIILDA;Corrections de bugs et BI;1,5;Dév
+2016-10-19;CIVA;Adaptation VTSGN;7;DR VTSGN
+2016-10-20;CIVA;Adaptation VTSGN;9;DR VTSGN
+2016-10-20;GIILDA;Recettte VDI;2;Dév
+2016-10-21;CIVA;Adaptation VTSGN;7;DR VTSGN
+2016-10-23;AVA;Adaptation VTSGN;3,5;DREV VTSGN
+2016-10-24;AVA;Adaptation VTSGN;7;DREV VTSGN
+2016-10-25;CIVA;Adaptation VTSGN;7;DR VTSGN
+2016-10-26;CIVA;Adaptation VTSGN;7;DR VTSGN
+2016-10-27;AVA;Adaptation VTSGN;2;DREV VTSGN
+2016-10-27;CIVA;Adaptation VTSGN;5;DR VTSGN
+2016-10-28;AVA;Adaptation VTSGN;1,5;DREV VTSGN
+2016-10-28;AVA;Chiffrage prévision 2017;2;Chiffrage
+2016-10-28;CIVA;Correction mail et  envois des DR validées;2;DR VTSGN
+2016-10-28;GIILDA;Correction d'un bug de facturation IVSO;1;Dév
