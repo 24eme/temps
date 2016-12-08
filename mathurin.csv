@@ -1,47 +1,41 @@
-2016-10-03;GIILDA;Mise en prod;2;IVBD
-2016-10-03;GIILDA;Tickets à la pelle ivbd;6;GIILDA
-2016-10-04;GIILDA;crd popup ivbd;3;IVBD
-2016-10-04;GIILDA;tache ouverture ivbd;3;IVBD
-2016-10-04;GIILDA;tickets ivbd;2;GIILDA
-2016-10-05;GIILDA;emailing pour ouverture;1;IVBD
-2016-10-05;GIILDA;réparation de l'export vrac;3;GIILDA
-2016-10-05;GIILDA;tickets ivbd et pdf un peu cassé;3;GIILDA
-2016-10-06;24EME;Papiers 24eme;1;24EME
-2016-10-06;24EME;Temps mathurin;1;24EME
-2016-10-06;GIILDA;réparation coquille de DRM foireuse;1;IVBD
-2016-10-06;VINSI;Réparation de DRM;1,5;TMA
-2016-10-07;GIILDA;points d'aide et tickets;4;IVBD
-2016-10-07;GIILDA;spécif points d'aide ivso;1;IVSO
-2016-10-10;GIILDA;interface des droits de télédeclaration dans la visu interne;3;IVBD
-2016-10-10;GIILDA;interface des droits de télédeclaration dans la visu interne + pt aides;4;IVSO
-2016-10-11;GIILDA;adresse complémentaire sur ligne supplémentaire facture;2,5;IVSO
-2016-10-11;GIILDA;réparation bug ;2;IVSO
-2016-10-11;VINSI;réparation de bug dans la validation;1,5;TMA
-2016-10-12;GIILDA;remise en place transmission douane et gif;7;GIILDA
-2016-10-13;Aurouze;export pour VO;1,5;Export
-2016-10-13;GIILDA;gestion du pt vigilence débug;5;IVBD
-2016-10-14;GIILDA;mail de validation de Contrat;2,5;IVBD
-2016-10-14;GIILDA;mail de validation de Contrat;2,5;IVSO
-2016-10-14;VINSI;point téléphone;2;TMA
-2016-10-17;24EME;Tactical Meeting;4;24EME
-2016-10-17;Aurouze;avancement fin des 9 pts;2;Réunion
-2016-10-18;GIILDA;gestion des details multiples;6;GIILDA
-2016-10-18;VINSI;Regime CRD;0,5;TMA
-2016-10-19;GIILDA;default popup CRD;5;GIILDA
-2016-10-20;GIILDA;Cvo et arbre produit ;3;IVSO
-2016-10-20;GIILDA;debug arbre produit ;2;GIILDA
-2016-10-20;GIILDA;Test VDI ;3;GIILDA
-2016-10-21;GIILDA;email et vrac ;2;GIILDA
-2016-10-21;GIILDA;Emailing des contrats ;4;IVSO
-2016-10-24;GIILDA;contrat picto et nom à afficher ldap;7;GIILDA
-2016-10-25;GIILDA;Emailing problématique point tel;3;IVSO
-2016-10-26;GIILDA;gestion arbre produit pour douane;3;GIILDA
-2016-10-26;VINSI;Adaptation pour transmission;4;TMA
-2016-10-27;GIILDA;mis en preprod et gestion contrat;3;IVSO
-2016-10-27;VINSI;droit douane logo CIVDL;4;TMA
-2016-10-28;GIILDA;inté et conditionnement droit douane;3;GIILDA
-2016-10-28;GIILDA;mis en prod;2;IVSO
-2016-10-28;GIILDA;pdf dix produits par page;3;IVSO
-2016-10-31;GIILDA;mis en prod douane et tests;2,5;IVBD
-2016-10-31;GIILDA;mis en prod douane et tests;2,5;IVSO
-2016-10-31;VINSI;mis en prod douane et tests;2,5;DOUANE
+2016-11-02;Aurouze;Adaptation des reconduction tacites et enquetes;4;Contrats
+2016-11-02;Aurouze;Tache pour les contrats reconduit et les dates de prevision;3;Contrats
+2016-11-03;Aurouze;Debug des factures et mouvements;5,5;Facture
+2016-11-03;Aurouze;Maj des problèmes de bons bleu;1,5;Facture
+2016-11-04;Aurouze;Dératisation;4;Dératisation
+2016-11-04;Aurouze;Recherche plus cohérente;1,5;Recherche
+2016-11-04;VINSI;adaptation des champs pour le pdf;2,5;TMA
+2016-11-07;GIILDA;correction de bug sur le cumul des droits;1,75;IVBD
+2016-11-07;GIILDA;correction de bug sur le cumul des droits;1,75;IVSO
+2016-11-07;VINSI;Mis en place des produits autres Lie bourbes;3,5;TMA
+2016-11-08;GIILDA;Mis à jour de la popup CRD acqSusp CRD dans le bon régime et activation des seuls bon mouvement;7;IVBD
+2016-11-09;GIILDA;Résolution des problème lié aux Aqc et Susp;2;IVSO
+2016-11-09;GIILDA;Résolution des problème lié aux Aqc et Susp;6;IVBD
+2016-11-10;Aurouze;Restaurant avec technicien;2;Réunion
+2016-11-10;GIILDA;Adaptation pour les douanes et la popup adhésion;2,5;IVSO
+2016-11-10;GIILDA;Adaptation pour les douanes et la popup adhésion;3,5;IVBD
+2016-11-14;GIILDA;Adaptation configuration pour Acquitte Suspendu ;2;IVBD
+2016-11-14;Sancerre;Ajout popup des contrats qui créée les contrats ;5;DRM
+2016-11-15;Sancerre;Création des contrats à la volée dans les DRM;7;DRM
+2016-11-16;Aurouze;Adaptation de la vue;1;Contrat
+2016-11-16;Sancerre;Création des contrats dans les DRM et gestion de leur mouvement;7;DRM
+2016-11-17;Sancerre;Réunion;7;Réunion
+2016-11-18;24eme;Réunion;4;Tactical Meeting
+2016-11-18;Aurouze;nouveau tableau des factures;1;Facture
+2016-11-18;GIILDA;Saisie interne DRM vérification;2;IVBD
+2016-11-21;VINSI;Adaptation EDI non finalisé;8;EDI
+2016-11-22;VINSI;Adaptation de l'EDI avec nouveaux champs;5,5;EDI
+2016-11-22;VINSI;Bouton de réouverture des DRM;2;EDI
+2016-11-23;Aurouze;nouveau tableau des factures non édités et contrats décalés;3;Facture
+2016-11-23;EliteAuto;Réunion;3;Réunion
+2016-11-23;VINSI;Export de la fonction des interlocuteurs dans l'export des comptes;1;TMA
+2016-11-24;Sancerre;Création des contrats avec Uniq id et des popup;4,5;DRM
+2016-11-24;VINSI;Adaptation de l'EDI pour les observations;2,5;EDI
+2016-11-25;Sancerre;Adaptation des vue stock et gestion Facture;5,5;Facture
+2016-11-25;VINSI;On retire les mouvements fct de réouverture;1;TMA
+2016-11-28;Sancerre;système de facturation 50 50 et templating;7;Facture
+2016-11-29;Aurouze;affichage des reconduction par date;1;Reconduction
+2016-11-29;Aurouze;début du dev mobile;3;Mobile
+2016-11-29;Sancerre;template de facture personnalisé sancerre;3;Facture
+2016-11-30;Aurouze;dev mobile page de visu passage;2;Mobile
+2016-11-30;CIVA;installation machine DR sans internet;7;Serveur DR
