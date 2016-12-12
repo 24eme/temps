@@ -1,0 +1,37 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-11-02;DeclarVins;Ticket #18219;0,5;TMA
+2016-11-02;DeclarVins;Ticket #18221;0,5;TMA
+2016-11-02;DeclarVins;Ticket #18222;0,5;TMA
+2016-11-02;DeclarVins;Ticket #18224;3,5;TMA
+2016-11-03;DeclarVins;Moulinette CFT;3,5;TMA
+2016-11-03;DeclarVins;Recette VDI IVSE;4;TMA
+2016-11-04;DeclarVins;Problème lors de la transmission d'une DRM;1;TMA
+2016-11-07;DeclarVins;Bug extraction EDI;0,5;TMA
+2016-11-07;DeclarVins;Optimisation rapport CIEL;1;TMA
+2016-11-07;DeclarVins;Rapport CIEL;1;TMA
+2016-11-07;DeclarVins;Tickets #18182 #18166;0,5;TMA
+2016-11-08;DeclarVins;Bug xml nb document;1;TMA
+2016-11-08;DeclarVins;Moulinette CFT;3,5;TMA
+2016-11-08;DeclarVins;Ticket #18262;0,5;TMA
+2016-11-09;DeclarVins;Email interpro notification erreur transmission ciel;0,5;TMA
+2016-11-09;DeclarVins;Tickets #18268 #18274;0,5;TMA
+2016-11-09;DeclarVins;Tickets #18274 #18275 #18272 #18271 #18268;1;TMA
+2016-11-14;DeclarVins;Ajout des labels dans le xml douane;1,5;TMA
+2016-11-14;DeclarVins;Correction moulinette + Rapports IR /CIVP;2;TMA
+2016-11-16;DeclarVins;Ticket #18315;1,5;TMA
+2016-11-21;DeclarVins;Ticket #18310;1,5;TMA
+2016-11-21;DeclarVins;Ticket #18314;1,5;TMA
+2016-11-22;DeclarVins;Ticket #18286;1;TMA
+2016-11-22;DeclarVins;Ticket #18313;0,5;TMA
+2016-11-22;DeclarVins;Ticket #18317;1;TMA
+2016-11-22;DeclarVins;Tickets #16182 #17873;2,5;TMA
+2016-11-24;DeclarVins;Ticket #18275;1,5;TMA
+2016-11-24;DeclarVins;Ticket #18309;2;TMA
+2016-11-24;DeclarVins;Ticket #18353;0,5;TMA
+2016-11-25;DeclarVins;Rapport CFT;0,5;TMA
+2016-11-25;DeclarVins;Ticket 18002;5;TMA
+2016-11-25;DeclarVins;Ticket #18363;1;TMA
+2016-11-28;DeclarVins;Ticket #18371;0,5;TMA
+2016-11-28;DeclarVins;Ticket #18372;0,5;TMA
+2016-11-28;DeclarVins;Ticket #18374;0,5;TMA
+2016-11-29;DeclarVins;Reunion Avignon;7;TMA

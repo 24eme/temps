@@ -1,0 +1,21 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-11-02;CIVA;Réactivation de l'onglet achat de DR;2,5;DR VTSGN
+2016-11-04;CIVA;Correction de l'envois de mail dans les contrats;1,5;DRM
+2016-11-07;CIVA;Réparation de la délégation;1,5;DR VTSGN
+2016-11-07;CIVA;Sécurisation et urlisation des différents modules et correction d'un bug dans les contrats;4,5;DR/TMA
+2016-11-10;CIVA;Fiablisation de l'import des tiers;3,5;DRM
+2016-11-13;CIVA;Réparation de l'export modification des tiers;3,5;DRM
+2016-11-14;CIVA;Réparation de l'export modification des tiers;3,5;DRM
+2016-11-15;CIVA;Correction de bugs dans la DR;2,5;DR VTSGN
+2016-11-18;CIVA;Correction de bugs dans la DR, versement des achats raisins ;4;DR VTSGN
+2016-11-21;CIVA;Mise à jour des tiers en CSV pour import;7;DRM
+2016-11-22;CIVA;Motif de non récolte + problème compte;1,5;DR VTSGN
+2016-11-24;CIVA;Fiabilisation de l'import des tiers;5;DRM
+2016-11-25;CIVA;Ajout du type de vendeur Récoltant;2;DR VTSGN
+2016-11-25;CIVA;Fiabilisation de l'import des tiers;2,5;DRM
+2016-11-28;CIVA;Fiabilisation de l'import des tiers;7;DRM
+2016-11-29;CIVA;Acheteurs récoltants, bug de reconnaissance à l'import du vtsgn;3;DR VTSGN
+2016-11-29;CIVA;Finalisation de la fiabilisation de l'import;4;DRM
+2016-11-30;CIVA;installation machine DR sans internet;7;Serveur DR
+2016-11-30;CIVA;Mise à jour des tiers suite à la fiablisation;5;DRM
+2016-11-30;CIVA;Point bloquant acheteur Récoltant dans la DR;1,5;DR VTSGN

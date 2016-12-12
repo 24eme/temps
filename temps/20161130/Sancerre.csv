@@ -1,0 +1,19 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-11-08;Sancerre;Générisiation de GIILDA;4;TMA
+2016-11-08;Sancerre;Point / ticketing;0,5;Forfait
+2016-11-14;Sancerre;Ajout popup des contrats qui créée les contrats ;5;DRM
+2016-11-14;Sancerre;Initialisation import des données et import établissement et société;2,5;Dév
+2016-11-14;Sancerre;Recuperation donnees;3;Forfait
+2016-11-15;Sancerre;Bootstrapisation SV12 ;4,5;Dév
+2016-11-15;Sancerre;Création des contrats à la volée dans les DRM;7;DRM
+2016-11-15;Sancerre;Import DRM;7;Forfait
+2016-11-16;Sancerre;Création des contrats dans les DRM et gestion de leur mouvement;7;DRM
+2016-11-16;Sancerre;Import de données;8;Dév
+2016-11-16;Sancerre;Import DRM;5;Forfait
+2016-11-17;Sancerre;Reunion;7;Forfait
+2016-11-17;Sancerre;Réunion;7;Réunion
+2016-11-17;Sancerre;Réunion sancerre;7;Réunion
+2016-11-24;Sancerre;Création des contrats avec Uniq id et des popup;4,5;DRM
+2016-11-25;Sancerre;Adaptation des vue stock et gestion Facture;5,5;Facture
+2016-11-28;Sancerre;système de facturation 50 50 et templating;7;Facture
+2016-11-29;Sancerre;template de facture personnalisé sancerre;3;Facture

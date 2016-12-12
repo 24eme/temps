@@ -1,0 +1,23 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-11-02;GIILDA;Corrections sur la DRM ;1;IVBD
+2016-11-02;GIILDA;Corrections sur la DRM ;1;IVSO
+2016-11-03;GIILDA;Correction DRM pour le XML et transmission des DRM en erreur;2;IVBD
+2016-11-04;GIILDA;Tansmission des DRM en erreur;0,5;IVSO
+2016-11-04;GIILDA;Tansmission des DRM en erreur;1;IVBD
+2016-11-07;GIILDA;correction de bug sur le cumul des droits;1,75;IVBD
+2016-11-07;GIILDA;correction de bug sur le cumul des droits;1,75;IVSO
+2016-11-08;GIILDA;Mis à jour de la popup CRD acqSusp CRD dans le bon régime et activation des seuls bon mouvement;7;IVBD
+2016-11-09;GIILDA;Changement de regime CRD pour passer les mouvements en acquittées;3,5;IVBD
+2016-11-09;GIILDA;Correction sur l'édition de l'arbre produit ;0,5;IVBD
+2016-11-09;GIILDA;Correction sur l'édition de l'arbre produit ;1;IVSO
+2016-11-09;GIILDA;Résolution des problème lié aux Aqc et Susp;2;IVSO
+2016-11-09;GIILDA;Résolution des problème lié aux Aqc et Susp;6;IVBD
+2016-11-10;GIILDA;Adaptation pour les douanes et la popup adhésion;2,5;IVSO
+2016-11-10;GIILDA;Adaptation pour les douanes et la popup adhésion;3,5;IVBD
+2016-11-10;GIILDA;CRD acquitté et Point téléphonique;1;IVBD
+2016-11-14;GIILDA;Adaptation configuration pour Acquitte Suspendu ;2;IVBD
+2016-11-14;GIILDA;Bug de reprise d'un ancien produit;0,5;IVBD
+2016-11-14;GIILDA;Bug de reprise d'un ancien produit;0,5;IVSO
+2016-11-18;GIILDA;Saisie interne DRM vérification;2;IVBD
+2016-11-21;GIILDA;Moulinette CFT;3,5;TMA
+2016-11-22;GIILDA;Rapports CFT IVSO IVBD;0,5;TMA

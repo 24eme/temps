@@ -1,0 +1,11 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-11-04;VINSI;adaptation des champs pour le pdf;2,5;TMA
+2016-11-04;VINSI;Correction d'un bug sur la DRM lors de la génération en cascade entre une DRM télédéclaré et papier;1,5;TMA
+2016-11-07;VINSI;Mis en place des produits autres Lie bourbes;3,5;TMA
+2016-11-21;VINSI;Adaptation EDI non finalisé;8;EDI
+2016-11-22;VINSI;Adaptation de l'EDI avec nouveaux champs;5,5;EDI
+2016-11-22;VINSI;Bouton de réouverture des DRM;2;EDI
+2016-11-22;VINSI;Moulinette CFT + Rapport;2;TMA
+2016-11-23;VINSI;Export de la fonction des interlocuteurs dans l'export des comptes;1;TMA
+2016-11-24;VINSI;Adaptation de l'EDI pour les observations;2,5;EDI
+2016-11-25;VINSI;On retire les mouvements fct de réouverture;1;TMA
