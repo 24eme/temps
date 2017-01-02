@@ -1,0 +1,109 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2016-12-01;24ème;Maladie;0;
+2016-12-01;DeclarVins;Ticket #18384;1;TMA
+2016-12-02;24ème;Maladie;0;
+2016-12-05;DeclarVins;Tickets #18411 #18275;0,5;TMA
+2016-12-05;DeclarVins;Ticket #18377;0,5;TMA
+2016-12-05;DeclarVins;Ticket #18412;0,5;TMA
+2016-12-05;DeclarVins;Ticket #18379;0,5;TMA
+2016-12-05;DeclarVins;Ticket #18403;1,5;TMA
+2016-12-05;DeclarVins;Tickets #18382 #18391;0,5;TMA
+2016-12-05;DeclarVins;Ticket #18407;3;TMA
+2016-12-05;DeclarVins;Ticket #18406;1;TMA
+2016-12-06;DeclarVins;Ticket #18389;0,5;TMA
+2016-12-06;DeclarVins;Ticket #18275;0,5;TMA
+2016-12-06;DeclarVins;Ticket #18417;0,5;TMA
+2016-12-06;Sancerre;Stats etudes;5;Forfait
+2016-12-07;24ème;Maladie;0;
+2016-12-08;24ème;Maladie;0;
+2016-12-09;24ème;Maladie;0;
+2016-12-09;Sancerre;Sancerre stats pivot table;4;Forfait
+2016-12-12;Sancerre;Sancerre stats pivot table;10;Forfait
+2016-12-13;DeclarVins;Ticket #18403;0,5;TMA
+2016-12-13;DeclarVins;Ticket #18389;0,5;TMA
+2016-12-13;DeclarVins;Ticket #18417;0,5;TMA
+2016-12-13;Sancerre;Sancerre stats pivot table;9;Forfait
+2016-12-14;Sancerre;Sancerre stats pivot table;3;Forfait
+2016-12-14;24ème;Santa secret Actualys;0;
+2016-12-15;Sancerre;Reunion;7;Forfait
+2016-12-16;DeclarVins;Ticket #17989;2;TMA
+2016-12-16;DeclarVins;Tickets #18464 #18453;1;TMA
+2016-12-16;DeclarVins;Ticket #18404;1;TMA
+2016-12-16;DeclarVins;Ticket #16182;0,5;TMA
+2016-12-16;DeclarVins;Ticket #18470;0,5;TMA
+2016-12-16;DeclarVins;Ticket #18403;1;TMA
+2016-12-19;DeclarVins;CFT;0,5;TMA
+2016-12-19;24ème;Rdv locaux Lancelot;3;
+2016-12-19;Aurouze;Point saisie + tickets;3;Forfait
+2016-12-20;Aurouze;Point stats;2;Forfait
+2016-12-20;Aurouze;Tickets;4;Forfait
+2016-12-21;Aurouze;Tickets + Stats + Recette;7;Forfait
+2016-12-22;Aurouze;Tickets + Stats + Recette;5;Forfait
+2016-12-22;EliteAuto;Mise en place de l'environnement de dev + decouverte;2;Forfait
+2016-12-23;Aurouze;Tickets + Stats + Recette;4;Forfait
+2016-12-26;EliteAuto;Phpization de la recherche;9;Forfait
+2016-12-27;24ème;Vacances;7;
+2016-12-28;24ème;Vacances;7;
+2016-12-29;24ème;Vacances;7;
+2016-12-30;24ème;Vacances;7;
+2016-12-01;CIVA;installation machine DR;7;Serveur DR
+2016-12-02;24ème;cadeau souris;2;24ème
+2016-12-02;Aurouze;ajout d'un commentaire ;1;Relance
+2016-12-02;Aurouze;dev mobile formulaire passage;3;Mobile
+2016-12-02;GIILDA;Résolution des problème lié aux Aqc et Susp;6;IVBD
+2016-12-05;Aurouze;Réouverture de contrats;5;Contrat
+2016-12-05;GIILDA;Debug DRM;0,5;IVBD
+2016-12-06;Aurouze;dev mobile;7;Mobile
+2016-12-07;Aurouze;dev mobile;7;Mobile
+2016-12-08;Aurouze;dev mobile;7;Mobile
+2016-12-09;Aurouze;dev mobile signature;7;Mobile
+2016-12-12;Aurouze;dev mobile manifest;1;Mobile
+2016-12-12;Sancerre;configuration mouvement drm inté import contrat;6;Import
+2016-12-13;Aurouze;Pdf contrat problème;1;TMA
+2016-12-13;Aurouze;Saisie rapport;2;Mobile
+2016-12-13;Sancerre;Dév Drm Facturation;4;Drm
+2016-12-14;Sancerre;Drm Facturation et Sv12;7;Facturation
+2016-12-15;24ème;Réunion;2;Tactical meeting
+2016-12-15;Sancerre;Réunion Sancerre;7;Réunion
+2016-12-30;24ème;temps;1;temps
+2016-12-30;Aurouze;Stats;3;TMA
+2016-12-01;CIVA;Corrections de Bugs dans la DR et ajustement;4,5;TMA
+2016-12-01;GIILDA;Transmission de DRM Ciel;0,5;IVBD
+2016-12-02;Aurouze;Corrections, Améliorations;0,5;TMA
+2016-12-02;CIVA;Corrections, améliorations performance saisie interne;3,5;TMA
+2016-12-02;GIILDA;Correction dans le XML;1,5;IVBD
+2016-12-05;CIVA;Corrections DR et comptes;4,5;TMA
+2016-12-06;CIVA;Adaptation modifications des tiers;3,5;TMA
+2016-12-06;CIVA;Corrections DR;2;TMA
+2016-12-07;Aurouze;Corrections massives de passages erronés, Amélioration érgonomie modification de passage;3,5;TMA
+2016-12-07;AVA;Correction d'une tournée de dégustation et d'un constat;0,5;TMA
+2016-12-07;CIVA;Adaptation modifications des tiers;2;TMA
+2016-12-07;GIILDA;Transmission de DRM Ciel;0,5;IVBD
+2016-12-08;CIVA;Exports des contrats, corrections, et export modifications d'établissements;3,5;TMA
+2016-12-08;GIILDA;Transmission de DRM Ciel;1;IVBD
+2016-12-08;GIILDA;Transmission de DRM Ciel;1;IVSO
+2016-12-08;VINSI;Transmission douane et corrections pour le lycée;1,5;TMA
+2016-12-09;CIVA;Préparatifs fermeture de la DR, mails rappels, exports, et correction de la campagne dans les contrats;4;TMA
+2016-12-09;GIILDA;Transmission de DRM Ciel;2;IVBD
+2016-12-09;GIILDA;Transmission de DRM Ciel;2;IVSO
+2016-12-12;24ème;Temps et facturation;2,5;24ème
+2016-12-12;AVA;Correction d'un bug de calcul dans la DRev;1;TMA
+2016-12-12;CIVA;Préparations de l'import automatique, Fermeture de la DR, Corrections bug DR, correction stockage du num db2 dans les contrats;4;TMA
+2016-12-13;CIVA;Import automatique des DR, Corrections de bugs dans la DR, Réparations des modifications tiers, corrections tâches dr et cloture de vitis;8;TMA
+2016-12-14;Sancerre;Tickets pour réunion;7;Dév
+2016-12-15;24ème;Tactical meeting;2;24ème
+2016-12-15;Aurouze;Corrections d'un bug sur le prix dans les reconductions, affichage du numéro de facture dans les paiements, Double clique sur les bons bleu;2;TMA
+2016-12-15;CIVA;Corrections d'exports et stats pour la DR, corrections d'un bug dans les docs ayant du VTSGN;3;TMA
+2016-12-15;Sancerre;Réunion;3,5;Réunion
+2016-12-16;CIVA;Export XML douane 2015 à l'identique à avant la migration, correction d'un bug dans la DR à néant, mise à disposition DR compta et acheteur;5;TMA
+2016-12-26;Aurouze;Amélioration de la visu et de l'ergonomie d'un contrat;5;TMA
+2016-12-27;Aurouze;Amélioration de la visu et de l'ergonomie d'un contrat;3,5;TMA
+2016-12-27;Sancerre;Achat des serveurs;1,5;Hébergement
+2016-12-28;24ème;Dépot des comptes au Greffe;1,5;24ème
+2016-12-28;Aurouze;Gestion d'une facture à 2 TVA;0,5;TMA
+2016-12-28;CIVA;Mise à jour des tiers et export XML;1,5;TMA
+2016-12-28;VINSI;Corrections dans les volumes revendiqués;2;TMA
+2016-12-29;EliteAuto;Intégration;7;Forfait
+2016-12-30;Aurouze;Correction visu contrat;1,5;TMA
+2016-12-30;CIVA;Export XML Civa aggréga des VTSGN dans les totaux;2,5;TMA
+2016-12-30;EliteAuto;Intégration;2;Forfait
