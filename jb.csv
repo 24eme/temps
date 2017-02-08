@@ -1,102 +1,58 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2016-11-02;DeclarVins;Ticket #18224;3.5;TMA
-2016-11-02;DeclarVins;Ticket #18222;0.5;TMA
-2016-11-02;DeclarVins;Ticket #18221;0.5;TMA
-2016-11-02;DeclarVins;Ticket #18219;0.5;TMA
-2016-11-03;DeclarVins;Recette VDI IVSE;4;TMA
-2016-11-03;DeclarVins;Moulinette CFT;3.5;TMA
-2016-11-04;Aurouze;Tournee technicien;7;
-2016-11-07;DeclarVins;Bug extraction EDI;0,5;TMA
-2016-11-07;DeclarVins;Rapport CIEL;1;TMA
-2016-11-07;DeclarVins;Optimisation rapport CIEL;1;TMA
-2016-11-07;DeclarVins;Tickets #18182 #18166;0,5;TMA
-2016-11-07;24eme;Facturation;2;
-2016-11-08;DeclarVins;Bug xml nb document;1;TMA
-2016-11-08;DeclarVins;Ticket #18262;0,5;TMA
-2016-11-08;DeclarVins;Moulinette CFT;3,5;TMA
-2016-11-08;Sancerre;Point / ticketing;0,5;Forfait
-2016-11-09;DeclarVins;Tickets #18274 #18275 #18272 #18271 #18268;1;TMA
-2016-11-09;DeclarVins;Email interpro notification erreur transmission ciel;0,5;TMA
-2016-11-09;24eme;Liste ministerielle;2;
-2016-11-09;Aurouze;Mockup appli mobile;2;
-2016-11-09;DeclarVins;Tickets #18268 #18274;0,5;TMA
-2016-11-10;Aurouze;Finalisation Mockup + repas technicien + recherche tel;6;
-2016-11-14;DeclarVins;Correction moulinette + Rapports IR /CIVP;2;TMA
-2016-11-14;DeclarVins;Ajout des labels dans le xml douane;1,5;TMA
-2016-11-14;Sancerre;Recuperation donnees;3;Forfait
-2016-11-15;Sancerre;Import DRM;7;Forfait
-2016-11-16;DeclarVins;Ticket #18315;1,5;TMA
-2016-11-16;Sancerre;Import DRM;5;Forfait
-2016-11-17;Sancerre;Reunion;7;Forfait
-2016-11-18;Aurouze;Correctif liste contrat last et etude recherche qui bug;2;
-2016-11-18;24eme;Tactical meeting;4
-2016-11-21;DeclarVins;Ticket #18310;1,5;TMA
-2016-11-21;DeclarVins;Ticket #18314;1,5;TMA
-2016-11-21;Giilda;Moulinette CFT;3,5;TMA
-2016-11-22;DeclarVins;Tickets #16182 #17873;2,5;TMA
-2016-11-22;DeclarVins;Ticket #18286;1;TMA
-2016-11-22;DeclarVins;Ticket #18317;1;TMA
-2016-11-22;DeclarVins;Ticket #18313;0,5;TMA
-2016-11-22;VINSI;Moulinette CFT + Rapport;2;TMA
-2016-11-22;Giilda;Rapports CFT IVSO IVBD;0,5;TMA
-2016-11-23;EliteAuto;Reunion kick off;3,5;Forfait
-2016-11-23;24eme;Administratif liste ministerielle;2,5;
-2016-11-24;DeclarVins;Ticket #18353;0,5;TMA
-2016-11-24;DeclarVins;Ticket #18275;1,5;TMA
-2016-11-24;DeclarVins;Ticket #18309;2;TMA
-2016-11-25;DeclarVins;Ticket #18363;1;TMA
-2016-11-25;DeclarVins;Rapport CFT;0,5;TMA
-2016-11-25;DeclarVins;Ticket 18002;5;TMA
-2016-11-28;DeclarVins;Ticket #18372;0,5;TMA
-2016-11-28;DeclarVins;Ticket #18371;0,5;TMA
-2016-11-28;DeclarVins;Ticket #18374;0,5;TMA
-2016-11-28;24eme;Maladie
-2016-11-29;DeclarVins;Reunion Avignon;7;TMA
-2016-11-30;24eme;Maladie
-2016-12-01;24eme;Maladie
-2016-12-01;DeclarVins;Ticket #18384;1;TMA
-2016-12-02;24eme;Maladie
-2016-12-05;DeclarVins;Tickets #18411 #18275;0,5;TMA
-2016-12-05;DeclarVins;Ticket #18377;0,5;TMA
-2016-12-05;DeclarVins;Ticket #18412;0,5;TMA
-2016-12-05;DeclarVins;Ticket #18379;0,5;TMA
-2016-12-05;DeclarVins;Ticket #18403;1,5;TMA
-2016-12-05;DeclarVins;Tickets #18382 #18391;0,5;TMA
-2016-12-05;DeclarVins;Ticket #18407;3;TMA
-2016-12-05;DeclarVins;Ticket #18406;1;TMA
-2016-12-06;DeclarVins;Ticket #18389;0,5;TMA
-2016-12-06;DeclarVins;Ticket #18275;0,5;TMA
-2016-12-06;DeclarVins;Ticket #18417;0,5;TMA
-2016-12-06;Sancerre stats etudes;5;Forfait
-2016-12-07;24eme;Maladie
-2016-12-08;24eme;Maladie
-2016-12-09;24eme;Maladie
-2016-12-09;Sancerre;Sancerre stats pivot table;4;Forfait
-2016-12-12;Sancerre;Sancerre stats pivot table;10;Forfait
-2016-12-13;DeclarVins;Ticket #18403;0,5;TMA
-2016-12-13;DeclarVins;Ticket #18389;0,5;TMA
-2016-12-13;DeclarVins;Ticket #18417;0,5;TMA
-2016-12-13;Sancerre;Sancerre stats pivot table;9;Forfait
-2016-12-14;Sancerre;Sancerre stats pivot table;3;Forfait
-2016-12-14;24eme;Santa secret Actualys;
-2016-12-15;Sancerre;Reunion;7;Forfait
-2016-12-16;DeclarVins;Ticket #17989;2;TMA
-2016-12-16;DeclarVins;Tickets #18464 #18453;1;TMA
-2016-12-16;DeclarVins;Ticket #18404;1;TMA
-2016-12-16;DeclarVins;Ticket #16182;0,5;TMA
-2016-12-16;DeclarVins;Ticket #18470;0,5;TMA
-2016-12-16;DeclarVins;Ticket #18403;1;TMA
-2016-12-19;DeclarVins;CFT;0,5;TMA
-2016-12-19;24eme;Rdv locaux Lancelot;3;
-2016-12-19;Aurouze;Point saisie + tickets;3;Forfait
-2016-12-20;Aurouze;Point stats;2;Forfait
-2016-12-20;Aurouze;Tickets;4;Forfait
-2016-12-21;Aurouze;Tickets + Stats + Recette;7;Forfait
-2016-12-22;Aurouze;Tickets + Stats + Recette;5;Forfait
-2016-12-22;EliteAuto;Mise en place de l'environnement de dev + decouverte;2;Forfait
-2016-12-23;Aurouze;Tickets + Stats + Recette;4;Forfait
-2016-12-26;EliteAuto;Phpization de la recherche;9;Forfait
-2016-12-27;24eme;Vacances;7;
-2016-12-28;24eme;Vacances;7;
-2016-12-29;24eme;Vacances;7;
-2016-12-30;24eme;Vacances;7;
+2017-01-02;DeclarVins;Ticket #18484;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18495;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18496;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18487;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18479;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18391;1;TMA
+2017-01-02;DeclarVins;Ticket #18475;1;TMA
+2017-01-02;DeclarVins;Ticket #18483;1;TMA
+2017-01-02;DeclarVins;Ticket #18482;0,5;TMA
+2017-01-03;DeclarVins;Ticket #18499;0,5;TMA
+2017-01-03;DeclarVins;Ticket #18482;4;TMA
+2017-01-03;DeclarVins;Tickets #18500 #18453;0,5;TMA
+2017-01-03;DeclarVins;Mise en place moulinette CFT automatique;1,5;TMA
+2017-01-04;24eme;Absence maladie Liam;7;
+2017-01-05;DeclarVins;Ticket #18503;1;TMA
+2017-01-05;DeclarVins;Ticket #18502;0,5;TMA
+2017-01-05;DeclarVins;Ticket #18342;5,5;TMA
+2017-01-06;24eme;ODG Rhone + tactical meeting;6;
+2017-01-09;DeclarVins;XML CFT + Antislash;1,5;TMA
+2017-01-09;DeclarVins;Ticket #18516;0,5;TMA
+2017-01-09;Aurouze;Dev;0,5;Forfait
+2017-01-09;EliteAuto;Dev;4;Forfait
+2017-01-10;EliteAuto;Dev;6;Forfait
+2017-01-10;Demandes CIVP;1;TMA
+2017-01-11;EliteAuto;Dev a coignieres;7;Forfait
+2017-01-11;DeclarVins;Ticket #18518;0,5;Forfait
+2017-01-11;DeclarVins;Tickets #18524 #18522;0,5;Forfait
+2017-01-11;DeclarVins;Tickets #18519 #18521 #18520;1;Forfait
+2017-01-12;EliteAuto;Dev a coignieres;7;Forfait
+2017-01-13;DeclarVins;Tickets #18523 #18518;1;TMA
+2017-01-13;Aurouze;Dev;4;Forfait
+2017-01-16;DeclarVins;EDI partenaire contrats correctifs;7;TMA
+2017-01-17;DeclarVins;EDI partenaire drm correctifs;7;TMA
+2017-01-17;DeclarVins;Ticket #18530;1;TMA
+2017-01-18;DeclarVins;Ticket #18538;0,5;TMA
+2017-01-18;DeclarVins;EDI partenaire import DRM;6,5;TMA
+2017-01-19;Aurouze;Dev;4,5;
+2017-01-20;DeclarVins;EDI partenaire import Contrats;7;TMA
+2017-01-23;DeclarVins;Tickets #18547 #18548 #18546;1,5;TMA
+2017-01-23;DeclarVins;Tickets #18545 #18544 #18570;1;TMA
+2017-01-23;DeclarVins;Ticket #18475;1,5;TMA
+2017-01-23;DeclarVins;Tickets #18573 #18572 #18571 #18574;2,5;TMA
+2017-01-24;EliteAuto;Comparateur;7;Forfait
+2017-01-25;EliteAuto;Fine tunning;7;Forfait
+2017-01-26;EliteAuto;Fine tunning;7;Forfait
+2017-01-27;DeclarVins;Tickets #18575 #18581 #18577 #18544;2;TMA
+2017-01-27;DeclarVins;Ticket #18570;1;TMA
+2017-01-27;DeclarVins;Ticket #18572;1;TMA
+2017-01-27;DeclarVins;Ticket #18582;1;TMA
+2017-01-27;DeclarVins;Ticket #18578;0,5;TMA
+2017-01-30;Sancerre;Dev avant fine tunning;7;Forfait
+2017-01-31;Sancerre;Dev avant fine tunning;7;Forfait
+2017-02-01;Sancerre;Fine tunning;7;Forfait
+2017-02-02;Sancerre;Fine tunning;7;Forfait
+2017-02-03;Sancerre;Fine tunning;7;Forfait
+2017-02-06;Pythagore;Formation JS;7;Forfait
+2017-02-07;Pythagore;Formation JS;7;Forfait
