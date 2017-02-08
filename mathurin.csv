@@ -1,41 +1,35 @@
-2016-11-02;Aurouze;Adaptation des reconduction tacites et enquetes;4;Contrats
-2016-11-02;Aurouze;Tache pour les contrats reconduit et les dates de prevision;3;Contrats
-2016-11-03;Aurouze;Debug des factures et mouvements;5,5;Facture
-2016-11-03;Aurouze;Maj des problèmes de bons bleu;1,5;Facture
-2016-11-04;Aurouze;Dératisation;4;Dératisation
-2016-11-04;Aurouze;Recherche plus cohérente;1,5;Recherche
-2016-11-04;VINSI;adaptation des champs pour le pdf;2,5;TMA
-2016-11-07;GIILDA;correction de bug sur le cumul des droits;1,75;IVBD
-2016-11-07;GIILDA;correction de bug sur le cumul des droits;1,75;IVSO
-2016-11-07;VINSI;Mis en place des produits autres Lie bourbes;3,5;TMA
-2016-11-08;GIILDA;Mis à jour de la popup CRD acqSusp CRD dans le bon régime et activation des seuls bon mouvement;7;IVBD
-2016-11-09;GIILDA;Résolution des problème lié aux Aqc et Susp;2;IVSO
-2016-11-09;GIILDA;Résolution des problème lié aux Aqc et Susp;6;IVBD
-2016-11-10;Aurouze;Restaurant avec technicien;2;Réunion
-2016-11-10;GIILDA;Adaptation pour les douanes et la popup adhésion;2,5;IVSO
-2016-11-10;GIILDA;Adaptation pour les douanes et la popup adhésion;3,5;IVBD
-2016-11-14;GIILDA;Adaptation configuration pour Acquitte Suspendu ;2;IVBD
-2016-11-14;Sancerre;Ajout popup des contrats qui créée les contrats ;5;DRM
-2016-11-15;Sancerre;Création des contrats à la volée dans les DRM;7;DRM
-2016-11-16;Aurouze;Adaptation de la vue;1;Contrat
-2016-11-16;Sancerre;Création des contrats dans les DRM et gestion de leur mouvement;7;DRM
-2016-11-17;Sancerre;Réunion;7;Réunion
-2016-11-18;24eme;Réunion;4;Tactical Meeting
-2016-11-18;Aurouze;nouveau tableau des factures;1;Facture
-2016-11-18;GIILDA;Saisie interne DRM vérification;2;IVBD
-2016-11-21;VINSI;Adaptation EDI non finalisé;8;EDI
-2016-11-22;VINSI;Adaptation de l'EDI avec nouveaux champs;5,5;EDI
-2016-11-22;VINSI;Bouton de réouverture des DRM;2;EDI
-2016-11-23;Aurouze;nouveau tableau des factures non édités et contrats décalés;3;Facture
-2016-11-23;EliteAuto;Réunion;3;Réunion
-2016-11-23;VINSI;Export de la fonction des interlocuteurs dans l'export des comptes;1;TMA
-2016-11-24;Sancerre;Création des contrats avec Uniq id et des popup;4,5;DRM
-2016-11-24;VINSI;Adaptation de l'EDI pour les observations;2,5;EDI
-2016-11-25;Sancerre;Adaptation des vue stock et gestion Facture;5,5;Facture
-2016-11-25;VINSI;On retire les mouvements fct de réouverture;1;TMA
-2016-11-28;Sancerre;système de facturation 50 50 et templating;7;Facture
-2016-11-29;Aurouze;affichage des reconduction par date;1;Reconduction
-2016-11-29;Aurouze;début du dev mobile;3;Mobile
-2016-11-29;Sancerre;template de facture personnalisé sancerre;3;Facture
-2016-11-30;Aurouze;dev mobile page de visu passage;2;Mobile
-2016-11-30;CIVA;installation machine DR sans internet;7;Serveur DR
+2017-01-01;Aurouze;Saisie rapport;2;Mobile
+2017-01-01;GIILDA;Debug DRM;0,5;IVBD
+2017-01-01;Sancerre;Réunion Sancerre;7;Réunion
+2017-01-01;VINSI;Adaptation EDI non finalisé;8;EDI
+2017-01-02;Aurouze;Societe export des facture;6;Facture
+2017-01-03;Aurouze;Societe export des factures mis en pdf et debug;3;Facture
+2017-01-04;VINSI;Adaptation EDI gestion erreurs;5;EDI
+2017-01-05;VINSI;edi appli preprod;5;EDI
+2017-01-06;24eme;Tactical Meeting;3;Tactical Meeting
+2017-01-06;VINSI;gestion edi en urlencode;3;EDI
+2017-01-09;VINSI;gestion edi et tests pour Isagri;7;EDI
+2017-01-10;VINSI;fichier de retour edi ;5;EDI
+2017-01-11;VINSI;gestion erreur edi ;4;EDI
+2017-01-11;VINSI;problème mouvements de DRM validation;1;TMA
+2017-01-12;EliteAuto;recherche et critères plus ;7;EliteAuto
+2017-01-13;Aurouze;gestion de bug;5;TMA
+2017-01-16;Sancerre;Générisisation factures et templating sancerre;6;Facture
+2017-01-16;VINSI;tests isagri edi en preprod;1;EDI
+2017-01-17;GIILDA;Petit correctif pour les contrats;1,5;IVSO
+2017-01-17;Sancerre;SV12 mutualisation paramétrée;6;SV12
+2017-01-18;Sancerre;Import Contrats;4;Contrat
+2017-01-19;Aurouze;Commentaire de retard remonté et pdf encours facture;3;TMA
+2017-01-19;Sancerre;Import Contrats et DRM;4;Import
+2017-01-20;Aurouze;Maj pdf extraction facture;1;TMA
+2017-01-20;Sancerre;Paramétrage pdf sancerre facture et contrat;4;Facture
+2017-01-20;VINSI;réunion téléphonique Fanny;2;Réunion
+2017-01-23;Aurouze;Coquille de code;1;TMA
+2017-01-23;Sancerre;init and load fixtures spécifique;5;Configuration
+2017-01-24;Malade;Malade;7;Malade
+2017-01-25;Aurouze;Coquille de code ordre passage bougé;1;TMA
+2017-01-25;EliteAuto;fineTunig;7;FineTuning
+2017-01-26;EliteAuto;fineTunig;7;FineTuning
+2017-01-30;Sancerre;DRM validation création contrat;3;DRM
+2017-01-30;VINSI;Changement textes popups et débug;4;TMA
+2017-01-31;Sancerre;Popup export et contrats en multi lignes;9;DRM

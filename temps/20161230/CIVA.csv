@@ -1,0 +1,16 @@
+Date;Projet;Description;Temps (en heure);Tache
+2016-12-01;CIVA;Corrections de Bugs dans la DR et ajustement;4,5;TMA
+2016-12-01;CIVA;installation machine DR;7;Serveur DR
+2016-12-02;CIVA;Corrections, améliorations performance saisie interne;3,5;TMA
+2016-12-05;CIVA;Corrections DR et comptes;4,5;TMA
+2016-12-06;CIVA;Adaptation modifications des tiers;3,5;TMA
+2016-12-06;CIVA;Corrections DR;2;TMA
+2016-12-07;CIVA;Adaptation modifications des tiers;2;TMA
+2016-12-08;CIVA;Exports des contrats, corrections, et export modifications d'établissements;3,5;TMA
+2016-12-09;CIVA;Préparatifs fermeture de la DR, mails rappels, exports, et correction de la campagne dans les contrats;4;TMA
+2016-12-12;CIVA;Préparations de l'import automatique, Fermeture de la DR, Corrections bug DR, correction stockage du num db2 dans les contrats;4;TMA
+2016-12-13;CIVA;Import automatique des DR, Corrections de bugs dans la DR, Réparations des modifications tiers, corrections tâches dr et cloture de vitis;8;TMA
+2016-12-15;CIVA;Corrections d'exports et stats pour la DR, corrections d'un bug dans les docs ayant du VTSGN;3;TMA
+2016-12-16;CIVA;Export XML douane 2015 à l'identique à avant la migration, correction d'un bug dans la DR à néant, mise à disposition DR compta et acheteur;5;TMA
+2016-12-28;CIVA;Mise à jour des tiers et export XML;1,5;TMA
+2016-12-30;CIVA;Export XML Civa aggréga des VTSGN dans les totaux;2,5;TMA
