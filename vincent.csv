@@ -1,41 +1,44 @@
-2016-12-01;CIVA;Corrections de Bugs dans la DR et ajustement;4,5;TMA
-2016-12-01;IVBD;Transmission de DRM Ciel;0,5;TMA
-2016-12-02;Aurouze;Corrections, Améliorations;0,5;TMA
-2016-12-02;CIVA;Corrections, améliorations performance saisie interne;3,5;TMA
-2016-12-02;IVBD;Correction dans le XML;1,5;TMA
-2016-12-05;CIVA;Corrections DR et comptes;4,5;TMA
-2016-12-05;IVSO;Import de l'historique corrections;1;TMA
-2016-12-06;CIVA;Adaptation modifications des tiers;3,5;TMA
-2016-12-06;CIVA;Corrections DR;2;TMA
-2016-12-07;Aurouze;Corrections massives de passages erronés, Amélioration érgonomie modification de passage;3,5;TMA
-2016-12-07;AVA;Correction d'une tournée de dégustation et d'un constat;0,5;TMA
-2016-12-07;CIVA;Adaptation modifications des tiers;2;TMA
-2016-12-07;IVBD;Transmission de DRM Ciel;0,5;TMA
-2016-12-08;CIVA;Exports des contrats, corrections, et export modifications d'établissements;3,5;TMA
-2016-12-08;IVBD;Transmission de DRM Ciel;1;TMA
-2016-12-08;IVSO;Transmission de DRM Ciel;1;TMA
-2016-12-08;VINSI;Transmission douane et corrections pour le lycée;1,5;TMA
-2016-12-09;CIVA;Préparatifs fermeture de la DR, mails rappels, exports, et correction de la campagne dans les contrats;4;TMA
-2016-12-09;IVBD;Transmission de DRM Ciel;2;TMA
-2016-12-09;IVSO;Transmission de DRM Ciel;2;TMA
-2016-12-12;24ème;Temps et facturation;2,5;24ème
-2016-12-12;AVA;Correction d'un bug de calcul dans la DRev;1;TMA
-2016-12-12;CIVA;Préparations de l'import automatique, Fermeture de la DR, Corrections bug DR, correction stockage du num db2 dans les contrats;4;TMA
-2016-12-13;CIVA;Import automatique des DR, Corrections de bugs dans la DR, Réparations des modifications tiers, corrections tâches dr et cloture de vitis;8;TMA
-2016-12-14;Sancerre;Tickets pour réunion;7;Dév
-2016-12-15;24ème;Tactical meeting;2;24ème
-2016-12-15;Aurouze;Corrections d'un bug sur le prix dans les reconductions, affichage du numéro de facture dans les paiements, Double clique sur les bons bleu;2;TMA
-2016-12-15;CIVA;Corrections d'exports et stats pour la DR, corrections d'un bug dans les docs ayant du VTSGN;3;TMA
-2016-12-15;Sancerre;Réunion;3,5;Réunion
-2016-12-16;CIVA;Export XML douane 2015 à l'identique à avant la migration, correction d'un bug dans la DR à néant, mise à disposition DR compta et acheteur;5;TMA
-2016-12-26;Aurouze;Amélioration de la visu et de l'ergonomie d'un contrat;5;TMA
-2016-12-27;Aurouze;Amélioration de la visu et de l'ergonomie d'un contrat;3,5;TMA
-2016-12-27;Sancerre;Achat des serveurs;1,5;Hébergement
-2016-12-28;24ème;Dépot des comptes au Greffe;1,5;24ème
-2016-12-28;Aurouze;Gestion d'une facture à 2 TVA;0,5;TMA
-2016-12-28;CIVA;Mise à jour des tiers et export XML;1,5;TMA
-2016-12-28;VINSI;Corrections dans les volumes revendiqués;2;TMA
-2016-12-29;Eliteauto;Intégration;7;Eliteauto
-2016-12-30;Aurouze;Correction visu contrat;1,5;TMA
-2016-12-30;CIVA;Export XML Civa aggréga des VTSGN dans les totaux;2,5;TMA
-2016-12-30;Eliteauto;Intégration;2;Eliteauto
+2017-01-02;24ème;Temps et facturation;3;24ème
+2017-01-02;Aurouze;Suppression de facture;0,5;TMA
+2017-01-02;Eliteauto;Intégration;3,5;Eliteauto
+2017-01-03;Eliteauto;Intégration;3,5;Eliteauto
+2017-01-04;CIVA;Corrections de bugs de sur la DR;2,5;TMA
+2017-01-04;Eliteauto;Intégration;3,5;Eliteauto
+2017-01-05;CIVA;DS de décembre adaptation au VTSGN;7;TMA
+2017-01-06;Aurouze;Suppression de facture;1;TMA
+2017-01-06;Eliteauto;Intégration;3,5;Eliteauto
+2017-01-09;AVA;Adaptation pour faire des constats VTSGN sur 2017;2;TMA
+2017-01-09;Eliteauto;Intégration;5;Eliteauto
+2017-01-10;Aurouze;Corrections de contrats;1;TMA
+2017-01-10;CIVA;Corrections sur la DS de décembre;1;TMA
+2017-01-10;Eliteauto;Intégration;2;Eliteauto
+2017-01-10;VINSI;Récap transmission douane et code INAO;3,5;TMA
+2017-01-11;Eliteauto;Intégration;7;Eliteauto
+2017-01-12;Eliteauto;Intégration;7;Eliteauto
+2017-01-13;Aurouze;Refont visualisation et saisie des contrats;3,5;TMA
+2017-01-13;CIVA;Corrections sur la DS et export XML de la DR;3,5;TMA
+2017-01-16;GIILDA;Import des données de tous l'historique;3,5;IVSO
+2017-01-17;GIILDA;Bug DRM en vert dans le calendrier;1;GIILDA
+2017-01-17;GIILDA;Import des données de tous l'historique;1;IVSO
+2017-01-17;Sancerre;Tickets;3,5;Dév
+2017-01-18;Aurouze;Correction de contrats;0,5;TMA
+2017-01-18;GIILDA;Reprise lie et bourbe en mode saisie papier;1,5;GIILDA
+2017-01-18;Sancerre;Correction d'un bug dans la config;2;Dév
+2017-01-18;Sancerre;Merge master et sancerre;2;Dév
+2017-01-19;Aurouze;Techniciens filtrables;3,5;TMA
+2017-01-19;Sancerre;Tickets;3,5;Dév
+2017-01-20;AVA;Correction de document DRev et constats VTSGN;1;TMA
+2017-01-20;GIILDA;Import des données de tous l'historique;1;IVSO
+2017-01-20;Sancerre;Tickets;3,5;Dév
+2017-01-23;GIILDA;Avoir à partir de la date facturation;1;IVSO
+2017-01-23;VINSI;Débuggage de XML Doaune;2;TMA
+2017-01-24;Eliteauto;Intégration;8;Eliteauto
+2017-01-25;Eliteauto;Intégration;7;Eliteauto
+2017-01-26;Eliteauto;Intégration;7;Eliteauto
+2017-01-27;Aurouze;Corrections Interfaces de facture;2;TMA
+2017-01-27;CIVA;Corrections dans les DS;2,5;TMA
+2017-01-30;24ème;Markdownisation du statut;2,5;24ème
+2017-01-30;AVA;Corrections;1;TMA
+2017-01-30;Eliteauto;Correction d'un bug;1;Eliteauto
+2017-01-30;Sancerre;Tickets;2,5;Dév
+2017-01-31;Sancerre;Tickets;7;Dév
