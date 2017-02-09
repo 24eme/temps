@@ -1,0 +1,19 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-01-01;Aurouze;Saisie rapport;2;Mobile
+2017-01-02;Aurouze;Societe export des facture;6;Facture
+2017-01-02;Aurouze;Suppression de facture;0,5;TMA
+2017-01-03;Aurouze;Societe export des factures mis en pdf et debug;3;Facture
+2017-01-06;Aurouze;Suppression de facture;1;TMA
+2017-01-09;Aurouze;Dev;0,5;Forfait
+2017-01-10;Aurouze;Corrections de contrats;1;TMA
+2017-01-13;Aurouze;Dev;4;Forfait
+2017-01-13;Aurouze;gestion de bug;5;TMA
+2017-01-13;Aurouze;Refont visualisation et saisie des contrats;3,5;TMA
+2017-01-18;Aurouze;Correction de contrats;0,5;TMA
+2017-01-19;Aurouze;Commentaire de retard remonté et pdf encours facture;3;TMA
+2017-01-19;Aurouze;Dev;4,5;
+2017-01-19;Aurouze;Techniciens filtrables;3,5;TMA
+2017-01-20;Aurouze;Maj pdf extraction facture;1;TMA
+2017-01-23;Aurouze;Coquille de code;1;TMA
+2017-01-25;Aurouze;Coquille de code ordre passage bougé;1;TMA
+2017-01-27;Aurouze;Corrections Interfaces de facture;2;TMA

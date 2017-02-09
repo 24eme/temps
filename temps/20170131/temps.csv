@@ -1,0 +1,132 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2017-01-02;DeclarVins;Ticket #18484;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18495;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18496;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18487;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18479;0,5;TMA
+2017-01-02;DeclarVins;Ticket #18391;1;TMA
+2017-01-02;DeclarVins;Ticket #18475;1;TMA
+2017-01-02;DeclarVins;Ticket #18483;1;TMA
+2017-01-02;DeclarVins;Ticket #18482;0,5;TMA
+2017-01-03;DeclarVins;Ticket #18499;0,5;TMA
+2017-01-03;DeclarVins;Ticket #18482;4;TMA
+2017-01-03;DeclarVins;Tickets #18500 #18453;0,5;TMA
+2017-01-03;DeclarVins;Mise en place moulinette CFT automatique;1,5;TMA
+2017-01-04;24ème;Absence maladie Liam;7;
+2017-01-05;DeclarVins;Ticket #18503;1;TMA
+2017-01-05;DeclarVins;Ticket #18502;0,5;TMA
+2017-01-05;DeclarVins;Ticket #18342;5,5;TMA
+2017-01-06;24ème;ODG Rhone + tactical meeting;6;
+2017-01-09;DeclarVins;XML CFT + Antislash;1,5;TMA
+2017-01-09;DeclarVins;Ticket #18516;0,5;TMA
+2017-01-09;Aurouze;Dev;0,5;Forfait
+2017-01-09;EliteAuto;Dev;4;Forfait
+2017-01-10;EliteAuto;Dev;6;Forfait
+2017-01-10;DeclarVins;Demandes CIVP;1;TMA
+2017-01-11;EliteAuto;Dev a coignieres;7;Forfait
+2017-01-11;DeclarVins;Ticket #18518;0,5;Forfait
+2017-01-11;DeclarVins;Tickets #18524 #18522;0,5;Forfait
+2017-01-11;DeclarVins;Tickets #18519 #18521 #18520;1;Forfait
+2017-01-12;EliteAuto;Dev a coignieres;7;Forfait
+2017-01-13;DeclarVins;Tickets #18523 #18518;1;TMA
+2017-01-13;Aurouze;Dev;4;Forfait
+2017-01-16;DeclarVins;EDI partenaire contrats correctifs;7;TMA
+2017-01-17;DeclarVins;EDI partenaire drm correctifs;7;TMA
+2017-01-17;DeclarVins;Ticket #18530;1;TMA
+2017-01-18;DeclarVins;Ticket #18538;0,5;TMA
+2017-01-18;DeclarVins;EDI partenaire import DRM;6,5;TMA
+2017-01-19;Aurouze;Dev;4,5;
+2017-01-20;DeclarVins;EDI partenaire import Contrats;7;TMA
+2017-01-23;DeclarVins;Tickets #18547 #18548 #18546;1,5;TMA
+2017-01-23;DeclarVins;Tickets #18545 #18544 #18570;1;TMA
+2017-01-23;DeclarVins;Ticket #18475;1,5;TMA
+2017-01-23;DeclarVins;Tickets #18573 #18572 #18571 #18574;2,5;TMA
+2017-01-24;EliteAuto;Comparateur;7;Forfait
+2017-01-25;EliteAuto;Fine tunning;7;Forfait
+2017-01-26;EliteAuto;Fine tunning;7;Forfait
+2017-01-27;DeclarVins;Tickets #18575 #18581 #18577 #18544;2;TMA
+2017-01-27;DeclarVins;Ticket #18570;1;TMA
+2017-01-27;DeclarVins;Ticket #18572;1;TMA
+2017-01-27;DeclarVins;Ticket #18582;1;TMA
+2017-01-27;DeclarVins;Ticket #18578;0,5;TMA
+2017-01-30;Sancerre;Dev avant fine tunning;7;Forfait
+2017-01-31;Sancerre;Dev avant fine tunning;7;Forfait
+2017-01-01;Aurouze;Saisie rapport;2;Mobile
+2017-01-01;GIILDA;Debug DRM;0,5;IVBD
+2017-01-01;Sancerre;Réunion Sancerre;7;Réunion
+2017-01-01;VINSI;Adaptation EDI non finalisé;8;EDI
+2017-01-02;Aurouze;Societe export des facture;6;Facture
+2017-01-03;Aurouze;Societe export des factures mis en pdf et debug;3;Facture
+2017-01-04;VINSI;Adaptation EDI gestion erreurs;5;EDI
+2017-01-05;VINSI;edi appli preprod;5;EDI
+2017-01-06;24ème;Tactical Meeting;3;Tactical Meeting
+2017-01-06;VINSI;gestion edi en urlencode;3;EDI
+2017-01-09;VINSI;gestion edi et tests pour Isagri;7;EDI
+2017-01-10;VINSI;fichier de retour edi ;5;EDI
+2017-01-11;VINSI;gestion erreur edi ;4;EDI
+2017-01-11;VINSI;problème mouvements de DRM validation;1;TMA
+2017-01-12;EliteAuto;recherche et critères plus ;7;EliteAuto
+2017-01-13;Aurouze;gestion de bug;5;TMA
+2017-01-16;Sancerre;Générisisation factures et templating sancerre;6;Facture
+2017-01-16;VINSI;tests isagri edi en preprod;1;EDI
+2017-01-17;GIILDA;Petit correctif pour les contrats;1,5;IVSO
+2017-01-17;Sancerre;SV12 mutualisation paramétrée;6;SV12
+2017-01-18;Sancerre;Import Contrats;4;Contrat
+2017-01-19;Aurouze;Commentaire de retard remonté et pdf encours facture;3;TMA
+2017-01-19;Sancerre;Import Contrats et DRM;4;Import
+2017-01-20;Aurouze;Maj pdf extraction facture;1;TMA
+2017-01-20;Sancerre;Paramétrage pdf sancerre facture et contrat;4;Facture
+2017-01-20;VINSI;réunion téléphonique Fanny;2;Réunion
+2017-01-23;Aurouze;Coquille de code;1;TMA
+2017-01-23;Sancerre;init and load fixtures spécifique;5;Configuration
+2017-01-24;Malade;Malade;7;Malade
+2017-01-25;Aurouze;Coquille de code ordre passage bougé;1;TMA
+2017-01-25;EliteAuto;fineTunig;7;FineTuning
+2017-01-26;EliteAuto;fineTunig;7;FineTuning
+2017-01-30;Sancerre;DRM validation création contrat;3;DRM
+2017-01-30;VINSI;Changement textes popups et débug;4;TMA
+2017-01-31;Sancerre;Popup export et contrats en multi lignes;9;DRM
+2017-01-02;24ème;Temps et facturation;3;24ème
+2017-01-02;Aurouze;Suppression de facture;0,5;TMA
+2017-01-02;EliteAuto;Intégration;3,5;EliteAuto
+2017-01-03;EliteAuto;Intégration;3,5;EliteAuto
+2017-01-04;CIVA;Corrections de bugs de sur la DR;2,5;TMA
+2017-01-04;EliteAuto;Intégration;3,5;EliteAuto
+2017-01-05;CIVA;DS de décembre adaptation au VTSGN;7;TMA
+2017-01-06;Aurouze;Suppression de facture;1;TMA
+2017-01-06;EliteAuto;Intégration;3,5;EliteAuto
+2017-01-09;AVA;Adaptation pour faire des constats VTSGN sur 2017;2;TMA
+2017-01-09;EliteAuto;Intégration;5;EliteAuto
+2017-01-10;Aurouze;Corrections de contrats;1;TMA
+2017-01-10;CIVA;Corrections sur la DS de décembre;1;TMA
+2017-01-10;EliteAuto;Intégration;2;EliteAuto
+2017-01-10;VINSI;Récap transmission douane et code INAO;3,5;TMA
+2017-01-11;EliteAuto;Intégration;7;EliteAuto
+2017-01-12;EliteAuto;Intégration;7;EliteAuto
+2017-01-13;Aurouze;Refont visualisation et saisie des contrats;3,5;TMA
+2017-01-13;CIVA;Corrections sur la DS et export XML de la DR;3,5;TMA
+2017-01-16;GIILDA;Import des données de tous l'historique;3,5;IVSO
+2017-01-17;GIILDA;Bug DRM en vert dans le calendrier;1;GIILDA
+2017-01-17;GIILDA;Import des données de tous l'historique;1;IVSO
+2017-01-17;Sancerre;Tickets;3,5;Dév
+2017-01-18;Aurouze;Correction de contrats;0,5;TMA
+2017-01-18;GIILDA;Reprise lie et bourbe en mode saisie papier;1,5;GIILDA
+2017-01-18;Sancerre;Correction d'un bug dans la config;2;Dév
+2017-01-18;Sancerre;Merge master et sancerre;2;Dév
+2017-01-19;Aurouze;Techniciens filtrables;3,5;TMA
+2017-01-19;Sancerre;Tickets;3,5;Dév
+2017-01-20;AVA;Correction de document DRev et constats VTSGN;1;TMA
+2017-01-20;GIILDA;Import des données de tous l'historique;1;IVSO
+2017-01-20;Sancerre;Tickets;3,5;Dév
+2017-01-23;GIILDA;Avoir à partir de la date facturation;1;IVSO
+2017-01-23;VINSI;Débuggage de XML Doaune;2;TMA
+2017-01-24;EliteAuto;Intégration;8;EliteAuto
+2017-01-25;EliteAuto;Intégration;7;EliteAuto
+2017-01-26;EliteAuto;Intégration;7;EliteAuto
+2017-01-27;Aurouze;Corrections Interfaces de facture;2;TMA
+2017-01-27;CIVA;Corrections dans les DS;2,5;TMA
+2017-01-30;24ème;Markdownisation du statut;2,5;24ème
+2017-01-30;AVA;Corrections;1;TMA
+2017-01-30;EliteAuto;Correction d'un bug;1;EliteAuto
+2017-01-30;Sancerre;Tickets;2,5;Dév
+2017-01-31;Sancerre;Tickets;7;Dév

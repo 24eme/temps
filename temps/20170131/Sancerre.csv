@@ -1,0 +1,19 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-01-01;Sancerre;Réunion Sancerre;7;Réunion
+2017-01-16;Sancerre;Générisisation factures et templating sancerre;6;Facture
+2017-01-17;Sancerre;SV12 mutualisation paramétrée;6;SV12
+2017-01-17;Sancerre;Tickets;3,5;Dév
+2017-01-18;Sancerre;Correction d'un bug dans la config;2;Dév
+2017-01-18;Sancerre;Import Contrats;4;Contrat
+2017-01-18;Sancerre;Merge master et sancerre;2;Dév
+2017-01-19;Sancerre;Import Contrats et DRM;4;Import
+2017-01-19;Sancerre;Tickets;3,5;Dév
+2017-01-20;Sancerre;Paramétrage pdf sancerre facture et contrat;4;Facture
+2017-01-20;Sancerre;Tickets;3,5;Dév
+2017-01-23;Sancerre;init and load fixtures spécifique;5;Configuration
+2017-01-30;Sancerre;Dev avant fine tunning;7;Forfait
+2017-01-30;Sancerre;DRM validation création contrat;3;DRM
+2017-01-30;Sancerre;Tickets;2,5;Dév
+2017-01-31;Sancerre;Dev avant fine tunning;7;Forfait
+2017-01-31;Sancerre;Popup export et contrats en multi lignes;9;DRM
+2017-01-31;Sancerre;Tickets;7;Dév

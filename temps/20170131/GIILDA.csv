@@ -1,0 +1,9 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-01-01;GIILDA;Debug DRM;0,5;IVBD
+2017-01-16;GIILDA;Import des données de tous l'historique;3,5;IVSO
+2017-01-17;GIILDA;Bug DRM en vert dans le calendrier;1;GIILDA
+2017-01-17;GIILDA;Import des données de tous l'historique;1;IVSO
+2017-01-17;GIILDA;Petit correctif pour les contrats;1,5;IVSO
+2017-01-18;GIILDA;Reprise lie et bourbe en mode saisie papier;1,5;GIILDA
+2017-01-20;GIILDA;Import des données de tous l'historique;1;IVSO
+2017-01-23;GIILDA;Avoir à partir de la date facturation;1;IVSO

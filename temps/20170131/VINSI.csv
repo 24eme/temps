@@ -1,0 +1,14 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-01-01;VINSI;Adaptation EDI non finalisé;8;EDI
+2017-01-04;VINSI;Adaptation EDI gestion erreurs;5;EDI
+2017-01-05;VINSI;edi appli preprod;5;EDI
+2017-01-06;VINSI;gestion edi en urlencode;3;EDI
+2017-01-09;VINSI;gestion edi et tests pour Isagri;7;EDI
+2017-01-10;VINSI;fichier de retour edi ;5;EDI
+2017-01-10;VINSI;Récap transmission douane et code INAO;3,5;TMA
+2017-01-11;VINSI;gestion erreur edi ;4;EDI
+2017-01-11;VINSI;problème mouvements de DRM validation;1;TMA
+2017-01-16;VINSI;tests isagri edi en preprod;1;EDI
+2017-01-20;VINSI;réunion téléphonique Fanny;2;Réunion
+2017-01-23;VINSI;Débuggage de XML Doaune;2;TMA
+2017-01-30;VINSI;Changement textes popups et débug;4;TMA
