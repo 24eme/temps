@@ -1,44 +1,38 @@
-2017-01-02;24ème;Temps et facturation;3;24ème
-2017-01-02;Aurouze;Suppression de facture;0,5;TMA
-2017-01-02;Eliteauto;Intégration;3,5;Eliteauto
-2017-01-03;Eliteauto;Intégration;3,5;Eliteauto
-2017-01-04;CIVA;Corrections de bugs de sur la DR;2,5;TMA
-2017-01-04;Eliteauto;Intégration;3,5;Eliteauto
-2017-01-05;CIVA;DS de décembre adaptation au VTSGN;7;TMA
-2017-01-06;Aurouze;Suppression de facture;1;TMA
-2017-01-06;Eliteauto;Intégration;3,5;Eliteauto
-2017-01-09;AVA;Adaptation pour faire des constats VTSGN sur 2017;2;TMA
-2017-01-09;Eliteauto;Intégration;5;Eliteauto
-2017-01-10;Aurouze;Corrections de contrats;1;TMA
-2017-01-10;CIVA;Corrections sur la DS de décembre;1;TMA
-2017-01-10;Eliteauto;Intégration;2;Eliteauto
-2017-01-10;VINSI;Récap transmission douane et code INAO;3,5;TMA
-2017-01-11;Eliteauto;Intégration;7;Eliteauto
-2017-01-12;Eliteauto;Intégration;7;Eliteauto
-2017-01-13;Aurouze;Refont visualisation et saisie des contrats;3,5;TMA
-2017-01-13;CIVA;Corrections sur la DS et export XML de la DR;3,5;TMA
-2017-01-16;GIILDA;Import des données de tous l'historique;3,5;IVSO
-2017-01-17;GIILDA;Bug DRM en vert dans le calendrier;1;GIILDA
-2017-01-17;GIILDA;Import des données de tous l'historique;1;IVSO
-2017-01-17;Sancerre;Tickets;3,5;Dév
-2017-01-18;Aurouze;Correction de contrats;0,5;TMA
-2017-01-18;GIILDA;Reprise lie et bourbe en mode saisie papier;1,5;GIILDA
-2017-01-18;Sancerre;Correction d'un bug dans la config;2;Dév
-2017-01-18;Sancerre;Merge master et sancerre;2;Dév
-2017-01-19;Aurouze;Techniciens filtrables;3,5;TMA
-2017-01-19;Sancerre;Tickets;3,5;Dév
-2017-01-20;AVA;Correction de document DRev et constats VTSGN;1;TMA
-2017-01-20;GIILDA;Import des données de tous l'historique;1;IVSO
-2017-01-20;Sancerre;Tickets;3,5;Dév
-2017-01-23;GIILDA;Avoir à partir de la date facturation;1;IVSO
-2017-01-23;VINSI;Débuggage de XML Doaune;2;TMA
-2017-01-24;Eliteauto;Intégration;8;Eliteauto
-2017-01-25;Eliteauto;Intégration;7;Eliteauto
-2017-01-26;Eliteauto;Intégration;7;Eliteauto
-2017-01-27;Aurouze;Corrections Interfaces de facture;2;TMA
-2017-01-27;CIVA;Corrections dans les DS;2,5;TMA
-2017-01-30;24ème;Markdownisation du statut;2,5;24ème
-2017-01-30;AVA;Corrections;1;TMA
-2017-01-30;Eliteauto;Correction d'un bug;1;Eliteauto
-2017-01-30;Sancerre;Tickets;2,5;Dév
-2017-01-31;Sancerre;Tickets;7;Dév
+2017-02-01;Sancerre;Fine tuning;7;Dév
+2017-02-02;Sancerre;Fine tuning;7;Dév
+2017-02-03;Sancerre;Fine tuning;7;Dév
+2017-02-06;AVA;Choix de la campagne pour Déclaration de Tirage, ouverture de la DPap, correction DRev;3;TMA
+2017-02-06;CIVA;Forcer la cloture d'un contrat;2;TMA
+2017-02-06;Sancerre;Passage de env à app;2,5;Dév
+2017-02-07;AVA;Corrections;1;TMA
+2017-02-07;EliteAuto;Intégration de l'encart de la home;6;Dév
+2017-02-08;24ème;Temps de janvier;1,5;24ème
+2017-02-08;CIVA;Suppression de contrats;1,5;TMA
+2017-02-08;Sancerre;Passage de env à app;4;Dév
+2017-02-09;24ème;Tactical meeting;2,5;24ème
+2017-02-09;AVA;Corrections;0,5;TMA
+2017-02-10;ODG-Rhone;Réunion avant vente;7;Avant-vente
+2017-02-13;AVA;Corrections;2;TMA
+2017-02-13;Sancerre;Import de l'historique;5;Dév
+2017-02-14;AVA;Point téléphonique;1;TMA
+2017-02-14;Sancerre;Préparation de la mise en prod;5;Dév
+2017-02-15;AVA;Corrections sur le DPap;1,5;TMA
+2017-02-15;Sancerre;Corrections;1,5;Dév
+2017-02-16;IVBD;Gestion du multi établissements dans les DRM;2;TMA
+2017-02-16;IVSO;Gestion du multi établissements dans les DRM;2;TMA
+2017-02-17;24ème;Administratif dans git;2,5;24ème
+2017-02-17;Sancerre;Test unitaire sur la conf et corrections;4,5;Dév
+2017-02-20;Aurouze;Débuggage paiement;1;TMA
+2017-02-20;CIVA;Corrections csv récap mairie;1,5;TMA
+2017-02-20;Sancerre;Correction synchro compte;3;Dév
+2017-02-21;CIVA;Mise à jour de tiers;1;TMA
+2017-02-21;EliteAuto;Corrections sur au retour;2;Dév
+2017-02-21;Sancerre;Corrections synchro compte;4;Dév
+2017-02-22;AVA;Migration d'historique de déclaration d'un opérateur;2;TMA
+2017-02-22;Sancerre;Corrections popup vrac;3,5;Dév
+2017-02-23;24ème;RDV URSCOP;3,5;24ème
+2017-02-23;Sancerre;Correction synchro compte;2,5;Dév
+2017-02-24;CIVA;Mise à jour de tiers;1;TMA
+2017-02-24;EliteAuto;Corrections sur au retour;3,5;Dév
+2017-02-27;24ème;Déménagement société et assemblée général en git;5;24ème
+2017-02-28;Aurouze; Travaille avec valérie et mise à jour des heures précédentes des passages;7;TMA

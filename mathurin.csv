@@ -1,35 +1,27 @@
-2017-01-01;Aurouze;Saisie rapport;2;Mobile
-2017-01-01;GIILDA;Debug DRM;0,5;IVBD
-2017-01-01;Sancerre;Réunion Sancerre;7;Réunion
-2017-01-01;VINSI;Adaptation EDI non finalisé;8;EDI
-2017-01-02;Aurouze;Societe export des facture;6;Facture
-2017-01-03;Aurouze;Societe export des factures mis en pdf et debug;3;Facture
-2017-01-04;VINSI;Adaptation EDI gestion erreurs;5;EDI
-2017-01-05;VINSI;edi appli preprod;5;EDI
-2017-01-06;24eme;Tactical Meeting;3;Tactical Meeting
-2017-01-06;VINSI;gestion edi en urlencode;3;EDI
-2017-01-09;VINSI;gestion edi et tests pour Isagri;7;EDI
-2017-01-10;VINSI;fichier de retour edi ;5;EDI
-2017-01-11;VINSI;gestion erreur edi ;4;EDI
-2017-01-11;VINSI;problème mouvements de DRM validation;1;TMA
-2017-01-12;EliteAuto;recherche et critères plus ;7;EliteAuto
-2017-01-13;Aurouze;gestion de bug;5;TMA
-2017-01-16;Sancerre;Générisisation factures et templating sancerre;6;Facture
-2017-01-16;VINSI;tests isagri edi en preprod;1;EDI
-2017-01-17;GIILDA;Petit correctif pour les contrats;1,5;IVSO
-2017-01-17;Sancerre;SV12 mutualisation paramétrée;6;SV12
-2017-01-18;Sancerre;Import Contrats;4;Contrat
-2017-01-19;Aurouze;Commentaire de retard remonté et pdf encours facture;3;TMA
-2017-01-19;Sancerre;Import Contrats et DRM;4;Import
-2017-01-20;Aurouze;Maj pdf extraction facture;1;TMA
-2017-01-20;Sancerre;Paramétrage pdf sancerre facture et contrat;4;Facture
-2017-01-20;VINSI;réunion téléphonique Fanny;2;Réunion
-2017-01-23;Aurouze;Coquille de code;1;TMA
-2017-01-23;Sancerre;init and load fixtures spécifique;5;Configuration
-2017-01-24;Malade;Malade;7;Malade
-2017-01-25;Aurouze;Coquille de code ordre passage bougé;1;TMA
-2017-01-25;EliteAuto;fineTunig;7;FineTuning
-2017-01-26;EliteAuto;fineTunig;7;FineTuning
-2017-01-30;Sancerre;DRM validation création contrat;3;DRM
-2017-01-30;VINSI;Changement textes popups et débug;4;TMA
-2017-01-31;Sancerre;Popup export et contrats en multi lignes;9;DRM
+2017-02-01;Sancerre;FineTuning;7;FineTuning
+2017-02-02;Sancerre;FineTuning;7;FineTuning
+2017-02-03;Sancerre;FineTuning;7;FineTuning
+2017-02-06;PostDéménagement;PostDéménagement;7;PostDéménagement
+2017-02-07;Aurouze;Réparation conf pour ajout produit;2;Configuration
+2017-02-07;Sancerre;Historique CVO;2;Import
+2017-02-07;VINSI;Ajout derreurs dans ledi;3;TMA
+2017-02-08;24eme;Paperasse;2;Paperasse
+2017-02-08;24eme;temps;1,5;temps
+2017-02-08;Sancerre;CVO produit et générations;4;Facture
+2017-02-09;Sancerre;highligth des non favoris si volume saisie;7;DRM
+2017-02-10;Aurouze;debug de la reconduction;3;Contrat
+2017-02-13;Sancerre;restructuration des Popup;3;DRM
+2017-02-15;Sancerre;restructuration des Popup;6;DRM
+2017-02-16;Sancerre;tests et creation Vrac;7;DRM
+2017-02-17;Sancerre;numéro archive Popup tests activation stats;5;DRM
+2017-02-17;VINSI;ouverture arbre produit;2;Configuration
+2017-02-21;Aurouze;Ajout des dates dans les relances;3;Relance
+2017-02-21;Sancerre;vue mouvement buggée;3,5;DRM
+2017-02-23;24eme;Juglaret;3;URSCOP
+2017-02-23;Sancerre;alerte et relance vues;1;DRM
+2017-02-23;Sancerre;date de vrac foireuse;3,5;DRM
+2017-02-24;Giilde IVSO; téléphone avec frédéric sur les libéllés personnalisés;1,5;DRM
+2017-02-24;Sancerre;adaptation factures et première facturation massive;6;Facture
+2017-02-27;Giilde IVSO;édition des cépage autorisés;2;Configuration
+2017-02-27;Sancerre;adaptation factures et relance facturation massive;5;Facture
+2017-02-28;Aurouze;Adaptation vue carto calendrier et debug paiement;7;Plannification
