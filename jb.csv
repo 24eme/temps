@@ -98,12 +98,17 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2017-02-28;Aurouze;Dev;7;Forfait
 2017-03-01;Aurouze;Dev;7;Forfait
 2017-03-02;Aurouze;Dev;7;Forfait
-2017-02-03;DeclarVins;Ticket #18837;0,5;TMA
-2017-02-03;DeclarVins;Ticket #18804;1;TMA
-2017-02-03;DeclarVins;Tickets #18791 #18809;0,5;TMA
-2017-02-03;DeclarVins;Ticket #18796;0,5;TMA
-2017-02-03;DeclarVins;Bug RNA demande Sandrine;1;TMA
-2017-02-03;Aurouze;Listing paiement par societe;1;Forfait
-2017-02-06;DeclarVins;Ticket #18809;1;TMA
-2017-02-06;DeclarVins;Pb rna;0,5;TMA
-2017-02-06;DeclarVins;Tickets #18855 #18850 #18860 #18482 #18650;3;TMA
+2017-03-03;DeclarVins;Ticket #18837;0,5;TMA
+2017-03-03;DeclarVins;Ticket #18804;1;TMA
+2017-03-03;DeclarVins;Tickets #18791 #18809;0,5;TMA
+2017-03-03;DeclarVins;Ticket #18796;0,5;TMA
+2017-03-03;DeclarVins;Bug RNA demande Sandrine;1;TMA
+2017-03-03;Aurouze;Listing paiement par societe;1;Forfait
+2017-03-06;DeclarVins;Ticket #18809;1;TMA
+2017-03-06;DeclarVins;Pb rna;0,5;TMA
+2017-03-06;DeclarVins;Tickets #18855 #18850 #18860 #18482 #18650;3;TMA
+
+2017-03-08;24eme;Malade;
+2017-03-09;DeclarVins;Ticket #18874;1,5;TMA
+2017-03-09;DeclarVins;Ticket #18482;0,5;TMA
+2017-03-09;24eme;Tactical meeting;
