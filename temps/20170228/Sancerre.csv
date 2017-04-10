@@ -1,0 +1,40 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-02-01;Sancerre;Fine tuning;7;Dév
+2017-02-01;Sancerre;FineTuning;7;FineTuning
+2017-02-01;Sancerre;Fine tunning;7;Forfait
+2017-02-02;Sancerre;Fine tuning;7;Dév
+2017-02-02;Sancerre;FineTuning;7;FineTuning
+2017-02-02;Sancerre;Fine tunning;7;Forfait
+2017-02-03;Sancerre;Fine tuning;7;Dév
+2017-02-03;Sancerre;FineTuning;7;FineTuning
+2017-02-03;Sancerre;Fine tunning;7;Forfait
+2017-02-06;Sancerre;Passage de env à app;2,5;Dév
+2017-02-07;Sancerre;Historique CVO;2;Import
+2017-02-08;Sancerre;CVO produit et générations;4;Facture
+2017-02-08;Sancerre;Passage de env à app;4;Dév
+2017-02-09;Sancerre;highligth des non favoris si volume saisie;7;DRM
+2017-02-10;Sancerre;Stats;3,5;Forfait
+2017-02-13;Sancerre;Import de l'historique;5;Dév
+2017-02-13;Sancerre;restructuration des Popup;3;DRM
+2017-02-13;Sancerre;Stats;2,5;Forfait
+2017-02-14;Sancerre;Préparation de la mise en prod;5;Dév
+2017-02-14;Sancerre;Stats;7;Forfait
+2017-02-15;Sancerre;Corrections;1,5;Dév
+2017-02-15;Sancerre;restructuration des Popup;6;DRM
+2017-02-15;Sancerre;Stats;7;Forfait
+2017-02-16;Sancerre;tests et creation Vrac;7;DRM
+2017-02-17;Sancerre;numéro archive Popup tests activation stats;5;DRM
+2017-02-17;Sancerre;Stats;4;Forfait
+2017-02-17;Sancerre;Test unitaire sur la conf et corrections;4,5;Dév
+2017-02-20;Sancerre;Correction synchro compte;3;Dév
+2017-02-20;Sancerre;Stats;6;Forfait
+2017-02-21;Sancerre;Corrections synchro compte;4;Dév
+2017-02-21;Sancerre;Stats;5;Forfait
+2017-02-21;Sancerre;vue mouvement buggée;3,5;DRM
+2017-02-22;Sancerre;Corrections popup vrac;3,5;Dév
+2017-02-23;Sancerre;alerte et relance vues;1;DRM
+2017-02-23;Sancerre;Correction synchro compte;2,5;Dév
+2017-02-23;Sancerre;date de vrac foireuse;3,5;DRM
+2017-02-24;Sancerre;adaptation factures et première facturation massive;6;Facture
+2017-02-24;Sancerre;Stats;4,5;Forfait
+2017-02-27;Sancerre;adaptation factures et relance facturation massive;5;Facture

@@ -1,27 +1,31 @@
-2017-02-01;Sancerre;FineTuning;7;FineTuning
-2017-02-02;Sancerre;FineTuning;7;FineTuning
-2017-02-03;Sancerre;FineTuning;7;FineTuning
-2017-02-06;PostDéménagement;PostDéménagement;7;PostDéménagement
-2017-02-07;Aurouze;Réparation conf pour ajout produit;2;Configuration
-2017-02-07;Sancerre;Historique CVO;2;Import
-2017-02-07;VINSI;Ajout derreurs dans ledi;3;TMA
-2017-02-08;24eme;Paperasse;2;Paperasse
-2017-02-08;24eme;temps;1,5;temps
-2017-02-08;Sancerre;CVO produit et générations;4;Facture
-2017-02-09;Sancerre;highligth des non favoris si volume saisie;7;DRM
-2017-02-10;Aurouze;debug de la reconduction;3;Contrat
-2017-02-13;Sancerre;restructuration des Popup;3;DRM
-2017-02-15;Sancerre;restructuration des Popup;6;DRM
-2017-02-16;Sancerre;tests et creation Vrac;7;DRM
-2017-02-17;Sancerre;numéro archive Popup tests activation stats;5;DRM
-2017-02-17;VINSI;ouverture arbre produit;2;Configuration
-2017-02-21;Aurouze;Ajout des dates dans les relances;3;Relance
-2017-02-21;Sancerre;vue mouvement buggée;3,5;DRM
-2017-02-23;24eme;Juglaret;3;URSCOP
-2017-02-23;Sancerre;alerte et relance vues;1;DRM
-2017-02-23;Sancerre;date de vrac foireuse;3,5;DRM
-2017-02-24;Giilde IVSO; téléphone avec frédéric sur les libéllés personnalisés;1,5;DRM
-2017-02-24;Sancerre;adaptation factures et première facturation massive;6;Facture
-2017-02-27;Giilde IVSO;édition des cépage autorisés;2;Configuration
-2017-02-27;Sancerre;adaptation factures et relance facturation massive;5;Facture
-2017-02-28;Aurouze;Adaptation vue carto calendrier et debug paiement;7;Plannification
+2017-03-01;Aurouze;Carto localisé zoom et latlon;7;Plannification
+2017-03-03;Aurouze;les paiements ne clots pas les facture si ça dépasse;3;Paiement
+2017-03-06;Aurouze;adaptation mobile avec retour de Cedric;6;Mobile
+2017-03-07;Aurouze;adaptation signature mobile;7;Mobile
+2017-03-08;24eme;temps;1;temps
+2017-03-08;VINSI;Problème de mail dans la validation DRM avec les contrats;3;TMA
+2017-03-09;Aurouze;Adaptations mobile pour la saisie;4;Mobile
+2017-03-10;AVA;Module de signature;5;Dégustation
+2017-03-10;Formation;Préparation à Météo France;2;Formation
+2017-03-13;Aurouze;Adaptations exports comptables;2;Paiements
+2017-03-13;Aurouze;Point avec Cécile;1;Mobile
+2017-03-13;AVA;Module de signature;4;Dégustation
+2017-03-14;Aurouze;Adaptations pour les filles de la visu et actions mobile;7;Mobile
+2017-03-15;Aurouze;pdf et mailing pour le secrétariat;7;Mobile
+2017-03-16;Aurouze;Réorganisation linking et changement de date pour voir sa tournée;7;Mobile
+2017-03-17;Aurouze;Rdv libres remontés et virtualhost droits;7;Mobile
+2017-03-20;Aurouze;Spf aurouze;1;Mobile
+2017-03-20;Giilde;Ajout de tests pour les pdf de factures;3;Factures
+2017-03-20;VINSI;Ajout de toutes les campagnes dans les combo de campagne;3;TMA
+2017-03-21;Giilde;Tests de factures pour le Merge;7;Factures
+2017-03-22;Giilde;Merge IVSO;2;merge IVSO
+2017-03-22;Giilde;Tests de export compta pour le Merge;5;Factures
+2017-03-23;Formation;Préparation à Météo France;7;Formation
+2017-03-24;Aurouze;pdf et mailing pour le secrétariat;5;Mobile
+2017-03-24;VINSI;Réparation formulaire pour changer les exclusion DRM;2;TMA
+2017-03-27;Formation;Préparation à Météo France;7;Formation
+2017-03-28;Formation;Préparation à Météo France;7;Formation
+2017-03-29;Formation;Météo France;7;Formation
+2017-03-30;Formation;Météo France;7;Formation
+2017-03-31;Aurouze;adaptation mobile pour les produits aux contrats, récupération de email des passages et Favicon;5;Mobile
+2017-03-31;VINSI;EDI ouverture d'un compte et pays en libéllé complet;2;TMA
