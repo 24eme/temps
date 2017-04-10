@@ -1,0 +1,46 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24ème;24ème;15;2,1
+24eme;;7;1,0
+24eme;Paperasse;2;0,3
+24eme;temps;1,5;0,2
+24eme;URSCOP;3;0,4
+24eme;TOTAL;13,5;1,9
+24ème;TOTAL;15;2,1
+Aurouze;Configuration;2;0,3
+Aurouze;Contrat;3;0,4
+Aurouze;Forfait;7;1,0
+Aurouze;Plannification;7;1,0
+Aurouze;Relance;3;0,4
+Aurouze;TMA;8;1,1
+Aurouze;TOTAL;30;4,3
+AVA;TMA;11;1,6
+AVA;TOTAL;11;1,6
+CIVA;TMA;7;1,0
+CIVA;TOTAL;7;1,0
+DeclarVins;TMA;37;5,3
+DeclarVins;TOTAL;37;5,3
+EliteAuto;Dév;11,5;1,6
+EliteAuto;TOTAL;11,5;1,6
+Giilde IVSO;Configuration;2;0,3
+Giilde IVSO;DRM;1,5;0,2
+Giilde IVSO;TOTAL;3,5;0,5
+IVBD;TMA;2;0,3
+IVBD;TOTAL;2;0,3
+IVSO;TMA;2;0,3
+IVSO;TOTAL;2;0,3
+ODG-Rhone;Avant-vente;7;1,0
+ODG-Rhone;TOTAL;7;1,0
+PostDéménagement;PostDéménagement;7;1,0
+PostDéménagement;TOTAL;7;1,0
+Pythagore;Forfait;14;2,0
+Pythagore;TOTAL;14;2,0
+Sancerre;Dév;56,5;8,1
+Sancerre;DRM;36;5,1
+Sancerre;Facture;15;2,1
+Sancerre;FineTuning;21;3,0
+Sancerre;Forfait;60,5;8,6
+Sancerre;Import;2;0,3
+Sancerre;TOTAL;191;27,3
+VINSI;Configuration;2;0,3
+VINSI;TMA;3;0,4
+VINSI;TOTAL;5;0,7
