@@ -1,0 +1,9 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-03-03;VINSI;Correction XML douane;2;TMA
+2017-03-06;VINSI;Corrections d'un bug de syntaxe;1;TMA
+2017-03-07;VINSI;Corrections d'un bug avec le code douane et mise à jour de convention;1;TMA
+2017-03-08;VINSI;Problème de mail dans la validation DRM avec les contrats;3;TMA
+2017-03-15;VINSI;Problème DRM;1;TMA
+2017-03-20;VINSI;Ajout de toutes les campagnes dans les combo de campagne;3;TMA
+2017-03-24;VINSI;Réparation formulaire pour changer les exclusion DRM;2;TMA
+2017-03-31;VINSI;EDI ouverture d'un compte et pays en libéllé complet;2;TMA

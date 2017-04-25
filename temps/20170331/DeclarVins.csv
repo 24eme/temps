@@ -1,0 +1,35 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-03-03;DeclarVins;Bug RNA demande Sandrine;1;TMA
+2017-03-03;DeclarVins;Ticket #18796;0,5;TMA
+2017-03-03;DeclarVins;Ticket #18804;1;TMA
+2017-03-03;DeclarVins;Ticket #18837;0,5;TMA
+2017-03-03;DeclarVins;Tickets #18791 #18809;0,5;TMA
+2017-03-06;DeclarVins;Pb rna;0,5;TMA
+2017-03-06;DeclarVins;Ticket #18809;1;TMA
+2017-03-06;DeclarVins;Tickets #18855 #18850 #18860 #18482 #18650;3;TMA
+2017-03-07;DeclarVins;bug des mails en mode CIEL;3;TMA
+2017-03-07;DeclarVins;Gestion du paiement du cumul droits et pdf drm en mode CIEL;2;TMA
+2017-03-09;DeclarVins;Ticket #18482;0,5;TMA
+2017-03-09;DeclarVins;Ticket #18874;1,5;TMA
+2017-03-10;DeclarVins;Demande Sandrine;0,5;TMA
+2017-03-10;DeclarVins;Tickets #18873 #18547 #18866;2;TMA
+2017-03-10;DeclarVins;Tickets #18887 #18871 #18898;1,5;TMA
+2017-03-13;DeclarVins;Demande Sandrine;0,5;TMA
+2017-03-13;DeclarVins;Tickets #18887 #18631;2,5;TMA
+2017-03-14;DeclarVins;Ticket #18910;0,5;TMA
+2017-03-14;DeclarVins;Tickets #18909 #18887;1;TMA
+2017-03-20;DeclarVins;Ticket #17809;0,5;TMA
+2017-03-20;DeclarVins;Tickets #18539 #17950;3,5;TMA
+2017-03-20;DeclarVins;Tickets #18912 #18909 #18887;2;TMA
+2017-03-21;DeclarVins;Amelioration de la presentation de la validation de compte;0,5;TMA
+2017-03-21;DeclarVins;Ticket #18953;1;TMA
+2017-03-21;DeclarVins;Ticket #18953;2,5;TMA
+2017-03-21;DeclarVins;Ticket #18968;1,5;TMA
+2017-03-22;DeclarVins;Modif symfony pour compatibilité php5;1,5;TMA
+2017-03-27;DeclarVins;EDI V2 avec antislash;3;TMA
+2017-03-29;DeclarVins;EDI V2 avec antislash;2;TMA
+2017-03-29;DeclarVins;Ticket #18997;1,5;TMA
+2017-03-29;DeclarVins;Ticket #19095;0,5;TMA
+2017-03-29;DeclarVins;Tickets #19006 #18996;2;TMA
+2017-03-30;DeclarVins;Evolution ediv2;7;TMA
+2017-03-31;DeclarVins;Evolution ediv2;4;TMA

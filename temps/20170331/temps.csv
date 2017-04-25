@@ -1,0 +1,145 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2017-03-01;Aurouze;Carto localisé zoom et latlon;7;Plannification
+2017-03-03;Aurouze;les paiements ne clots pas les facture si ça dépasse;3;Paiement
+2017-03-06;Aurouze;adaptation mobile avec retour de Cedric;6;Mobile
+2017-03-07;Aurouze;adaptation signature mobile;7;Mobile
+2017-03-08;24eme;temps;1;temps
+2017-03-08;VINSI;Problème de mail dans la validation DRM avec les contrats;3;TMA
+2017-03-09;Aurouze;Adaptations mobile pour la saisie;4;Mobile
+2017-03-10;AVA;Module de signature;5;Dégustation
+2017-03-10;Formation;Préparation à Météo France;2;Formation
+2017-03-13;Aurouze;Adaptations exports comptables;2;Paiements
+2017-03-13;Aurouze;Point avec Cécile;1;Mobile
+2017-03-13;AVA;Module de signature;4;Dégustation
+2017-03-14;Aurouze;Adaptations pour les filles de la visu et actions mobile;7;Mobile
+2017-03-15;Aurouze;pdf et mailing pour le secrétariat;7;Mobile
+2017-03-16;Aurouze;Réorganisation linking et changement de date pour voir sa tournée;7;Mobile
+2017-03-17;Aurouze;Rdv libres remontés et virtualhost droits;7;Mobile
+2017-03-20;Aurouze;Spf aurouze;1;Mobile
+2017-03-20;Giilde;Ajout de tests pour les pdf de factures;3;Factures
+2017-03-20;VINSI;Ajout de toutes les campagnes dans les combo de campagne;3;TMA
+2017-03-21;Giilde;Tests de factures pour le Merge;7;Factures
+2017-03-22;Giilde;Merge IVSO;2;merge IVSO
+2017-03-22;Giilde;Tests de export compta pour le Merge;5;Factures
+2017-03-23;Formation;Préparation à Météo France;7;Formation
+2017-03-24;Aurouze;pdf et mailing pour le secrétariat;5;Mobile
+2017-03-24;VINSI;Réparation formulaire pour changer les exclusion DRM;2;TMA
+2017-03-27;Formation;Préparation à Météo France;7;Formation
+2017-03-28;Formation;Préparation à Météo France;7;Formation
+2017-03-29;Formation;Météo France;7;Formation
+2017-03-30;Formation;Météo France;7;Formation
+2017-03-31;Aurouze;adaptation mobile pour les produits aux contrats, récupération de email des passages et Favicon;5;Mobile
+2017-03-31;VINSI;EDI ouverture d'un compte et pays en libéllé complet;2;TMA
+2017-03-01;Aurouze; Corrections et améliorations Aurouze;7;TMA
+2017-03-02;Aurouze; Corrections et améliorations Aurouze;4;TMA
+2017-03-03;24ème;Organisation de la fête;2,5;24ème
+2017-03-03;Sancerre; Ajout de mouvements;1,5;Dév
+2017-03-03;VINSI;Correction XML douane;2;TMA
+2017-03-06;Aurouze; Corrections et améliorations Aurouze;1;TMA
+2017-03-06;Sancerre; Correction d'un bug de génération de mouvement pour les DRM négociants;1,5;Dév
+2017-03-06;Sancerre; Réimport des DRM Négociant;3,5;Dév
+2017-03-06;VINSI;Corrections d'un bug de syntaxe;1;TMA
+2017-03-07;CIVA;Contrat clause de propriété et corrections d'un bug de récupération des DR migrés;3,5;TMA
+2017-03-07;IVSO; Correction d'un bug dans le fichier SAGE;1;Dév
+2017-03-07;Sancerre; Correction d'un bug de génération de mouvement pour les DRM négociants;1,5;Dév
+2017-03-07;VINSI;Corrections d'un bug avec le code douane et mise à jour de convention;1;TMA
+2017-03-08;CIVA;Contrat clause de propriété et corrections d'un bug de récupération des DR migrés;1,5;TMA
+2017-03-08;IVSO; Correction d'un bug dans le fichier SAGE;1,5;Dév
+2017-03-08;Sancerre; Correction DRM en cascade;2,5;Dév
+2017-03-08;Sancerre; Réimport des DRM Négociant;3,5;Dév
+2017-03-09;24ème;Tactical meeting;3,5;24ème
+2017-03-09;24ème;Temps;2;24ème
+2017-03-10;AVA;Devis nouvelle facturation;1;TMA
+2017-03-10;EliteAuto;Corrections;2;Dév
+2017-03-10;Sancerre; Test unitaire génération en cascade;3;Dév
+2017-03-13;24ème;Organisation de la fête;2;24ème
+2017-03-13;24ème; Problème récéption de mail online;1;24ème
+2017-03-13;Aurouze; Corrections et améliorations Aurouze;2;TMA
+2017-03-13;AVA;Transfert d'historique;1;TMA
+2017-03-13;IVSO; Correction d'un bug sur le stock revendique;1;Dév
+2017-03-14;24ème; Problème récéption de mail online;1;24ème
+2017-03-14;Aurouze; Corrections et améliorations Aurouze;3,5;TMA
+2017-03-14;AVA;Bug lieu-dit DPAP;1,5;TMA
+2017-03-15;Aurouze; Corrections et améliorations Aurouze;4;TMA
+2017-03-15;AVA;Corrections bug select2;1;TMA
+2017-03-15;VINSI;Problème DRM;1;TMA
+2017-03-16;AVA;Dégustations grand cru;5;Dégustation GRDCRU
+2017-03-16;Sancerre; Export CIEL Débit Crédit ;1,5;Dév
+2017-03-17;AVA;Dégustations grand cru;7;Dégustation GRDCRU
+2017-03-17;CIVA;Choix de l'acheteur pour la création d'un contrat;2;TMA
+2017-03-20;CIVA;Mise à jour des tiers;0,5;TMA
+2017-03-20;Sancerre; Merge branche IVBD et IVSO ;6;Dév
+2017-03-21;Sancerre; Merge branche IVBD et IVSO ;6;Dév
+2017-03-22;Sancerre; Merge branche IVBD et IVSO ;7;Dév
+2017-03-23;AVA;Dégustations grand cru;7;Dégustation GRDCRU
+2017-03-23;Sancerre;Réparation des établissements IVSO IVBD;2;Dév
+2017-03-24;Aurouze; Corrections et améliorations Aurouze;1,5;TMA
+2017-03-24;AVA;Corrections DPAP Tirage;1;TMA
+2017-03-24;AVA;Dégustations des grands crus;2;Dégustation GRDCRU
+2017-03-24;Sancerre;Correction d'un bug sur chrome;1;Dév
+2017-03-27;AVA;Réunion;7;Évolution
+2017-03-28;Sancerre;Corrections de récriture de routes;1,5;Dév
+2017-03-29;ODG;Journée à Avignon;7;Commercial
+2017-03-30;ODG;Journée à Avignon;7;Commercial
+2017-03-31;Formation;Préparation de la formation GIT;2;Formation
+2017-03-31;IVBD;Problème facturation;1;TMA
+2017-03-31;Sancerre;Corrections de récriture de routes;1,5;Dév
+2017-03-01;Aurouze;Dev;7;Forfait
+2017-03-02;Aurouze;Dev;7;Forfait
+2017-03-03;DeclarVins;Ticket #18837;0,5;TMA
+2017-03-03;DeclarVins;Ticket #18804;1;TMA
+2017-03-03;DeclarVins;Tickets #18791 #18809;0,5;TMA
+2017-03-03;DeclarVins;Ticket #18796;0,5;TMA
+2017-03-03;DeclarVins;Bug RNA demande Sandrine;1;TMA
+2017-03-03;Aurouze;Listing paiement par societe;1;Forfait
+2017-03-06;DeclarVins;Ticket #18809;1;TMA
+2017-03-06;DeclarVins;Pb rna;0,5;TMA
+2017-03-06;DeclarVins;Tickets #18855 #18850 #18860 #18482 #18650;3;TMA
+2017-03-07;DeclarVins;Gestion du paiement du cumul droits et pdf drm en mode CIEL;2;TMA
+2017-03-07;DeclarVins;bug des mails en mode CIEL;3;TMA
+2017-03-08;24eme;Malade;
+2017-03-09;DeclarVins;Ticket #18874;1,5;TMA
+2017-03-09;DeclarVins;Ticket #18482;0,5;TMA
+2017-03-09;24eme;Tactical meeting;
+2017-03-10;DeclarVins;Tickets #18887 #18871 #18898;1,5;TMA
+2017-03-10;DeclarVins;Tickets #18873 #18547 #18866;2;TMA
+2017-03-10;DeclarVins;Demande Sandrine;0,5;TMA
+2017-03-10;Sancerre;Stats;2;Forfait
+2017-03-13;DeclarVins;Tickets #18887 #18631;2,5;TMA
+2017-03-13;DeclarVins;Demande Sandrine;0,5;TMA
+2017-03-13;Aurouze;Recherche paiements;3;Forfait
+2017-03-14;DeclarVins;Tickets #18909 #18887;1;TMA
+2017-03-14;DeclarVins;Ticket #18910;0,5;TMA
+2017-03-14;24eme;Point tickets;1;
+2017-03-14;Sancerre;Stats;4;Forfait
+2017-03-15;Sancerre;Stats;5,5;Forfait
+2017-03-15;24eme;Point tickets;0,5;
+2017-03-15;AVA;Bug JS;1;TMA
+2017-03-16;Sancerre;Stats;7;Forfait
+2017-03-16;Sancerre;Stats;7;Forfait
+2017-03-20;24eme;Point equipe;1;
+2017-03-20;DeclarVins;Tickets #18912 #18909 #18887;2;TMA
+2017-03-20;DeclarVins;Tickets #18539 #17950;3,5;TMA
+2017-03-20;DeclarVins;Ticket #17809;0,5;TMA
+2017-03-21;DeclarVins;Ticket #18953;2,5;TMA
+2017-03-21;DeclarVins;Ticket #18968;1,5;TMA
+2017-03-21;DeclarVins;Ticket #18953;1;TMA
+2017-03-21;DeclarVins;Amelioration de la presentation de la validation de compte;0,5;TMA
+2017-03-21;24eme;Gestion Flaq;1,5;
+2017-03-22;DeclarVins;Modif symfony pour compatibilité php5;1,5;TMA
+2017-03-22;Sancerre;PDF stat latex;5;Forfait
+2017-03-23;Sancerre;PDF stat latex;7;Forfait
+2017-03-24;Sancerre;PDF stat latex;4;Forfait
+2017-03-24;24eme;Preparatif soiree;2;
+2017-03-27;DeclarVins;EDI V2 avec antislash;3;TMA
+2017-03-28;Sancerre;PDF stats;7;Forfait
+2017-03-29;DeclarVins;EDI V2 avec antislash;2;TMA
+2017-03-29;Sancerre;Stats;1;Forfait
+2017-03-29;Aurouze;Htaccess mobile;0,5;Forfait
+2017-03-29;DeclarVins;Tickets #19006 #18996;2;TMA
+2017-03-29;DeclarVins;Ticket #19095;0,5;TMA
+2017-03-29;DeclarVins;Ticket #18997;1,5;TMA
+2017-03-30;DeclarVins;Evolution ediv2;7;TMA
+2017-03-31;Sancerre;pb logstash;1,5;Forfait
+2017-03-31;DeclarVins;Evolution ediv2;4;TMA
+2017-03-31;Aurouze;conf tel;1;Forfait

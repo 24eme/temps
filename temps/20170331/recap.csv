@@ -1,0 +1,40 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24ème;24ème;12;1,7
+24eme;;6;0,9
+24eme;temps;1;0,1
+24ème;TOTAL;12;1,7
+24eme;TOTAL;7;1,0
+Aurouze;Forfait;19,5;2,8
+Aurouze;Mobile;57;8,1
+Aurouze;Paiement;3;0,4
+Aurouze;Paiements;2;0,3
+Aurouze;Plannification;7;1,0
+Aurouze;TMA;23;3,3
+Aurouze;TOTAL;111,5;15,9
+AVA;Dégustation;9;1,3
+AVA;Dégustation GRDCRU;21;3,0
+AVA;Évolution;7;1,0
+AVA;TMA;6,5;0,9
+AVA;TOTAL;43,5;6,2
+CIVA;TMA;7,5;1,1
+CIVA;TOTAL;7,5;1,1
+DeclarVins;TMA;56,5;8,1
+DeclarVins;TOTAL;56,5;8,1
+EliteAuto;Dév;2;0,3
+EliteAuto;TOTAL;2;0,3
+Formation;Formation;39;5,6
+Formation;TOTAL;39;5,6
+Giilde;Factures;15;2,1
+Giilde;merge IVSO;2;0,3
+Giilde;TOTAL;17;2,4
+IVBD;TMA;1;0,1
+IVBD;TOTAL;1;0,1
+IVSO;Dév;3,5;0,5
+IVSO;TOTAL;3,5;0,5
+ODG;Commercial;14;2,0
+ODG;TOTAL;14;2,0
+Sancerre;Dév;43,5;6,2
+Sancerre;Forfait;51;7,3
+Sancerre;TOTAL;94,5;13,5
+VINSI;TMA;15;2,1
+VINSI;TOTAL;15;2,1

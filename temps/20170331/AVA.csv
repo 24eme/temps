@@ -1,0 +1,14 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-03-10;AVA;Devis nouvelle facturation;1;TMA
+2017-03-10;AVA;Module de signature;5;Dégustation
+2017-03-13;AVA;Module de signature;4;Dégustation
+2017-03-13;AVA;Transfert d'historique;1;TMA
+2017-03-14;AVA;Bug lieu-dit DPAP;1,5;TMA
+2017-03-15;AVA;Bug JS;1;TMA
+2017-03-15;AVA;Corrections bug select2;1;TMA
+2017-03-16;AVA;Dégustations grand cru;5;Dégustation GRDCRU
+2017-03-17;AVA;Dégustations grand cru;7;Dégustation GRDCRU
+2017-03-23;AVA;Dégustations grand cru;7;Dégustation GRDCRU
+2017-03-24;AVA;Corrections DPAP Tirage;1;TMA
+2017-03-24;AVA;Dégustations des grands crus;2;Dégustation GRDCRU
+2017-03-27;AVA;Réunion;7;Évolution

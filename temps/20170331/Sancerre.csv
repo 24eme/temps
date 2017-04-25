@@ -1,0 +1,27 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-03-03;Sancerre; Ajout de mouvements;1,5;Dév
+2017-03-06;Sancerre; Correction d'un bug de génération de mouvement pour les DRM négociants;1,5;Dév
+2017-03-06;Sancerre; Réimport des DRM Négociant;3,5;Dév
+2017-03-07;Sancerre; Correction d'un bug de génération de mouvement pour les DRM négociants;1,5;Dév
+2017-03-08;Sancerre; Correction DRM en cascade;2,5;Dév
+2017-03-08;Sancerre; Réimport des DRM Négociant;3,5;Dév
+2017-03-10;Sancerre;Stats;2;Forfait
+2017-03-10;Sancerre; Test unitaire génération en cascade;3;Dév
+2017-03-14;Sancerre;Stats;4;Forfait
+2017-03-15;Sancerre;Stats;5,5;Forfait
+2017-03-16;Sancerre; Export CIEL Débit Crédit ;1,5;Dév
+2017-03-16;Sancerre;Stats;7;Forfait
+2017-03-16;Sancerre;Stats;7;Forfait
+2017-03-20;Sancerre; Merge branche IVBD et IVSO ;6;Dév
+2017-03-21;Sancerre; Merge branche IVBD et IVSO ;6;Dév
+2017-03-22;Sancerre; Merge branche IVBD et IVSO ;7;Dév
+2017-03-22;Sancerre;PDF stat latex;5;Forfait
+2017-03-23;Sancerre;PDF stat latex;7;Forfait
+2017-03-23;Sancerre;Réparation des établissements IVSO IVBD;2;Dév
+2017-03-24;Sancerre;Correction d'un bug sur chrome;1;Dév
+2017-03-24;Sancerre;PDF stat latex;4;Forfait
+2017-03-28;Sancerre;Corrections de récriture de routes;1,5;Dév
+2017-03-28;Sancerre;PDF stats;7;Forfait
+2017-03-29;Sancerre;Stats;1;Forfait
+2017-03-31;Sancerre;Corrections de récriture de routes;1,5;Dév
+2017-03-31;Sancerre;pb logstash;1,5;Forfait
