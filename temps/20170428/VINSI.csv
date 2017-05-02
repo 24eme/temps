@@ -1,0 +1,18 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-04-03;VINSI;EDI mis à jour de la gestion des erreurs liées au match des produits;3;TMA
+2017-04-04;VINSI;Gestion des problèmes liés à la transmission DRM;4,5;TMA
+2017-04-05;VINSI;Gestion des problèmes liés à la transmission DRM;4,5;TMA
+2017-04-06;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
+2017-04-07;VINSI;Adaptation VINSI de transmission en Mail des coordonnées;3,5;TMA
+2017-04-07;VINSI;Gestion des problèmes liés à la transmission DRM;2,5;TMA
+2017-04-07;VINSI;Problème de synchronisation douane;2;TMA
+2017-04-10;VINSI;Bug de caution;1;TMA
+2017-04-10;VINSI;Gestion des mails de coordonnées DRM;2,5;TMA
+2017-04-10;VINSI;Problème de synchronisation douane;1,0;TMA
+2017-04-13;VINSI;Enquete sur la facturation de lannée avec Elodie;3;TMA
+2017-04-19;VINSI;Bug sur le paiement douane en booléen;1;TMA
+2017-04-19;VINSI;Début dev acquitté;3,5;Forfait Acquitté
+2017-04-20;VINSI;DRM acquitté;7;Forfait Acquitté
+2017-04-21;VINSI;DRM acquitté;7;Forfait Acquitté
+2017-04-25;VINSI;Problème de synchronisation douane;1,5;TMA
+2017-04-27;VINSI;Bug dans la reprise de produits de DRM;2,5;TMA
