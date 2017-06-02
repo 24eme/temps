@@ -1,0 +1,121 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2017-04-03;24ème;Administratif et tactical meeting;
+2017-04-03;Aurouze;Débug des contrat et passages;4;Tournée
+2017-04-03;DeclarVins;Tickets #19182 #18998;1,5;TMA
+2017-04-03;Formation;Préparation de la formation;5,5;Formation
+2017-04-03;IVSO;Corrections d'un bug sur les comptes;1,5;TMA
+2017-04-03;VINSI;EDI mis à jour de la gestion des erreurs liées au match des produits;3;TMA
+2017-04-04;Aurouze;Débug des dates de passages;1;Tournée
+2017-04-04;Aurouze;Mobile et telephone;1;Forfait
+2017-04-04;AVA;Point drev;1;Forfait
+2017-04-04;Formation;Préparation de la formation GIT;7;Formation
+2017-04-04;IVBD;gestion de documents;1,5;TMA
+2017-04-04;Sancerre;Retours stats;4;Forfait
+2017-04-04;VINSI;Gestion des problèmes liés à la transmission DRM;4,5;TMA
+2017-04-05;AVA;Ajout saisie superficie vinifiee drev;7;Forfait
+2017-04-05;Formation;Formation GIT;7;Formation
+2017-04-05;IVSO;Dénomination complémentaire;2,5;Evolution
+2017-04-05;VINSI;Gestion des problèmes liés à la transmission DRM;4,5;TMA
+2017-04-06;AVA;Ajout saisie superficie vinifiee drev;6;Forfait
+2017-04-06;AVA;Documents à supprimer;1;TMA
+2017-04-06;DeclarVins;Demandes Brice A;0,5;TMA
+2017-04-06;DeclarVins;Ticket #19201;0,5;TMA
+2017-04-06;Formation;Formation GIT;7;Formation
+2017-04-06;IVSO;Dénomination complémentaire;5;Evolution
+2017-04-06;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
+2017-04-07;24ème;Congé;
+2017-04-07;IVBD;Point tel et réparation de compte pour christelle;1;TMA
+2017-04-07;IVBD;Réactivation dans l'acquité + bug sur les comptes;2,5;TMA
+2017-04-07;IVSO;Bug sur les droits;0,5;TMA
+2017-04-07;VINSI;Adaptation VINSI de transmission en Mail des coordonnées;3,5;TMA
+2017-04-07;VINSI;Gestion des problèmes liés à la transmission DRM;2,5;TMA
+2017-04-07;VINSI;Problème de synchronisation douane;2;TMA
+2017-04-10;24ème;Temps d'avril;2;
+2017-04-10;Aurouze;Ajout d'un libéllé pour savoire si facturé ou non;1,5;Tournée
+2017-04-10;AVA;Déblocage de DRev et DPAP;2,5;TMA
+2017-04-10;AVA;Point + Evolutions drev;4;Forfait
+2017-04-10;AVA;Saisie de la dégustation grand cru;2;Forfait
+2017-04-10;DeclarVins;Ticket #19182;1;TMA
+2017-04-10;DeclarVins;Ticket #19202;0,5;TMA
+2017-04-10;DeclarVins;Ticket #19208;1;TMA
+2017-04-10;DeclarVins;Ticket #19217;0,5;TMA
+2017-04-10;IVSO;Dénomination complémentaire tests;2;Evolution
+2017-04-10;VINSI;Bug de caution;1;TMA
+2017-04-10;VINSI;Gestion des mails de coordonnées DRM;2,5;TMA
+2017-04-10;VINSI;Problème de synchronisation douane;1,0;TMA
+2017-04-11;24ème;Envoi du mail de remerciement;3,5;
+2017-04-11;24ème;NDF + Mail soiree;
+2017-04-11;Aurouze;Renforcement de la remontée des passages;1,5;Passage
+2017-04-11;AVA;Evolution drev + facturation;3;Forfait
+2017-04-11;AVA;Saisie de la dégustation grand cru;2,5;Forfait
+2017-04-11;IVSO;Dénomination complémentaire;5,5;Evolution
+2017-04-11;ODG Côté du Rhône;Mise à jour du chiffrage;1;Commercial
+2017-04-12;AVA;Drev et facturation;6;Forfait
+2017-04-12;AVA;Saisie de la dégustation grand cru;7;Forfait
+2017-04-12;DeclarVins;Demande Sandrine DRM acquittes;1;TMA
+2017-04-12;IVSO;Dénomination complémentaire;7;Evolution
+2017-04-12;ODG Provence;Mise à jour du chiffrage;1;Commercial
+2017-04-13;24ème;Merde pc;
+2017-04-13;AVA;Drev et facturation;6;Forfait
+2017-04-13;AVA;Saisie de la dégustation grand cru;7;Forfait
+2017-04-13;DeclarVins;Antislash;0,5;TMA
+2017-04-13;IVSO;Dénomination complémentaire;4;Evolution
+2017-04-13;VINSI;Enquete sur la facturation de lannée avec Elodie;3;TMA
+2017-04-14;Aurouze;Meilleurs visu passage;1,5;Passage
+2017-04-14;AVA;Drev et facturation;7;Forfait
+2017-04-14;AVA;Facturation 2017;9;Forfait
+2017-04-14;DeclarVins;Demande Sandrine pb DRM ciel non validee non transferee;1;TMA
+2017-04-14;IVSO;clean code des vieux hamza style;0,5;TMA
+2017-04-14;IVSO;Début de Dev de TAV;4;Evolution
+2017-04-18;AVA;Facturation 2017;7;Forfait
+2017-04-18;DeclarVins;Gestion EDI Antislash;3,5;TMA
+2017-04-18;IVSO;TAV alcool;7;Evolution
+2017-04-18;Sancerre;Identification region acheteur mvts drm;2,5;Forfait
+2017-04-19;Aurouze;contrat reconduit requete renforcée;0,5;Contrat
+2017-04-19;AVA;Corrections DRev et abonnements;2,5;TMA
+2017-04-19;AVA;Saisie de la dégustation grand cru;3,5;Forfait
+2017-04-19;DeclarVins;Gestion EDI Antislash;2;TMA
+2017-04-19;DeclarVins;Ticket #19202;3,5;TMA
+2017-04-19;DeclarVins;Ticket #19254;1;TMA
+2017-04-19;EliteAuto;Corrections d'un bug dans l'ajax;1;Forfait
+2017-04-19;IVSO;TAV alcool dans xml;3;Evolution
+2017-04-19;VINSI;Bug sur le paiement douane en booléen;1;TMA
+2017-04-19;VINSI;Début dev acquitté;3,5;Forfait Acquitté
+2017-04-20;24ème;Revision cop;1;
+2017-04-20;AVA;Gestion documentaire;4,5;Forfait
+2017-04-20;AVA;Saisie de la dégustation grand cru;7;Forfait
+2017-04-20;VINSI;DRM acquitté;7;Forfait Acquitté
+2017-04-21;AVA;Gestion documentaire;5,5;Forfait
+2017-04-21;AVA;Saisie de la dégustation grand cru;2;Forfait
+2017-04-21;CIVA;Formulaire de mise à jour de droits;3,5;TMA
+2017-04-21;Sancerre;Import de tout l'historique;2;Forfait
+2017-04-21;Sancerre;Update mvts drm;1,5;Forfait
+2017-04-21;VINSI;DRM acquitté;7;Forfait Acquitté
+2017-04-24;24ème;compta;1;
+2017-04-24;AVA;Correction DRev et Facturation;2,5;Forfait
+2017-04-24;AVA;Gestion documentaire;1;Forfait
+2017-04-24;CIVA;Modifications de tiers;2;TMA
+2017-04-24;Sancerre;Ajustement pour l'import;1;Forfait
+2017-04-24;Sancerre;Evolution stats;5;Forfait
+2017-04-25;AVA;Gestion documentaire;7;Forfait
+2017-04-25;AVA;Réinitialisation de la signature;2;Forfait
+2017-04-25;CIVA;Formulaire de mise à jour de droits et correction contrat;3,5;TMA
+2017-04-25;VINSI;Problème de synchronisation douane;1,5;TMA
+2017-04-26;Aurouze;Config mobile;3;Forfait
+2017-04-26;Aurouze;Installation Téléphone et corrections de petits bug;3,5;TMA
+2017-04-26;AVA;Saisie de la dégustation grand cru;3,5;Forfait
+2017-04-26;DeclarVins;Assistance EDI CIVP;0,5;TMA
+2017-04-26;DeclarVins;Ticket #19254;3;TMA
+2017-04-26;DeclarVins;Ticket #19300;0,5;TMA
+2017-04-27;24ème;Point Gwen + compta;
+2017-04-27;AVA;Corrections de docs pour facturation;2;TMA
+2017-04-27;AVA;Gestion documentaire;2;Forfait
+2017-04-27;AVA;Saisie de la dégustation grand cru;3,5;Forfait
+2017-04-27;CIVA;Bug d'ajout d'un établissement dans l'annuaire;2;TMA
+2017-04-27;DeclarVins;Tickets #19305 #19182 #19306;2,5;TMA
+2017-04-27;VINSI;Bug dans la reprise de produits de DRM;2,5;TMA
+2017-04-28;Aurouze;Correction d'un bug;1;TMA
+2017-04-28;AVA;Corrections de docs pour facturation;2;TMA
+2017-04-28;AVA;Gestion documentaire;7;Forfait
+2017-04-28;AVA;Saisie de la dégustation grand cru;1,5;Forfait
+2017-04-28;IVBD;Bug cepages autorises;0,5;TMA
