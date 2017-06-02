@@ -1,42 +1,46 @@
-2017-04-03;Formation;Préparation de la formation;5,5;Formation
-2017-04-03;IVSO;Corrections d'un bug sur les comptes;1,5;TMA
-2017-04-04;Formation;Préparation de la formation GIT;7;Formation
-2017-04-05;Formation;Formation GIT;7;Formation
-2017-04-06;Formation;Formation GIT;7;Formation
-2017-04-07;IVBD;Réactivation dans l'acquité + bug sur les comptes;2,5;TMA
-2017-04-07;IVSO;Bug sur les droits;0,5;TMA
-2017-04-07;VINSI;Problème de synchronisation douane;2;TMA
-2017-04-10;24ème;Temps d'avril;2;24ème
-2017-04-10;AVA;Déblocage de DRev et DPAP;2,5;TMA
-2017-04-10;AVA;Saisie de la dégustation grand cru;2;Forfait
-2017-04-10;VINSI;Problème de synchronisation douane;1,0;TMA
-2017-04-11;24ème;Envoi du mail de remerciement;3,5;24ème
-2017-04-11;AVA;Saisie de la dégustation grand cru;2,5;Forfait
-2017-04-11;ODG Côté du Rhône;Mise à jour du chiffrage;1;Commercial
-2017-04-12;AVA;Saisie de la dégustation grand cru;7;Forfait
-2017-04-12;ODG Provence;Mise à jour du chiffrage;1;Commercial
-2017-04-13;AVA;Saisie de la dégustation grand cru;7;Forfait
-2017-04-14;AVA;Facturation 2017;9;Forfait
-2017-04-18;AVA;Facturation 2017;7;Forfait
-2017-04-19;AVA;Corrections DRev et abonnements;2,5;TMA
-2017-04-19;AVA;Saisie de la dégustation grand cru;3,5;Forfait
-2017-04-19;EliteAuto;Corrections d'un bug dans l'ajax;1;Forfait
-2017-04-20;AVA;Saisie de la dégustation grand cru;7;Forfait
-2017-04-21;AVA;Saisie de la dégustation grand cru;2;Forfait
-2017-04-21;CIVA;Formulaire de mise à jour de droits;3,5;TMA
-2017-04-21;Sancerre;Import de tout l'historique;2;Forfait
-2017-04-24;AVA;Correction DRev et Facturation;2,5;Forfait
-2017-04-24;CIVA;Modifications de tiers;2;TMA
-2017-04-24;Sancerre;Ajustement pour l'import;1;Forfait
-2017-04-25;AVA;Réinitialisation de la signature;2;Forfait
-2017-04-25;CIVA;Formulaire de mise à jour de droits et correction contrat;3,5;TMA
-2017-04-25;VINSI;Problème de synchronisation douane;1,5;TMA
-2017-04-26;Aurouze;Installation Téléphone et corrections de petits bug;3,5;TMA
-2017-04-26;AVA;Saisie de la dégustation grand cru;3,5;Forfait
-2017-04-27;AVA;Corrections de docs pour facturation;2;TMA
-2017-04-27;AVA;Saisie de la dégustation grand cru;3,5;Forfait
-2017-04-27;CIVA;Bug d'ajout d'un établissement dans l'annuaire;2;TMA
-2017-04-27;VINSI;Bug dans la reprise de produits de DRM;2,5;TMA
-2017-04-28;Aurouze;Correction d'un bug;1;TMA
-2017-04-28;AVA;Corrections de docs pour facturation;2;TMA
-2017-04-28;AVA;Saisie de la dégustation grand cru;1,5;Forfait
+2017-05-02;24ème;Temps d'avril;2;24ème
+2017-05-02;Aurouze;Corrections;2;TMA
+2017-05-02;AVA;Corrections facturation;0,5;TMA
+2017-05-02;AVA;Corrections sur le dégustations;2;Évolutions
+2017-05-02;IVBD;Corrections transmission CIEL DRM;1;TMA
+2017-05-03;Aurouze;Corrections;1;TMA
+2017-05-03;AVA;Corrections de facturation;0,5;TMA
+2017-05-03;AVA;Gestion de la non dégustation d'un échantillon;1,5;Évolutions
+2017-05-03;CIVA;Corrections de compte;1;TMA
+2017-05-03;IVBD;Corrections transmission CIEL DRM;1;TMA
+2017-05-03;IVSO;Documentation du webservice;2;TMA
+2017-05-03;Sancerre;Mise en prod de l'historique;0,5;Dév
+2017-05-04;Aurouze;Corrections;1;TMA
+2017-05-04;AVA;Corrections d'un bug dans le tirage;1;TMA
+2017-05-04;CIVA;Mise à jour de tiers;1;TMA
+2017-05-04;IVBD;Corrections de transmission et du problème de BIB;2;TMA
+2017-05-04;VINSI;Corrections de transmission, problèmes de cautions et d'observations;2,5;TMA
+2017-05-04;VINSI;Tache de visa en mode automatique;4,5;Migration serveur
+2017-05-05;CIVA;Droits secondaires sur les comptes;1;TMA
+2017-05-05;IVBD;Transmissions DRM;1;TMA
+2017-05-05;VINSI;Mise en production gestion de l'envoi des contrats sans la tâche ;2,5;Migration serveur
+2017-05-10;24ème;Tactical meeting;3,5;24ème
+2017-05-10;Aurouze;Corrections Technicien et contrats;1;TMA
+2017-05-10;CIVA;Création de l'application CIVA dans giilda;3,5;DRM
+2017-05-10;IVSO;Correction transmission DRM;1;TMA
+2017-05-10;VINSI;Point téléphonique Fanny;1;TMA
+2017-05-11;Aurouze;Dernier tickets;3,5;TMA
+2017-05-11;AVA;Corrections et retours sur les dégustations grands crus;2;Évolutions
+2017-05-11;CIVA;Adaptation de la DRM Giilda;1,5;DRM
+2017-05-11;VINSI;Transmission de DRM et contrats;1;TMA
+2017-05-12;AVA;Corrections de DRev et de l'arbre produits;1,5;TMA
+2017-05-12;CIVA;Intégration html de civa dans giilda et corrections pour la réunion;9;DRM
+2017-05-15;CIVA;Réunion DRM et projets dans l'avenir;7;DRM
+2017-05-16;AVA;Retour dégustation grand cru;2,5;Évolutions
+2017-05-16;CIVA;Réunion DRM et projets dans l'avenir;3,5;DRM
+2017-05-17;AVA;Étape validation dans la saisie des grands crus;5,5;Évolutions
+2017-05-18;Aurouze;Corrections;1;TMA
+2017-05-18;AVA;Export CSV des résultats de dégustations;4;Évolutions
+2017-05-18;Sancerre;Corrections de ligne à 0 dans la SV12;1,5;TMA
+2017-05-19;AVA;Corrections export des dégustations;2,5;Évolutions
+2017-05-19;IVSO;Corrections bug numéro de contrat;1,5;TMA
+2017-05-22;CIVA;Dév clause de réserve de propriété;7;TMA
+2017-05-24;AVA;Corrections dégustations;1;TMA
+2017-05-24;CIVA;Correction de l'export DB2 des contrats;3,5;TMA
+2017-05-30;Pyhtagore;Formation GIT à Lannion au CMS;7;Pythagore
+2017-05-31;Pyhtagore;Formation GIT à Lannion au CMS;7;Pythagore
