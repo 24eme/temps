@@ -1,0 +1,118 @@
+2017-05-09;VINSI;Gestion des problèmes liés à la transmission DRM;3,5;TMA
+2017-05-09;VINSI;Ouverture compte pour CERFrance et tests;2;TMA
+2017-05-10;24ème;Tactical;2;Tactical Meeting
+2017-05-10;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
+2017-05-10;VINSI;Ouverture DRM Negoce pour test DRM Négoce;2;DRM Négoce
+2017-05-10;VINSI;Réunion téléphonique Loire;2;TMA
+2017-05-11;CIVA;Adaptation Reprise EDI DRM;2;DRM
+2017-05-11;IVSO;Problème LDAP;1;TMA
+2017-05-11;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
+2017-05-12;CIVA;Adaptation Reprise EDI DRM;7;DRM
+2017-05-15;CIVA;Réunion DRM;7;DRM
+2017-05-16;CIVA;Réunion DRM;7;DRM
+2017-05-17;CIVA;Adaptation mouvements et Doc Edi;7;DRM
+2017-05-17;Sancerre;factures libres debug;1;Facture libre
+2017-05-18;Aurouze;Ajout des avoir avec les cloturé dans relances;2,5;TMA
+2017-05-18;VINSI;Debug de la transmission DRM;1,5;TMA
+2017-05-18;VINSI;Gestion CER France;0,5;TMA
+2017-05-19;VINSI;Adaptation Conf pour DRM Acq;5,5;DRM Aquitté
+2017-05-19;VINSI;Problème de faturation;1,5;TMA
+2017-05-22;VINSI;Réécriture choix des produits;7;DRM Aquitté
+2017-05-23;Aurouze;Gestion de factures érronés;1;TMA
+2017-05-23;IVSO;Problème indexation elasticSearch;1,5;TMA
+2017-05-23;VINSI;Réécriture des favoris à la volé;6,5;DRM Aquitté
+2017-05-24;CIVA;Adaptation Doc EDI et debut fusion des produits;5,5;DRM
+2017-05-24;VINSI;Gestion du CER France;1,5;TMA
+2017-05-26;CIVA;Build de la conf mieux géré et inclusion CVO et taux douanes;3,5;DRM
+2017-05-29;24ème;Mal au dos;7;Malade
+2017-05-30;IVSO;Gestion du TAV;7;TMA
+2017-05-31;IVBD;Ouverture des transfertrecolte pour les produits autres;3,5;TMA
+2017-05-31;VINSI;Gestion CER France;2,5;TMA
+2017-05-02;DeclarVins;Ticket #19339;0,5;TMA
+2017-05-02;DeclarVins;Ticket #19340;0,5;TMA
+2017-05-02;DeclarVins;Ticket #19278;4,5;TMA
+2017-05-02;DeclarVins;Ticket #19341;1,5;TMA
+2017-05-03;AVA;Gestion documentaire;7;Forfait
+2017-05-04;24ème;Malade;
+2017-05-05;24ème;Rdv orl;
+2017-05-05;DeclarVins;Ticket #19339;1,5;TMA
+2017-05-05;DeclarVins;Ticket #19348;1;TMA
+2017-05-05;DeclarVins;Ticket #19360;1,5;TMA
+2017-05-05;DeclarVins;Ticket #19343;0,5;TMA
+2017-05-09;24ème;Point;
+2017-05-09;AVA;Gestion documentaire;5;Forfait
+2017-05-10;AVA;Gestion documentaire;3;Forfait
+2017-05-10;VINSI;Point telephonique;1,5;TMA
+2017-05-10;DeclarVins;Ticket #19382;1;TMA
+2017-05-10;24ème;Tactical;
+2017-05-11;Aurouze;Dev;2;TMA
+2017-05-11;Sancerre;Stats;4;TMA
+2017-05-12;DeclarVins;Tickets #19373;2;TMA
+2017-05-12;DeclarVins;Tickets #19339;4;TMA
+2017-05-12;DeclarVins;Tickets #19366;1;TMA
+2017-05-15;CIVA;Reunion Dominique;7;Forfait
+2017-05-16;CIVA;Reunion Dominique;4;Forfait
+2017-05-16;AVA;Gestion documentaire;3;Forfait
+2017-05-17;AVA;Gestion documentaire;7;Forfait
+2017-05-18;AVA;Gestion documentaire;3;Forfait
+2017-05-18;DeclarVins;Tickets #19443 #19422 #19451;2,5;TMA
+2017-05-18;DeclarVins;Demandes Sandrine;0,5;TMA
+2017-05-19;DeclarVins;Ticket #19460;1,5;TMA
+2017-05-19;DeclarVins;Ticket #19463;0,5;TMA
+2017-05-19;AVA;Gestion documentaire finalisation et mise en preprod;5;Forfait
+2017-05-22;DeclarVins;Ticket #19382;1,5;TMA
+2017-05-22;DeclarVins;EDI Antislash;0,5;TMA
+2017-05-22;AVA;Gestion documentaire - Gestion des fichiers non importes;1;Forfait
+2017-05-22;Sancerre;Kibana;4;RD
+2017-05-23;Sancerre;Kibana;7;RD
+2017-05-24;24ème;Compta;3
+2017-05-24;DeclarVins;Ticket #19217;1;TMA
+2017-05-24;DeclarVins;Ticket #19490;2;TMA
+2017-05-30;DeclarVins;Reunion CIVP;7;TMA
+2017-05-31;ODG Provence;Reunion ODG Provence;3;Commercial
+2017-05-02;24ème;Temps d'avril;2;24ème
+2017-05-02;Aurouze;Corrections;2;TMA
+2017-05-02;AVA;Corrections facturation;0,5;TMA
+2017-05-02;AVA;Corrections sur le dégustations;2;Évolutions
+2017-05-02;IVBD;Corrections transmission CIEL DRM;1;TMA
+2017-05-03;Aurouze;Corrections;1;TMA
+2017-05-03;AVA;Corrections de facturation;0,5;TMA
+2017-05-03;AVA;Gestion de la non dégustation d'un échantillon;1,5;Évolutions
+2017-05-03;CIVA;Corrections de compte;1;TMA
+2017-05-03;IVBD;Corrections transmission CIEL DRM;1;TMA
+2017-05-03;IVSO;Documentation du webservice;2;TMA
+2017-05-03;Sancerre;Mise en prod de l'historique;0,5;Dév
+2017-05-04;Aurouze;Corrections;1;TMA
+2017-05-04;AVA;Corrections d'un bug dans le tirage;1;TMA
+2017-05-04;CIVA;Mise à jour de tiers;1;TMA
+2017-05-04;IVBD;Corrections de transmission et du problème de BIB;2;TMA
+2017-05-04;VINSI;Corrections de transmission, problèmes de cautions et d'observations;2,5;TMA
+2017-05-04;VINSI;Tache de visa en mode automatique;4,5;Migration serveur
+2017-05-05;CIVA;Droits secondaires sur les comptes;1;TMA
+2017-05-05;IVBD;Transmissions DRM;1;TMA
+2017-05-05;VINSI;Mise en production gestion de l'envoi des contrats sans la tâche ;2,5;Migration serveur
+2017-05-10;24ème;Tactical meeting;3,5;24ème
+2017-05-10;Aurouze;Corrections Technicien et contrats;1;TMA
+2017-05-10;CIVA;Création de l'application CIVA dans giilda;3,5;DRM
+2017-05-10;IVSO;Correction transmission DRM;1;TMA
+2017-05-10;VINSI;Point téléphonique Fanny;1;TMA
+2017-05-11;Aurouze;Dernier tickets;3,5;TMA
+2017-05-11;AVA;Corrections et retours sur les dégustations grands crus;2;Évolutions
+2017-05-11;CIVA;Adaptation de la DRM Giilda;1,5;DRM
+2017-05-11;VINSI;Transmission de DRM et contrats;1;TMA
+2017-05-12;AVA;Corrections de DRev et de l'arbre produits;1,5;TMA
+2017-05-12;CIVA;Intégration html de civa dans giilda et corrections pour la réunion;9;DRM
+2017-05-15;CIVA;Réunion DRM et projets dans l'avenir;7;DRM
+2017-05-16;AVA;Retour dégustation grand cru;2,5;Évolutions
+2017-05-16;CIVA;Réunion DRM et projets dans l'avenir;3,5;DRM
+2017-05-17;AVA;Étape validation dans la saisie des grands crus;5,5;Évolutions
+2017-05-18;Aurouze;Corrections;1;TMA
+2017-05-18;AVA;Export CSV des résultats de dégustations;4;Évolutions
+2017-05-18;Sancerre;Corrections de ligne à 0 dans la SV12;1,5;TMA
+2017-05-19;AVA;Corrections export des dégustations;2,5;Évolutions
+2017-05-19;IVSO;Corrections bug numéro de contrat;1,5;TMA
+2017-05-22;CIVA;Dév clause de réserve de propriété;7;TMA
+2017-05-24;AVA;Corrections dégustations;1;TMA
+2017-05-24;CIVA;Correction de l'export DB2 des contrats;3,5;TMA
+2017-05-30;Pyhtagore;Formation GIT à Lannion au CMS;7;Pythagore
+2017-05-31;Pyhtagore;Formation GIT à Lannion au CMS;7;Pythagore
