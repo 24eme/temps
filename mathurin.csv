@@ -1,32 +1,30 @@
-2017-04-03;Aurouze;Débug des contrat et passages;4;Tournée
-2017-04-03;VINSI;EDI mis à jour de la gestion des erreurs liées au match des produits;3;TMA
-2017-04-04;Aurouze;Débug des dates de passages;1;Tournée
-2017-04-04;Giilde IVBD;gestion de documents;1,5;TMA
-2017-04-04;VINSI;Gestion des problèmes liés à la transmission DRM;4,5;TMA
-2017-04-05;Giilde IVSO;Dénomination complémentaire;2,5;Evolution
-2017-04-05;VINSI;Gestion des problèmes liés à la transmission DRM;4,5;TMA
-2017-04-06;AVA;Documents à supprimer;1;TMA
-2017-04-06;Giilde IVSO;Dénomination complémentaire;5;tests
-2017-04-06;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
-2017-04-07;Giilde IVBD;Point tel et réparation de compte pour christelle;1;TMA
-2017-04-07;VINSI;Adaptation VINSI de transmission en Mail des coordonnées;3,5;TMA
-2017-04-07;VINSI;Gestion des problèmes liés à la transmission DRM;2,5;TMA
-2017-04-10;Aurouze;Ajout d'un libéllé pour savoire si facturé ou non;1,5;Tournée
-2017-04-10;Giilde IVSO;Dénomination complémentaire tests;2;Evolution
-2017-04-10;VINSI;Bug de caution;1;TMA
-2017-04-10;VINSI;Gestion des mails de coordonnées DRM;2,5;TMA
-2017-04-11;Aurouze;Renforcement de la remontée des passages;1,5;Passage
-2017-04-11;Giilde IVSO;Dénomination complémentaire;5,5;Evolution
-2017-04-12;Giilde IVSO;Dénomination complémentaire;7;Evolution
-2017-04-13;Giilde IVSO;Dénomination complémentaire;4;Evolution
-2017-04-13;VINSI;Enquete sur la facturation de lannée avec Elodie;3;TMA
-2017-04-14;Aurouze;Meilleurs visu passage;1,5;Passage
-2017-04-14;Giilde IVSO;clean code des vieux hamza style;0,5;TMA
-2017-04-14;Giilde IVSO;Début de Dev de TAV;4;Evolution
-2017-04-18;Giilde IVSO;TAV alcool;7;Evolution
-2017-04-19;Aurouze;contrat reconduit requete renforcée;0,5;Contrat
-2017-04-19;Giilde IVSO;TAV alcool dans xml;3;Evolution
-2017-04-19;VINSI;Bug sur le paiement douane en booléen;1;TMA
-2017-04-19;VINSI;Début dev acquitté;3,5;Forfait Aquitté
-2017-04-20;VINSI;DRM acquitté;7;Forfait Aquitté
-2017-04-21;VINSI;DRM acquitté;7;Forfait Aquitté
+2017-05-09;VINSI;Gestion des problèmes liés à la transmission DRM;3,5;TMA
+2017-05-09;VINSI;Ouverture compte pour CERFrance et tests;2;TMA
+2017-05-10;24eme;Tactical;2;Tactical Meeting
+2017-05-10;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
+2017-05-10;VINSI;Ouverture DRM Negoce pour test DRM Négoce;2;DRM Négoce
+2017-05-10;VINSI;Réunion téléphonique Loire;2;TMA
+2017-05-11;CIVA;Adaptation Reprise EDI DRM;2;DRM
+2017-05-11;Giilde IVSO;Problème LDAP;1;TMA
+2017-05-11;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
+2017-05-12;CIVA;Adaptation Reprise EDI DRM;7;DRM
+2017-05-15;CIVA;Réunion DRM;7;DRM
+2017-05-16;CIVA;Réunion DRM;7;DRM
+2017-05-17;CIVA;Adaptation mouvements et Doc Edi;7;DRM
+2017-05-17;Sancerre;factures libres debug;1;Facture libre
+2017-05-18;Aurouze;Ajout des avoir avec les cloturé dans relances;2,5;TMA
+2017-05-18;VINSI;Debug de la transmission DRM;1,5;TMA
+2017-05-18;VINSI;Gestion CER France;0,5;TMA
+2017-05-19;VINSI;Adaptation Conf pour DRM Acq;5,5;DRM Aquitté
+2017-05-19;VINSI;Problème de faturation;1,5;TMA
+2017-05-22;VINSI;Réécriture choix des produits;7;DRM Aquitté
+2017-05-23;Aurouze;Gestion de factures érronés;1;TMA
+2017-05-23;Giilde IVSO;Problème indexation elasticSearch;1,5;TMA
+2017-05-23;VINSI;Réécriture des favoris à la volé;6,5;DRM Aquitté
+2017-05-24;CIVA;Adaptation Doc EDI et debut fusion des produits;5,5;DRM
+2017-05-24;VINSI;Gestion du CER France;1,5;TMA
+2017-05-26;CIVA;Build de la conf mieux géré et inclusion CVO et taux douanes;3,5;DRM
+2017-05-29;24eme;Mal au dos;7;Malade
+2017-05-30;Giilde IVSO;Gestion du TAV;7;TMA TAV
+2017-05-31;Giilde IVBD;Ouverture des transfertrecolte pour les produits autres;3,5;TMA
+2017-05-31;VINSI;Gestion CER France;2,5;TMA
