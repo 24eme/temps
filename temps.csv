@@ -5,7 +5,7 @@
 2017-05-10;VINSI;Ouverture DRM Negoce pour test DRM Négoce;2;DRM Négoce
 2017-05-10;VINSI;Réunion téléphonique Loire;2;TMA
 2017-05-11;CIVA;Adaptation Reprise EDI DRM;2;DRM
-2017-05-11;Giilde IVSO;Problème LDAP;1;TMA
+2017-05-11;IVSO;Problème LDAP;1;TMA
 2017-05-11;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
 2017-05-12;CIVA;Adaptation Reprise EDI DRM;7;DRM
 2017-05-15;CIVA;Réunion DRM;7;DRM
@@ -19,14 +19,14 @@
 2017-05-19;VINSI;Problème de faturation;1,5;TMA
 2017-05-22;VINSI;Réécriture choix des produits;7;DRM Aquitté
 2017-05-23;Aurouze;Gestion de factures érronés;1;TMA
-2017-05-23;Giilde IVSO;Problème indexation elasticSearch;1,5;TMA
+2017-05-23;IVSO;Problème indexation elasticSearch;1,5;TMA
 2017-05-23;VINSI;Réécriture des favoris à la volé;6,5;DRM Aquitté
 2017-05-24;CIVA;Adaptation Doc EDI et debut fusion des produits;5,5;DRM
 2017-05-24;VINSI;Gestion du CER France;1,5;TMA
 2017-05-26;CIVA;Build de la conf mieux géré et inclusion CVO et taux douanes;3,5;DRM
 2017-05-29;24ème;Mal au dos;7;Malade
-2017-05-30;Giilde IVSO;Gestion du TAV;7;TMA
-2017-05-31;Giilde IVBD;Ouverture des transfertrecolte pour les produits autres;3,5;TMA
+2017-05-30;IVSO;Gestion du TAV;7;TMA
+2017-05-31;IVBD;Ouverture des transfertrecolte pour les produits autres;3,5;TMA
 2017-05-31;VINSI;Gestion CER France;2,5;TMA
 2017-05-02;DeclarVins;Ticket #19339;0,5;TMA
 2017-05-02;DeclarVins;Ticket #19340;0,5;TMA
