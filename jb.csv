@@ -45,3 +45,45 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2017-04-27;AVA;Gestion documentaire;2;Forfait
 2017-04-28;AVA;Gestion documentaire;7;Forfait
 2017-04-28;IVBD;Bug cepages autorises;0,5;TMA
+2017-05-02;DeclarVins;Ticket #19339;0,5;TMA
+2017-05-02;DeclarVins;Ticket #19340;0,5;TMA
+2017-05-02;DeclarVins;Ticket #19278;4,5;TMA
+2017-05-02;DeclarVins;Ticket #19341;1,5;TMA
+2017-05-03;AVA;Gestion documentaire;7;Forfait
+2017-05-04;24eme;Malade;
+2017-05-05;24eme;Rdv orl;
+2017-05-05;DeclarVins;Ticket #19339;1,5;TMA
+2017-05-05;DeclarVins;Ticket #19348;1;TMA
+2017-05-05;DeclarVins;Ticket #19360;1,5;TMA
+2017-05-05;DeclarVins;Ticket #19343;0,5;TMA
+2017-05-09;24eme;Point;
+2017-05-09;AVA;Gestion documentaire;5;Forfait
+2017-05-10;AVA;Gestion documentaire;3;Forfait
+2017-05-10;VINSI;Point telephonique;1,5;TMA
+2017-05-10;DeclarVins;Ticket #19382;1;TMA
+2017-05-10;24eme;Tactical;
+2017-05-11;Aurouze;Dev;2;TMA
+2017-05-11;Sancerre;Stats;4;TMA
+2017-05-12;DeclarVins;Tickets #19373;2;TMA
+2017-05-12;DeclarVins;Tickets #19339;4;TMA
+2017-05-12;DeclarVins;Tickets #19366;1;TMA
+2017-05-15;CIVA;Reunion Dominique;7;Forfait
+2017-05-16;CIVA;Reunion Dominique;4;Forfait
+2017-05-16;AVA;Gestion documentaire;3;Forfait
+2017-05-17;AVA;Gestion documentaire;7;Forfait
+2017-05-18;AVA;Gestion documentaire;3;Forfait
+2017-05-18;DeclarVins;Tickets #19443 #19422 #19451;2,5;TMA
+2017-05-18;DeclarVins;Demandes Sandrine;0,5;TMA
+2017-05-19;DeclarVins;Ticket #19460;1,5;TMA
+2017-05-19;DeclarVins;Ticket #19463;0,5;TMA
+2017-05-19;AVA;Gestion documentaire finalisation et mise en preprod;5;Forfait
+2017-05-22;DeclarVins;Ticket #19382;1,5;TMA
+2017-05-22;DeclarVins;EDI Antislash;0,5;TMA
+2017-05-22;AVA;Gestion documentaire - Gestion des fichiers non importes;1;Forfait
+2017-05-22;Sancerre;Kibana;4;RD
+2017-05-23;Sancerre;Kibana;7;RD
+2017-05-24;24eme;Compta;3
+2017-05-24;DeclarVins;Ticket #19217;1;TMA
+2017-05-24;DeclarVins;Ticket #19490;2;TMA
+2017-05-30;DeclarVins;Reunion CIVP;7;TMA
+2017-05-31;ODG Provence;Reunion ODG Provence;3;Commercial
