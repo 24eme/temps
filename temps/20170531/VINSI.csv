@@ -1,0 +1,21 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-05-04;VINSI;Corrections de transmission, problèmes de cautions et d'observations;2,5;TMA
+2017-05-04;VINSI;Tache de visa en mode automatique;4,5;Migration serveur
+2017-05-05;VINSI;Mise en production gestion de l'envoi des contrats sans la tâche ;2,5;Migration serveur
+2017-05-09;VINSI;Gestion des problèmes liés à la transmission DRM;3,5;TMA
+2017-05-09;VINSI;Ouverture compte pour CERFrance et tests;2;TMA
+2017-05-10;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
+2017-05-10;VINSI;Ouverture DRM Negoce pour test DRM Négoce;2;DRM Négoce
+2017-05-10;VINSI;Point telephonique;1,5;TMA
+2017-05-10;VINSI;Point téléphonique Fanny;1;TMA
+2017-05-10;VINSI;Réunion téléphonique Loire;2;TMA
+2017-05-11;VINSI;Gestion des problèmes liés à la transmission DRM;1;TMA
+2017-05-11;VINSI;Transmission de DRM et contrats;1;TMA
+2017-05-18;VINSI;Debug de la transmission DRM;1,5;TMA
+2017-05-18;VINSI;Gestion CER France;0,5;TMA
+2017-05-19;VINSI;Adaptation Conf pour DRM Acq;5,5;DRM Aquitté
+2017-05-19;VINSI;Problème de faturation;1,5;TMA
+2017-05-22;VINSI;Réécriture choix des produits;7;DRM Aquitté
+2017-05-23;VINSI;Réécriture des favoris à la volé;6,5;DRM Aquitté
+2017-05-24;VINSI;Gestion du CER France;1,5;TMA
+2017-05-31;VINSI;Gestion CER France;2,5;TMA
