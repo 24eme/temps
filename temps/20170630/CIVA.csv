@@ -1,0 +1,21 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-06-01;CIVA;Adaptation de la fusion des produits AOC Alsace Blanc;5;DRM
+2017-06-01;CIVA;Corrections d'une alerte Compte créé dans le contrats;1,5;TMA
+2017-06-02;CIVA;Retrait integral du plugin DRM au Civa on passe par giilda;7;DRM
+2017-06-06;CIVA;Liste des emails des soussignes + mise à jour tiers;2,5;TMA
+2017-06-09;CIVA;Correction dans un contrat;0,5;TMA
+2017-06-09;CIVA;Réunion téléphonique sur le VCI;3;DRM
+2017-06-12;CIVA;Correction doc edi;1;TMA
+2017-06-15;CIVA;Adapation visu mvts;2;DRM
+2017-06-15;CIVA;Documentation EDI;2;DRM
+2017-06-15;CIVA;Modification contrat;1;TMA
+2017-06-16;CIVA;Documentation EDI gestion mvts;2;DRM
+2017-06-20;CIVA;Documentation EDI enfin les bons mvts;1;DRM
+2017-06-20;CIVA;ergo pour giilda et ticketing;2;DRM
+2017-06-21;CIVA;ergo pour giilda annexe;4;DRM
+2017-06-23;CIVA;dev DRM;3,5;DRM
+2017-06-26;CIVA;réécriture vue Civa de la remonté des contrats;2,5;DRM
+2017-06-28;CIVA;gestion conf de la remonté des contrats multi produit;4,5;DRM
+2017-06-29;CIVA;imputation des produits dans contrats et test;2,5;DRM
+2017-06-30;CIVA;dév tickets;5,5;DRM
+2017-06-30;CIVA;Tickets DRM;3,5;DRM
