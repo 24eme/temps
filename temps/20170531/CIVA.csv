@@ -1,0 +1,20 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-05-03;CIVA;Corrections de compte;1;TMA
+2017-05-04;CIVA;Mise à jour de tiers;1;TMA
+2017-05-05;CIVA;Droits secondaires sur les comptes;1;TMA
+2017-05-10;CIVA;Création de l'application CIVA dans giilda;3,5;DRM
+2017-05-11;CIVA;Adaptation de la DRM Giilda;1,5;DRM
+2017-05-11;CIVA;Adaptation Reprise EDI DRM;2;DRM
+2017-05-12;CIVA;Adaptation Reprise EDI DRM;7;DRM
+2017-05-12;CIVA;Intégration html de civa dans giilda et corrections pour la réunion;9;DRM
+2017-05-15;CIVA;Reunion Dominique;7;Forfait
+2017-05-15;CIVA;Réunion DRM;7;DRM
+2017-05-15;CIVA;Réunion DRM et projets dans l'avenir;7;DRM
+2017-05-16;CIVA;Reunion Dominique;4;Forfait
+2017-05-16;CIVA;Réunion DRM;7;DRM
+2017-05-16;CIVA;Réunion DRM et projets dans l'avenir;3,5;DRM
+2017-05-17;CIVA;Adaptation mouvements et Doc Edi;7;DRM
+2017-05-22;CIVA;Dév clause de réserve de propriété;7;TMA
+2017-05-24;CIVA;Adaptation Doc EDI et debut fusion des produits;5,5;DRM
+2017-05-24;CIVA;Correction de l'export DB2 des contrats;3,5;TMA
+2017-05-26;CIVA;Build de la conf mieux géré et inclusion CVO et taux douanes;3,5;DRM

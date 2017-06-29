@@ -1,0 +1,7 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-05-03;IVSO;Documentation du webservice;2;TMA
+2017-05-10;IVSO;Correction transmission DRM;1;TMA
+2017-05-11;IVSO;Problème LDAP;1;TMA
+2017-05-19;IVSO;Corrections bug numéro de contrat;1,5;TMA
+2017-05-23;IVSO;Problème indexation elasticSearch;1,5;TMA
+2017-05-30;IVSO;Gestion du TAV;7;TMA
