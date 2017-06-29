@@ -1,1 +1,128 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2017-06-01;AVA;Corrections de documents et notamment pour la facturation;2,5;TMA
+2017-06-01;Aurouze;Corrections de date dans un contrat;0,5;TMA
+2017-06-01;CIVA;Corrections d'une alerte Compte créé dans le contrats;1,5;TMA
+2017-06-01;Formation;Mise à jour de la doc de la formation git;1,5;Formation
+2017-06-02;24ème;Temps de mai et ndf;3,5;24ème
+2017-06-02;AVA;Corrections de bug;3;TMA
+2017-06-06;24ème;Temps de suivi projet;1;24ème
+2017-06-06;CIVA;Liste des emails des soussignes + mise à jour tiers;2,5;TMA
+2017-06-06;IVBD;Corrections de DRM pour la télédaclaration;1,5;TMA
+2017-06-07;AVA;Corrections de bug et documents;1;TMA
+2017-06-07;IVBD;Lien vers le blog;1,5;TMA
+2017-06-07;IVSO;Transmission d'une DRM;1;TMA
+2017-06-07;VINSI;Transmission de DRM et corrections de bug;3,5;TMA
+2017-06-08;24ème;Tactical meeting;2;24ème
+2017-06-08;IVBD;Lien vers le blog;2;TMA
+2017-06-08;VINSI;Transmission de DRM et corrections de bug;3,5;TMA
+2017-06-09;AVA;Réunion téléphonique VCI;2,5;TMA
+2017-06-09;CIVA;Correction dans un contrat;0,5;TMA
+2017-06-09;VINSI;Transmission de DRM et corrections de bug;2,5;TMA
+2017-06-12;Aurouze;Corrections d'une facture;0,5;TMA
+2017-06-12;AVA;Début de la refonte de l'ergonomie;3,5;Ergonomie
+2017-06-12;CIVA;Correction doc edi;1;TMA
+2017-06-13;AVA;Début de la refonte de l'ergonomie;4,5;Ergonomie
+2017-06-13;IVBD;Transmission CIEL;0,5;TMA
+2017-06-13;VINSI;Transmission de DRM et corrections de bug;2,5;TMA
+2017-06-14;AVA;Refonte de l'ergonomie;7;Ergonomie
+2017-06-15;Pythagore;Formation GIT Gendarme;7;Formation
+2017-06-16;Pythagore;Formation GIT Gendarme;7;Formation
+2017-06-19;Aurouze;Corrections d'une facture;0,5;TMA
+2017-06-19;AVA;Refonte de l'ergonomie;7;Ergonomie
+2017-06-20;AVA;Refonte de l'ergonomie;7;Ergonomie
+2017-06-21;AVA;Refonte de l'ergonomie;7;Ergonomie
+2017-06-22;AVA;Refonte de l'ergonomie;7;Ergonomie
+2017-06-22;Sancerre;Mise à jour de la page CAS;1;TMA
+2017-06-23;AVA;Refonte de l'ergonomie;3,5;Ergonomie
+2017-06-23;Sancerre;Revu des mouvements;2;TMA
+2017-06-26;24ème;NDF et administratif;3,5;24ème
+2017-06-27;Savoie;Réunion;7;Savoie
+2017-06-28;24ème;NDF et document administratif;2;24ème
+2017-06-28;AVA;Refonte de l'ergonomie;7;Ergonomie
+2017-06-29;24ème;Temps de juin et facturation;2,5;24ème
+2017-06-29;AVA;Corrections pour la facturation;1;TMA
+2017-06-29;AVA;Refonte de l'ergonomie;2;Ergonomie
+2017-06-29;VINSI;Correction conf apache redirection;1;TMA
+2017-06-30;CIVA;Tickets DRM;3,5;DRM
+2017-06-01;CIVA;Adaptation de la fusion des produits AOC Alsace Blanc;5;DRM
+2017-06-01;VINSI;Adaptation EDI et doc Edi plus cohérente pays;2;TMA
+2017-06-02;CIVA;Retrait integral du plugin DRM au Civa on passe par giilda;7;DRM
+2017-06-06;24ème;Mal au dos;7;Malade
+2017-06-07;Aurouze;Gestion du mailing des rapports;3,5;TMA
+2017-06-07;VINSI;Adaptation EDI synonyme des vins mousseux;3,5;TMA
+2017-06-08;24ème;Tactical meeting;2;24ème
+2017-06-08;VINSI;Adaptation EDI synonyme en reprenant les volume de la DRM prec;3,5;TMA
+2017-06-08;VINSI;Problèmes de télédeclaration;2,5;TMA
+2017-06-09;CIVA;Réunion téléphonique sur le VCI;3;DRM
+2017-06-09;VINSI;Transmission EDI dernières adaptation meilleur match produit;4;TMA
+2017-06-12;VINSI;Adaptation DRM Acquitté et suspendu;7;DRM acquitté
+2017-06-13;VINSI;Adaptation DRM Acquitté et suspendu;2;DRM acquitté
+2017-06-13;VINSI;Adaptation DRM Acquitté et suspendu adapation EDI;5;TMA
+2017-06-14;Giilda;Xml en droit Acquitté;2,5;TMA
+2017-06-14;VINSI;Xml en droit Acquitté;2,5;TMA
+2017-06-15;Aurouze;Recherche dans les paiements;2;TMA
+2017-06-15;CIVA;Adapation visu mvts;2;DRM
+2017-06-15;CIVA;Documentation EDI;2;DRM
+2017-06-15;CIVA;Modification contrat;1;TMA
+2017-06-16;Aurouze;Transfert de contrat;1;TMA
+2017-06-16;CIVA;Documentation EDI gestion mvts;2;DRM
+2017-06-16;VINSI;mis à jour des points bloquant de DRM;3;TMA
+2017-06-19;IVSO;Gestion des TAV en visu;1,5;TMA
+2017-06-19;VINSI;Ouverture en prod et pdf et tout de la coche bio contrat;5,5;TMA
+2017-06-20;CIVA;Documentation EDI enfin les bons mvts;1;DRM
+2017-06-20;CIVA;ergo pour giilda et ticketing;2;DRM
+2017-06-20;Giilda;purge du code;1,5;TMA
+2017-06-20;VINSI;pt bloquant drm;1;TMA
+2017-06-21;CIVA;ergo pour giilda annexe;4;DRM
+2017-06-21;VINSI;debloquage des SV12;1;TMA
+2017-06-22;Aurouze;déplacement des commentaires;3,5;TMA
+2017-06-23;Aurouze;déplacement des commentaires mis en prod;1;TMA
+2017-06-23;CIVA;dev DRM;3,5;DRM
+2017-06-26;24ème;temps organisation;3,5;24ème
+2017-06-26;CIVA;réécriture vue Civa de la remonté des contrats;2,5;DRM
+2017-06-27;Savoie;réunion Savoie;7;Savoie
+2017-06-28;CIVA;gestion conf de la remonté des contrats multi produit;4,5;DRM
+2017-06-29;Aurouze;Document de contrat érroné et cyril vonck;0,5;TMA
+2017-06-29;CIVA;imputation des produits dans contrats et test;2,5;DRM
+2017-06-30;CIVA;dév tickets;5,5;DRM
+2017-06-01;AVA;Mise en prod DI;2,5;Forfait
+2017-06-01;DeclarVins;Ticket #19490;3,5;TMA
+2017-06-02;DeclarVins;Ticket #19513;3;TMA
+2017-06-02;DeclarVins;Ticket #19501;1,5;TMA
+2017-06-02;DeclarVins;Ticket #18791;1,5;TMA
+2017-06-06;Sancerre;Modification arrondi stat export;1;TMA
+2017-06-06;DeclarVins;Evolution : import massif pour mise a jour des prix des contrats;5,5;TMA
+2017-06-07;DeclarVins;Evolution : import massif pour mise a jour des prix des contrats;4,5;TMA
+2017-06-07;DeclarVins;DTI+ Antislash;1,5;TMA
+2017-06-08;DeclarVins;Export historique DRM AOP CIVP;2,5;TMA
+2017-06-08;DeclarVins;Tickets #19422 #19519;1,5;TMA
+2017-06-08;24ème;MongoDb et tactical;3;
+2017-06-09;24ème;Burn out reveil + Preparation MongoDB;4;
+2017-06-12;24ème;MongoDB base sirenes;7;
+2017-06-13;DeclarVins;Qualisud Innovagro;2;TMA
+2017-06-13;DeclarVins;Ticket #19526;1,5;TMA
+2017-06-13;DeclarVins;Tickets #19521 #19451;0,5;TMA
+2017-06-13;DeclarVins;Ticket #19537;2;TMA
+2017-06-14;Actualys;Audit;1,5;TMA
+2017-06-14;DeclarVins;Ticket #19554;2;TMA
+2017-06-14;24ème;Preparation MongoDB;2,5;
+2017-06-15;24ème;Preparation MongoDB;7;
+2017-06-16;24ème;Preparation MongoDB;7;
+2017-06-19;24ème;Preparation MongoDB;7;
+2017-06-20;24ème;Preparation MongoDB;7;
+2017-06-21;Pythagore;formation MongoDB;7;
+2017-06-22;Pythagore;formation MongoDB;7;
+2017-06-23;Pythagore;formation MongoDB;7;
+2017-06-26;24ème;Preparation Bilan;
+2017-06-27;AVA;Modif Drev;0,5;TMA
+2017-06-27;DeclarVins;Tickets #19617 #19618;1,5;TMA
+2017-06-27;24ème;Etude BI CIVP;2;
+2017-06-28;DeclarVins;Ticket #19624;0,5;TMA
+2017-06-28;DeclarVins;Ticket #19625;3,5;TMA
+2017-06-28;DeclarVins;Ticket #19490;3;TMA
+2017-06-29;DeclarVins;Tickets #19521 #19490;0,5;TMA
+2017-06-29;DeclarVins;Pb lenteur reseau;1;TMA
+2017-06-29;DeclarVins;Demande oops civp;0,5;TMA
+2017-06-29;24ème;MongoDB sur git;1,5;
+2017-06-29;DeclarVins;Ticket #19622;3;
+2017-06-30;DeclarVins;Ticket #19622;7;
