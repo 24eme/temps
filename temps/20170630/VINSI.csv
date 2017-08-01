@@ -1,0 +1,19 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-06-01;VINSI;Adaptation EDI et doc Edi plus cohérente pays;2;TMA
+2017-06-07;VINSI;Adaptation EDI synonyme des vins mousseux;3,5;TMA
+2017-06-07;VINSI;Transmission de DRM et corrections de bug;3,5;TMA
+2017-06-08;VINSI;Adaptation EDI synonyme en reprenant les volume de la DRM prec;3,5;TMA
+2017-06-08;VINSI;Problèmes de télédeclaration;2,5;TMA
+2017-06-08;VINSI;Transmission de DRM et corrections de bug;3,5;TMA
+2017-06-09;VINSI;Transmission de DRM et corrections de bug;2,5;TMA
+2017-06-09;VINSI;Transmission EDI dernières adaptation meilleur match produit;4;TMA
+2017-06-12;VINSI;Adaptation DRM Acquitté et suspendu;7;DRM acquitté
+2017-06-13;VINSI;Adaptation DRM Acquitté et suspendu;2;DRM acquitté
+2017-06-13;VINSI;Adaptation DRM Acquitté et suspendu adapation EDI;5;TMA
+2017-06-13;VINSI;Transmission de DRM et corrections de bug;2,5;TMA
+2017-06-14;VINSI;Xml en droit Acquitté;2,5;TMA
+2017-06-16;VINSI;mis à jour des points bloquant de DRM;3;TMA
+2017-06-19;VINSI;Ouverture en prod et pdf et tout de la coche bio contrat;5,5;TMA
+2017-06-20;VINSI;pt bloquant drm;1;TMA
+2017-06-21;VINSI;debloquage des SV12;1;TMA
+2017-06-29;VINSI;Correction conf apache redirection;1;TMA
