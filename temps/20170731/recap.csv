@@ -1,0 +1,33 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+"24eme";"24eme";7;1,0
+"24eme";;7;1,0
+"24eme";"Bilan";3;0,4
+"24eme";"tactical meeting";5;0,7
+"24eme";TOTAL;22;3,1
+"Aurouze";"TMA";13;1,9
+"Aurouze";TOTAL;13;1,9
+"AVA";"Forfait";7;1,0
+"AVA";"TMA";3;0,4
+"AVA";TOTAL;10;1,4
+"CIVA";"DRM";35,5;5,1
+"CIVA";"Forfait";33,5;4,8
+"CIVA";"TMA";18,5;2,6
+"CIVA";TOTAL;87,5;12,5
+"DeclarVins Deployement";"TMA";4,5;0,6
+"DeclarVins Deployement";TOTAL;4,5;0,6
+"DeclarVins";"TMA";43,5;6,2
+"DeclarVins";TOTAL;43,5;6,2
+"Giilda";"TMA";1;0,1
+"Giilda";TOTAL;1;0,1
+"IVBD";"TMA";5,5;0,8
+"IVBD";TOTAL;5,5;0,8
+"ODG Rhone";"Forfait";15;2,1
+"ODG Rhone";"Réunion";7;1,0
+"ODG Rhone";TOTAL;22;3,1
+"Sancerre";"TMA";11;1,6
+"Sancerre";TOTAL;11;1,6
+"VINSI";"contrat bio";13;1,9
+"VINSI";"Retour douane";9,5;1,4
+"VINSI";"Réunion";14;2,0
+"VINSI";"TMA";71;10,1
+"VINSI";TOTAL;107,5;15,4
