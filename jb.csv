@@ -1,42 +1,49 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2017-06-01;AVA;Mise en prod DI;2,5;Forfait
-2017-06-01;DeclarVins;Ticket #19490;3,5;TMA
-2017-06-02;DeclarVins;Ticket #19513;3;TMA
-2017-06-02;DeclarVins;Ticket #19501;1,5;TMA
-2017-06-02;DeclarVins;Ticket #18791;1,5;TMA
-2017-06-06;Sancerre;Modification arrondi stat export;1;TMA
-2017-06-06;DeclarVins;Evolution : import massif pour mise a jour des prix des contrats;5,5;TMA
-2017-06-07;DeclarVins;Evolution : import massif pour mise a jour des prix des contrats;4,5;TMA
-2017-06-07;DeclarVins;DTI+ Antislash;1,5;TMA
-2017-06-08;DeclarVins;Export historique DRM AOP CIVP;2,5;TMA
-2017-06-08;DeclarVins;Tickets #19422 #19519;1,5;TMA
-2017-06-08;24eme;MongoDb et tactical;3;
-2017-06-09;24eme;Burn out reveil + Preparation MongoDB;4;
-2017-06-12;24eme;MongoDB base sirenes;7;
-2017-06-13;DeclarVins;Qualisud Innovagro;2;TMA
-2017-06-13;DeclarVins;Ticket #19526;1,5;TMA
-2017-06-13;DeclarVins;Tickets #19521 #19451;0,5;TMA
-2017-06-13;DeclarVins;Ticket #19537;2;TMA
-2017-06-14;Actualys;Audit;1,5;TMA
-2017-06-14;DeclarVins;Ticket #19554;2;TMA
-2017-06-14;24eme;Preparation MongoDB;2,5;
-2017-06-15;24eme;Preparation MongoDB;7;
-2017-06-16;24eme;Preparation MongoDB;7;
-2017-06-19;24eme;Preparation MongoDB;7;
-2017-06-20;24eme;Preparation MongoDB;7;
-2017-06-21;Pythagore;formation MongoDB;7;
-2017-06-22;Pythagore;formation MongoDB;7;
-2017-06-23;Pythagore;formation MongoDB;7;
-2017-06-26;24eme;Preparation Bilan;
-2017-06-27;AVA;Modif Drev;0,5;TMA
-2017-06-27;DeclarVins;Tickets #19617 #19618;1,5;TMA
-2017-06-27;24eme;Etude BI CIVP;2;
-2017-06-28;DeclarVins;Ticket #19624;0,5;TMA
-2017-06-28;DeclarVins;Ticket #19625;3,5;TMA
-2017-06-28;DeclarVins;Ticket #19490;3;TMA
-2017-06-29;DeclarVins;Tickets #19521 #19490;0,5;TMA
-2017-06-29;DeclarVins;Pb lenteur reseau;1;TMA
-2017-06-29;DeclarVins;Demande oops civp;0,5;TMA
-2017-06-29;24eme;MongoDB sur git;1,5;
-2017-06-29;DeclarVins;Ticket #19622;3;TMA
-2017-06-30;DeclarVins;Ticket #19622;7;TMA
+2017-07-03;VINSI;Reunion;7;TMA
+2017-07-04;VINSI;Reunion + ODG;7;TMA
+2017-07-05;DeclarVins;Antislash IGP Maures;1,5;TMA
+2017-07-05;DeclarVins;Zip XML Ciel;2;TMA
+2017-07-05;DeclarVins;SARL Giaconda;1,5;TMA
+2017-07-05;DeclarVins;Ticket 19637;0,5;TMA
+2017-07-05;DeclarVins;Ticket 19451;0,5;TMA
+2017-07-05;DeclarVins;Ticket 19645;1;TMA
+2017-07-06;DeclarVins;Ticket 19537;1;TMA
+2017-07-06;DeclarVins;Brice libellé personnalisé;0,5;TMA
+2017-07-06;DeclarVins;Ticket 19646;0,5;TMA
+2017-07-06;DeclarVins;Ticket 19649;1,5;TMA
+2017-07-06;DeclarVins;Ticket 19622;0,5;TMA
+2017-07-06;DeclarVins;Sandrine validation DRM;0,5;TMA
+2017-07-06;DeclarVins;Ticket 19650;0,5;TMA
+2017-07-06;DeclarVins;EDI CVO -1;1;TMA
+2017-07-06;DeclarVins;Multi retour CFT;1,5;TMA
+2017-07-07;DeclarVins;Demande CIVP Ciel CIVP;0,5;TMA
+2017-07-07;DeclarVins;Ticket 19641;4,5;TMA
+2017-07-10;ODGRhone;Reunion;7;Forfait
+2017-07-11;24eme;Bilan + Tactical meeting;7;
+2017-07-12;DeclarVins;Demande Marine Multi retour CFT;2;TMA
+2017-07-12;DeclarVins;Demande Sandrine Libellé perso;2;TMA
+2017-07-12;DeclarVins;EDI conservation de libellé;2;TMA
+2017-07-13;DeclarVins;EDI IS;6;TMA
+2017-07-17;DeclarVins;EDI IS;4;TMA
+2017-07-17;DeclarVins;Ticket 19668;1,5;TMA
+2017-07-18;Deployement + Import EDI IS;4,5;TMA
+2017-07-18;Sancerre;Gestion ligne blanche stats export;1;TMA
+2017-07-19;DeclarVins;Rapports EDI IS;2,5;TMA
+2017-07-19;CIVA;Convention Ciel;4,5;Forfait
+2017-07-20;CIVA;Convention Ciel;4;Forfait
+2017-07-20;Aurouze;tma;3;TMA
+2017-07-21;CIVA;Convention Ciel;3,5;Forfait
+2017-07-21;DeclarVins;Sandrine DRM pb CRD douane;0,5;TMA
+2017-07-21;ODGRhone;Reponse mail Marine;1;Forfait
+2017-07-24;CIVA;Convention Ciel;1,5;Forfait
+2017-07-24;DeclarVins;Historique DRM;2;TMA
+2017-07-24;DeclarVins;Ticket 19694;0,5;TMA
+2017-07-25;CIVA;Tickets DRM;5,5;Forfait
+2017-07-26;CIVA;Tickets DRM;5;Forfait
+2017-07-26;CIVA;Pb ouverture DS;1;TMA
+2017-07-27;CIVA;Pb ouverture DS;1;TMA
+2017-07-27;CIVA;Tickets DRM;5;Forfait
+2017-07-28;Sancerre;Title CAS;1,5;TMA
+2017-07-28;DeclarVins;Tickets #19702 #19704;1;TMA
+2017-07-28;CIVA;Tickets DRM;4,5;Forfait
+2017-07-31;AVA;Declaration d'intention crémant;7;Forfait
