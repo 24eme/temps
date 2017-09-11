@@ -1,0 +1,22 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-08-11;ODGRhone; Fouille dans entité extravitis;1;Forfait
+2017-08-14;ODGRhone;Conversion du xls en csv;2;Forfait
+2017-08-18;ODGRhone;Plugin de contacts giilda dans l'AVA;2,5;Forfait
+2017-08-21;ODGRhone;Adaptation compte et ébtablissement avec la DRev;2,5;Forfait
+2017-08-22;ODGRhone;Test unitaire drev;3,5;Forfait
+2017-08-23;ODGRhone; Création des fichiers découpés entité;3,5;Forfait
+2017-08-23;ODGRhone;Test unitaire drev;3,5;Forfait
+2017-08-24;ODGRhone;Désactivation de l'étape prélèvement;3,5;Forfait
+2017-08-25;ODGRhone;Étape VCI et bootstrap vierge;5,5;Forfait
+2017-08-28;ODGRhone;Étape VCI;7;Forfait
+2017-08-28;ODGRhone; import compte;3,5;Forfait
+2017-08-29;ODGRhone;Conversion CSV;7;Forfait
+2017-08-29;ODGRhone;Gestion multi fichier;3,5;Forfait
+2017-08-29;ODGRhone;import des etablissement société;1,5;Forfait
+2017-08-30;ODGRhone;Conversion CSV;2,5;Forfait
+2017-08-30;ODGRhone;Gestion multi fichier;6;Forfait
+2017-08-30;ODGRhone; import entités;7;Forfait
+2017-08-31;ODGRhone;Formulaire DRev;2;Forfait
+2017-08-31;ODGRhone;Gestion multi fichier;7;Forfait
+2017-08-31;ODGRhone; import entités;3;Forfait
+2017-08-31;ODGRhone; rerouting pas identifiant giilda style;2;Forfait

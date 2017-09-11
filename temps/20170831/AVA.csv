@@ -1,0 +1,9 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-08-01;AVA;Declaration d'intention crémant;7;Forfait
+2017-08-02;AVA;bug conf app.yml en preprod;1,5;TMA
+2017-08-02;AVA;Declaration d'intention crémant;1;Forfait
+2017-08-03;AVA;Correctifs declaration d'intention crémant + mise en prod;3,5;Forfait
+2017-08-03;AVA;Import DR;0,5;TMA
+2017-08-10;AVA;Documents de dégustation index 0 perdu;1;TMA
+2017-08-16;AVA;Migration d'identité + correction d'un bug sur la dégustation locale + mention sans cépage + envoi mail déclaration d'intention;3,5;TMA
+2017-08-18;AVA;Migration d'identité + correction d'un bug sur la dégustation locale + mention sans cépage + envoi mail déclaration d'intention;0,5;TMA
