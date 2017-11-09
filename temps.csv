@@ -1,19 +1,19 @@
 2017-10-02;Aurouze;Bug + pb date sur les paiements;2;TMA
-2017-10-02;24eme;Gwen + facturation + indicateurs + Devis NM;
+2017-10-02;24ème;Gwen + facturation + indicateurs + Devis NM;
 2017-10-03;DeclarVins;Ticket #19897;3;TMA
 2017-10-03;DeclarVins;Catalogue produit code INAO CIVP;0,5;TMA
 2017-10-03;DeclarVins;Ticket #19727;2;TMA
 2017-10-04;DeclarVins;Ticket #19727;2;TMA
 2017-10-04;DeclarVins;Ticket #19906;1;TMA
 2017-10-04;DeclarVins;Gestion crd autre EDI DRM (Isagri);4;TMA
-2017-10-05;24eme;Admin + Tactical meeting;7
+2017-10-05;24ème;Admin + Tactical meeting;7
 2017-10-06;DeclarVins;Ticket #19875;1;TMA
 2017-10-06;DeclarVins;EDI DRM;1;TMA
 2017-10-06;Aurouze;bug paiement;0,5;TMA
 2017-10-06;CIVA;Mise en prod DRM;3;Forfait
 2017-10-09;DeclarVins;CIVP transmission CIEL;1;TMA
-2017-10-09;24eme;MongoDB;6
-2017-10-10;24eme;MongoDB;7;
+2017-10-09;24ème;MongoDB;6
+2017-10-10;24ème;MongoDB;7;
 2017-10-11;Pythagore;Formation MongoDB;7;Forfait
 2017-10-12;Pythagore;Formation MongoDB;7;Forfait
 2017-10-13;Pythagore;Formation MongoDB;7;Forfait
@@ -97,7 +97,7 @@
 2017-10-03;VINSI;Retour Douane avec rapport en mail;7;TMA
 2017-10-04;IVBD;Retour Douane avec rapport en mail;3,5;TMA
 2017-10-04;IVSO;Retour Douane avec rapport en mail;3,5;TMA
-2017-10-05;24EME;Tactical meeting;3,5;Tactical meeting
+2017-10-05;24ème;Tactical meeting;3,5;Tactical meeting
 2017-10-05;ODGRhone;Habilitation;3,5;Forfait
 2017-10-06;Aurouze;Avant vente;2;Non facturable
 2017-10-06;ODGRhone;Habilitation;2,5;Forfait
@@ -112,7 +112,7 @@
 2017-10-12;Aurouze;Contrats à déplacer et débug;0,5;TMA
 2017-10-12;IVBD;problèmes transmissions;2;TMA
 2017-10-12;ODGRhone;Historique des Habilitation;4,5;Forfait
-2017-10-13;24EME;Repos;3,5;Repos
+2017-10-13;24ème;Repos;3,5;Repos
 2017-10-13;Aurouze;Contrats à déplacer et débug;1;TMA
 2017-10-13;VINSI;Problème facture et base;2;TMA
 2017-10-16;ODGRhone;Import Entité simple;5;Forfait
