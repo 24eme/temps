@@ -1,41 +1,53 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2017-09-01;ODGRhone;Gestion multi fichier;7;Forfait
-2017-09-04;ODGRhone;Dev fichiers DRev;4;Forfait
-2017-09-05;ODGRhone;Dev fichiers DRev;7;Forfait
-2017-09-06;ODGRhone;Dev fichiers DRev;7;Forfait
-2017-09-07;ODGRhone;Import DR + gestion des bugs;4;Forfait
-2017-09-07;DeclarVins;Ticket #19828;0,5;TMA
-2017-09-07;DeclarVins;Ticket #19816;0,5;TMA
-2017-09-07;DeclarVins;Ticket #19792;1;TMA
-2017-09-07;DeclarVins;Ticket #19829;0,5;TMA
-2017-09-07;DeclarVins;Ticket #19820;0,5;TMA
-2017-09-08;DeclarVins;Ticket #19792;0,5;TMA
-2017-09-08;DeclarVins;Ticket #19827;1,5;TMA
-2017-09-08;DeclarVins;Ticket #19727;3,5;TMA
-2017-09-08;DeclarVins;Ticket #19801;1;TMA
-2017-09-08;DeclarVins;Ticket #19820;0,5;TMA
-2017-09-11;DeclarVins;Ticket #19729;2;TMA
-2017-09-11;24eme;Facturation + tactical meeting;
-2017-09-12;CIVA;Correction et modification PDF convention;4;Forfait
-2017-09-12;DeclarVins;Stats dplc;1;TMA
-2017-09-13;24eme;Organisation;
-2017-09-13;DeclarVins;Ticket #19827;1;TMA
-2017-09-13;DeclarVins;Ticket #19853;0,5;TMA
-2017-09-13;DeclarVins;CIVP GRC;1,5;TMA
-2017-09-14;DeclarVins;Ticket #19727;3;TMA
-2017-09-14;Aurouze;Tournee affichage des societes;2;TMA
-2017-09-15;ODGRhone;Gestion DR, SV11 et SV12;7;Forfait
-2017-09-18;ODGRhone;Gestion DR, SV11 et SV12;7;Forfait
-2017-09-19;24eme;Point Gwen;
-2017-09-19;ODGRhone;Gestion DR, SV11 et SV12;4;Forfait
-2017-09-20;ODGRhone;Gestion DR, SV11 et SV12;4;Forfait
-2017-09-20;DeclarVins;GRC CIVP;3;TMA
-2017-09-21;ODGRhone;CSV DR SV11 SV12;7;Forfait
-2017-09-22;ODGRhone;CSV DR SV11 SV12;7;Forfait
-2017-09-25;ODGRhone;Gestion des exports;7;Forfait
-2017-09-26;ODGRhone;Preremplissage Drev;5;Forfait
-2017-09-26;DeclarVins;ticket #19876;2;TMA
-2017-09-27;DeclarVins;Fichier Isagri;2,5;TMA
-2017-09-27;ODGRhone;Tickets en vue de la reunion;4,5;Forfait
-2017-09-28;ODGRhone;Reunion Sprint 2;7;forfait
-2017-09-29;Aurouze;Point et tma;5;TMA
+2017-10-02;Aurouze;Bug + pb date sur les paiements;2;TMA
+2017-10-02;24eme;Gwen + facturation + indicateurs + Devis NM;
+2017-10-03;DeclarVins;Ticket #19897;3;TMA
+2017-10-03;DeclarVins;Catalogue produit code INAO CIVP;0,5;TMA
+2017-10-03;DeclarVins;Ticket #19727;2;TMA
+2017-10-04;DeclarVins;Ticket #19727;2;TMA
+2017-10-04;DeclarVins;Ticket #19906;1;TMA
+2017-10-04;DeclarVins;Gestion crd autre EDI DRM (Isagri);4;TMA
+2017-10-05;24eme;Admin + Tactical meeting;7
+2017-10-06;DeclarVins;Ticket #19875;1;TMA
+2017-10-06;DeclarVins;EDI DRM;1;TMA
+2017-10-06;Aurouze;bug paiement;0,5;TMA
+2017-10-06;CIVA;Mise en prod DRM;3;Forfait
+2017-10-09;DeclarVins;CIVP transmission CIEL;1;TMA
+2017-10-09;24eme;MongoDB;6
+2017-10-10;24eme;MongoDB;7;
+2017-10-11;Pythagore;Formation MongoDB;7;Forfait
+2017-10-12;Pythagore;Formation MongoDB;7;Forfait
+2017-10-13;Pythagore;Formation MongoDB;7;Forfait
+2017-10-16;DeclarVins;Ticket #19933;0,5;TMA
+2017-10-16;DeclarVins;Ticket #19908;1;TMA
+2017-10-16;DeclarVins;Ticket #19930;0,5;TMA
+2017-10-16;DeclarVins;Ticket #19941;3,5;TMA
+2017-10-16;Aurouze;Tel Alexandre;0,5;TMA
+2017-10-17;DeclarVins;CIVP inscription civp36398;2,5;TMA
+2017-10-17;DeclarVins;EDI antislash;0,5;TMA
+2017-10-17;ODGRhone;Scrapy files;3,5;Forfait
+2017-10-18;ODGRhone;Scrapy files;5;Forfait
+2017-10-18;DeclarVins;EDI antislash et isagri;2;TMA
+2017-10-19;ODGRhone;Tickets;7;Forfait
+2017-10-20;ODGRhone;Tickets;7;Forfait
+2017-10-23;Aurouze;Recherche;2,5;TMA
+2017-10-23;DeclarVins;Ticket #19955;1,5;TMA
+2017-10-23;DeclarVins;Ticket #19908;0,5;TMA
+2017-10-23;Sancerre;Bug DRM vide;1,5;TMA
+2017-10-23;AVA;Demande DPAP;1;TMA
+2017-10-24;Aurouze;Recherche Mongo;5,5;TMA
+2017-10-25;DeclarVins;EDI Isagri;1;TMA
+2017-10-25;ODGRhone;Tickets;6;Forfait
+2017-10-26;ODGRhone;Tickets;5;Forfait
+2017-10-26;DeclarVins;Ticket #19965;0,5;TMA
+2017-10-26;DeclarVins;Ticket #19964;1,5;TMA
+2017-10-27;Aurouze;ES;7;TMA
+2017-10-30;Aurouze;Lot correctifs;7;Forfait
+2017-10-31;Aurouze;Lot correctifs;7;Forfait
+2017-11-02;DeclarVins;Correctifs Isagri;3;TMA
+2017-11-02;Civa;Probleme droit Gamma;1;TMA
+2017-11-02;ODGRhone;XML Drev;2,5;Forfait
+2017-11-03;ODGRhone;Tickets;7;Forfait
+2017-11-06;ODGRhone;Fine tuning;7;Forfait
+2017-11-07;ODGRhone;Fine tuning;7;Forfait
+2017-11-08;24eme;Congé;
