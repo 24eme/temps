@@ -1,0 +1,16 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-10-02;Aurouze;Bug + pb date sur les paiements;2;TMA
+2017-10-05;Aurouze;Bug dans la facturation;1;TMA
+2017-10-06;Aurouze;Avant vente;2;Non facturable
+2017-10-06;Aurouze;bug paiement;0,5;TMA
+2017-10-09;Aurouze;Devis pour les évolutions;2,5;Devis
+2017-10-11;Aurouze;Contrats à déplacer et débug;2,5;TMA
+2017-10-12;Aurouze;Contrats à déplacer et débug;0,5;TMA
+2017-10-13;Aurouze;Contrats à déplacer et débug;1;TMA
+2017-10-16;Aurouze;Tel Alexandre;0,5;TMA
+2017-10-23;Aurouze;Recherche;2,5;TMA
+2017-10-24;Aurouze;Recherche Mongo;5,5;TMA
+2017-10-27;Aurouze;ES;7;TMA
+2017-10-30;Aurouze;Lot correctifs;7;Forfait
+2017-10-31;Aurouze;Bug retard paiement;1,5;TMA
+2017-10-31;Aurouze;Lot correctifs;7;Forfait

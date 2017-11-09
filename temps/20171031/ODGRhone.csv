@@ -1,0 +1,38 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-10-05;ODGRhone;Habilitation;3,5;Forfait
+2017-10-06;ODGRhone;Habilitation;2,5;Forfait
+2017-10-10;ODGRhone;Import;2;Forfait
+2017-10-11;ODGRhone;Import compte;3,5;Forfait
+2017-10-12;ODGRhone;Historique des Habilitation;4,5;Forfait
+2017-10-16;ODGRhone;Dév;3,5;Forfait
+2017-10-16;ODGRhone;Import Entité simple;5;Forfait
+2017-10-17;ODGRhone;Dév;3,5;Forfait
+2017-10-17;ODGRhone;Scrapy files;3,5;Forfait
+2017-10-17;ODGRhone;Ticket Rhone;3;Forfait
+2017-10-18;ODGRhone;Dév;3,5;Forfait
+2017-10-18;ODGRhone;Import Entité Interlocuteurs;7;Forfait
+2017-10-18;ODGRhone;Scrapy files;5;Forfait
+2017-10-19;ODGRhone;Dév;4,5;Forfait
+2017-10-19;ODGRhone;Import Entité Interlocuteurs;7;Forfait
+2017-10-19;ODGRhone;Tickets;7;Forfait
+2017-10-20;ODGRhone;Dév;3,5;Forfait
+2017-10-20;ODGRhone;Import Entité Ajout Cvis;7;Forfait
+2017-10-20;ODGRhone;Tickets;7;Forfait
+2017-10-23;ODGRhone;Réunion;7;Forfait
+2017-10-23;ODGRhone;Réunion;7;Forfait
+2017-10-24;ODGRhone;Import Entité Ajout Cvis;7;Forfait
+2017-10-25;ODGRhone;Déploiement du serveur;3,5;Déploiement Serveur
+2017-10-25;ODGRhone;Dév;3,5;Forfait
+2017-10-25;ODGRhone;Import ajout des liaisons etbs;6,5;Forfait
+2017-10-25;ODGRhone;Tickets;6;Forfait
+2017-10-26;ODGRhone;Déploiement du serveur;4;Déploiement Serveur
+2017-10-26;ODGRhone;Import Entité Repris repreneurs;7;Forfait
+2017-10-26;ODGRhone;Tickets;5;Forfait
+2017-10-27;ODGRhone;Déploiement du serveur;3;Déploiement Serveur
+2017-10-27;ODGRhone;Dév;2;Forfait
+2017-10-27;ODGRhone;Habilitation ajout produits;6,5;Forfait
+2017-10-30;ODGRhone;Contrat d'hébergement;2,5;Commercial
+2017-10-30;ODGRhone;Dév;2,5;Forfait
+2017-10-30;ODGRhone;Import isolement des groupes;7;Forfait
+2017-10-31;ODGRhone;Dév;4;Forfait
+2017-10-31;ODGRhone;Interface Compte;7;Forfait
