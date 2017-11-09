@@ -1,0 +1,50 @@
+Date;Projet;Description;Temps (en heure);Tache
+2017-09-01;ODGRhone;Dév;3,5;Forfait
+2017-09-01;ODGRhone;Gestion multi fichier;7;Forfait
+2017-09-01;ODGRhone; import entités tags;4,5;Forfait
+2017-09-04;ODGRhone; Déployement et adaptation ELK;4,5;Forfait
+2017-09-04;ODGRhone;Dév;5;Forfait
+2017-09-04;ODGRhone;Dev fichiers DRev;4;Forfait
+2017-09-04;ODGRhone; uniformisation des form contacts;2,5;Forfait
+2017-09-05;ODGRhone;Dév;3,5;Forfait
+2017-09-05;ODGRhone;Dev fichiers DRev;7;Forfait
+2017-09-06;ODGRhone;Dév;7;Forfait
+2017-09-06;ODGRhone;Dev fichiers DRev;7;Forfait
+2017-09-06;ODGRhone; import entités déploiement preprod;3;Forfait
+2017-09-06;ODGRhone; tickets DREV;5;Forfait
+2017-09-07;ODGRhone;Import DR + gestion des bugs;4;Forfait
+2017-09-07;ODGRhone; réunion;7;Forfait
+2017-09-07;ODGRhone;Réunion;7;Forfait
+2017-09-08;ODGRhone; import entités recherche groupe;1,5;Forfait
+2017-09-11;ODGRhone;isoler les groupe;2,5;Forfait
+2017-09-12;ODGRhone;groupes et import;4,5;Forfait
+2017-09-13;ODGRhone;tickets et import;4,5;Forfait
+2017-09-15;ODGRhone;Gestion DR, SV11 et SV12;7;Forfait
+2017-09-15;ODGRhone;tickets et import;1,5;Forfait
+2017-09-18;ODGRhone;Gestion DR, SV11 et SV12;7;Forfait
+2017-09-18;ODGRhone;Mis en place Habilitation;3,5;Forfait
+2017-09-19;ODGRhone;Gestion DR, SV11 et SV12;4;Forfait
+2017-09-19;ODGRhone;Mis en place Habilitation;5,5;Forfait
+2017-09-20;ODGRhone;Gestion DR, SV11 et SV12;4;Forfait
+2017-09-20;ODGRhone;Merge du plugin conf;5;Forfait
+2017-09-20;ODGRhone;Mis en place Habilitation;7;Forfait
+2017-09-21;ODGRhone;Applitissage d'un arbre dans un doc couchdb;7;Forfait
+2017-09-21;ODGRhone;CSV DR SV11 SV12;7;Forfait
+2017-09-21;ODGRhone;Mis en place Habilitation;5;Forfait
+2017-09-22;ODGRhone;CSV DR SV11 SV12;7;Forfait
+2017-09-22;ODGRhone;Dév;7;Forfait
+2017-09-22;ODGRhone;Groupes d'interlocuteurs;2;Forfait
+2017-09-22;ODGRhone;Mis en place Habilitation;2;Forfait
+2017-09-25;ODGRhone;Dév;7;Forfait
+2017-09-25;ODGRhone;Gestion des exports;7;Forfait
+2017-09-25;ODGRhone;Import des contacts groupes;3;Forfait
+2017-09-25;ODGRhone;Nav Habilitation et reprise;3;Forfait
+2017-09-26;ODGRhone;Dév;7;Forfait
+2017-09-26;ODGRhone;Import des établissement multiples;4;Forfait
+2017-09-26;ODGRhone;Preremplissage Drev;5;Forfait
+2017-09-27;ODGRhone;Dév;7;Forfait
+2017-09-27;ODGRhone;Tickets;8;Forfait
+2017-09-27;ODGRhone;Tickets en vue de la reunion;4,5;Forfait
+2017-09-28;ODGRhone; réunion ;7;Forfait
+2017-09-28;ODGRhone;Reunion Sprint 2;7;forfait
+2017-09-29;ODGRhone; historique Habilitation ;2;Forfait
