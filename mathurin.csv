@@ -1,15 +1,16 @@
 2017-10-02;VINSI;Correction Xml avec les changement de produits;3;TMA
 2017-10-02;VINSI;Retour Douane avec rapport en mail;4;TMA
 2017-10-03;VINSI;Retour Douane avec rapport en mail;7;TMA
-2017-10-04;Giilda;Retour Douane avec rapport en mail;7;TMA
+2017-10-04;IVBD;Retour Douane avec rapport en mail;3,5;TMA
+2017-10-04;IVSO;Retour Douane avec rapport en mail;3,5;TMA
 2017-10-05;24EME;Tactical meeting;3,5;Tactical meeting
 2017-10-05;ODGRhone;Habilitation;3,5;Forfait
 2017-10-06;Aurouze;Avant vente;2;Non facturable
 2017-10-06;ODGRhone;Habilitation;2,5;Forfait
-2017-10-09;Giilda;Retour Douane problème;1;TMA
+2017-10-09;IVBD;Retour Douane problème;1;TMA
 2017-10-09;VINSI;Débug Drm douane;2;TMA
 2017-10-09;VINSI;problèmes transmissions;3;TMA
-2017-10-10;Giilda;Problème transmission Bib;3;TMA
+2017-10-10;IVBD;Problème transmission Bib;3;TMA
 2017-10-10;ODGRhone;Import;2;Forfait
 2017-10-10;VINSI;problèmes transmissions;2;TMA
 2017-10-11;Aurouze;Contrats à déplacer et débug;2,5;TMA
@@ -21,7 +22,8 @@
 2017-10-13;Aurouze;Contrats à déplacer et débug;1;TMA
 2017-10-13;VINSI;Problème facture et base;2;TMA
 2017-10-16;ODGRhone;Import Entité simple;5;Forfait
-2017-10-17;Giilda;update du rapport en mail;3;TMA
+2017-10-17;IVSO;update du rapport en mail;1,5;TMA
+2017-10-17;IVBD;update du rapport en mail;1,5;TMA
 2017-10-17;ODGRhone;Ticket Rhone;3;Forfait
 2017-10-18;ODGRhone;Import Entité Interlocuteurs;7;Forfait
 2017-10-19;ODGRhone;Import Entité Interlocuteurs;7;Forfait
