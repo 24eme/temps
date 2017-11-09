@@ -1,42 +1,36 @@
-2017-09-01;ODGRhone; import entités tags;4,5;Forfait
-2017-09-01;VINSI;Edi intercampagne reprise volume;2,5;TMA
-2017-09-04;ODGRhone; Déployement et adaptation ELK;4,5;Forfait
-2017-09-04;ODGRhone; uniformisation des form contacts;2,5;Forfait
-2017-09-04;VINSI;transmission douane fine bulle;1;TMA
-2017-09-05;CIVA; réunion dominique;2;TMA
-2017-09-05;VINSI;mise en place hack volume à 0 et problèmes de transmission;5;TMA
-2017-09-06;ODGRhone; import entités déploiement preprod;3;Forfait
-2017-09-06;ODGRhone; tickets DREV;5;Forfait
-2017-09-07;ODGRhone; réunion;7;Forfait
-2017-09-08;ODGRhone; import entités recherche groupe;1,5;Forfait
-2017-09-08;VINSI;transfert etb actif en télédeclaration;2,5;TMA
-2017-09-08;VINSI;transmission douane;1;TMA
-2017-09-11;24EME;Tactical meeting;3;Tactical meeting
-2017-09-11;ODGRhone;isoler les groupe;2,5;Forfait
-2017-09-12;ODGRhone;groupes et import;4,5;Forfait
-2017-09-12;VINSI;fichiers Short pour le BI;2;TMA
-2017-09-13;EliteAuto;Appel téléphonique;1;Commercial
-2017-09-13;ODGRhone;tickets et import;4,5;Forfait
-2017-09-13;VINSI;Correction DRM;1;TMA
-2017-09-14;Aurouze;Contrat à déplacer et tache pour déplacer les contrats;3,5;TMA
-2017-09-14;Giilda;hack douane pour les produits ajouté;1,5;IVBD TMA
-2017-09-14;VINSI;modif des crd si usurpation mode;2;TMA
-2017-09-15;Giilda;Extraction des viti pour Eric;3,5;IVBD TMA
-2017-09-15;ODGRhone;tickets et import;1,5;Forfait
-2017-09-18;ODGRhone;Mis en place Habilitation;3,5;Forfait
-2017-09-19;24EME;Réunion Gwen;1,5;Actualys
-2017-09-19;ODGRhone;Mis en place Habilitation;5,5;Forfait
-2017-09-20;ODGRhone;Mis en place Habilitation;7;Forfait
-2017-09-21;ODGRhone;Mis en place Habilitation;5;Forfait
-2017-09-21;VINSI;Correction js Contrat Bio;2;TMA
-2017-09-22;ODGRhone;Groupes d'interlocuteurs;2;Forfait
-2017-09-22;ODGRhone;Mis en place Habilitation;2;Forfait
-2017-09-25;ODGRhone;Import des contacts groupes;3;Forfait
-2017-09-25;ODGRhone;Nav Habilitation et reprise;3;Forfait
-2017-09-26;Aurouze;Contrat à déplacer;1;TMA
-2017-09-26;ODGRhone;Import des établissement multiples;4;Forfait
-2017-09-27;ODGRhone;Tickets;8;Forfait
-2017-09-28;ODGRhone; réunion ;7;Forfait
-2017-09-29;Aurouze;Calendar hauteur;1;TMA
-2017-09-29;Aurouze;Réunion avancement;1,5;TMA
-2017-09-29;ODGRhone; historique Habilitation ;2;Forfait
+2017-10-02;VINSI;Correction Xml avec les changement de produits;3;TMA
+2017-10-02;VINSI;Retour Douane avec rapport en mail;4;TMA
+2017-10-03;VINSI;Retour Douane avec rapport en mail;7;TMA
+2017-10-04;Giilda;Retour Douane avec rapport en mail;7;TMA
+2017-10-05;24EME;Tactical meeting;3,5;Tactical meeting
+2017-10-05;ODGRhone;Habilitation;3,5;Forfait
+2017-10-06;Aurouze;Avant vente;2;Non facturable
+2017-10-06;ODGRhone;Habilitation;2,5;Forfait
+2017-10-09;Giilda;Retour Douane problème;1;TMA
+2017-10-09;VINSI;Débug Drm douane;2;TMA
+2017-10-09;VINSI;problèmes transmissions;3;TMA
+2017-10-10;Giilda;Problème transmission Bib;3;TMA
+2017-10-10;ODGRhone;Import;2;Forfait
+2017-10-10;VINSI;problèmes transmissions;2;TMA
+2017-10-11;Aurouze;Contrats à déplacer et débug;2,5;TMA
+2017-10-11;ODGRhone;Import compte;3,5;Forfait
+2017-10-12;Aurouze;Contrats à déplacer et débug;0,5;TMA
+2017-10-12;IVBD;problèmes transmissions;2;TMA
+2017-10-12;ODGRhone;Historique des Habilitation;4,5;Forfait
+2017-10-13;24EME;Repos;3,5;Repos
+2017-10-13;Aurouze;Contrats à déplacer et débug;1;TMA
+2017-10-13;VINSI;Problème facture et base;2;TMA
+2017-10-16;ODGRhone;Import Entité simple;5;Forfait
+2017-10-17;Giilda;update du rapport en mail;3;TMA
+2017-10-17;ODGRhone;Ticket Rhone;3;Forfait
+2017-10-18;ODGRhone;Import Entité Interlocuteurs;7;Forfait
+2017-10-19;ODGRhone;Import Entité Interlocuteurs;7;Forfait
+2017-10-20;ODGRhone;Import Entité Ajout Cvis;7;Forfait
+2017-10-23;ODGRhone;Réunion;7;Forfait
+2017-10-24;ODGRhone;Import Entité Ajout Cvis;7;Forfait
+2017-10-25;ODGRhone;Import ajout des liaisons etbs;6,5;Forfait
+2017-10-26;ODGRhone;Import Entité Repris repreneurs;7;Forfait
+2017-10-27;IVBD;problèmes transmissions;0,5;TMA
+2017-10-27;ODGRhone;Habilitation ajout produits;6,5;Forfait
+2017-10-30;ODGRhone;Import isolement des groupes;7;Forfait
+2017-10-31;ODGRhone;Interface Compte;7;Forfait
