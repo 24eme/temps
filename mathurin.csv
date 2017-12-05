@@ -1,38 +1,31 @@
-2017-10-02;VINSI;Correction Xml avec les changement de produits;3;TMA
-2017-10-02;VINSI;Retour Douane avec rapport en mail;4;TMA
-2017-10-03;VINSI;Retour Douane avec rapport en mail;7;TMA
-2017-10-04;IVBD;Retour Douane avec rapport en mail;3,5;TMA
-2017-10-04;IVSO;Retour Douane avec rapport en mail;3,5;TMA
-2017-10-05;24EME;Tactical meeting;3,5;Tactical meeting
-2017-10-05;ODGRhone;Habilitation;3,5;Forfait
-2017-10-06;Aurouze;Avant vente;2;Non facturable
-2017-10-06;ODGRhone;Habilitation;2,5;Forfait
-2017-10-09;IVBD;Retour Douane problème;1;TMA
-2017-10-09;VINSI;Débug Drm douane;2;TMA
-2017-10-09;VINSI;problèmes transmissions;3;TMA
-2017-10-10;IVBD;Problème transmission Bib;3;TMA
-2017-10-10;ODGRhone;Import;2;Forfait
-2017-10-10;VINSI;problèmes transmissions;2;TMA
-2017-10-11;Aurouze;Contrats à déplacer et débug;2,5;TMA
-2017-10-11;ODGRhone;Import compte;3,5;Forfait
-2017-10-12;Aurouze;Contrats à déplacer et débug;0,5;TMA
-2017-10-12;IVBD;problèmes transmissions;2;TMA
-2017-10-12;ODGRhone;Historique des Habilitation;4,5;Forfait
-2017-10-13;24EME;Repos;3,5;Repos
-2017-10-13;Aurouze;Contrats à déplacer et débug;1;TMA
-2017-10-13;VINSI;Problème facture et base;2;TMA
-2017-10-16;ODGRhone;Import Entité simple;5;Forfait
-2017-10-17;IVSO;update du rapport en mail;1,5;TMA
-2017-10-17;IVBD;update du rapport en mail;1,5;TMA
-2017-10-17;ODGRhone;Ticket Rhone;3;Forfait
-2017-10-18;ODGRhone;Import Entité Interlocuteurs;7;Forfait
-2017-10-19;ODGRhone;Import Entité Interlocuteurs;7;Forfait
-2017-10-20;ODGRhone;Import Entité Ajout Cvis;7;Forfait
-2017-10-23;ODGRhone;Réunion;7;Forfait
-2017-10-24;ODGRhone;Import Entité Ajout Cvis;7;Forfait
-2017-10-25;ODGRhone;Import ajout des liaisons etbs;6,5;Forfait
-2017-10-26;ODGRhone;Import Entité Repris repreneurs;7;Forfait
-2017-10-27;IVBD;problèmes transmissions;0,5;TMA
-2017-10-27;ODGRhone;Habilitation ajout produits;6,5;Forfait
-2017-10-30;ODGRhone;Import isolement des groupes;7;Forfait
-2017-10-31;ODGRhone;Interface Compte;7;Forfait
+2017-11-02;24EME;Conférence EL;7;Conférence EL
+2017-11-03;ODGRhone;Import CAVE COOP et NEGO VINIFICATEUR;7;Forfait
+2017-11-06;ODGRhone;Fine Tuning;7;Forfait
+2017-11-07;ODGRhone;Fine Tuning;7;Forfait
+2017-11-08;Aurouze;Contrats à déplacer;0,5;TMA
+2017-11-08;ODGRhone;test post import et bases;5,5;Forfait
+2017-11-08;VINSI;petites adaptation rapport mail DRM;1;TMA
+2017-11-09;24EME;Tactical Meeting;3,5;Temps
+2017-11-09;24EME;Temps;1;Temps
+2017-11-09;Giilda;petites adaptation rapport mail DRM;1,5;TMA
+2017-11-10;ODGRhone;adresse Extravitis et fontions dans les groupes;7;Forfait
+2017-11-13;ODGRhone;import des contacts avec adresses;7;Forfait
+2017-11-14;ODGRhone;module compte;7;Forfait
+2017-11-15;ODGRhone;mis en prod et contact;7;Forfait
+2017-11-16;ODGRhone;consolidation import contact;7;Forfait
+2017-11-17;ODGRhone;mise à jour adresse de contact;5;Forfait
+2017-11-17;VINSI;Réu conf call;2;TMA
+2017-11-20;ODGRhone;autocomplete permissif des fonctions;4,5;Forfait
+2017-11-21;Aurouze;Transfert de contrats;0,5;TMA
+2017-11-21;Giilda;Frédéric évolution catalogue produits;1;TMA
+2017-11-21;ODGRhone;widget compte elk;3,5;Forfait
+2017-11-22;ODGRhone;ajout ppm création et modif etbs;1;Forfait
+2017-11-22;VINSI;debug retour douane DRM;1;TMA
+2017-11-22;VINSI;mails retour xml foireux DRM;1,5;TMA
+2017-11-23;ODGRhone;ajout de tag en automplete permissif dans l'interface;2,5;Forfait
+2017-11-23;VINSI;double position de regime de crd;4;TMA
+2017-11-24;24EME;Congés de moi;7;Congés
+2017-11-27;VINSI;DRM negoce;7;TMA
+2017-11-28;VINSI;DRM negoce;7;TMA
+2017-11-29;VINSI;Debug changement de region Drev et alerte;3,5;TMA
+2017-11-30;VINSI;Debug alerte création de compte et gestion des relances;3,5;TMA
