@@ -81,3 +81,48 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2017-11-28;EliteAuto;Evolution partenaire;7;Forfait
 2017-11-29;EliteAuto;Evolution partenaire;7;Forfait
 2017-11-30;DeclarVins;Assistance Sandrine Duche d'uzes;1,5;TMA
+2017-12-01;DeclarVins;CIVP Pb DRM Ciel;1;TMA
+2017-12-01;DeclarVins;Notes de reunion;1,5;TMA
+2017-12-01;ODGRhone;Tache OI;1;Forfait
+2017-12-01;IVSO;Facturation, modification date + regeneration;2,5;TMA
+2017-12-01;Aurouze;passages en erreurs + facturation;2;TMA
+2017-12-04;24eme;Congé;
+2017-12-05;DeclarVins;IVSE bug pdf drm + connexion;1,5;TMA
+2017-12-05;DeclarVins;IR blocage drm contrat is manquant;1;TMA
+2017-12-05;Aurouze;Mvt facture;0,5;TMA
+2017-12-05;24eme;Tactical meeting + facturation;
+2017-12-06;DeclarVins;Ticket #20078;1;TMA
+2017-12-06;24eme;Compta notes CB;4
+2017-12-06;ODGProvence;Devis;2;Commercial
+2017-12-07;Aurouze;Suppression contrat;0,5;TMA
+2017-12-07;ODGProvence;Devis;1,5;Commercial
+2017-12-07;24eme;OSS;
+2017-12-08;DeclarVins;Tickets #20080 #20078;1;TMA
+2017-12-08;DeclarVins;EDI Stats DRM manquantes;4;TMA
+2017-12-08;DeclarVins;CIVP demandes stocks + validation DRM;1;TMA
+2017-12-08;24eme;Liste ministerielle;1,5;
+2017-12-11;DeclarVins;IR blocage drm contrat is manquant;1;TMA
+2017-12-11;Aurouze;Point + TMA;5;TMA
+2017-12-12;AVA;Bug pdf paquet manquant;0,5;TMA
+2017-12-12;24eme;Preparation formation MongoDB;6;
+2017-12-13;Pythagore;Formation MongoDB;7;Forfait
+2017-12-14;Pythagore;Formation MongoDB;7;Forfait
+2017-12-14;DeclarVins;IR bug contrats IS EDI IR;1,5;TMA
+2017-12-14;DeclarVins;CIVP bug DRA;1;TMA
+2017-12-15;Pythagore;Formation MongoDB;7;Forfait
+2017-12-18;DeclarVins;Tickets #20097 #20098;2,5;TMA
+2017-12-18;DeclarVins;EDI Antislash;1,5;TMA
+2017-12-18;DeclarVins;IR precisions EDI IS;0,5;TMA
+2017-12-18;DeclarVins;Erreurs EDI IS;1,5;TMA
+2017-12-19;24eme;RCpro + locaux;
+2017-12-19;DeclarVins;CIVP convention QUIOT;0,5;TMA
+2017-12-19;DeclarVins;EDI Antislash;1;TMA
+2017-12-20;24eme;RCpro;
+2017-12-20;ODGRhone;Gestion envois OI;1,5;Forfait
+2017-12-20;DeclarVins;Correctifs EDI IS;2;TMA
+2017-12-21;CIVA;pb caracteres pdf convention;2;TMA
+2017-12-21;24eme;RCpro;1;
+2017-12-21;ODGRhone;Saisie DR;3;Forfait
+2017-12-22;24eme;Visites locaux + point contrat Brice;
+2017-12-22;DeclarVins;Controles donnees IS;2;TMA
+2018-01-03;ODGRhone;Saisie DR;5;Forfait
