@@ -1,37 +1,32 @@
-2017-12-01;24EME;Congés de moi;7;Congés
-2017-12-05;24EME;Tactical Meeting;3,5;interne
-2017-12-05;Aurouze;Contrats à déplacer;0,5;TMA
-2017-12-05;VINSI;Debug loire retrait des droits;3;TMA
-2017-12-06;VINSI;mis en preprod drm négo;4,5;TMA
-2017-12-06;VINSI;Tma compte et mdp;1;TMA
-2017-12-07;24EME;OSS;3,5;interne
-2017-12-07;24EME;Saint denis;3,5;interne
-2017-12-08;IVSO;Réparation pdf;1,5;TMA
-2017-12-08;ODGRhone;pt de vigilance Drev;1,5;Forfait
-2017-12-08;VINSI;réparation revendication et facture sur 26 lignes;4,5;TMA
-2017-12-11;24EME;Réunion Estelle;0,5;interne
-2017-12-11;Aurouze;Extraction de donnée;1;TMA
-2017-12-11;Aurouze;Réunion Aurouze;2,5;TMA
-2017-12-12;24EME;Malade;3,5;interne
-2017-12-12;24EME;Visite Bucareste;1,5;interne
-2017-12-13;IVSO;Adaptation du retour douane avec réouverture de drm;2;TMA
-2017-12-13;IVSO;Champs de coopérative dans les sociétés;1;TMA
-2017-12-13;VINSI;Debug pour la campagne de relance;5;TMA
-2017-12-14;Aurouze;Changement de comportement dans la carto;2;TMA
-2017-12-14;VINSI;Debug pour la campagne de relance;3,5;TMA
-2017-12-15;VINSI;CER france compte;1;TMA
-2017-12-18;24EME;Recherche locaux;1,5;interne
-2017-12-18;VINSI;Debug pour la campagne de relance;1,5;TMA
-2017-12-19;VINSI;Signatures, pdf, alertes;6,5;TMA
-2017-12-20;ODGRhone;envoie oi permanent;0,5;Forfait
-2017-12-20;VINSI;Debug DRM vinsi;1,5;TMA
-2017-12-21;ODGRhone;gestion des groupes;5,5;Forfait
-2017-12-22;24EME;Recherche locaux;3,5;interne
-2017-12-25;24EME;Vacances;7;interne
-2017-12-26;24EME;Vacances;7;interne
-2017-12-28;24EME;Locaux;1;interne
-2017-12-28;Aurouze;début gestion doc en attachement;1,5;TMA
-2017-12-29;24EME;Locaux;1;interne
-2017-12-29;Aurouze;tourées sur 2 jrs;2,5;TMA
-2017-12-29;CIVA; dépanne compte;1;TMA
-2017-12-29;IVBD;gestion viti en galère;2;TMA
+2018-01-02;Aurouze;gestion doc en attachement;2,5;TMA
+2018-01-02;ODGRhone;gestion DREV;3,5;TMA
+2018-01-03;VINSI;Debug sur contrat, résolution de DRM;2,5;TMA
+2018-01-04;24EME;Mathurin SKI;7;Vacances
+2018-01-05;24EME;Mathurin SKI;7;Vacances
+2018-01-08;ODGRhone;Export Csv des comptes uniformisation;6;Forfait
+2018-01-09;24EME;Tactical Meeting;3,5;Tactical Meeting
+2018-01-10;Aurouze;Listing des contrats en erreurs;4,5;TMA
+2018-01-10;ODGProvence;Réunion de lancement projet;3;AvantVente
+2018-01-12;VINSI;Debug Compte suspendu actif;3,5;TMA
+2018-01-12;VINSI;Répartition des contrat;1,5;TMA
+2018-01-15;ODGRhone;Ticket habilitation avec non historisation des adresses;7;Forfait
+2018-01-16;Aurouze;Stats de l'année;2,5;TMA
+2018-01-16;ODGRhone;Saisie des Drev avec volume à 0;3,5;TMA
+2018-01-17;ODGRhone;Sortir les export par liste d'identifiant;7;Forfait
+2018-01-18;VINSI;Debug des contrats visualisations;3,5;TMA
+2018-01-19;Aurouze;Stats de l'année PCA et bilan;5,5;TMA
+2018-01-19;VINSI;Gestion des alertes;2;TMA
+2018-01-22;VINSI;Gestion des alertes avec AR;4,5;TMA
+2018-01-23;IVSO;Point tél;1;TMA
+2018-01-23;ODGRhone;Export DREV envoie oi;2;Forfait
+2018-01-23;VINSI;Wording dans DRM;1;TMA
+2018-01-24;ODGRhone;Exports et débug tickets;3;Forfait
+2018-01-24;ODGRhone;Saisie des Drev avec volume à 0;3,5;TMA
+2018-01-25;Aurouze;Affichage des facture plus simpa;2,5;TMA
+2018-01-26;VINSI;Gestion IGP dans SV12;5;TMA
+2018-01-29;Aurouze;Analyse relou pour catherine;1,5;TMA
+2018-01-29;VINSI;Gestion IGP dans SV12;5,5;TMA
+2018-01-30;IVSO;Tache de réécriture des Crd avec des point;2;TMA
+2018-01-30;VINSI;Import EDI Isagri Contrats;5;TMA
+2018-01-31;ODGProvence;Début import;3;Forfait
+2018-01-31;VINSI;Debug DRM, pt bloquant contrats;3;TMA
