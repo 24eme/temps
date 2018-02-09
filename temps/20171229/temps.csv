@@ -1,0 +1,124 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2017-12-01;DeclarVins;CIVP Pb DRM Ciel;1;TMA
+2017-12-01;DeclarVins;Notes de reunion;1,5;TMA
+2017-12-01;ODGRhone;Tache OI;1;Forfait
+2017-12-01;IVSO;Facturation, modification date + regeneration;2,5;TMA
+2017-12-01;Aurouze;passages en erreurs + facturation;2;TMA
+2017-12-04;24ème;Congé;
+2017-12-05;DeclarVins;IVSE bug pdf drm + connexion;1,5;TMA
+2017-12-05;DeclarVins;IR blocage drm contrat is manquant;1;TMA
+2017-12-05;Aurouze;Mvt facture;0,5;TMA
+2017-12-05;24ème;Tactical meeting + facturation;
+2017-12-06;DeclarVins;Ticket #20078;1;TMA
+2017-12-06;24ème;Compta notes CB;4
+2017-12-06;ODGProvence;Devis;2;Commercial
+2017-12-07;Aurouze;Suppression contrat;0,5;TMA
+2017-12-07;ODGProvence;Devis;1,5;Commercial
+2017-12-07;24ème;OSS;
+2017-12-08;DeclarVins;Tickets #20080 #20078;1;TMA
+2017-12-08;DeclarVins;EDI Stats DRM manquantes;4;TMA
+2017-12-08;DeclarVins;CIVP demandes stocks + validation DRM;1;TMA
+2017-12-08;24ème;Liste ministerielle;1,5;
+2017-12-11;DeclarVins;IR blocage drm contrat is manquant;1;TMA
+2017-12-11;Aurouze;Point + TMA;5;TMA
+2017-12-12;AVA;Bug pdf paquet manquant;0,5;TMA
+2017-12-12;24ème;Preparation formation MongoDB;6;
+2017-12-13;Pythagore;Formation MongoDB;7;Forfait
+2017-12-14;Pythagore;Formation MongoDB;7;Forfait
+2017-12-14;DeclarVins;IR bug contrats IS EDI IR;1,5;TMA
+2017-12-14;DeclarVins;CIVP bug DRA;1;TMA
+2017-12-15;Pythagore;Formation MongoDB;7;Forfait
+2017-12-18;DeclarVins;Tickets #20097 #20098;2,5;TMA
+2017-12-18;DeclarVins;EDI Antislash;1,5;TMA
+2017-12-18;DeclarVins;IR precisions EDI IS;0,5;TMA
+2017-12-18;DeclarVins;Erreurs EDI IS;1,5;TMA
+2017-12-19;24ème;RCpro + locaux;
+2017-12-19;DeclarVins;CIVP convention QUIOT;0,5;TMA
+2017-12-19;DeclarVins;EDI Antislash;1;TMA
+2017-12-20;24ème;RCpro;
+2017-12-20;ODGRhone;Gestion envois OI;1,5;Forfait
+2017-12-20;DeclarVins;Correctifs EDI IS;2;TMA
+2017-12-21;CIVA;pb caracteres pdf convention;2;TMA
+2017-12-21;24ème;RCpro;1;
+2017-12-21;ODGRhone;Saisie DR;3;Forfait
+2017-12-22;24ème;Visites locaux + point contrat Brice;
+2017-12-22;DeclarVins;Controles donnees IS;2;TMA
+2017-12-01;24ème;Congés de moi;7;Congés
+2017-12-05;24ème;Tactical Meeting;3,5;interne
+2017-12-05;Aurouze;Contrats à déplacer;0,5;TMA
+2017-12-05;VINSI;Debug loire retrait des droits;3;TMA
+2017-12-06;VINSI;mis en preprod drm négo;4,5;TMA
+2017-12-06;VINSI;Tma compte et mdp;1;TMA
+2017-12-07;24ème;OSS;3,5;interne
+2017-12-07;24ème;Saint denis;3,5;interne
+2017-12-08;IVSO;Réparation pdf;1,5;TMA
+2017-12-08;ODGRhone;pt de vigilance Drev;1,5;Forfait
+2017-12-08;VINSI;réparation revendication et facture sur 26 lignes;4,5;TMA
+2017-12-11;24ème;Réunion Estelle;0,5;interne
+2017-12-11;Aurouze;Extraction de donnée;1;TMA
+2017-12-11;Aurouze;Réunion Aurouze;2,5;TMA
+2017-12-12;24ème;Malade;3,5;interne
+2017-12-12;24ème;Visite Bucareste;1,5;interne
+2017-12-13;IVSO;Adaptation du retour douane avec réouverture de drm;2;TMA
+2017-12-13;IVSO;Champs de coopérative dans les sociétés;1;TMA
+2017-12-13;VINSI;Debug pour la campagne de relance;5;TMA
+2017-12-14;Aurouze;Changement de comportement dans la carto;2;TMA
+2017-12-14;VINSI;Debug pour la campagne de relance;3,5;TMA
+2017-12-15;VINSI;CER france compte;1;TMA
+2017-12-18;24ème;Recherche locaux;1,5;interne
+2017-12-18;VINSI;Debug pour la campagne de relance;1,5;TMA
+2017-12-19;VINSI;Signatures, pdf, alertes;6,5;TMA
+2017-12-20;ODGRhone;envoie oi permanent;0,5;Forfait
+2017-12-20;VINSI;Debug DRM vinsi;1,5;TMA
+2017-12-21;ODGRhone;gestion des groupes;5,5;Forfait
+2017-12-22;24ème;Recherche locaux;3,5;interne
+2017-12-25;24ème;Vacances;7;interne
+2017-12-26;24ème;Vacances;7;interne
+2017-12-28;24ème;Locaux;1;interne
+2017-12-28;Aurouze;début gestion doc en attachement;1,5;TMA
+2017-12-29;24ème;Locaux;1;interne
+2017-12-29;Aurouze;tourées sur 2 jrs;2,5;TMA
+2017-12-29;CIVA; dépanne compte;1;TMA
+2017-12-29;IVBD;gestion viti en galère;2;TMA
+2017-12-01;Aurouze;Remise en état du tinc;1;TMA
+2017-12-01;CIVA;Corrections bug de calcul sur le rendement VCI;1;TMA
+2017-12-01;CNIV;Autorisations IP;1;CNIV
+2017-12-01;OpenODG;Merge AVA-Rhone;3,5;OpenODG
+2017-12-04;CIVA;Ajustement de Tiers;1;TMA
+2017-12-04;ODGRhone;Corrections reprise depuis SV12;2;Forfait
+2017-12-04;OpenODG;Merge AVA-Rhone;3,5;OpenODG
+2017-12-04;VINSI;Problème DRM télédéclarant;1;TMA
+2017-12-05;24ème;Tactical meeting;3,5;24ème
+2017-12-05;24ème;Temps et facturation;2,5;24ème
+2017-12-05;AVA;Problème de récupération d'une DR;0,5;TMA
+2017-12-05;CIVA;Tiers acheteurs et délégations;1;TMA
+2017-12-06;ODGRhone;Corrections modif établissement envoi mail;2,5;Forfait
+2017-12-06;OpenODG;Merge AVA-Rhone;2;OpenODG
+2017-12-07;24ème;OSS;3,5;24ème
+2017-12-07;CIVA;Campagne contrats et reservation de numéros;1;TMA
+2017-12-08;CIVA;Tiers, export et envoi de mail de rappel;4;TMA
+2017-12-08;ODGRhone;Corrections DRev et reprise depuis SV12;2;Forfait
+2017-12-08;OpenODG;Merge AVA-Rhone;1;OpenODG
+2017-12-11;Aurouze;Réunion;2;Réunion
+2017-12-11;CIVA;Dernières opérations avant la fin de la DR;3,5;TMA
+2017-12-11;ODGRhone;Corrections reprise depuis SV12;2;Forfait
+2017-12-12;24ème;Visite locaux remis bucarest;2;24ème
+2017-12-12;CIVA;Fermeture de la DR, création Auto, et corrections XML;4,5;TMA
+2017-12-12;VINSI;Problème DRM télédéclarant;0,5;TMA
+2017-12-13;ODGRhone;Corrections reprise depuis SV12;4,5;Forfait
+2017-12-14;ODGProvence;Discussions et mise à jour du devis;3,5;Commercial
+2017-12-14;ODGRhone;Corrections upload;1;Forfait
+2017-12-15;24ème;Relecture contrat;2;24ème
+2017-12-15;Aurouze;Correction facture;1;TMA
+2017-12-15;CIVA;Tiers et stats;2;TMA
+2017-12-15;IVSO;Export csv des factures aggrégé et corrections invrsion condition mail télédéclaration drm;2,5;TMA
+2017-12-15;ODGProvence;Proposition commercial;2,5;Commercial
+2017-12-18;Aurouze;Export des contrats terminés et non facturés totalement;2;TMA
+2017-12-18;CIVA;Correction VCI sur le PDF de la DR;1;TMA
+2017-12-19;CIVA;Réunion;3,5;Réunion
+2017-12-20;AVA;Réunion;7;Réunion
+2017-12-21;24ème;Relecture contrat;1;24ème
+2017-12-21;ODGRhone;Export des compte pour id2i + problème xinet hover couchdb;3,5;Forfait
+2017-12-21;OpenODG;Merge AVA-Rhone;2;OpenODG
+2017-12-22;ODGRhone;Export des compte pour id2i;3,5;Forfait
+2017-12-26;CIVA;Export XML de la DR CIVA avec VCI;1;TMA
