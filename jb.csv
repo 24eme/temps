@@ -126,3 +126,61 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2017-12-22;24eme;Visites locaux + point contrat Brice;
 2017-12-22;DeclarVins;Controles donnees IS;2;TMA
 2018-01-03;ODGRhone;Saisie DR;5;Forfait
+2018-01-04;Aurouze;Demandes;1;TMA
+2018-01-04;DeclarVins;Demandes;0,5;TMA
+2018-01-04;ODGRhone;Demandes;3;Forfait
+2018-01-04;DeclarVins;EDI Declic;2,5;TMA
+2018-01-05;DeclarVins;Demandes;2;TMA
+2018-01-05;24eme;BIVC Contrats;
+2018-01-05;ODGRhone;Demandes;3;Forfait
+2018-01-08;DeclarVins;Demandes;4;TMA
+2018-01-08;DeclarVins;Languedoc;1;TMA
+2018-01-09;DeclarVins;Demandes;1;TMA
+2018-01-09;24eme;Tactical meeting, facturation;
+2018-01-10;DeclarVins;Demandes;1;TMA
+2018-01-10;ODGProvence;Reunion;4;Forfait
+2018-01-11;24eme;Reunion NM;3;
+2018-01-11;DeclarVins;EDI Vrac IVSE;3;TMA
+2018-01-11;DeclarVins;Saisie stock 1ere DRM;1,5;TMA
+2018-01-12;DeclarVins;Bilan DRM ameliore et filtre stock epuise;5;TMA
+2018-01-12;24eme;TMA Gwen;
+2018-01-15;ODGRhone;Saisie DR;6;Forfait
+2018-01-15;DeclarVins;Demandes;1;TMA
+2018-01-16;ODGRhone;Saisie DR;6;Forfait
+2018-01-16;DeclarVins;Conf visio;1;TMA
+2018-01-17;ODGRhone;Saisie DR;7;Forfait
+2018-01-17;DeclarVins;Demandes;0,5;TMA
+2018-01-17;Aurouze;Demandes;1;TMA
+2018-01-18;24eme;Demenagement + Contrats + Pots;
+2018-01-19;DeclarVins;Demandes;1;TMA
+2018-01-19;DeclarVins;EDI Declic;1;TMA
+2018-01-19;24eme;Gwen;
+2018-01-22;24eme;Congés;
+2018-01-23;24eme;Congés;
+2018-01-24;DeclarVins;EDI Declic;2,5;TMA
+2018-01-24;DeclarVins;Demandes;1;TMA
+2018-01-24;24eme;Site internet;
+2018-01-25;DeclarVins;Demandes;1,5;TMA
+2018-01-25;ODGRhone;Import DR depuis DREV + pb xls to csv;5;Forfait
+2018-01-26;CIVA;Intervention contrat d'achat;1,5;TMA
+2018-01-26;24eme;Site internet;
+2018-01-29;DeclarVins;Demandes;1;TMA
+2018-01-29;DeclarVins;Saisie IGP IVSE par IR;2,5;TMA
+2018-01-29;DeclarVins;Ouverture DRM Négo/Vini;1,5;TMA
+2018-01-29;DeclarVins;Activation/Desactivation CIEL;3;TMA
+2018-01-29;ODGRhone;Bug redirection import douane;0,5;Forfait
+2018-01-30;ODGRhone;Nouvelle tache import doc douanes + log import;7;Forfait
+2018-01-31;24eme;Malade;
+2018-02-01;VINSI;Mise a jour droits circulation;2;TMA
+2018-02-01;DeclarVins;Demandes;4,5;TMA
+2018-02-01;CIVA;Acces DR;1;TMA
+2018-02-02;DeclarVins;Languedoc;1;TMA
+2018-02-02;ODGRhone;Log import DR;2;Forfait
+2018-02-05;24eme;Congés;
+2018-02-06;24eme;Congés;
+2018-02-07;ODGProvence;Parcellaire Irrigable;7;Forfait
+2018-02-07;DeclarVins;Demandes;3;TMA
+2018-02-08;ODGProvence;Reunion Sprint + Parcellaire Irrigable;7;Forfait
+2018-02-08;ODGProvence;Reunion Sprint;7;Forfait
+2018-02-08;DeclarVins;Autocomplete DRM negociant/vini bug;1,5;TMA
+2018-02-08;DeclarVins;Devalidation DRM;2;TMA
