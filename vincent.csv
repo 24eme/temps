@@ -1,43 +1,30 @@
-2017-12-01;Aurouze;Remise en état du tinc;1;TMA
-2017-12-01;CIVA;Corrections bug de calcul sur le rendement VCI;1;TMA
-2017-12-01;CNIV;Autorisations IP;1;CNIV
-2017-12-01;OpenODG;Merge AVA-Rhone;3,5;OpenODG
-2017-12-04;CIVA;Ajustement de Tiers;1;TMA
-2017-12-04;ODGRhone;Corrections reprise depuis SV12;2;Forfait
-2017-12-04;OpenODG;Merge AVA-Rhone;3,5;OpenODG
-2017-12-04;VINSI;Problème DRM télédéclarant;1;TMA
-2017-12-05;24ème;Tactical meeting;3,5;24ème
-2017-12-05;24ème;Temps et facturation;2,5;24ème
-2017-12-05;AVA;Problème de récupération d'une DR;0,5;TMA
-2017-12-05;CIVA;Tiers acheteurs et délégations;1;TMA
-2017-12-06;ODGRhone;Corrections modif établissement envoi mail;2,5;Forfait
-2017-12-06;OpenODG;Merge AVA-Rhone;2;OpenODG
-2017-12-07;24ème;OSS;3,5;24ème
-2017-12-07;CIVA;Campagne contrats et reservation de numéros;1;TMA
-2017-12-08;CIVA;Tiers, export et envoi de mail de rappel;4;TMA
-2017-12-08;ODGRhone;Corrections DRev et reprise depuis SV12;2;Forfait
-2017-12-08;OpenODG;Merge AVA-Rhone;1;OpenODG
-2017-12-11;Aurouze;Réunion;2;Réunion
-2017-12-11;CIVA;Dernières opérations avant la fin de la DR;3,5;TMA
-2017-12-11;ODGRhone;Corrections reprise depuis SV12;2;Forfait
-2017-12-12;24ème;Visite locaux remis bucarest;2;24ème
-2017-12-12;CIVA;Fermeture de la DR, création Auto, et corrections XML;4,5;TMA
-2017-12-12;VINSI;Problème DRM télédéclarant;0,5;TMA
-2017-12-13;ODGRhone;Corrections reprise depuis SV12;4,5;Forfait
-2017-12-14;ODGProvence;Discussions et mise à jour du devis;3,5;Commercial
-2017-12-14;ODGRhone;Corrections upload;1;Forfait
-2017-12-15;24ème;Relecture contrat;2;24ème
-2017-12-15;Aurouze;Correction facture;1;TMA
-2017-12-15;CIVA;Tiers et stats;2;TMA
-2017-12-15;IVSO;Export csv des factures aggrégé et corrections invrsion condition mail télédéclaration drm;2,5;TMA
-2017-12-15;ODGProvence;Proposition commercial;2,5;Commercial
-2017-12-18;Aurouze;Export des contrats terminés et non facturés totalement;2;TMA
-2017-12-18;CIVA;Correction VCI sur le PDF de la DR;1;TMA
-2017-12-19;CIVA;Réunion;3,5;Réunion
-2017-12-20;AVA;Réunion;7;Réunion
-2017-12-21;24ème;Relecture contrat;1;24ème
-2017-12-21;ODGRhone;Export des compte pour id2i + problème xinet hover couchdb;3,5;Forfait
-2017-12-21;OpenODG;Merge AVA-Rhone;2;OpenODG
-2017-12-22;ODGRhone;Export des compte pour id2i;3,5;Forfait
-2017-12-26;CIVA;Export XML de la DR CIVA avec VCI;1;TMA
-2018-01-02;CIVA;Saisie interne des contrats papiers;21;TMA
+2018-01-02;CIVA;Saisie interne des contrats papiers;28;TMA
+2018-01-03;CIVA;DS Négoce, Contrat papier, Corrections de tiers, contrats et DR;7;TMA
+2018-01-04;24ème;Temps de décembre;2,5;24ème
+2018-01-05;CIVA;Corrections contrat;1;TMA
+2018-01-05;VINSI;Unicité SIRET, débuggage DRM  et amélioration du tableau de retour des douanes;3,5;TMA
+2018-01-08;24ème;Rédaction AG;1;24ème
+2018-01-08;AVA;Corrections export et bug drev;1;TMA
+2018-01-08;OpenODG;Merge avec l'AVA;4;OpenODG
+2018-01-09;24ème;Facturation décembre;3,5;24ème
+2018-01-09;24ème;Tactical meeting;3,5;24ème
+2018-01-10;ODGProvence;Réunion commercial;3,5;Commercial
+2018-01-11;Aurouze;Avoir;1;TMA
+2018-01-11;OpenODG;Merge avec l'AVA;3,5;OpenODG
+2018-01-12;CIVA;Export XML et tâche de détéction des VTSGN et modifs contrats vrac;2,5;TMA
+2018-01-12;OpenODG;Merge avec l'AVA;3,5;OpenODG
+2018-01-18;24ème;Emménagement;3,5;24ème
+2018-01-19;AVA;Ouverture parcellaire et bug autorisation de transfert  de la DR depuis le CIVA;2;AVA
+2018-01-19;CIVA;Autocomplete admin compte pour le contrats;3,5;CIVA
+2018-01-19;CIVA;Suppressions des mises à disposition mairies;1,5;CIVA
+2018-01-22;CIVA;Saisie interne des contrats papiers;7;CIVA
+2018-01-23;ODGProvence;Création appplication dans OpenODG;4,5;Lot 1
+2018-01-24;24ème;Atelire site internet;2,5;24ème
+2018-01-24;AVA;Réflexion VCI;1;VC
+2018-01-24;IVSO;Réplication prod sur la préprod pour comptes test;1;TMA
+2018-01-24;ODGProvence;Début de l'adaptation du parcellaire;2;Lot 1
+2018-01-25;24ème;Fabrication du site internet;3,5;24ème
+2018-01-25;CIVA;Correction autocomplete;1,5;TMA
+2018-01-25;VINSI;Bug facturation inversion de contrats;1,5;TMA
+2018-01-29;24ème;Temps et corrections du site internet;2;24ème
+2018-01-29;ODGProvence;Adaptation parcellaire;5;Lot 1
