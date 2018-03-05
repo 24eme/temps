@@ -1,30 +1,19 @@
-2018-01-02;CIVA;Saisie interne des contrats papiers;28;TMA
-2018-01-03;CIVA;DS Négoce, Contrat papier, Corrections de tiers, contrats et DR;7;TMA
-2018-01-04;24ème;Temps de décembre;2,5;24ème
-2018-01-05;CIVA;Corrections contrat;1;TMA
-2018-01-05;VINSI;Unicité SIRET, débuggage DRM  et amélioration du tableau de retour des douanes;3,5;TMA
-2018-01-08;24ème;Rédaction AG;1;24ème
-2018-01-08;AVA;Corrections export et bug drev;1;TMA
-2018-01-08;OpenODG;Merge avec l'AVA;4;OpenODG
-2018-01-09;24ème;Facturation décembre;3,5;24ème
-2018-01-09;24ème;Tactical meeting;3,5;24ème
-2018-01-10;ODGProvence;Réunion commercial;3,5;Commercial
-2018-01-11;Aurouze;Avoir;1;TMA
-2018-01-11;OpenODG;Merge avec l'AVA;3,5;OpenODG
-2018-01-12;CIVA;Export XML et tâche de détéction des VTSGN et modifs contrats vrac;2,5;TMA
-2018-01-12;OpenODG;Merge avec l'AVA;3,5;OpenODG
-2018-01-18;24ème;Emménagement;3,5;24ème
-2018-01-19;AVA;Ouverture parcellaire et bug autorisation de transfert  de la DR depuis le CIVA;2;AVA
-2018-01-19;CIVA;Autocomplete admin compte pour le contrats;3,5;CIVA
-2018-01-19;CIVA;Suppressions des mises à disposition mairies;1,5;CIVA
-2018-01-22;CIVA;Saisie interne des contrats papiers;7;CIVA
-2018-01-23;ODGProvence;Création appplication dans OpenODG;4,5;Lot 1
-2018-01-24;24ème;Atelire site internet;2,5;24ème
-2018-01-24;AVA;Réflexion VCI;1;VC
-2018-01-24;IVSO;Réplication prod sur la préprod pour comptes test;1;TMA
-2018-01-24;ODGProvence;Début de l'adaptation du parcellaire;2;Lot 1
-2018-01-25;24ème;Fabrication du site internet;3,5;24ème
-2018-01-25;CIVA;Correction autocomplete;1,5;TMA
-2018-01-25;VINSI;Bug facturation inversion de contrats;1,5;TMA
-2018-01-29;24ème;Temps et corrections du site internet;2;24ème
-2018-01-29;ODGProvence;Adaptation parcellaire;5;Lot 1
+2018-02-19;AVA;Correction bug bouton retour;0,5;TMA
+2018-02-20;AVA;Modification d'une DREV;0,5;TMA
+2018-02-20;CIVA;Transfert de tiers;0,5;TMA
+2018-02-20;ODGProvence;Réorganisation des fichiers du style css;3,5;Forfait
+2018-02-21;AVA;Corrections dégustation;1;TMA
+2018-02-21;ODGProvence;Design général de l'application;3,5;Forfait
+2018-02-22;Auouze;Correction avoir et contrat;1;TMA
+2018-02-22;ODGProvence;Design général de l'application;3,5;Forfait
+2018-02-22;VINSI;Transmission DRM viti;0,5;TMA
+2018-02-23;CIVA;Signature d'un contrat interne;0,5;TMA
+2018-02-23;ODGProvence;Dév;6;Forfait
+2018-02-26;ODGProvence;Dév;6;Forfait
+2018-02-26;VINSI;Annulation de DRM d'un viti;0,5;TMA
+2018-02-27;AVA;Ajout d'un opérateur dans la dégustation;0,5;TMA
+2018-02-27;ODGPRovence;Dév;4,5;Forfait
+2018-02-28;AVA;Réunion téléphonique facturation;0,5;TMA
+2018-02-28;ODGPRovence;Dév;4,5;Forfait
+2018-02-28;Sancerre;Corrections de bug de génération et notamment dans la facturation;2,5;TMA
+
