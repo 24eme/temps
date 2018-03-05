@@ -24,9 +24,9 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2018-02-14;ODGRhone;correction export des DREV DR;5,5;Forfait
 2018-02-14;VINSI;Correction retour Douane;1,5;TMA
 2018-02-15;Aurouze;Repas et point avec les techniciens;2,5;Réunion
-2018-02-15;Aurouze;upload de fichiers ;2;Forfait
+2018-02-15;Aurouze;upload de fichiers ;2;Gestion documentaire
 2018-02-15;ODGRhone;retour sur les Exports;2,5;Forfait
-2018-02-16;Aurouze;upload de fichiers et visu ;4;Forfait
+2018-02-16;Aurouze;upload de fichiers et visu ;4;Gestion documentaire
 2018-02-16;IVBD;gestion debug;1;TMA
 2018-02-16;ODGRhone;Réunion téléphonique;2;Forfait
 2018-02-19;Aurouze;Déplacement de contrat;0,5;TMA
@@ -95,7 +95,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2018-02-20;ODGProvence;Réorganisation des fichiers du style css;3,5;Forfait
 2018-02-21;AVA;Corrections dégustation;1;TMA
 2018-02-21;ODGProvence;Design général de l'application;3,5;Forfait
-2018-02-22;Auouze;Correction avoir et contrat;1;TMA
+2018-02-22;Aurouze;Correction avoir et contrat;1;TMA
 2018-02-22;ODGProvence;Design général de l'application;3,5;Forfait
 2018-02-22;VINSI;Transmission DRM viti;0,5;TMA
 2018-02-23;CIVA;Signature d'un contrat interne;0,5;TMA
