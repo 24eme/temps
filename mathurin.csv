@@ -1,32 +1,46 @@
-2018-01-02;Aurouze;gestion doc en attachement;2,5;TMA
-2018-01-02;ODGRhone;gestion DREV;3,5;TMA
-2018-01-03;VINSI;Debug sur contrat, résolution de DRM;2,5;TMA
-2018-01-04;24EME;Mathurin SKI;7;Vacances
-2018-01-05;24EME;Mathurin SKI;7;Vacances
-2018-01-08;ODGRhone;Export Csv des comptes uniformisation;6;Forfait
-2018-01-09;24EME;Tactical Meeting;3,5;Tactical Meeting
-2018-01-10;Aurouze;Listing des contrats en erreurs;4,5;TMA
-2018-01-10;ODGProvence;Réunion de lancement projet;3;AvantVente
-2018-01-12;VINSI;Debug Compte suspendu actif;3,5;TMA
-2018-01-12;VINSI;Répartition des contrat;1,5;TMA
-2018-01-15;ODGRhone;Ticket habilitation avec non historisation des adresses;7;Forfait
-2018-01-16;Aurouze;Stats de l'année;2,5;TMA
-2018-01-16;ODGRhone;Saisie des Drev avec volume à 0;3,5;Forfait
-2018-01-17;ODGRhone;Sortir les export par liste d'identifiant;7;Forfait
-2018-01-18;VINSI;Debug des contrats visualisations;3,5;TMA
-2018-01-19;Aurouze;Stats de l'année PCA et bilan;5,5;TMA
-2018-01-19;VINSI;Gestion des alertes;2;TMA
-2018-01-22;VINSI;Gestion des alertes avec AR;4,5;TMA
-2018-01-23;IVSO;Point tél;1;TMA
-2018-01-23;ODGRhone;Export DREV envoie oi;2;Forfait
-2018-01-23;VINSI;Wording dans DRM;1;TMA
-2018-01-24;ODGRhone;Exports et débug tickets;3;Forfait
-2018-01-24;ODGRhone;Saisie des Drev avec volume à 0;3,5;Forfait
-2018-01-25;Aurouze;Affichage des facture plus simpa;2,5;TMA
-2018-01-26;VINSI;Gestion IGP dans SV12;5;TMA
-2018-01-29;Aurouze;Analyse relou pour catherine;1,5;TMA
-2018-01-29;VINSI;Gestion IGP dans SV12;5,5;TMA
-2018-01-30;IVSO;Tache de réécriture des Crd avec des point;2;TMA
-2018-01-30;VINSI;Import EDI Isagri Contrats;5;TMA
-2018-01-31;ODGProvence;Début import;3;Forfait
-2018-01-31;VINSI;Debug DRM, pt bloquant contrats;3;TMA
+2018-02-01;CIVA; Téléphone dominique Marco et produits alcool;2;TMA
+2018-02-01;CIVA; Téléphone isagri validation DRM;1;TMA
+2018-02-01;ODGProvence;Tache import des Entités;6;Forfait
+2018-02-02;IVBD;gestion debug;1;TMA
+2018-02-02;ODGProvence;Début import;3;Forfait
+2018-02-02;ODGRhone;Adaptation export groupe;1;Forfait
+2018-02-02;VINSI;Aide problèmes DRM;2;TMA
+2018-02-05;ODGProvence;Adaptations du parcellaire et import;7;Forfait
+2018-02-06;IVBD;gestion debug;1;TMA
+2018-02-06;ODGProvence;Adaptations du parcellaire, import et parcellaire irrigable;6;Forfait
+2018-02-06;VINSI;Aide problèmes DRM;1;TMA
+2018-02-07;ODGProvence;Parcellaire irrigable;3,5;Forfait
+2018-02-08;ODGProvence;Réunion;7;Forfait
+2018-02-09;ODGProvence;Réunion;7;Forfait
+2018-02-12;Aurouze;Déplacement de contrat;0,5;TMA
+2018-02-12;IVSO;Création compte de démo;1;TMA
+2018-02-12;ODGProvence;import du parcellaire;3;Forfait
+2018-02-12;ODGRhone;mis a jour de l'export des DREV et des habilitation;2,5;Forfait
+2018-02-12;VINSI;Traitement fichier EDI;1;TMA
+2018-02-13;24EME;Tactical Meeting;3,5;Tactical Meeting
+2018-02-13;CIVA; Correction application DRM;1;TMA
+2018-02-13;ODGProvence;import de donnée et tickets;3;Forfait
+2018-02-14;ODGRhone;correction export des DREV DR;5,5;Forfait
+2018-02-14;VINSI;Correction retour Douane;1,5;TMA
+2018-02-15;Aurouze;Repas et point avec les techniciens;2,5;Réunion
+2018-02-15;Aurouze;upload de fichiers ;2;Forfait
+2018-02-15;ODGRhone;retour sur les Exports;2,5;Forfait
+2018-02-16;Aurouze;upload de fichiers et visu ;4;Forfait
+2018-02-16;IVBD;gestion debug;1;TMA
+2018-02-16;ODGRhone;Réunion téléphonique;2;Forfait
+2018-02-19;Aurouze;Déplacement de contrat;0,5;TMA
+2018-02-19;ODGProvence;migration des comptes;3,5;Forfait
+2018-02-19;Sancerre;Transformation arbre produit pour DRM;1;TMA
+2018-02-19;VINSI;Annulation de contrat;1;TMA
+2018-02-20;ODGProvence;migration des comptes et import;7;Forfait
+2018-02-21;ODGProvence;migration des comptes et import;7;Forfait
+2018-02-22;ODGProvence;migration des comptes et import;7;Forfait
+2018-02-23;ODGProvence;migration des comptes et import;7;Forfait
+2018-02-26;Aurouze;Déplacement de contrat;0,5;TMA
+2018-02-26;ODGProvence;réunion téléphonique;1;Forfait
+2018-02-26;ODGProvence;tickets;3,5;Forfait
+2018-02-26;ODGRhone;tri alphabetique des comptes;2;Forfait
+2018-02-26;VINSI;Extraction comptable;1;TMA
+2018-02-27;ODGProvence;tickets;5;Forfait
+2018-02-27;VINSI;Vente négoce à négoce sur les DRM;3;TMA
+2018-02-28;ODGProvence;tickets;7;Forfait
