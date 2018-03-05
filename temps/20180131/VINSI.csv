@@ -1,0 +1,14 @@
+Date;Projet;Description;Temps (en heure);Tache
+2018-01-03;VINSI;Debug sur contrat, résolution de DRM;2,5;TMA
+2018-01-05;VINSI;Unicité SIRET, débuggage DRM  et amélioration du tableau de retour des douanes;3,5;TMA
+2018-01-12;VINSI;Debug Compte suspendu actif;3,5;TMA
+2018-01-12;VINSI;Répartition des contrat;1,5;TMA
+2018-01-18;VINSI;Debug des contrats visualisations;3,5;TMA
+2018-01-19;VINSI;Gestion des alertes;2;TMA
+2018-01-22;VINSI;Gestion des alertes avec AR;4,5;TMA
+2018-01-23;VINSI;Wording dans DRM;1;TMA
+2018-01-25;VINSI;Bug facturation inversion de contrats;1,5;TMA
+2018-01-26;VINSI;Gestion IGP dans SV12;5;TMA
+2018-01-29;VINSI;Gestion IGP dans SV12;5,5;TMA
+2018-01-30;VINSI;Import EDI Isagri Contrats;5;TMA
+2018-01-31;VINSI;Debug DRM, pt bloquant contrats;3;TMA

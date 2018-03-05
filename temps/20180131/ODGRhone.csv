@@ -1,0 +1,18 @@
+Date;Projet;Description;Temps (en heure);Tache
+2018-01-02;ODGRhone;gestion DREV;3,5;TMA
+2018-01-03;ODGRhone;Saisie DR;5;Forfait
+2018-01-04;ODGRhone;Demandes;3;Forfait
+2018-01-05;ODGRhone;Demandes;3;Forfait
+2018-01-08;ODGRhone;Export Csv des comptes uniformisation;6;Forfait
+2018-01-15;ODGRhone;Saisie DR;6;Forfait
+2018-01-15;ODGRhone;Ticket habilitation avec non historisation des adresses;7;Forfait
+2018-01-16;ODGRhone;Saisie des Drev avec volume à 0;3,5;Forfait
+2018-01-16;ODGRhone;Saisie DR;6;Forfait
+2018-01-17;ODGRhone;Saisie DR;7;Forfait
+2018-01-17;ODGRhone;Sortir les export par liste d'identifiant;7;Forfait
+2018-01-23;ODGRhone;Export DREV envoie oi;2;Forfait
+2018-01-24;ODGRhone;Exports et débug tickets;3;Forfait
+2018-01-24;ODGRhone;Saisie des Drev avec volume à 0;3,5;Forfait
+2018-01-25;ODGRhone;Import DR depuis DREV + pb xls to csv;5;Forfait
+2018-01-29;ODGRhone;Bug redirection import douane;0,5;Forfait
+2018-01-30;ODGRhone;Nouvelle tache import doc douanes + log import;7;Forfait
