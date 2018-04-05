@@ -1,0 +1,23 @@
+Date;Projet;Description;Temps (en heure);Tache
+2018-01-04;DeclarVins;Demandes;0,5;TMA
+2018-01-04;DeclarVins;EDI Declic;2,5;TMA
+2018-01-05;DeclarVins;Demandes;2;TMA
+2018-01-08;DeclarVins;Demandes;4;TMA
+2018-01-08;DeclarVins;Languedoc;1;TMA
+2018-01-09;DeclarVins;Demandes;1;TMA
+2018-01-10;DeclarVins;Demandes;1;TMA
+2018-01-11;DeclarVins;EDI Vrac IVSE;3;TMA
+2018-01-11;DeclarVins;Saisie stock 1ere DRM;1,5;TMA
+2018-01-12;DeclarVins;Bilan DRM ameliore et filtre stock epuise;5;TMA
+2018-01-15;DeclarVins;Demandes;1;TMA
+2018-01-16;DeclarVins;Conf visio;1;TMA
+2018-01-17;DeclarVins;Demandes;0,5;TMA
+2018-01-19;DeclarVins;Demandes;1;TMA
+2018-01-19;DeclarVins;EDI Declic;1;TMA
+2018-01-24;DeclarVins;Demandes;1;TMA
+2018-01-24;DeclarVins;EDI Declic;2,5;TMA
+2018-01-25;DeclarVins;Demandes;1,5;TMA
+2018-01-29;DeclarVins;Activation/Desactivation CIEL;3;TMA
+2018-01-29;DeclarVins;Demandes;1;TMA
+2018-01-29;DeclarVins;Ouverture DRM Négo/Vini;1,5;TMA
+2018-01-29;DeclarVins;Saisie IGP IVSE par IR;2,5;TMA
