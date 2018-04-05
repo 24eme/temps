@@ -1,46 +1,43 @@
-2018-02-01;CIVA; Téléphone dominique Marco et produits alcool;2;TMA
-2018-02-01;CIVA; Téléphone isagri validation DRM;1;TMA
-2018-02-01;ODGProvence;Tache import des Entités;6;Forfait
-2018-02-02;IVBD;gestion debug;1;TMA
-2018-02-02;ODGProvence;Début import;3;Forfait
-2018-02-02;ODGRhone;Adaptation export groupe;1;Forfait
-2018-02-02;VINSI;Aide problèmes DRM;2;TMA
-2018-02-05;ODGProvence;Adaptations du parcellaire et import;7;Forfait
-2018-02-06;IVBD;gestion debug;1;TMA
-2018-02-06;ODGProvence;Adaptations du parcellaire, import et parcellaire irrigable;6;Forfait
-2018-02-06;VINSI;Aide problèmes DRM;1;TMA
-2018-02-07;ODGProvence;Parcellaire irrigable;3,5;Forfait
-2018-02-08;ODGProvence;Réunion;7;Forfait
-2018-02-09;ODGProvence;Réunion;7;Forfait
-2018-02-12;Aurouze;Déplacement de contrat;0,5;TMA
-2018-02-12;IVSO;Création compte de démo;1;TMA
-2018-02-12;ODGProvence;import du parcellaire;3;Forfait
-2018-02-12;ODGRhone;mis a jour de l'export des DREV et des habilitation;2,5;Forfait
-2018-02-12;VINSI;Traitement fichier EDI;1;TMA
-2018-02-13;24EME;Tactical Meeting;3,5;Tactical Meeting
-2018-02-13;CIVA; Correction application DRM;1;TMA
-2018-02-13;ODGProvence;import de donnée et tickets;3;Forfait
-2018-02-14;ODGRhone;correction export des DREV DR;5,5;Forfait
-2018-02-14;VINSI;Correction retour Douane;1,5;TMA
-2018-02-15;Aurouze;Repas et point avec les techniciens;2,5;Réunion
-2018-02-15;Aurouze;upload de fichiers ;2;Forfait
-2018-02-15;ODGRhone;retour sur les Exports;2,5;Forfait
-2018-02-16;Aurouze;upload de fichiers et visu ;4;Forfait
-2018-02-16;IVBD;gestion debug;1;TMA
-2018-02-16;ODGRhone;Réunion téléphonique;2;Forfait
-2018-02-19;Aurouze;Déplacement de contrat;0,5;TMA
-2018-02-19;ODGProvence;migration des comptes;3,5;Forfait
-2018-02-19;Sancerre;Transformation arbre produit pour DRM;1;TMA
-2018-02-19;VINSI;Annulation de contrat;1;TMA
-2018-02-20;ODGProvence;migration des comptes et import;7;Forfait
-2018-02-21;ODGProvence;migration des comptes et import;7;Forfait
-2018-02-22;ODGProvence;migration des comptes et import;7;Forfait
-2018-02-23;ODGProvence;migration des comptes et import;7;Forfait
-2018-02-26;Aurouze;Déplacement de contrat;0,5;TMA
-2018-02-26;ODGProvence;réunion téléphonique;1;Forfait
-2018-02-26;ODGProvence;tickets;3,5;Forfait
-2018-02-26;ODGRhone;tri alphabetique des comptes;3;TMA
-2018-02-26;VINSI;Extraction comptable;1;TMA
-2018-02-27;ODGProvence;tickets;5;Forfait
-2018-02-27;VINSI;Vente négoce à négoce sur les DRM;3;TMA
-2018-02-28;ODGProvence;tickets;7;Forfait
+2018-03-01;ODGProvence;Réunion;7;Forfait
+2018-03-02;ODGProvence;ticketing;2,5;Forfait
+2018-03-02;ODGRhone;désarchivage d'un compte pas top;1;Forfait
+2018-03-02;ODGRhone;transfère des groupes comptes;4;TMA
+2018-03-05;24EME;Tactical Meeting;3,5;Tactical Meeting
+2018-03-05;ODGRhone;gestion des points dans les groupes;2;TMA
+2018-03-06;IVBD;Edi de la cave alliance;1;TMA
+2018-03-06;ODGProvence;ré organisation de l'information dans les vue du parcellaire;5;Forfait
+2018-03-06;ODGRhone;suppression dans les groupes;1;TMA
+2018-03-07;Aurouze;Déplacement de contrat;0,5;TMA
+2018-03-07;ODGProvence;parcellaire irrigable;4;Forfait
+2018-03-07;ODGRhone;problème export;2;TMA
+2018-03-07;VINSI;erreur contrat;0,5;TMA
+2018-03-08;Aurouze;Gestion des bugs relevés;2,5;TMA
+2018-03-08;IVBD;Edi de la cave alliance;0,5;TMA
+2018-03-08;IVSO;Edi de la cave alliance;0,5;TMA
+2018-03-08;ODGProvence; parcellaire;3;Forfait
+2018-03-08;ODGRhone;problème export;1;TMA
+2018-03-09;Aurouze; preprod upload;1;TMA
+2018-03-09;ODGProvence; parcellaire;6;Forfait
+2018-03-12;ODGProvence;import;7;Forfait
+2018-03-13;ODGProvence;Fine tuning;7;Forfait
+2018-03-14;ODGProvence;Fine tuning;7;Forfait
+2018-03-15;ODGProvence;import;7;Forfait
+2018-03-16;ODGProvence;mis en prod;7;Forfait
+2018-03-19;Aurouze; upload téléphone;2;TMA
+2018-03-19;ODGProvence;ré-import Alicia;5,5;Forfait
+2018-03-20;Aurouze; upload téléphone;1,5;TMA
+2018-03-20;VINSI;Réunion;7;Réunion
+2018-03-21;ODGProvence;ré-import Alicia;7;Forfait
+2018-03-22;ODGProvence;ré-import;6;Forfait
+2018-03-22;ODGRhone;problème inao;1;TMA
+2018-03-23;ODGProvence;import;5;Forfait
+2018-03-23;ODGRhone;ré-import compte;2;TMA
+2018-03-26;ODGProvence;Présentation des contacts;3,5;Forfait
+2018-03-26;VINSI;crds;3,5;TMA
+2018-03-27;CIVA; Réunion;2;Réunion
+2018-03-27;ODGProvence;debug;1,5;Forfait
+2018-03-27;ODGRhone;ré-import compte;2;TMA
+2018-03-27;VINSI;debug tickets;1,5;TMA
+2018-03-28;24EME;Congés;7;Congés
+2018-03-29;24EME;Congés;7;Congés
+2018-03-30;24EME;Congés;7;Congés
