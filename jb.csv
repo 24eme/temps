@@ -1,51 +1,52 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2018-02-01;VINSI;Mise a jour droits circulation;2;TMA
-2018-02-01;DeclarVins;Demandes;4,5;TMA
-2018-02-01;CIVA;Acces DR;1;TMA
-2018-02-02;DeclarVins;Languedoc;1;TMA
-2018-02-02;ODGRhone;Log import DR;2;Forfait
-2018-02-05;24eme;Congés;
-2018-02-06;24eme;Congés;
-2018-02-07;ODGProvence;Parcellaire Irrigable;7;Forfait
-2018-02-07;DeclarVins;Demandes;3;TMA
-2018-02-08;ODGProvence;Reunion Sprint + Parcellaire Irrigable;7;Forfait
-2018-02-09;ODGProvence;Reunion Sprint;7;Forfait
-2018-02-09;DeclarVins;Autocomplete DRM negociant/vini bug;1,5;TMA
-2018-02-09;DeclarVins;Devalidation DRM;2;TMA
-2018-02-12;DeclarVins;Demandes TMA;2;TMA
-2018-02-12;24eme;Liam Debre;
-2018-02-13;EliteAuto;GP Bwat;Forfait
-2018-02-13;CIVA;Convention Ciel;3;TMA
-2018-02-13;24eme;Compta Estelle;
-2018-02-13;ODGRhone;Export DR;2;Forfait
-2018-02-14;ODGRhone;Export DR;5;Forfait
-2018-02-14;EliteAuto;GP Bwat;Forfait
-2018-02-14;DeclarVins;Demandes TMA;1;TMA
-2018-02-15;Aurouze;Reunion + TMA;5;TMA
-2018-02-15;IVSO;Transfert DRM;2;TMA
-2018-02-16;ODGRhone;Point telephonique;1;Forfait
-2018-02-16;ODGRhone;Export DR;2,5;Forfait
-2018-02-16;IVSO;Suppression DRM;0,5;TMA
-2018-02-16;DeclarVins;Filtre Nego/Vini;2,5;TMA
-2018-02-16;DeclarVins;Demandes TMA;0,5;TMA
-2018-02-16;EliteAuto;GP Bwat;Forfait
-2018-02-19;24eme;Rdv medical;
-2018-02-19;Sancerre;Indexation;3;TMA
-2018-02-20;Sancerre;Statistiques;4;TMA
-2018-02-20;DeclarVins;Demandes TMA;2;TMA
-2018-02-20;CIVA;Demande tiers / convention;1;TMA
-2018-02-20;EliteAuto;GP Bwat;Forfait
-2018-02-21;DeclarVins;EDI Declic;5,5;TMA
-2018-02-21;DeclarVins;Demandes TMA;1,5;TMA
-2018-02-22;;DeclarVins;Demandes TMA;3;TMA
-2018-02-22;EliteAuto;GP Bwat;Forfait
-2018-02-22;ODGProvence;Tickets;3;Forfait
-2018-02-23;ODGProvence;Tickets;7;Forfait
-2018-02-26;ODGProvence;Tickets;7;Forfait
-2018-02-27;ODGProvence;Tickets;5;Forfait
-2018-03-01;Sancerre;Statistiques CVO;4;TMA
-2018-02-28;DeclarVins;EDI Declic;2,5;TMA
-2018-02-28;ODGProvence;Tickets;4;Forfait
 2018-03-01;Sancerre;Statistiques CVO;4;TMA
 2018-03-01;EliteAuto;GP Bwat;Forfait
 2018-03-02;Sancerre;Pb indexation;3,5;TMA
+2018-03-02;24eme;Preparation Mongo;3;
+2018-03-05;24eme;Compta / Facturation;3;
+2018-03-05;24eme;Preparation Mongo;3;
+2018-03-06;DeclarVins;Assistance DRM CIEL;2;TMA
+2018-03-06;DeclarVins;Identification produit EDI IS;1,5;TMA
+2018-03-06;Sancerre;Stats filtre produit + produits manquants;2;TMA
+2018-03-07;Pythagore;Formation MongoDB;7;Forfait
+2018-03-08;Pythagore;Formation MongoDB;7;Forfait
+2018-03-09;Pythagore;Formation MongoDB;7;Forfait
+2018-03-12;Sancerre;Pb Stats;1;TMA
+2018-03-12;EliteAuto;Bwat retours;1;Forfait
+2018-03-12;DeclarVins;Assistance droits douane;2,5;TMA
+2018-03-12;DeclarVins;Modification fiche contact;0,5;TMA
+2018-03-12;DeclarVins;Contrat d'achat modification libelles;1;TMA
+2018-03-12;DeclarVins;DRM stock dispo;1;TMA
+2018-03-13;ODGProvence;Fine Tuning;7;Forfait
+2018-03-14;ODGProvence;Fine Tuning;7;Forfait
+2018-03-15;EliteAuto;Bwat retours;1;Forfait
+2018-03-15;24eme;Preparation Mongo;6;
+2018-03-16;24eme;Preparation Mongo;7;
+2018-03-19;Pythagore;Formation Mongo;7;Forfait
+2018-03-20;Pythagore;Formation Mongo;7;Forfait
+2018-03-21;Pythagore;Formation Mongo;7;Forfait
+2018-03-22;24eme;Jour off;7;
+2018-03-23;DeclarVins;Assistances;4;TMA
+2018-03-23;DeclarVins;Arrondi EDI;1,5;TMA
+2018-03-26;NathanMode;Git du projet;3;Forfait
+2018-03-26;24eme;Declaration Beneficiaires;2;
+2018-03-26;DeclarVins;Assistance;0,5;TMA
+2018-03-26;EliteAuto;Bwat retours;1;Forfait
+2018-03-27;NathanMode;evolutions;4;Forfait
+2018-03-28;NathanMode;evolutions;5,5;Forfait
+2018-03-28;24eme;Contact Pascal Guadeloupe;1,5;
+2018-03-29;NathanMode;evolutions;7;Forfait
+2018-03-30;IVBD;Reunion Nathalie;2;TMA
+2018-03-30;NathanMode;evolutions;4;Forfait
+2018-04-03;EliteAuto;Bwat retours;1;Forfait
+2018-04-03;Sancerre;Vrac sans prix;2;TMA
+2018-04-03;NathanMode;evolutions;4;Forfait
+2018-04-04;NathanMode;evolutions;3;Forfait
+2018-04-04;IVSO;Assistance DRM;0,5;TMA
+2018-04-04;DeclarVins;Compte test ICS Sud;1,5;TMA
+2018-04-04;DeclarVins;Compact BDD;0,5;TMA
+2018-04-05;Sancerre;Vrac sans prix;1,5;TMA
+2018-04-05;24eme;Compta;2;
+2018-04-05;IVBD;Cave Alliance;2;TMA
+2018-04-05;NathanMode;evolutions;1;Forfait
+2018-04-06;24eme;Compta Facturation;6;
