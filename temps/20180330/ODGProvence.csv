@@ -1,0 +1,33 @@
+Date;Projet;Description;Temps (en heure);Tache
+2018-03-01;ODGProvence;Réunion;7;Forfait
+2018-03-02;ODGProvence;ticketing;2,5;Forfait
+2018-03-06;ODGProvence;Nom de domaine;0,5;Forfait
+2018-03-06;ODGProvence;ré organisation de l'information dans les vue du parcellaire;5;Forfait
+2018-03-07;ODGProvence;Parcellaire en Parcellaire Affectation;3;Forfait
+2018-03-07;ODGProvence;parcellaire irrigable;4;Forfait
+2018-03-08;ODGProvence; parcellaire;3;Forfait
+2018-03-08;ODGProvence;Parcellaire en Parcellaire Affectation;5,5;Forfait
+2018-03-09;ODGProvence; parcellaire;6;Forfait
+2018-03-09;ODGProvence;Parcellaire en Parcellaire Affectation et Parcellaire Irriguable;6;Forfait
+2018-03-12;ODGProvence;Dév;7;Forfait
+2018-03-12;ODGProvence;import;7;Forfait
+2018-03-13;ODGProvence;Dév;7;Forfait
+2018-03-13;ODGProvence;Fine tuning;7;Forfait
+2018-03-13;ODGProvence;Fine Tuning;7;Forfait
+2018-03-14;ODGProvence;Dév;5;Forfait
+2018-03-14;ODGProvence;Fine tuning;7;Forfait
+2018-03-14;ODGProvence;Fine Tuning;7;Forfait
+2018-03-15;ODGProvence;Dév;5,5;Forfait
+2018-03-15;ODGProvence;import;7;Forfait
+2018-03-16;ODGProvence;Dév;4;Forfait
+2018-03-16;ODGProvence;mis en prod;7;Forfait
+2018-03-19;ODGProvence;ré-import Alicia;5,5;Forfait
+2018-03-21;ODGProvence;ré-import Alicia;7;Forfait
+2018-03-21;ODGProvence;Test import nouveau fichier;3,5;Forfait
+2018-03-22;ODGProvence;Préparation import;2,5;Forfait
+2018-03-22;ODGProvence;ré-import;6;Forfait
+2018-03-23;ODGProvence;import;5;Forfait
+2018-03-23;ODGProvence;Vérif import;0,5;Forfait
+2018-03-26;ODGProvence;Présentation des contacts;3,5;Forfait
+2018-03-27;ODGProvence;debug;1,5;Forfait
+2018-03-28;ODGProvence;Exports, cron, et conf envoi de mail;3,5;Forfait
