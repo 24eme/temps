@@ -1,43 +1,44 @@
-2018-03-01;ODGProvence;Réunion;7;Forfait
-2018-03-02;ODGProvence;ticketing;2,5;Forfait
-2018-03-02;ODGRhone;désarchivage d'un compte pas top;1;Forfait
-2018-03-02;ODGRhone;transfère des groupes comptes;4;TMA
-2018-03-05;24EME;Tactical Meeting;3,5;Tactical Meeting
-2018-03-05;ODGRhone;gestion des points dans les groupes;2;TMA
-2018-03-06;IVBD;Edi de la cave alliance;1;TMA
-2018-03-06;ODGProvence;ré organisation de l'information dans les vue du parcellaire;5;Forfait
-2018-03-06;ODGRhone;suppression dans les groupes;1;TMA
-2018-03-07;Aurouze;Déplacement de contrat;0,5;TMA
-2018-03-07;ODGProvence;parcellaire irrigable;4;Forfait
-2018-03-07;ODGRhone;problème export;2;TMA
-2018-03-07;VINSI;erreur contrat;0,5;TMA
-2018-03-08;Aurouze;Gestion des bugs relevés;2,5;TMA
-2018-03-08;IVBD;Edi de la cave alliance;0,5;TMA
-2018-03-08;IVSO;Edi de la cave alliance;0,5;TMA
-2018-03-08;ODGProvence; parcellaire;3;Forfait
-2018-03-08;ODGRhone;problème export;1;TMA
-2018-03-09;Aurouze; preprod upload;1;TMA
-2018-03-09;ODGProvence; parcellaire;6;Forfait
-2018-03-12;ODGProvence;import;7;Forfait
-2018-03-13;ODGProvence;Fine tuning;7;Forfait
-2018-03-14;ODGProvence;Fine tuning;7;Forfait
-2018-03-15;ODGProvence;import;7;Forfait
-2018-03-16;ODGProvence;mis en prod;7;Forfait
-2018-03-19;Aurouze; upload téléphone;2;TMA
-2018-03-19;ODGProvence;ré-import Alicia;5,5;Forfait
-2018-03-20;Aurouze; upload téléphone;1,5;TMA
-2018-03-20;VINSI;Réunion;7;Réunion
-2018-03-21;ODGProvence;ré-import Alicia;7;Forfait
-2018-03-22;ODGProvence;ré-import;6;Forfait
-2018-03-22;ODGRhone;problème inao;1;TMA
-2018-03-23;ODGProvence;import;5;Forfait
-2018-03-23;ODGRhone;ré-import compte;2;TMA
-2018-03-26;ODGProvence;Présentation des contacts;3,5;Forfait
-2018-03-26;VINSI;crds;3,5;TMA
-2018-03-27;CIVA; Réunion;2;Réunion
-2018-03-27;ODGProvence;debug;1,5;Forfait
-2018-03-27;ODGRhone;ré-import compte;2;TMA
-2018-03-27;VINSI;debug tickets;1,5;TMA
-2018-03-28;24EME;Congés;7;Congés
-2018-03-29;24EME;Congés;7;Congés
-2018-03-30;24EME;Congés;7;Congés
+2018-04-02;24EME;Conges;7;Conges
+2018-04-03;24EME;Conges;7;Conges
+2018-04-04;OdgProvence;Reimport du parcellaire;5;Forfait
+2018-04-04;Sancerre;Rattrapage de facturation pourrie;2;TMA
+2018-04-05;OdgRhone;reimport compte;4;TMA
+2018-04-05;VINSI;debug et tickets;2,5;TMA
+2018-04-06;24EME;Facturation;1;24eme
+2018-04-06;OdgRhone;Ajout un lien vers extranet;2;TMA
+2018-04-06;VINSI;tickets et retour douane pertinent;4;TMA
+2018-04-09;Aurouze; Mobile photo en bas 64 ;3;Forfait
+2018-04-09;Aurouze; Reunion;2;Non facturable
+2018-04-09;VINSI;gestion retours douanes;2;TMA
+2018-04-10;Aurouze; Mobile photo ;2,5;Forfait
+2018-04-10;IVBD;Retour Douane plus pertinent;1,5;TMA
+2018-04-10;IVSO;Retour Douane plus pertinent;1,5;TMA
+2018-04-10;VINSI;verification contrat EDI;2;TMA
+2018-04-11;24EME;Tactical;3,5;TM
+2018-04-12;OdgProvence;reimport interlocuteurs suplementaires;4;Forfait
+2018-04-13;OdgProvence;reecriture des clefs du parcellaire;3;Forfait
+2018-04-13;Sancerre;Debug des facturations SV12 pourris;4;TMA
+2018-04-16;VINSI;Adaptation Factures;2;TMA
+2018-04-16;VINSI;Denomination Complementaire;5;TMA
+2018-04-17;24EME;journee blanche Infra;7;interne
+2018-04-17;Aurouze; facture a deplacer;0,5;TMA
+2018-04-18;Aurouze; ajout de produit et deplacement fact;3,5;TMA
+2018-04-18;VINSI;Denom compl;1,5;TMA
+2018-04-18;VINSI;Ouverture comptes Tests et entretiens catalogue produit;2,5;TMA
+2018-04-19;OdgProvence;reparation base OdgProvence;7;Forfait
+2018-04-20;24EME;Conges;7;Conges
+2018-04-23;24EME;Conges;7;Conges
+2018-04-24;Sancerre;Catalogue produit;5;TMA
+2018-04-24;VINSI;Denom compl;2;TMA
+2018-04-25;Aurouze; telephone;2;Forfait
+2018-04-25;Sancerre;Catalogue produit;1,5;TMA
+2018-04-25;VINSI;Denom compl;3,5;TMA
+2018-04-26;Aurouze; telephone;2;Forfait
+2018-04-26;IVBD;EDI num accise;1;TMA
+2018-04-26;Sancerre;Gestion vinisoft;1;TMA
+2018-04-27;Aurouze; telephone;3;Forfait
+2018-04-27;VINSI;DRM a problemes;1;TMA
+2018-04-27;VINSI;Sv12 contrat;2;TMA
+2018-04-30;Aurouze; telephone;5;Forfait
+2018-04-30;Sancerre;Gestion vinisoft;1;TMA
+2018-04-30;VINSI;Denom compl;1;TMA
