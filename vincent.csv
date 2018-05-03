@@ -27,10 +27,10 @@
 2018-04-19;ODGProvence;Bug replication des bases;7;Lot 1
 2018-04-20;AVA;Corrections facturations VCI, génération des papiers, flag des opérateur qui ont ouvert les mails;7;Facturation 2018
 2018-04-20;CIVA;Correction tiers pour la convention;1;TMA
-2018-04-23;AVA;Correction de dr et migration d'opérateurs;3,5;Facturation 2018
+2018-04-23;AVA;Correction de dr et migration d'opérateurs;3,5;TMA
 2018-04-23;CIVA;Correction tiers pour la convention;1;TMA
 2018-04-24;24ème;Gestion sysnove;1;24ème
-2018-04-24;AVA;Migration des drev et facturation;2;Facturation 2018
+2018-04-24;AVA;Migration des drev et facturation;2;TMA
 2018-04-24;CIVA;Flag contrat en Papier, mise à jour tiers;1;TMA
 2018-04-24;IVSO;Correction bug navigation depuis la fiche d'un établissement;1;TMA
 2018-04-24;ODGProvence;Check codes de création;2;Lot 1
