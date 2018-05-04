@@ -1,0 +1,13 @@
+Date;Projet;Description;Temps (en heure);Tache
+2018-04-06;AVA;Facturation on conserve les lignes même à 0 systématiquement;2,5;Facturation 2018
+2018-04-09;AVA;Ajout d'un cépage dans la dégustation;0,5;TMA
+2018-04-09;AVA;Tâche de génération des mails;3,5;Facturation 2018
+2018-04-10;AVA;Tâche de génération des mails;3,5;Facturation 2018
+2018-04-11;AVA;Préparation envoi de mail;2;Facturation 2018
+2018-04-12;AVA;Génération des abonnements, corrections de factures et corrections calcul;3,5;TMA
+2018-04-13;AVA;Divers corrections et envoi des mails;7;Facturation 2018
+2018-04-18;AVA;Corrections bug vci;3,5;Facturation 2018
+2018-04-18;AVA;Fermeture portail, drev modificatrice, suppression dégustation;1;TMA
+2018-04-20;AVA;Corrections facturations VCI, génération des papiers, flag des opérateur qui ont ouvert les mails;7;Facturation 2018
+2018-04-23;AVA;Correction de dr et migration d'opérateurs;3,5;TMA
+2018-04-24;AVA;Migration des drev et facturation;2;TMA
