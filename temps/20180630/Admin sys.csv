@@ -1,0 +1,8 @@
+Date;Projet;Description;Temps (en heure);Tache
+2018-06-22;Admin sys;conf cron BIVC ansible;1;TMA
+2018-06-22;Admin sys;conf cron IVBD ansible;1;TMA
+2018-06-22;Admin sys;conf cron IVSO ansible;1;TMA
+2018-06-30;Admin sys;;7,0;Admin sys
+2018-06-30;Admin sys;Fail2ban + pique d'activité odg provence;;Admin sys
+2018-06-30;Admin sys;Indépendance serveur vins.actualys.com, migration des gits et visu tinc;;Admin sys
+2018-06-30;Admin sys;Intégration continue pour le CIVA;;Admin sys

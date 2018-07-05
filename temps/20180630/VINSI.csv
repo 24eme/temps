@@ -1,0 +1,23 @@
+Date;Projet;Description;Temps (en heure);Tache
+2018-06-01;VINSI;reecriture toutes DRM;3;TMA
+2018-06-04;VINSI;Annulation de DRM;0,5;TMA
+2018-06-04;VINSI;Gestion de DRM foireuses;3;TMA
+2018-06-05;VINSI;Correctif dans les facturation;2;TMA
+2018-06-06;VINSI;Enlevements caclulé en live à chaque validate de DRM ou chaque validate de SV12;3;TMA
+2018-06-07;VINSI;Retours douanes datés;3,5;TMA
+2018-06-11;VINSI;Debug de revendication clefs hamzaStyle;2,5;TMA
+2018-06-12;VINSI;ajout en defaut du 100 viti si l'acheteur;3,5;TMA
+2018-06-13;VINSI;Réparation du elasticSearch;5,5;TMA
+2018-06-14;VINSI;maj de l'enlevement contrat ;2,5;TMA
+2018-06-15;VINSI;Enlèvement douane à la demande ;2,5;TMA
+2018-06-18;VINSI;DRM à réouvrir;0,5;TMA
+2018-06-19;VINSI; retour douane;3,5;TMA
+2018-06-20;VINSI;conf retour douane;2;TMA
+2018-06-25;VINSI;PROBLEME ENLEMENTS SUR CONTRATS;3,5;TMA
+2018-06-27;VINSI; Debug;1,5;TMA
+2018-06-30;VINSI;;10,5;TMA
+2018-06-30;VINSI;Correction bug de facturation code comptable;;TMA
+2018-06-30;VINSI;Correction d'une erreur dans la popup de contrat;;TMA
+2018-06-30;VINSI;Corrections DRM télédéclarées;;TMA
+2018-06-30;VINSI;Mieux prévenir le saut de numéro d'archive dans les contrats (interdire le changement de campagne);;TMA
+2018-06-30;VINSI;Réparation du problème de synchro des comptes (intervention sur l'elastic search);;TMA
