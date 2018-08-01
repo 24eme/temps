@@ -1,0 +1,13 @@
+Date;Projet;Description;Temps (en heure);Tache
+2018-07-02;IVSO; Ajustement recherche accise;1,5;TMA
+2018-07-03;IVSO;produit autre dans catalogue produit;1;TMA
+2018-07-04;IVSO; Ajout dune tache permettant la creation de compte fictif;1,5;TMA
+2018-07-04;IVSO; Ajout dune tache permettant la creation de compte fictif;3;Non facturable
+2018-07-10;IVSO; Ajout dans Bi des retour douane;2,5;TMA
+2018-07-11;IVSO; uniformisation bi;1;TMA
+2018-07-12;IVSO; ajout de message fin de DRM;1;TMA
+2018-07-12;IVSO;ansible from mail retour douane;0,5;TMA
+2018-07-16;IVSO; Tableau de retour douane;1,5;TMA
+2018-07-17;IVSO; mis en prod xml douane;0,5;TMA
+2018-07-18;IVSO;retour douane produit libelle personnalise;1;TMA
+2018-07-31;IVSO;Intervention DRM et facturation;3,5;TMA
