@@ -134,4 +134,33 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2018-07-03;DeclarVins;Assistance;1;TMA
 2018-07-04;BIVC;Assistance DRM Ciel;2;TMA
 2018-07-04;CIVA;Mercuriales;4;TMA
-2018-07-05;24eme;Tactical;
+2018-07-05;24eme;Facturation + Tactical;
+2018-07-06;CIVA;Mercuriales;6;TMA
+2018-07-06;DeclarVins;Assistance;1;TMA
+2018-07-09;InterRhone;DAE;7;Forfait
+2018-07-10;24eme;Compta;
+2018-07-10;DeclarVins;Assistance;2;TMA
+2018-07-11;InterRhone;DAE;7;Forfait
+2018-07-12;InterRhone;DAE;7;Forfait
+2018-07-13;InterRhone;DAE;7;Forfait
+2018-07-16;InterRhone;DAE;7;Forfait
+2018-07-17;InterRhone;DAE;7;Forfait
+2018-07-18;InterRhone;DAE;7;Forfait
+2018-07-19;InterRhone;Reunion DAE;7;Forfait
+2018-07-20;CIVA;Mercuriales;7;TMA
+2018-07-23;DeclarVins;Assistance;1;TMA
+2018-07-23;DeclarVins;DS Negoce;6;TMA
+2018-07-24;DeclarVins;Assistance;1;TMA
+2018-07-24;InterRhone;DAE;6;TMA
+2018-07-25;DeclarVins;DS Negoce;7;TMA
+2018-07-26;InterRhone;DAE;4;TMA
+2018-07-26;24eme;Visite Morning Marcadet;
+2018-07-27;DeclarVins;DS Negoce;5,5;TMA
+2018-07-27;DeclarVins;Assistance;1,5;TMA
+2018-07-30;DeclarVins;DS Negoce;6;TMA
+2018-07-30;InterRhone;DAE;1;TMA
+2018-07-31;24eme;Bilan Comptable;
+2018-07-31;InterRhone;DAE;4;TMA
+2018-08-01;DeclarVins;Mise en prod DS Negoce;2;TMA
+2018-08-01;24eme;Facturation + Tactical;
+
