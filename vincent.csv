@@ -1,35 +1,13 @@
-2018-06-30;CIVA;Amélioration de la DRM + Merge autres interprofessions;14;Forfait
-2018-06-30;CIVA;Correction bug de démarrage d'un contrat, Problèmes de comptes;3,5;TMA
-2018-06-30;AVA;Correction dans les tournées;;TMA
-2018-06-30;AVA;Correction du calcul de nombre de lots dans les cépage dans l'organisation d'une dégustation;;TMA
-2018-06-30;AVA;Correction droit accès pour le télédéclarant aux documents de prélèvement;;TMA
-2018-06-30;AVA;Corrections Factures, Migration de comptes et intégrations DR;;TMA
-2018-06-30;AVA;;7;TMA
-2018-06-30;VINSI;Correction bug de facturation code comptable;;TMA
-2018-06-30;VINSI;Mieux prévenir le saut de numéro d'archive dans les contrats (interdire le changement de campagne);;TMA
-2018-06-30;VINSI;Correction d'une erreur dans la popup de contrat;;TMA
-2018-06-30;VINSI;Corrections DRM télédéclarées;;TMA
-2018-06-30;VINSI;Réparation du problème de synchro des comptes (intervention sur l'elastic search);;TMA
-2018-06-30;VINSI;;10,5;TMA
-2018-06-30;BIVC;Correction bug facturation libre;;TMA
-2018-06-30;BIVC;Correction de l'email dans le mail envoyé la validation d'une DRM;;TMA
-2018-06-30;BIVC;Amélioration ergonomie de la facturation libre et de la saisie au clavier des popups d'export;;TMA
-2018-06-30;BIVC;Inversion d'ordre entre IGP et Vins sans IG;;TMA
-2018-06-30;BIVC;Correction calcul total popup export;;TMA
-2018-06-30;BIVC;Activation tags automatique export et produit;;TMA
-2018-06-30;BIVC;Bug transmission DRM;;TMA
-2018-06-30;BIVC;;10,5;TMA
-2018-06-30;IVSO;Facturation Mouvement DRM Négoce;21;TMA
-2018-06-30;IVSO;Export DRM Cahors, Stats navigateur;3,5;TMA
-2018-06-30;IVBD;Export csv télédéclarant lignes doublées et ajout millésime;;TMA
-2018-06-30;IVBD;Corrections campagnes n-1 non présente dans l'accueil des DRM télédéclaré;;TMA
-2018-06-30;IVBD;Interventions DRM;;TMA
-2018-06-30;IVBD;No accises et siret par défaut dans le formulaire de création de compte télédéclaré;;TMA
-2018-06-30;IVBD;DRM Bordeaux analyse du retour cis valley;;TMA
-2018-06-30;IVBD;;7,0;TMA
-2018-06-30;ODGRhone;Gestion des demandes;28,0;DI
-2018-06-30;Formation;Git;14,0;DI
-2018-06-30;Admin sys;Indépendance serveur vins.actualys.com, migration des gits et visu tinc;;Admin sys
-2018-06-30;Admin sys;Fail2ban + pique d'activité odg provence;;Admin sys
-2018-06-30;Admin sys;Intégration continue pour le CIVA;;Admin sys
-2018-06-30;Admin sys;;7,0;Admin sys
+2018-07-31;CIVA;DS VCI et ouverture;35;TMA
+2018-07-31;CIVA;Import des tiers correction des droits, Import tiers, Correction DRM, Rectif contrat, Test fichier EDI;7,0;TMA
+2018-07-31;ODGRhone;DI;31,5;DI
+2018-07-31;ODGRhone;Réunion;7,0;DI
+2018-07-31;AVA;Transfert d'exploitation et intégration DR, Problème dégustation, Problème Parcellaire;3,5;TMA
+2018-07-31;CNIV;Renouvellement du certificat;7,0;TMA
+2018-07-31;IVSO;Intervention DRM et facturation;3,5;TMA
+2018-07-31;IVBD;Intervention DRM et facturation;3,5;TMA
+2018-07-31;IVBD;Import DRM bordeaux;7,0;TMA
+2018-07-31;VINSI;Intervention DRM;3,5;TMA
+2018-07-31;24ème;Temps, Facturation, Tactical, Bilan comptable;7,0;24ème
+2018-07-31;Admin Sys;Torsocks et conf;3,5;Admin Sys
+2018-07-31;Mon activité;Tâche de migration, Amélioration de l'interface;7,0;Mon activité
