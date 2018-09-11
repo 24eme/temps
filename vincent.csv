@@ -1,13 +1,7 @@
-2018-07-31;CIVA;DS VCI et ouverture;35;TMA
-2018-07-31;CIVA;Import des tiers correction des droits, Import tiers, Correction DRM, Rectif contrat, Test fichier EDI;7,0;TMA
-2018-07-31;ODGRhone;DI;31,5;DI
-2018-07-31;ODGRhone;Réunion;7,0;DI
-2018-07-31;AVA;Transfert d'exploitation et intégration DR, Problème dégustation, Problème Parcellaire;3,5;TMA
-2018-07-31;CNIV;Renouvellement du certificat;7,0;TMA
-2018-07-31;IVSO;Intervention DRM et facturation;3,5;TMA
-2018-07-31;IVBD;Intervention DRM et facturation;3,5;TMA
-2018-07-31;IVBD;Import DRM bordeaux;7,0;TMA
-2018-07-31;VINSI;Intervention DRM;3,5;TMA
-2018-07-31;24ème;Temps, Facturation, Tactical, Bilan comptable;7,0;24ème
-2018-07-31;Admin Sys;Torsocks et conf;3,5;Admin Sys
-2018-07-31;Mon activité;Tâche de migration, Amélioration de l'interface;7,0;Mon activité
+2018-08-31;CIVA;DRM Corrections Interfaces, Reprise produits et PDF;24,5;TMA
+2018-08-31;IVBD;Export et import bordeaux en prod;2;TMA
+2018-08-31;24ème;Facturation et tactical;7;24ème
+2018-08-31;InterRhone;Export csv avec les contrats et tests unitaires;7;DAE
+2018-08-31;CNIV;Renouvellement du certificat SSL;3,5;TMA
+2018-08-31;AVA;Stats facturation;7;TMA
+2018-08-31;AVA;Reprise de produit intention crémant et correction facturation;3,5;TMA
