@@ -1,0 +1,9 @@
+Date;Projet;Description;Temps (en heure);Tache
+2018-07-03;IVBD;retour douane ressortissant ayant le meme numero daccise;2;TMA
+2018-07-04;IVBD; Ajout dune tache permettant la creation de compte fictif;1,5;TMA
+2018-07-10;IVBD; Ajout dans Bi des retour douane;1;TMA
+2018-07-12;IVBD; ajout de message fin de DRM;1;TMA
+2018-07-16;IVBD; Tableau de retour douane;1,5;TMA
+2018-07-17;IVBD; mis en prod xml douane;0,5;TMA
+2018-07-31;IVBD;Import DRM bordeaux;7,0;TMA
+2018-07-31;IVBD;Intervention DRM et facturation;3,5;TMA
