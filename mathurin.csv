@@ -1,30 +1,41 @@
-2018-08-01;24EME;Tactical et facturation;3,5;24EME
-2018-08-01;InterRhone; DAE EDI;3,5;Forfait
-2018-08-02;InterRhone; DAE EDI;6;Forfait
-2018-08-09;CIVA; Debug des DRM;2;TMA
-2018-08-09;IVBD;probleme intercampagne de DRM;2;TMA
-2018-08-09;VINSI;probleme reprise DRM intercampagne;1,5;TMA
-2018-08-10;Aurouze;maintenances divers;2;TMA
-2018-08-10;BIVC; Bug de reprise des mouvements;1;TMA
-2018-08-10;CIVA; Debug des DRM;5,5;TMA
-2018-08-10;VINSI; Bug des contrats avec enlevement a 0;1,5;TMA
-2018-08-13;BIVC;recherche statistique;1;TMA
-2018-08-13;IVBD;probleme DRM;1,5;TMA
-2018-08-13;VINSI; TMA drm;2,5;TMA
-2018-08-14;CIVA; Debug des DRM;6;TMA
-2018-08-14;VINSI; match AOP AOC;1,5;TMA
-2018-08-16;Declarvin; DRM probleme;1;TMA
-2018-08-16;OdgRhone;Corrections dans la DI ;2,5;TMA
-2018-08-17;Aurouze;maintenances divers;0,5;TMA
-2018-08-17;CIVA; popup export des DRM acquitte;2;TMA
-2018-08-17;CIVA; reprise des produits DRM;3;TMA
-2018-08-20;CIVA; Interface DRMs multi compte;3;TMA
-2018-08-20;OdgProvence;Import Drev;3,5;TMA
-2018-08-20;OdgRhone;Export des DI ;0,5;TMA
-2018-08-20;OdgRhone;Integration dans la DI ;1;TMA
-2018-08-21;CIVA; Interface DRMs trop de produits;1,5;TMA
-2018-08-21;CIVA;Reprise ces contrats dachat acheteur;6,5;TMA
-2018-08-21;OdgRhone;Export des DI ;1;TMA
-2018-08-22;CIVA;Catalogue produit vinssansig;2,5;TMA
-2018-08-22;Declarvin; DRM probleme iR;1;TMA
-2018-08-22;OdgProvence;Import Drev;4,5;TMA
+2018-09-05;BIVC; Affichage des stocks de fin de DRM si DRM neant;2;TMA
+2018-09-05;CIVA; Debug des DRM;1,5;TMA
+2018-09-05;InterRhone; DAE tests;0,5;Forfait
+2018-09-06;CIVA; gestion catalogue produit;1;TMA
+2018-09-06;OdgProvence;reimport des DREV avec bio;2,5;TMA
+2018-09-06;VINSI; debug de plusieurs DRM;2,5;TMA
+2018-09-07;CIVA; gestion catalogue produit et crds;2,5;TMA
+2018-09-07;IVBD;probleme DRM;0,5;TMA
+2018-09-07;IVSO;gestion catalogue produit pour DRM;1;TMA
+2018-09-07;OdgProvence;reimport des DREV avec bio;2,5;TMA
+2018-09-07;VINSI; debug de plusieurs DRM;1,5;TMA
+2018-09-10;24EME;Mathurin absent lapres midi;3,5;conge
+2018-09-10;Aurouze;prelevement banque;3,5;prelevement
+2018-09-11;Aurouze;en cours de paiement;2,5;TMA
+2018-09-11;Aurouze;prelevement banque;4,5;prelevement
+2018-09-12;24EME;Tactical et facturation;3,5;24EME
+2018-09-12;Aurouze;Reunion Aurouze;2,5;Reunion
+2018-09-13;Aurouze;prelevement banque;3,5;prelevement
+2018-09-13;VINSI; debug DRM reouverture sur les modificatrice en visu;2,5;TMA
+2018-09-14;Aurouze;sepa banque;1;prelevement
+2018-09-17;Aurouze;debug encours bancaire;1;TMA
+2018-09-17;Aurouze;sepa banque;3,5;prelevement
+2018-09-17;VINSI; analyse et debug retour DRM;1;TMA
+2018-09-18;Aurouze;debug encours bancaire;1;TMA
+2018-09-18;PSA;mis en place projet;2;PlusSansAscenseur
+2018-09-18;VINSI; Mis en place du TAV pour alcool DRM;5;TMA
+2018-09-19;PSA;dev;7;PlusSansAscenseur
+2018-09-20;PSA;dev;7;PlusSansAscenseur
+2018-09-21;24EME;Mathurin absent lapres midi;3,5;conge
+2018-09-21;PSA;test dans psa;2;PlusSansAscenseur
+2018-09-24;PSA;reunion;2;reunion
+2018-09-24;VINSI; evolution pdf et autre pour les DRM;5;TMA
+2018-09-25;IVSO;autosiganture des contrats internes;3,5;TMA
+2018-09-25;VINSI; Changement de logo dans les pdfs;3,5;TMA
+2018-09-26;Gildaa;reparation des tests pour tous;5;24eme
+2018-09-26;IVSO;autosiganture des contrats internes;2;TMA
+2018-09-27;24EME;petit dejeune;2;24eme
+2018-09-27;OdgProvence;choix de produit dans drev avec denom;4;TMA
+2018-09-27;VINSI;debug de DRM;1;TMA
+2018-09-28;24EME;ajustement de Ansible;1,5;Ansible
+2018-09-28;PSA;dev;4,5;PlusSansAscenseur
