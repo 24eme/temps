@@ -22,12 +22,12 @@
 2018-09-17;Aurouze;sepa banque;3,5;prelevement
 2018-09-17;VINSI; analyse et debug retour DRM;1;TMA
 2018-09-18;Aurouze;debug encours bancaire;1;TMA
-2018-09-18;PSA;mis en place projet;2;PlusSansAscenseur
+2018-09-18;PSA;mis en place projet;2;Forfait
 2018-09-18;VINSI; Mis en place du TAV pour alcool DRM;5;TMA
-2018-09-19;PSA;dev;7;PlusSansAscenseur
-2018-09-20;PSA;dev;7;PlusSansAscenseur
+2018-09-19;PSA;dev;7;Forfait
+2018-09-20;PSA;dev;7;Forfait
 2018-09-21;24eme;Mathurin absent lapres midi;3,5;conge
-2018-09-21;PSA;test dans psa;2;PlusSansAscenseur
+2018-09-21;PSA;test dans psa;2;Forfait
 2018-09-24;PSA;reunion;2;reunion
 2018-09-24;VINSI; evolution pdf et autre pour les DRM;5;TMA
 2018-09-25;IVSO;autosiganture des contrats internes;3,5;TMA
@@ -38,4 +38,4 @@
 2018-09-27;OdgProvence;choix de produit dans drev avec denom;4;TMA
 2018-09-27;VINSI;debug de DRM;1;TMA
 2018-09-28;24eme;ajustement de Ansible;1,5;Ansible
-2018-09-28;PSA;dev;4,5;PlusSansAscenseur
+2018-09-28;PSA;dev;4,5;Forfait
