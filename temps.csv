@@ -1,1 +1,91 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2018-09-05;BIVC; Affichage des stocks de fin de DRM si DRM neant;2;TMA
+2018-09-05;CIVA; Debug des DRM;1,5;TMA
+2018-09-05;IR; DAE tests;0,5;Forfait
+2018-09-06;CIVA;Gestion catalogue produit;1,5;TMA
+2018-09-06;OdgProvence;reimport des DREV avec bio;2,5;TMA
+2018-09-06;VINSI; debug de plusieurs DRM;2,5;TMA
+2018-09-07;CIVA; gestion catalogue produit et crds;2,5;TMA
+2018-09-07;IVBD;probleme DRM;0,5;TMA
+2018-09-07;IVSO;gestion catalogue produit pour DRM;1;TMA
+2018-09-07;OdgProvence;reimport des DREV avec bio;2,5;TMA
+2018-09-07;VINSI; debug de plusieurs DRM;1,5;TMA
+2018-09-10;24eme;Mathurin absent lapres midi;3,5;conge
+2018-09-10;Aurouze;prelevement banque;3,5;prelevement
+2018-09-11;Aurouze;en cours de paiement;2,5;TMA
+2018-09-11;Aurouze;prelevement banque;4,5;prelevement
+2018-09-12;24eme;Tactical et facturation;3,5;24EME
+2018-09-12;Aurouze;Reunion Aurouze;2,5;Reunion
+2018-09-13;Aurouze;prelevement banque;3,5;prelevement
+2018-09-13;VINSI; debug DRM reouverture sur les modificatrice en visu;2,5;TMA
+2018-09-14;Aurouze;sepa banque;1;prelevement
+2018-09-17;Aurouze;debug encours bancaire;1;TMA
+2018-09-17;Aurouze;sepa banque;3,5;prelevement
+2018-09-17;VINSI; analyse et debug retour DRM;1;TMA
+2018-09-18;Aurouze;debug encours bancaire;1;TMA
+2018-09-18;PSA;mis en place projet;2;Forfait
+2018-09-18;VINSI; Mis en place du TAV pour alcool DRM;5;TMA
+2018-09-19;PSA;dev;7;Forfait
+2018-09-20;PSA;dev;7;Forfait
+2018-09-21;24eme;Mathurin absent lapres midi;3,5;conge
+2018-09-21;PSA;test dans psa;2;Forfait
+2018-09-24;PSA;Réunion;2;Réunion
+2018-09-24;VINSI; evolution pdf et autre pour les DRM;5;TMA
+2018-09-25;IVSO;autosiganture des contrats internes;3,5;TMA
+2018-09-25;VINSI; Changement de logo dans les pdfs;3,5;TMA
+2018-09-26;GIILDA;reparation des tests pour tous;5;GIILDA
+2018-09-26;IVSO;autosiganture des contrats internes;2;TMA
+2018-09-27;24eme;petit dejeune;2;24eme
+2018-09-27;OdgProvence;choix de produit dans drev avec denom;4;TMA
+2018-09-27;VINSI;debug de DRM;1;TMA
+2018-09-28;24eme;ajustement de Ansible;1,5;Ansible
+2018-09-28;PSA;dev;4,5;Forfait
+2018-09-03;24eme;Vacances;
+2018-09-04;Aurouze;Assistance / Demandes;4;TMA
+2018-09-04;DeclarVins;Assistance / Demandes;1,5;TMA
+2018-09-05;DeclarVins;Assistance / Demandes;5;TMA
+2018-09-06;AVA;Accès plateforme ES;2;TMA
+2018-09-06;DeclarVins;Assistance / Demandes;3;TMA
+2018-09-06;BIVC;Assistance / Demandes;2;TMA
+2018-09-07;DeclarVins;Assistance / Demandes;6;TMA
+2018-09-10;DeclarVins;Assistance / Demandes;3;TMA
+2018-09-11;PSA;RDV Rougy;2;Forfait
+2018-09-12;Aurouze;Point projet;2;TMA
+2018-09-12;24eme;Facturation / Tactical;
+2018-09-13;Aurouze;Assistance / Demandes;2;TMA
+2018-09-13;Juricaf;Assistance / Demandes;1;TMA
+2018-09-13;24eme;JeanCloude;4;
+2018-09-14;24eme;JeanCloude;7;
+2018-09-17;CIVA;Assistance / Demandes DRM non visible;1,5;TMA
+2018-09-17;24eme;PM Off;
+2018-09-18;AVA;Accès plateforme Pb Online;2;TMA
+2018-09-18;24eme;JeanCloude;4;
+2018-09-18;DeclarVins;Assistance / Demandes;1;TMA
+2018-09-19;DeclarVins;Assistance / Demandes;3;TMA
+2018-09-19;24eme;RDV InnovAgro;
+2018-09-20;DeclarVins;Assistance / Demandes;2;TMA
+2018-09-20;PSA;Dev;5;Forfait
+2018-09-21;Juricaf;Assistance / Demandes;2;TMA
+2018-09-21;PSA;Dev;5;Forfait
+2018-09-24;PSA;RDV Rougy / Fouad;3;Réunion
+2018-09-24;DeclarVins;Assistance / Demandes;3;TMA
+2018-09-25;PSA;Dev;7;Forfait
+2018-09-26;24eme;Off;
+2018-09-27;24eme;Pti Dej CNIV;2;
+2018-09-27;IR;Evolution DAE;5;TMA
+2018-09-28;IR;Evolution DAE;7;TMA
+2018-09-30;PSA;Dév;17.5;Forfait
+2018-09-30;PSA;Réunion;3.5;Réunion
+2018-09-30;CIVA;TMA DRM (Corrections, PDF, EDI);14;TMA
+2018-09-30;CIVA;Réunion;3.5;Réunion
+2018-09-30;CIVA;DS Stats et export bi;7;TMA
+2018-09-30;CIVA;Export DB2 DRM;10.5;TMA
+2018-09-30;VINSI;TMA DRM;3.5;TMA
+2018-09-30;AVA;Réunion;7;Réunion
+2018-09-30;AVA;Corrections : facturations, constats et export registre vci;7;TMA
+2018-09-30;ODGRhone;Export csv des demandes d'habilitation;7;DI
+2018-09-30;Sancerre;Mise à jour de la CVO;2;TMA
+2018-09-30;Aurouze;Réunion paiement;3.5;TMA
+2018-09-30;IVBD;Export DRM Bordeaux;2;TMA
+2018-09-30;24eme;Offre d'emploi;7;24eme
+2018-09-30;24eme;Facturation et tactical;7;24eme
