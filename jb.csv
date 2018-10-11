@@ -1,170 +1,53 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2018-03-01;Sancerre;Statistiques CVO;4;TMA
-2018-03-01;EliteAuto;GP Bwat;;Forfait
-2018-03-02;Sancerre;Pb indexation;3,5;TMA
-2018-03-02;24eme;Preparation Mongo;3;
-2018-03-05;24eme;Compta / Facturation;3;
-2018-03-05;24eme;Preparation Mongo;3;
-2018-03-06;DeclarVins;Assistance DRM CIEL;2;TMA
-2018-03-06;DeclarVins;Identification produit EDI IS;1,5;TMA
-2018-03-06;Sancerre;Stats filtre produit + produits manquants;2;TMA
-2018-03-07;Pythagore;Formation MongoDB;7;Forfait
-2018-03-08;Pythagore;Formation MongoDB;7;Forfait
-2018-03-09;Pythagore;Formation MongoDB;7;Forfait
-2018-03-12;Sancerre;Pb Stats;1;TMA
-2018-03-12;EliteAuto;Bwat retours;1;Forfait
-2018-03-12;DeclarVins;Assistance droits douane;2,5;TMA
-2018-03-12;DeclarVins;Modification fiche contact;0,5;TMA
-2018-03-12;DeclarVins;Contrat d'achat modification libelles;1;TMA
-2018-03-12;DeclarVins;DRM stock dispo;1;TMA
-2018-03-13;ODGProvence;Fine Tuning;7;Forfait
-2018-03-14;ODGProvence;Fine Tuning;7;Forfait
-2018-03-15;EliteAuto;Bwat retours;1;Forfait
-2018-03-15;24eme;Preparation Mongo;6;
-2018-03-16;24eme;Preparation Mongo;7;
-2018-03-19;Pythagore;Formation Mongo;7;Forfait
-2018-03-20;Pythagore;Formation Mongo;7;Forfait
-2018-03-21;Pythagore;Formation Mongo;7;Forfait
-2018-03-22;24eme;Jour off;7;
-2018-03-23;DeclarVins;Assistances;4;TMA
-2018-03-23;DeclarVins;Arrondi EDI;1,5;TMA
-2018-03-26;NathanMode;Git du projet;3;Forfait
-2018-03-26;24eme;Declaration Beneficiaires;2;
-2018-03-26;DeclarVins;Assistance;0,5;TMA
-2018-03-26;EliteAuto;Bwat retours;1;Forfait
-2018-03-27;NathanMode;evolutions;4;Forfait
-2018-03-28;NathanMode;evolutions;5,5;Forfait
-2018-03-28;24eme;Contact Pascal Guadeloupe;1,5;
-2018-03-29;NathanMode;evolutions;7;Forfait
-2018-03-30;IVBD;Reunion Nathalie;2;TMA
-2018-03-30;NathanMode;evolutions;4;Forfait
-2018-04-03;EliteAuto;Bwat retours;1;Forfait
-2018-04-03;Sancerre;Vrac sans prix;2;TMA
-2018-04-03;NathanMode;evolutions;4;Forfait
-2018-04-04;NathanMode;evolutions;3;Forfait
-2018-04-04;IVSO;Assistance DRM;0,5;TMA
-2018-04-04;DeclarVins;Compte test ICS Sud;1,5;TMA
-2018-04-04;DeclarVins;Compact BDD;0,5;TMA
-2018-04-05;Sancerre;Vrac sans prix;1,5;TMA
-2018-04-05;24eme;Compta;2;
-2018-04-05;IVBD;Cave Alliance;2;TMA
-2018-04-05;NathanMode;evolutions;1;Forfait
-2018-04-06;24eme;Compta Facturation;6;
-2018-04-09;Aurouze;Journee;7;TMA
-2018-04-10;DeclarVins;contrat IS;2;TMA
-2018-04-10;DeclarVins;mail dti+;4;TMA
-2018-04-10;DeclarVins;contrat ivse;1;TMA
-2018-04-11;DeclarVins;bug validation ciel;1,5;TMA
-2018-04-11;24eme;tactical;;
-2018-04-12;DeclarVins;delai paiement contrat;1;TMA
-2018-04-12;DeclarVins;pdf produit acq;2,5;TMA
-2018-04-12;DeclarVins;fiche profil;3;TMA
-2018-04-12;DeclarVins;mail dti+;0,5;TMA
-2018-04-13;CIVA;convention ciel;6;TMA
-2018-04-16;CIVA;convention ciel;2,5;TMA
-2018-04-16;DeclarVins;bug pdf drm;1,5;TMA
-2018-04-16;DeclarVins;bug formulaire produit contrat ivse;1;TMA
-2018-04-17;24eme;infrastructurel;;
-2018-04-18;24eme;Sysnove;2;
-2018-04-18;NathanMode;evolutions;1,5;Forfait
-2018-04-18;DeclarVins;doublons preprod;3,5;TMA
-2018-04-19;NathanMode;evolutions;3;Forfait
-2018-04-19;DeclarVins;csv ciel attente;3;TMA
-2018-04-20;ODGProvence;parcellaire irrigue;7;Forfait
-2018-04-23;NathanMode;evolutions;4;Forfait
-2018-04-23;24eme;revision;2;
-2018-04-23;DeclarVins;demandes;1;TMA
-2018-04-24;IVSO;libelles persos;7;TMA
-2018-04-24;IVBD;libelles persos;7;TMA
-2018-04-25;Sancerre;libelles persos;2;TMA
-2018-04-25;24eme;revision;2;
-2018-04-25;DeclarVins;demandes;2;TMA
-2018-04-25;NathanMode;evolutions;1;Forfait
-2018-04-26;NathanMode;evolutions;6;Forfait
-2018-04-27;IVSO;demandes;0,5;TMA
-2018-04-27;IVSO;reinit CRD;4;TMA
-2018-04-27;ODGRhone;Elasticsearch;2;TMA
-2018-04-27;NathanMode;evolutions;2;Forfait
-2018-04-30;24eme;Congés;;
-2018-05-02;DeclarVins;réunion Avignon;7;Conception
-2018-05-03;24eme;Facturation / Tactical;
-2018-05-04;DeclarVins;XML Neant / EDI logiciel tiers / Assistance CIEL / Demandes CIVP;7;TMA
-2018-05-11;DeclarVins;Assistance CIEL / Demandes CIVP;3;TMA
-2018-05-15;DeclarVins;EDI logiciel tiers;3;TMA
-2018-05-15;24eme;Gerance;
-2018-05-16;Pythagore;Formation mongo;7;Forfait
-2018-05-17;Pythagore;Formation mongo;7;Forfait
-2018-05-18;DeclarVins;IR repli / CIVP IGP Var / Transaction vrac;7;TMA
-2018-05-23;DeclarVins;IR indicateurs eco / edi logiciel tiers;6;TMA
-2018-05-23;ODGProvence;Mise en preprod parcellaire irrigue;1;Forfait
-2018-05-24;DeclarVins;Evolutions vues en reunion;7;TMA
-2018-05-28;ODGRhone;Chiffrage lot 2;2;Forfait
-2018-05-29;DeclarVins;Assistance ciel / popup drm aout;7;TMA
-2018-05-30;DeclarVins;Crd;2,5;TMA
-2018-05-30;ODGRhone;Exports colonnes adresses;2,5;TMA
-2018-05-31;24eme;demo pythagore / espace client;
-2018-06-01;24eme;espace client;
-2018-06-04;Pythagore;formation mongo;7;Forfait
-2018-06-05;Pythagore;formation mongo;7;Forfait
-2018-06-06;Pythagore;formation mongo;7;Forfait
-2018-06-07;24eme;Facturation / tactical meeting;
-2018-06-08;DeclarVins;Pdf profil / produit ivse contrat civp / assistance;3,5;TMA
-2018-06-08;IVSO;Libelles fiscaux / droits circulation / bug edenwine / assistance catherine;3,5;TMA
-2018-06-11;CIVA;Mercuriales;6;TMA
-2018-06-11;DeclarVins;CAS;1;TMA
-2018-06-12;CIVA;Mercuriales;7;TMA
-2018-06-13;DeclarVins;Edi contrat IS bug / delai paiement civp / assistance;7;TMA
-2018-06-14;DeclarVins;Bilan DRM correctifs / assistance;7;TMA
-2018-06-18;NathanMode;evols;7;Forfait
-2018-06-20;DeclarVins;Premix / Assistance;4;TMA
-2018-06-20;24eme;julien fournier;1;
-2018-06-20;NathanMode;retours;2;Forfait
-2018-06-21;DeclarVins;Assistance;3;TMA
-2018-06-22;ODGRhone;bug export contact;3,5;TMA
-2018-06-22;DeclarVins;Assistance;1,5;TMA
-2018-06-22;NathanMode;retours;2;Forfait
-2018-06-25;BIVC;bug stats;2;TMA
-2018-06-25;CIVA;Mercuriales;4;TMA
-2018-06-26;DeclarVins;Assistance;1;TMA
-2018-06-27;DeclarVins;bug edi sortie vrac rectif / assistance;6;TMA
-2018-06-28;CIVA;Mercuriales;7;TMA
-2018-06-29;CIVA;Mercuriales;7;TMA
-2018-07-02;DeclarVins;Avenant inscription - ciel;7;TMA
-2018-07-03;24eme;Compta;
-2018-07-03;DeclarVins;Assistance;1;TMA
-2018-07-04;BIVC;Assistance DRM Ciel;2;TMA
-2018-07-04;CIVA;Mercuriales;4;TMA
-2018-07-05;24eme;Facturation + Tactical;
-2018-07-06;CIVA;Mercuriales;6;TMA
-2018-07-06;DeclarVins;Assistance;1;TMA
-2018-07-09;InterRhone;DAE;7;Forfait
-2018-07-10;24eme;Compta;
-2018-07-10;DeclarVins;Assistance;2;TMA
-2018-07-11;InterRhone;DAE;7;Forfait
-2018-07-12;InterRhone;DAE;7;Forfait
-2018-07-13;InterRhone;DAE;7;Forfait
-2018-07-16;InterRhone;DAE;7;Forfait
-2018-07-17;InterRhone;DAE;7;Forfait
-2018-07-18;InterRhone;DAE;7;Forfait
-2018-07-19;InterRhone;Reunion DAE;7;Forfait
-2018-07-20;CIVA;Mercuriales;7;TMA
-2018-07-23;DeclarVins;Assistance;1;TMA
-2018-07-23;DeclarVins;DS Negoce;6;TMA
-2018-07-24;DeclarVins;Assistance;1;TMA
-2018-07-24;InterRhone;DAE;6;TMA
-2018-07-25;DeclarVins;DS Negoce;7;TMA
-2018-07-26;InterRhone;DAE;4;TMA
-2018-07-26;24eme;Visite Morning Marcadet;
-2018-07-27;DeclarVins;DS Negoce;5,5;TMA
-2018-07-27;DeclarVins;Assistance;1,5;TMA
-2018-07-30;DeclarVins;DS Negoce;6;TMA
-2018-07-30;InterRhone;DAE;1;TMA
-2018-07-31;24eme;Bilan Comptable;
-2018-07-31;InterRhone;DAE;4;TMA
-2018-08-01;DeclarVins;Mise en prod DS Negoce;2;TMA
-2018-08-01;24eme;Facturation + Tactical;
-2018-08-02;DeclarVins;Assistance;4;TMA
-2018-08-02;InterRhone;DAE;3;TMA
-2018-08-03;DeclarVins;Assistance;2;TMA
-2018-08-03;InterRhone;DAE;4;TMA
-2018-08-03;24eme;CR Vacances;
+2018-09-03;24eme;Vacances;
+2018-09-04;Aurouze;Assistance / Demandes;4;TMA
+2018-09-04;DeclarVins;Assistance / Demandes;1,5;TMA
+2018-09-05;DeclarVins;Assistance / Demandes;5;TMA
+2018-09-06;AVA;Accès plateforme ES;2;TMA
+2018-09-06;DeclarVins;Assistance / Demandes;3;TMA
+2018-09-06;BIVC;Assistance / Demandes;2;TMA
+2018-09-07;DeclarVins;Assistance / Demandes;6;TMA
+2018-09-10;DeclarVins;Assistance / Demandes;3;TMA
+2018-09-11;PSA;RDV Rougy;
+2018-09-12;Aurouze;Point projet;2;TMA
+2018-09-12;24eme;Facturation / Tactical;
+2018-09-13;Aurouze;Assistance / Demandes;2;TMA
+2018-09-13;Juricaf;Assistance / Demandes;1;TMA
+2018-09-13;24eme;JeanCloude;4;
+2018-09-14;24eme;JeanCloude;7;
+2018-09-17;CIVA;Assistance / Demandes DRM non visible;1,5;TMA
+2018-09-17;24eme;PM Off;
+2018-09-18;AVA;Accès plateforme Pb Online;2;TMA
+2018-09-18;24eme;JeanCloude;4;
+2018-09-18;DeclarVins;Assistance / Demandes;1;TMA
+2018-09-19;DeclarVins;Assistance / Demandes;3;TMA
+2018-09-19;24eme;RDV InnovAgro;
+2018-09-20;DeclarVins;Assistance / Demandes;2;TMA
+2018-09-20;PSA;Dev;5;Forfait
+2018-09-21;Juricaf;Assistance / Demandes;2;TMA
+2018-09-21;PSA;Dev;5;Forfait
+2018-09-24;PSA;RDV Rougy / Fouad;3;Forfait
+2018-09-24;DeclarVins;Assistance / Demandes;3;TMA
+2018-09-25;PSA;Dev;7;Forfait
+2018-09-26;24eme;Off;
+2018-09-27;24eme;Pti Dej CNIV;2;
+2018-09-27;IR;Evolution DAE;5;TMA
+2018-09-28;IR;Evolution DAE;7;TMA
+2018-10-01;24eme;PreRDV laureat.fr;2;
+2018-10-01;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-02;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-02;24eme;RDV laureat.fr;2;
+2018-10-02;IVSO;Assistance / Demandes ElasticSearch;1,5;TMA
+2018-10-03;24eme;RDV LP;3;
+2018-10-03;IVBD;Statistiques;6;TMA
+2018-10-04;VINSI;Assistance / Demandes;1;TMA
+2018-10-04;24eme;Enrichissement formationmongodb;5;
+2018-10-05;24eme;RDV CDGS;7;
+2018-10-08;Pythagore;Formation MongoDB;7;Forfait
+2018-10-09;Pythagore;Formation MongoDB;7;Forfait
+2018-10-09;DeclarVins;Assistance / Demandes;2;TMA
+2018-10-10;Pythagore;Formation MongoDB;7;Forfait
+2018-10-11;DeclarVins;Assistance / Demandes;3;TMA
+2018-10-11;24eme;Temps;3;
+2018-10-12;24eme;Facturation / Entretien / Tactical;7;
+
