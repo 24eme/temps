@@ -20,6 +20,13 @@ do
     echo "Création de temps/$DATE/"$projet".csv"
 done
 
+echo "Ajout de temps.csv dans temps_historique.csv"
+
+cat temps/$DATE/temps.csv | grep -v "^Date;Projet;Description;" >> temps_historique.csv
+
+sort -r temps_historique.csv > temps_historique.csv.tmp
+mv temps_historique.csv{.tmp,}
+
 bash bin/recap.sh > temps/$DATE/recap.csv
 
 echo "Réinialisation du fichier temps.csv"
