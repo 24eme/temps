@@ -50,4 +50,35 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2018-10-11;DeclarVins;Assistance / Demandes;3;TMA
 2018-10-11;24eme;Temps;3;
 2018-10-12;24eme;Facturation / Entretien / Tactical;7;
-
+2018-10-15;DeclarVins;Assistance / Demandes;1;TMA
+2018-10-16;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-16;IR;Evolution DAE;3;TMA
+2018-10-17;DeclarVins;Assistance / Demandes;3;TMA
+2018-10-17;IR;Evolution DAE;3;TMA
+2018-10-17;CNIV;Accompagnement CIVCorse;1;TMA
+2018-10-18;DeclarVins;Assistance / Demandes;2;TMA
+2018-10-18;IR;Evolution DAE;2;TMA
+2018-10-18;CNIV;Accompagnement CIVCorse;0,5;TMA
+2018-10-19;DeclarVins;Assistance / Demandes;2;TMA
+2018-10-19;CNIV;Accompagnement CIVCorse;0,5;TMA
+2018-10-19;24eme;Entretien;
+2018-10-19;CNIV;Tests IP;0,5;TMA
+2018-10-22;CNIV;Tests IP;0,5;TMA
+2018-10-22;AVA;Point DRev VCI;0,5;Forfait
+2018-10-22;CIVA;Fermeture DR;0,5;TMA
+2018-10-22;DeclarVins;Assistance / Demandes;3,5;TMA
+2018-10-22;IR;Evolution DAE;1;TMA
+2018-10-23;CNIV;nouvelles IP;1,5;TMA
+2018-10-23;24eme;IVSO budget nextcloud;1,5;
+2018-10-23;ODGProvence;L05/L15;4;Forfait
+2018-10-24;ODGProvence;Reunion;7;Forfait
+2018-10-24;CNIV;communication IP;0,5;TMA
+2018-10-25;Prodimmo;Report 24;4;
+2018-10-25;24eme;Entretien Jerome;
+2018-10-26;Aurouze;Pb reglement / vir sepa;1;TMA
+2018-10-26;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-26;IR;Evolution DAE;2;TMA
+2018-10-29;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-30;DeclarVins;Gestion serveur / espace;5;TMA
+2018-10-31;DeclarVins;Assistance / Demandes;2;TMA
+2018-10-31;24eme;Entretiens Jerome / Gabriel;
