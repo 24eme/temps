@@ -1,4 +1,48 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2018-10-01;IVBD;deploiement statistique;7;Statistique
+2018-10-02;24eme;avant vente lauerat fr;2;avant vente
+2018-10-02;IVBD;ansible crd et crds sans point;2,5;TMA
+2018-10-02;IVSO;ansible crd et crds sans point;2,5;TMA
+2018-10-02;VINSI;bug de reprise produit depuis les DS negoce seulement;1,5;TMA
+2018-10-03;24eme;avant vente langues plurielles;2;avant vente
+2018-10-03;IVBD;deploiement statistique;5;Statistique
+2018-10-03;VINSI;debug DRM;1;TMA
+2018-10-04;IVBD;reunion statistique;7;reunion
+2018-10-05;24eme;avant vente CDGS;2;avant vente
+2018-10-08;IVSO;Debug de DRM;1;TMA
+2018-10-08;OdgProvence;exports AVPI;5;Lot 3
+2018-10-08;VINSI;debug DRM;1;TMA
+2018-10-09;Aurouze;prelevement banque;1;reunion
+2018-10-09;IVSO;Reecriture des contrats CVG et reparation France Agrimer;2;TMA
+2018-10-10;BIVC;Retour XML mal formatte douane;2,5;TMA
+2018-10-10;OdgProvence;ouverture DREV et mis a jour contacts;2,5;Lot 3
+2018-10-10;VINSI;renforcement et debug du retour douane;2;TMA
+2018-10-11;AVA;debug de tournee;1,5;TMA
+2018-10-12;24eme;Tactical meeting et facturation;4;24eme
+2018-10-12;Aurouze;adaptation du template de facture;1;TMA
+2018-10-12;VINSI;mis a jour de la configuration produit;1;TMA
+2018-10-15;24eme;reinstall ordinateur;6;24eme
+2018-10-15;VINSI;mis a jour de la configuration produit champagne;1;TMA
+2018-10-16;24eme;reinstall ordinateur;3;24eme
+2018-10-16;OdgProvence;mis a jour des contacts;3,5;Lot 3
+2018-10-17;TueNet;Import tue net;7;TueNet
+2018-10-18;TueNet;Import tue net;7;TueNet
+2018-10-18;VINSI;transmission douane;1;TMA
+2018-10-19;24eme;Entretient;3;24eme
+2018-10-19;BIVC;gestion de DRM;1;TMA
+2018-10-19;IVSO;probleme depot France Agrimer;0,5;TMA
+2018-10-22;AVA;debug de tournee;0,25;TMA
+2018-10-22;TueNet;import donnee;3;TueNet
+2018-10-23;Aurouze;adaptation pour les prelevements;3,5;TMA
+2018-10-23;OdgProvence;inversion l15 et l5;3,5;Lot 3
+2018-10-24;OdgProvence;reunion provence;7;Lot 3
+2018-10-25;24eme;report24;3,5;prodimmo
+2018-10-25;VINSI;Export bi et DRM debug;4,5;TMA
+2018-10-26;OdgProvence;Debug;7;Lot 3
+2018-10-29;OdgProvence;Popup bio et gestion import;7;Lot 3
+2018-10-30;24eme;malade;7;24eme
+2018-10-31;24eme;Entretient;4;24eme
+2018-10-31;VINSI;Export bi short et filtre Igp;2;TMA
 2018-10-31;CIVA;DS: Export BI, DB2 et XML, Maj Tiers - DRM: EDI, corrections, export DB2 - DR: Ouverture et adaption 2018, Jus de raisin;56;TMA
 2018-10-31;AVA;Corrections export constats, Modifications de constats, Saisie mobile bug dans la saisie du ".";10,5;TMA
 2018-10-31;VINSI;Corrections DRM;10,5;TMA
@@ -9,41 +53,6 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2018-10-31;24eme;Report 24 et Mon activité;7;Production Immobilisé
 2018-10-31;Pythagore;Formation Apache;21;Formation
 2018-10-31;24eme;Facturation et Entretiens;7;24eme
-Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2018-09-03;24eme;Vacances;
-2018-09-04;Aurouze;Assistance / Demandes;4;TMA
-2018-09-04;DeclarVins;Assistance / Demandes;1,5;TMA
-2018-09-05;DeclarVins;Assistance / Demandes;5;TMA
-2018-09-06;AVA;Accès plateforme ES;2;TMA
-2018-09-06;DeclarVins;Assistance / Demandes;3;TMA
-2018-09-06;BIVC;Assistance / Demandes;2;TMA
-2018-09-07;DeclarVins;Assistance / Demandes;6;TMA
-2018-09-10;DeclarVins;Assistance / Demandes;3;TMA
-2018-09-11;PSA;RDV Rougy;
-2018-09-12;Aurouze;Point projet;2;TMA
-2018-09-12;24eme;Facturation / Tactical;
-2018-09-13;Aurouze;Assistance / Demandes;2;TMA
-2018-09-13;Juricaf;Assistance / Demandes;1;TMA
-2018-09-13;24eme;JeanCloude;4;
-2018-09-14;24eme;JeanCloude;7;
-2018-09-17;CIVA;Assistance / Demandes DRM non visible;1,5;TMA
-2018-09-17;24eme;PM Off;
-2018-09-18;AVA;Accès plateforme Pb Online;2;TMA
-2018-09-18;24eme;JeanCloude;4;
-2018-09-18;DeclarVins;Assistance / Demandes;1;TMA
-2018-09-19;DeclarVins;Assistance / Demandes;3;TMA
-2018-09-19;24eme;RDV InnovAgro;
-2018-09-20;DeclarVins;Assistance / Demandes;2;TMA
-2018-09-20;PSA;Dev;5;Forfait
-2018-09-21;Juricaf;Assistance / Demandes;2;TMA
-2018-09-21;PSA;Dev;5;Forfait
-2018-09-24;PSA;RDV Rougy / Fouad;3;Forfait
-2018-09-24;DeclarVins;Assistance / Demandes;3;TMA
-2018-09-25;PSA;Dev;7;Forfait
-2018-09-26;24eme;Off;
-2018-09-27;24eme;Pti Dej CNIV;2;
-2018-09-27;IR;Evolution DAE;5;TMA
-2018-09-28;IR;Evolution DAE;7;TMA
 2018-10-01;24eme;PreRDV laureat.fr;2;
 2018-10-01;DeclarVins;Assistance / Demandes;4;TMA
 2018-10-02;DeclarVins;Assistance / Demandes;4;TMA
@@ -93,47 +102,3 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2018-10-30;DeclarVins;Gestion serveur / espace;5;TMA
 2018-10-31;DeclarVins;Assistance / Demandes;2;TMA
 2018-10-31;24eme;Entretiens Jerome / Gabriel;
-2018-10-01;IVBD;deploiement statistique;7;Statistique
-2018-10-02;24eme;avant vente lauerat fr;2;avant vente
-2018-10-02;IVBD;ansible crd et crds sans point;2,5;TMA
-2018-10-02;IVSO;ansible crd et crds sans point;2,5;TMA
-2018-10-02;VINSI;bug de reprise produit depuis les DS negoce seulement;1,5;TMA
-2018-10-03;24eme;avant vente langues plurielles;2;avant vente
-2018-10-03;IVBD;deploiement statistique;5;Statistique
-2018-10-03;VINSI;debug DRM;1;TMA
-2018-10-04;IVBD;reunion statistique;7;reunion
-2018-10-05;24eme;avant vente CDGS;2;avant vente
-2018-10-08;IVSO;Debug de DRM;1;TMA
-2018-10-08;OdgProvence;exports AVPI;5;Lot 3
-2018-10-08;VINSI;debug DRM;1;TMA
-2018-10-09;Aurouze;prelevement banque;1;reunion
-2018-10-09;IVSO;Reecriture des contrats CVG et reparation France Agrimer;2;TMA
-2018-10-10;BIVC;Retour XML mal formatte douane;2,5;TMA
-2018-10-10;OdgProvence;ouverture DREV et mis a jour contacts;2,5;Lot 3
-2018-10-10;VINSI;renforcement et debug du retour douane;2;TMA
-2018-10-11;AVA;debug de tournee;1,5;TMA
-2018-10-12;24eme;Tactical meeting et facturation;4;24eme
-2018-10-12;Aurouze;adaptation du template de facture;1;TMA
-2018-10-12;VINSI;mis a jour de la configuration produit;1;TMA
-2018-10-15;24eme;reinstall ordinateur;6;24eme
-2018-10-15;VINSI;mis a jour de la configuration produit champagne;1;TMA
-2018-10-16;24eme;reinstall ordinateur;3;24eme
-2018-10-16;OdgProvence;mis a jour des contacts;3,5;Lot 3
-2018-10-17;TueNet;Import tue net;7;TueNet
-2018-10-18;TueNet;Import tue net;7;TueNet
-2018-10-18;VINSI;transmission douane;1;TMA
-2018-10-19;24eme;Entretient;3;24eme
-2018-10-19;BIVC;gestion de DRM;1;TMA
-2018-10-19;IVSO;probleme depot France Agrimer;0,5;TMA
-2018-10-22;AVA;debug de tournee;0,25;TMA
-2018-10-22;TueNet;import donnee;3;TueNet
-2018-10-23;Aurouze;adaptation pour les prelevements;3,5;TMA
-2018-10-23;OdgProvence;inversion l15 et l5;3,5;Lot 3
-2018-10-24;OdgProvence;reunion provence;7;Lot 3
-2018-10-25;24eme;report24;3,5;prodimmo
-2018-10-25;VINSI;Export bi et DRM debug;4,5;TMA
-2018-10-26;OdgProvence;Debug;7;Lot 3
-2018-10-29;OdgProvence;Popup bio et gestion import;7;Lot 3
-2018-10-30;24eme;malade;7;24eme
-2018-10-31;24eme;Entretient;4;24eme
-2018-10-31;VINSI;Export bi short et filtre Igp;2;TMA
