@@ -1,4 +1,107 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2018-10-31;VINSI;Export bi short et filtre Igp;2;TMA
+2018-10-31;VINSI;Corrections DRM;10,5;TMA
+2018-10-31;Sancerre;Corrections sur les DRM;3,5;TMA
+2018-10-31;Pythagore;Formation Apache;21;Formation
+2018-10-31;ODGRhone;Tâche Iimpot des demandes en cours;14;DI
+2018-10-31;IVSO;Mise à disposition Cahors et corrections de DRM;3,5;TMA
+2018-10-31;IVBD;Corrections des noeuds CRD pour préparation à l'édition de stats, Correction DRM Bordeaux;3,5;TMA
+2018-10-31;DeclarVins;Assistance / Demandes;2;TMA
+2018-10-31;CIVA;DS: Export BI, DB2 et XML, Maj Tiers - DRM: EDI, corrections, export DB2 - DR: Ouverture et adaption 2018, Jus de raisin;56;TMA
+2018-10-31;AVA;Corrections export constats, Modifications de constats, Saisie mobile bug dans la saisie du ".";10,5;TMA
+2018-10-31;24eme;Report 24 et Mon activité;7;Prodimmo
+2018-10-31;24eme;Facturation et Entretiens;7;24eme
+2018-10-31;24eme;Entretient;4;24eme
+2018-10-31;24eme;Entretiens Jerome / Gabriel;
+2018-10-30;DeclarVins;Gestion serveur / espace;5;TMA
+2018-10-30;24eme;malade;7;24eme
+2018-10-29;ODGProvence;Popup bio et gestion import;7;Lot 3
+2018-10-29;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-26;ODGProvence;Debug;7;Lot 3
+2018-10-26;IR;Evolution DAE;2;TMA
+2018-10-26;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-26;Aurouze;Pb reglement / vir sepa;1;TMA
+2018-10-25;VINSI;Export bi et DRM debug;4,5;TMA
+2018-10-25;24eme;Report 24;4;Prodimmo
+2018-10-25;24eme;report24;3,5;Prodimmo
+2018-10-25;24eme;Entretien Jerome;
+2018-10-24;ODGProvence;reunion provence;7;Lot 3
+2018-10-24;ODGProvence;Reunion;7;Forfait
+2018-10-24;CNIV;communication IP;0,5;TMA
+2018-10-23;ODGProvence;L05/L15;4;Forfait
+2018-10-23;ODGProvence;inversion l15 et l5;3,5;Lot 3
+2018-10-23;CNIV;nouvelles IP;1,5;TMA
+2018-10-23;Aurouze;adaptation pour les prelevements;3,5;TMA
+2018-10-23;24eme;IVSO budget nextcloud;1,5;
+2018-10-22;TueNet;import donnee;3;TueNet
+2018-10-22;IR;Evolution DAE;1;TMA
+2018-10-22;DeclarVins;Assistance / Demandes;3,5;TMA
+2018-10-22;CNIV;Tests IP;0,5;TMA
+2018-10-22;CIVA;Fermeture DR;0,5;TMA
+2018-10-22;AVA;Point DRev VCI;0,5;Forfait
+2018-10-22;AVA;debug de tournee;0,25;TMA
+2018-10-19;Sancerre;gestion de DRM;1;TMA
+2018-10-19;IVSO;probleme depot France Agrimer;0,5;TMA
+2018-10-19;DeclarVins;Assistance / Demandes;2;TMA
+2018-10-19;CNIV;Tests IP;0,5;TMA
+2018-10-19;CNIV;Accompagnement CIVCorse;0,5;TMA
+2018-10-19;24eme;Entretient;3;24eme
+2018-10-19;24eme;Entretien;
+2018-10-18;VINSI;transmission douane;1;TMA
+2018-10-18;TueNet;Import tue net;7;TueNet
+2018-10-18;IR;Evolution DAE;2;TMA
+2018-10-18;DeclarVins;Assistance / Demandes;2;TMA
+2018-10-18;CNIV;Accompagnement CIVCorse;0,5;TMA
+2018-10-17;TueNet;Import tue net;7;TueNet
+2018-10-17;IR;Evolution DAE;3;TMA
+2018-10-17;DeclarVins;Assistance / Demandes;3;TMA
+2018-10-17;CNIV;Accompagnement CIVCorse;1;TMA
+2018-10-16;ODGProvence;mis a jour des contacts;3,5;Lot 3
+2018-10-16;IR;Evolution DAE;3;TMA
+2018-10-16;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-16;24eme;reinstall ordinateur;3;24eme
+2018-10-15;VINSI;mis a jour de la configuration produit champagne;1;TMA
+2018-10-15;DeclarVins;Assistance / Demandes;1;TMA
+2018-10-15;24eme;reinstall ordinateur;6;24eme
+2018-10-12;VINSI;mis a jour de la configuration produit;1;TMA
+2018-10-12;Aurouze;adaptation du template de facture;1;TMA
+2018-10-12;24eme;Tactical meeting et facturation;4;24eme
+2018-10-12;24eme;Facturation / Entretien / Tactical;7;
+2018-10-11;DeclarVins;Assistance / Demandes;3;TMA
+2018-10-11;AVA;debug de tournee;1,5;TMA
+2018-10-11;24eme;Temps;3;
+2018-10-10;VINSI;renforcement et debug du retour douane;2;TMA
+2018-10-10;Sancerre;Retour XML mal formatte douane;2,5;TMA
+2018-10-10;Pythagore;Formation MongoDB;7;Forfait
+2018-10-10;ODGProvence;ouverture DREV et mis a jour contacts;2,5;Lot 3
+2018-10-09;Pythagore;Formation MongoDB;7;Forfait
+2018-10-09;IVSO;Reecriture des contrats CVG et reparation France Agrimer;2;TMA
+2018-10-09;DeclarVins;Assistance / Demandes;2;TMA
+2018-10-09;Aurouze;prelevement banque;1;reunion
+2018-10-08;VINSI;debug DRM;1;TMA
+2018-10-08;Pythagore;Formation MongoDB;7;Forfait
+2018-10-08;ODGProvence;exports AVPI;5;Lot 3
+2018-10-08;IVSO;Debug de DRM;1;TMA
+2018-10-05;24eme;RDV CDGS;7;
+2018-10-05;24eme;avant vente CDGS;2;avant vente
+2018-10-04;VINSI;Assistance / Demandes;1;TMA
+2018-10-04;IVBD;reunion statistique;7;reunion
+2018-10-04;24eme;Enrichissement formationmongodb;5;
+2018-10-03;VINSI;debug DRM;1;TMA
+2018-10-03;IVBD;Statistiques;6;TMA
+2018-10-03;IVBD;deploiement statistique;5;Statistique
+2018-10-03;24eme;RDV LP;3;
+2018-10-03;24eme;avant vente langues plurielles;2;avant vente
+2018-10-02;VINSI;bug de reprise produit depuis les DS negoce seulement;1,5;TMA
+2018-10-02;IVSO;Assistance / Demandes ElasticSearch;1,5;TMA
+2018-10-02;IVSO;ansible crd et crds sans point;2,5;TMA
+2018-10-02;IVBD;ansible crd et crds sans point;2,5;TMA
+2018-10-02;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-02;24eme;RDV laureat.fr;2;
+2018-10-02;24eme;avant vente lauerat fr;2;avant vente
+2018-10-01;IVBD;deploiement statistique;7;Statistique
+2018-10-01;DeclarVins;Assistance / Demandes;4;TMA
+2018-10-01;24eme;PreRDV laureat.fr;2;
 2018-09-30;VINSI;TMA DRM;3,5;TMA
 2018-09-30;Sancerre;Mise à jour de la CVO;2;TMA
 2018-09-30;PSA;Réunion;3,5;Réunion
@@ -77,15 +180,15 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-09-07;DeclarVins;Assistance / Demandes;6;TMA
 2018-09-07;CIVA; gestion catalogue produit et crds;2,5;TMA
 2018-09-06;VINSI; debug de plusieurs DRM;2,5;TMA
+2018-09-06;Sancerre;Assistance / Demandes;2;TMA
 2018-09-06;ODGProvence;reimport des DREV avec bio;2,5;Lot 3
 2018-09-06;DeclarVins;Assistance / Demandes;3;TMA
 2018-09-06;CIVA;Gestion catalogue produit;1,5;TMA
-2018-09-06;Sancerre;Assistance / Demandes;2;TMA
 2018-09-06;AVA;Accès plateforme ES;2;TMA
+2018-09-05;Sancerre; Affichage des stocks de fin de DRM si DRM neant;2;TMA
 2018-09-05;InterRhone; DAE tests;0,5;Forfait
 2018-09-05;DeclarVins;Assistance / Demandes;5;TMA
 2018-09-05;CIVA; Debug des DRM;1,5;TMA
-2018-09-05;Sancerre; Affichage des stocks de fin de DRM si DRM neant;2;TMA
 2018-09-04;DeclarVins;Assistance / Demandes;1,5;TMA
 2018-09-04;Aurouze;Assistance / Demandes;4;TMA
 2018-09-03;24eme;Vacances;
@@ -114,11 +217,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-08-14;VINSI; match AOP AOC;1,5;TMA
 2018-08-14;CIVA; Debug des DRM;6;TMA
 2018-08-13;VINSI; TMA drm;2,5;TMA
-2018-08-13;IVBD;probleme DRM;1,5;TMA
 2018-08-13;Sancerre;recherche statistique;1;TMA
+2018-08-13;IVBD;probleme DRM;1,5;TMA
 2018-08-10;VINSI; Bug des contrats avec enlevement a 0;1,5;TMA
-2018-08-10;CIVA; Debug des DRM;5,5;TMA
 2018-08-10;Sancerre; Bug de reprise des mouvements;1;TMA
+2018-08-10;CIVA; Debug des DRM;5,5;TMA
 2018-08-10;Aurouze;maintenances divers;2;TMA
 2018-08-09;VINSI;probleme reprise DRM intercampagne;1,5;TMA
 2018-08-09;IVBD;probleme intercampagne de DRM;2;TMA
@@ -202,12 +305,12 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-07-05;Aurouze;transferts;0,5;TMA
 2018-07-05;24eme;Tactical et facturation;4,5;24EME
 2018-07-05;24eme;Facturation + Tactical;
+2018-07-04;Sancerre;Assistance DRM Ciel;2;TMA
+2018-07-04;Sancerre; Ajout dune tache permettant la creation de compte fictif;1,5;TMA
 2018-07-04;IVSO; Ajout dune tache permettant la creation de compte fictif;3;Non facturable
 2018-07-04;IVSO; Ajout dune tache permettant la creation de compte fictif;1,5;TMA
 2018-07-04;IVBD; Ajout dune tache permettant la creation de compte fictif;1,5;TMA
 2018-07-04;CIVA;Mercuriales;4;TMA
-2018-07-04;Sancerre;Assistance DRM Ciel;2;TMA
-2018-07-04;Sancerre; Ajout dune tache permettant la creation de compte fictif;1,5;TMA
 2018-07-03;VINSI; Aide formation fanny;3,5;TMA
 2018-07-03;IVSO;produit autre dans catalogue produit;1;TMA
 2018-07-03;IVBD;retour douane ressortissant ayant le meme numero daccise;2;TMA
@@ -216,15 +319,23 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-07-03;24eme;Compta;
 2018-07-02;VINSI; Transmission douane;1,5;TMA
 2018-07-02;VINSI; Ajustement recherche accise;1,5;TMA
+2018-07-02;Sancerre; produits autres coches;1,5;TMA
 2018-07-02;IVSO; Ajustement recherche accise;1,5;TMA
 2018-07-02;DeclarVins;Avenant inscription - ciel;7;TMA
-2018-07-02;Sancerre; produits autres coches;1,5;TMA
 2018-06-30;VINSI;Réparation du problème de synchro des comptes (intervention sur l'elastic search);;TMA
 2018-06-30;VINSI;Mieux prévenir le saut de numéro d'archive dans les contrats (interdire le changement de campagne);;TMA
 2018-06-30;VINSI;Corrections DRM télédéclarées;;TMA
 2018-06-30;VINSI;Correction d'une erreur dans la popup de contrat;;TMA
 2018-06-30;VINSI;Correction bug de facturation code comptable;;TMA
 2018-06-30;VINSI;;10,5;TMA
+2018-06-30;Sancerre;Inversion d'ordre entre IGP et Vins sans IG;;TMA
+2018-06-30;Sancerre;Correction de l'email dans le mail envoyé la validation d'une DRM;;TMA
+2018-06-30;Sancerre;Correction calcul total popup export;;TMA
+2018-06-30;Sancerre;Correction bug facturation libre;;TMA
+2018-06-30;Sancerre;Bug transmission DRM;;TMA
+2018-06-30;Sancerre;Amélioration ergonomie de la facturation libre et de la saisie au clavier des popups d'export;;TMA
+2018-06-30;Sancerre;Activation tags automatique export et produit;;TMA
+2018-06-30;Sancerre;;10,5;TMA
 2018-06-30;Pythagore;Git;14,0;DI
 2018-06-30;ODGRhone;Gestion des demandes;28,0;DI
 2018-06-30;IVSO;Facturation Mouvement DRM Négoce;17,5;TMA
@@ -237,14 +348,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-30;IVBD;;7,0;TMA
 2018-06-30;CIVA;Correction bug de démarrage d'un contrat, Problèmes de comptes;3,5;TMA
 2018-06-30;CIVA;Amélioration de la DRM + Merge autres interprofessions;14;Forfait
-2018-06-30;Sancerre;Inversion d'ordre entre IGP et Vins sans IG;;TMA
-2018-06-30;Sancerre;Correction de l'email dans le mail envoyé la validation d'une DRM;;TMA
-2018-06-30;Sancerre;Correction calcul total popup export;;TMA
-2018-06-30;Sancerre;Correction bug facturation libre;;TMA
-2018-06-30;Sancerre;Bug transmission DRM;;TMA
-2018-06-30;Sancerre;Amélioration ergonomie de la facturation libre et de la saisie au clavier des popups d'export;;TMA
-2018-06-30;Sancerre;Activation tags automatique export et produit;;TMA
-2018-06-30;Sancerre;;10,5;TMA
 2018-06-30;AVA;Corrections Factures, Migration de comptes et intégrations DR;;TMA
 2018-06-30;AVA;Correction du calcul de nombre de lots dans les cépage dans l'organisation d'une dégustation;;TMA
 2018-06-30;AVA;Correction droit accès pour le télédéclarant aux documents de prélèvement;;TMA
@@ -260,17 +363,17 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-28;IVBD;reparation report One;2;TMA
 2018-06-28;CIVA;Mercuriales;7;TMA
 2018-06-27;VINSI; Debug;1,5;TMA
+2018-06-27;Sancerre; tickets wording et factures;2;TMA
 2018-06-27;ODGProvence;Juliet Mail et recherche avancé ;1,5;TMA
 2018-06-27;IVBD; pdf des drms;2;TMA
 2018-06-27;DeclarVins;bug edi sortie vrac rectif / assistance;6;TMA
-2018-06-27;Sancerre; tickets wording et factures;2;TMA
+2018-06-26;Sancerre; tickets les produits ajouté en auto et crd par defaut;5,5;TMA
 2018-06-26;ODGRhone;probleme drev villages st andeol ;1,5;TMA
 2018-06-26;DeclarVins;Assistance;1;TMA
-2018-06-26;Sancerre; tickets les produits ajouté en auto et crd par defaut;5,5;TMA
 2018-06-25;VINSI;PROBLEME ENLEMENTS SUR CONTRATS;3,5;TMA
+2018-06-25;Sancerre;bug stats;2;TMA
 2018-06-25;ODGProvence;Export AVPI;3,5;TMA
 2018-06-25;CIVA;Mercuriales;4;TMA
-2018-06-25;Sancerre;bug stats;2;TMA
 2018-06-22;ODGRhone;bug export contact;3,5;TMA
 2018-06-22;ODGProvence;Export AVPI;4,5;TMA
 2018-06-22;NathanMode;retours;2;Forfait
@@ -281,11 +384,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-21;ODGProvence;Export AVPI;4,5;TMA
 2018-06-21;DeclarVins;Assistance;3;TMA
 2018-06-20;VINSI;conf retour douane;2;TMA
+2018-06-20;Sancerre;conf retour douane;2;TMA
 2018-06-20;NathanMode;retours;2;Forfait
 2018-06-20;IVSO;conf retour douane;2;TMA
 2018-06-20;IVBD;conf retour douane;2;TMA
 2018-06-20;DeclarVins;Premix / Assistance;4;TMA
-2018-06-20;Sancerre;conf retour douane;2;TMA
 2018-06-20;24eme;julien fournier;1;
 2018-06-19;VINSI; retour douane;3,5;TMA
 2018-06-19;Sancerre; retour douane;3,5;TMA
@@ -298,8 +401,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-15;IVSO;bouton de retour douane;2,5;TMA
 2018-06-15;Aurouze;par default on ne met pas facture dans type de reglement;2;Forfait
 2018-06-14;VINSI;maj de l'enlevement contrat ;2,5;TMA
-2018-06-14;DeclarVins;Bilan DRM correctifs / assistance;7;TMA
 2018-06-14;Sancerre;Ordre factures libres et orthographe;2;TMA
+2018-06-14;DeclarVins;Bilan DRM correctifs / assistance;7;TMA
 2018-06-14;24eme;Visite médicale;2;24EME
 2018-06-13;VINSI;Réparation du elasticSearch;5,5;TMA
 2018-06-13;DeclarVins;Edi contrat IS bug / delai paiement civp / assistance;7;TMA
@@ -311,10 +414,10 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-11;DeclarVins;CAS;1;TMA
 2018-06-11;CIVA;Mercuriales;6;TMA
 2018-06-11;Aurouze;test banquaire suivi;2;Forfait
+2018-06-08;Sancerre;retrait pour tous de caution l'oganisme cautionneur dans le formulaire etablissement de drm;3,5;TMA
 2018-06-08;ODGRhone;picto de sens interdit pour les comptes en alerte ;3,5;TMA
 2018-06-08;IVSO;Libelles fiscaux / droits circulation / bug edenwine / assistance catherine;3,5;TMA
 2018-06-08;DeclarVins;Pdf profil / produit ivse contrat civp / assistance;3,5;TMA
-2018-06-08;Sancerre;retrait pour tous de caution l'oganisme cautionneur dans le formulaire etablissement de drm;3,5;TMA
 2018-06-07;VINSI;Retours douanes datés;3,5;TMA
 2018-06-07;24eme;Tactical et facturation;3,5;TM
 2018-06-07;24eme;Facturation / tactical meeting;

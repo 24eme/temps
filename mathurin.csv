@@ -9,12 +9,12 @@
 2018-10-04;IVBD;reunion statistique;7;reunion
 2018-10-05;24eme;avant vente CDGS;2;avant vente
 2018-10-08;IVSO;Debug de DRM;1;TMA
-2018-10-08;OdgProvence;exports AVPI;5;Lot 3
+2018-10-08;ODGProvence;exports AVPI;5;Lot 3
 2018-10-08;VINSI;debug DRM;1;TMA
 2018-10-09;Aurouze;prelevement banque;1;reunion
 2018-10-09;IVSO;Reecriture des contrats CVG et reparation France Agrimer;2;TMA
-2018-10-10;BIVC;Retour XML mal formatte douane;2,5;TMA
-2018-10-10;OdgProvence;ouverture DREV et mis a jour contacts;2,5;Lot 3
+2018-10-10;Sancerre;Retour XML mal formatte douane;2,5;TMA
+2018-10-10;ODGProvence;ouverture DREV et mis a jour contacts;2,5;Lot 3
 2018-10-10;VINSI;renforcement et debug du retour douane;2;TMA
 2018-10-11;AVA;debug de tournee;1,5;TMA
 2018-10-12;24eme;Tactical meeting et facturation;4;24eme
@@ -23,22 +23,22 @@
 2018-10-15;24eme;reinstall ordinateur;6;24eme
 2018-10-15;VINSI;mis a jour de la configuration produit champagne;1;TMA
 2018-10-16;24eme;reinstall ordinateur;3;24eme
-2018-10-16;OdgProvence;mis a jour des contacts;3,5;Lot 3
+2018-10-16;ODGProvence;mis a jour des contacts;3,5;Lot 3
 2018-10-17;TueNet;Import tue net;7;TueNet
 2018-10-18;TueNet;Import tue net;7;TueNet
 2018-10-18;VINSI;transmission douane;1;TMA
 2018-10-19;24eme;Entretient;3;24eme
-2018-10-19;BIVC;gestion de DRM;1;TMA
+2018-10-19;Sancerre;gestion de DRM;1;TMA
 2018-10-19;IVSO;probleme depot France Agrimer;0,5;TMA
 2018-10-22;AVA;debug de tournee;0,25;TMA
 2018-10-22;TueNet;import donnee;3;TueNet
 2018-10-23;Aurouze;adaptation pour les prelevements;3,5;TMA
-2018-10-23;OdgProvence;inversion l15 et l5;3,5;Lot 3
-2018-10-24;OdgProvence;reunion provence;7;Lot 3
-2018-10-25;24eme;report24;3,5;prodimmo
+2018-10-23;ODGProvence;inversion l15 et l5;3,5;Lot 3
+2018-10-24;ODGProvence;reunion provence;7;Lot 3
+2018-10-25;24eme;report24;3,5;Prodimmo
 2018-10-25;VINSI;Export bi et DRM debug;4,5;TMA
-2018-10-26;OdgProvence;Debug;7;Lot 3
-2018-10-29;OdgProvence;Popup bio et gestion import;7;Lot 3
+2018-10-26;ODGProvence;Debug;7;Lot 3
+2018-10-29;ODGProvence;Popup bio et gestion import;7;Lot 3
 2018-10-30;24eme;malade;7;24eme
 2018-10-31;24eme;Entretient;4;24eme
 2018-10-31;VINSI;Export bi short et filtre Igp;2;TMA
