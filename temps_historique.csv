@@ -535,7 +535,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-05-04;DeclarVins;XML Neant / EDI logiciel tiers / Assistance CIEL / Demandes CIVP;7;TMA
 2018-05-04;CIVA;Rattachement de comptes;0,5;TMA
 2018-05-04;AVA;Date de facturation dans l'édition d'une facture, facture regenéré à la date du jour, correction dégustation;2,5;TMA
-2018-05-03;Sancerre;Tâche de réplication;1,5;Admin sys
 2018-05-03;Sancerre;Appelation supplémentaire;3;TMA
 2018-05-03;ODGProvence;debug ;0,5;Forfait
 2018-05-03;24eme;Temps + facturation;2,5;24ème
@@ -824,18 +823,17 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-01;ODGProvence;Réunion;7;Forfait
 2018-03-01;IVBD;Correction produit et contrat;1,5;TMA
 2018-03-01;EliteAuto;GP Bwat;Forfait
-2018-02-28;VINSI;Direction Technique;0,5;TMA
-2018-02-28;Sancerre;Direction Technique;0,5;TMA
-2018-02-28;Sancerre;Direction Technique;0,5;Hébergement
+2018-02-28;VINSI;Direction Technique;3,5;TMA
+2018-02-28;Sancerre;Direction Technique;3,5;TMA
 2018-02-28;Sancerre;Corrections de bug de génération et notamment dans la facturation;2,5;TMA
 2018-02-28;ODGProvence;tickets;7;Forfait
-2018-02-28;ODGProvence;Direction Technique;1,5;Forfait
+2018-02-28;ODGProvence;Direction Technique;10,5;Forfait
 2018-02-28;ODGProvence;Dév;4,5;Forfait
-2018-02-28;IVSO;Direction Technique;0,5;TMA
-2018-02-28;IVBD;Direction Technique;0,5;TMA
-2018-02-28;CIVA;Direction Technique;0,5;TMA
+2018-02-28;IVSO;Direction Technique;3,5;TMA
+2018-02-28;IVBD;Direction Technique;3,5;TMA
+2018-02-28;CIVA;Direction Technique;3,5;TMA
 2018-02-28;AVA;Réunion téléphonique facturation;0,5;TMA
-2018-02-28;AVA;Direction Technique;0,5;TMA
+2018-02-28;AVA;Direction Technique;3,5;TMA
 2018-02-27;VINSI;Vente négoce à négoce sur les DRM;3;TMA
 2018-02-27;ODGProvence;Tickets;5;Forfait
 2018-02-27;ODGProvence;tickets;5;Forfait
