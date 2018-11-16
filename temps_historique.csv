@@ -38,7 +38,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-22;DeclarVins;Assistance / Demandes;3,5;TMA
 2018-10-22;CNIV;Tests IP;0,5;TMA
 2018-10-22;CIVA;Fermeture DR;0,5;TMA
-2018-10-22;AVA;Point DRev VCI;0,5;Forfait
+2018-10-22;AVA;Point DRev VCI;0,5;TMA
 2018-10-22;AVA;debug de tournee;0,25;TMA
 2018-10-19;Sancerre;gestion de DRM;1;TMA
 2018-10-19;IVSO;probleme depot France Agrimer;0,5;TMA
@@ -968,7 +968,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-01-24;IVSO;Réplication prod sur la préprod pour comptes test;1;TMA
 2018-01-24;DeclarVins;EDI Declic;2,5;TMA
 2018-01-24;DeclarVins;Demandes;1;TMA
-2018-01-24;AVA;Réflexion VCI;1;VC
+2018-01-24;AVA;Réflexion VCI;1;TMA
 2018-01-24;24eme;Site internet;
 2018-01-24;24eme;Atelire site internet;2,5;24ème
 2018-01-23;VINSI;Wording dans DRM;1;TMA
@@ -984,7 +984,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-01-19;DeclarVins;Demandes;1;TMA
 2018-01-19;CIVA;Suppressions des mises à disposition mairies;1,5;CIVA
 2018-01-19;CIVA;Autocomplete admin compte pour le contrats;3,5;CIVA
-2018-01-19;AVA;Ouverture parcellaire et bug autorisation de transfert  de la DR depuis le CIVA;2;AVA
+2018-01-19;AVA;Ouverture parcellaire et bug autorisation de transfert  de la DR depuis le CIVA;2;TMA
 2018-01-19;Aurouze;Stats de l'année PCA et bilan;5,5;TMA
 2018-01-19;24eme;Gwen;
 2018-01-18;VINSI;Debug des contrats visualisations;3,5;TMA
