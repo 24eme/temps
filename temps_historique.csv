@@ -26,9 +26,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-25;24eme;report24;3,5;Prodimmo
 2018-10-25;24eme;Entretien Jerome;
 2018-10-24;ODGProvence;reunion provence;7;Lot 3
-2018-10-24;ODGProvence;Reunion;7;Forfait
+2018-10-24;ODGProvence;Reunion;7;Réunion
 2018-10-24;CNIV;communication IP;0,5;TMA
-2018-10-23;ODGProvence;L05/L15;4;Forfait
+2018-10-23;ODGProvence;L05/L15;4;Lot 3
 2018-10-23;ODGProvence;inversion l15 et l5;3,5;Lot 3
 2018-10-23;CNIV;nouvelles IP;1,5;TMA
 2018-10-23;Aurouze;adaptation pour les prelevements;3,5;TMA
@@ -288,7 +288,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-07-12;IVSO; ajout de message fin de DRM;1;TMA
 2018-07-12;IVBD; ajout de message fin de DRM;1;TMA
 2018-07-12;InterRhone;DAE;7;Forfait
-2018-07-11;ODGProvence;Ajout Parcellaire irrigue PDF;4,5;TMA
+2018-07-11;ODGProvence;Ajout Parcellaire irrigue PDF;4,5;Lot 2
 2018-07-11;IVSO; uniformisation bi;1;TMA
 2018-07-11;InterRhone;DAE;7;Forfait
 2018-07-10;IVSO; Ajout dans Bi des retour douane;2,5;TMA
@@ -357,7 +357,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-30;Admin sys;Indépendance serveur vins.actualys.com, migration des gits et visu tinc;;Admin sys
 2018-06-30;Admin sys;Fail2ban + pique d'activité odg provence;;Admin sys
 2018-06-30;Admin sys;;7,0;Admin sys
-2018-06-29;ODGProvence;wording irrigé ;2,5;TMA
+2018-06-29;ODGProvence;wording irrigé ;2,5;Lot 2
 2018-06-29;CIVA;Mercuriales;7;Mercuriales
 2018-06-28;IVSO;reparation BI;1;TMA
 2018-06-28;IVBD;reparation report One;2;TMA
@@ -427,7 +427,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-06;Aurouze;test banquaire suivi;0,5;Prélèvement
 2018-06-05;VINSI;Correctif dans les facturation;2;TMA
 2018-06-05;Pythagore;formation mongo;7;Forfait
-2018-06-05;ODGProvence;Point tel et rectification campagne des parcelle irrigue;3,5;TMA
+2018-06-05;ODGProvence;Point tel et rectification campagne des parcelle irrigue;3,5;Lot 2
 2018-06-05;Aurouze;test banquaire suivi;1,5;Prélèvement
 2018-06-04;VINSI;Gestion de DRM foireuses;3;TMA
 2018-06-04;VINSI;Annulation de DRM;0,5;TMA
@@ -470,7 +470,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-05-24;24eme;Intégration continue;3,5;Admin sys
 2018-05-23;VINSI;boostrap et merge libéllé personnalisé ;2;TMA
 2018-05-23;ODGProvence;parcellaire irrigable en campagne nplus1;2,5;TMA
-2018-05-23;ODGProvence;Mise en preprod parcellaire irrigue;1;Forfait
+2018-05-23;ODGProvence;Mise en preprod parcellaire irrigue;1;Lot 2
 2018-05-23;DeclarVins;IR indicateurs eco / edi logiciel tiers;6;TMA
 2018-05-23;CIVA; Test pour isagri et réponse;2,5;TMA
 2018-05-23;24eme;Sysnove;7;Admin sys
@@ -536,7 +536,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-05-04;CIVA;Rattachement de comptes;0,5;TMA
 2018-05-04;AVA;Date de facturation dans l'édition d'une facture, facture regenéré à la date du jour, correction dégustation;2,5;TMA
 2018-05-03;Sancerre;Appelation supplémentaire;3;TMA
-2018-05-03;ODGProvence;debug ;0,5;Forfait
+2018-05-03;ODGProvence;debug ;0,5;Lot 1
 2018-05-03;24eme;Temps + facturation;2,5;24ème
 2018-05-03;24eme;Tactical;3,5;TM
 2018-05-03;24eme;Tactical;3;24ème
@@ -596,7 +596,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-04-20;CIVA;Correction tiers pour la convention;1;TMA
 2018-04-20;AVA;Corrections facturations VCI, génération des papiers, flag des opérateur qui ont ouvert les mails;7;Facturation 2018
 2018-04-20;24eme;Conges;7;Conges
-2018-04-19;ODGProvence;reparation base OdgProvence;7;Forfait
+2018-04-19;ODGProvence;reparation base OdgProvence;7;Lot 1
 2018-04-19;ODGProvence;Bug replication des bases;7;Lot 1
 2018-04-19;NathanMode;evolutions;3;Forfait
 2018-04-19;DeclarVins;csv ciel attente;3;TMA
@@ -623,12 +623,12 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-04-16;CIVA;convention ciel;2,5;TMA
 2018-04-13;VINSI;Bug droit;0,5;TMA
 2018-04-13;Sancerre;Debug des facturations SV12 pourris;4;TMA
-2018-04-13;ODGProvence;reecriture des clefs du parcellaire;3;Forfait
+2018-04-13;ODGProvence;reecriture des clefs du parcellaire;3;Lot 1
 2018-04-13;CIVA;convention ciel;6;TMA
 2018-04-13;CIVA;autorisation CVI à transmettre sur prodouane qualif;0,5;TMA
 2018-04-13;AVA;Divers corrections et envoi des mails;7;Facturation 2018
 2018-04-12;Sancerre;Corrections de factures dont l'émetteur était vide + simplification;2;TMA
-2018-04-12;ODGProvence;reimport interlocuteurs suplementaires;4;Forfait
+2018-04-12;ODGProvence;reimport interlocuteurs suplementaires;4;Lot 1
 2018-04-12;DeclarVins;pdf produit acq;2,5;TMA
 2018-04-12;DeclarVins;mail dti+;0,5;TMA
 2018-04-12;DeclarVins;fiche profil;3;TMA
@@ -671,7 +671,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-04-05;Formation;Formation Apache;7;Formation
 2018-04-05;24eme;Compta;2;
 2018-04-04;Sancerre;Rattrapage de facturation pourrie;2;TMA
-2018-04-04;ODGProvence;Reimport du parcellaire;5;Forfait
+2018-04-04;ODGProvence;Reimport du parcellaire;5;Lot 1
 2018-04-04;NathanMode;evolutions;3;Forfait
 2018-04-04;IVSO;Assistance DRM;0,5;TMA
 2018-04-04;Formation;Formation Apache;7;Formation
@@ -693,7 +693,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-29;Formation;Préparation de la formation Apache;2,5;Formation
 2018-03-29;AVA;Facturation 2018 import des DR et conf;3;Facturation 2018
 2018-03-29;24eme;Congés;7;Congés
-2018-03-28;ODGProvence;Exports, cron, et conf envoi de mail;3,5;Forfait
+2018-03-28;ODGProvence;Exports, cron, et conf envoi de mail;3,5;Lot 1
 2018-03-28;NathanMode;evolutions;5,5;Forfait
 2018-03-28;CIVA;Test fichier ingetel;1;TMA
 2018-03-28;AVA;Facturation 2018 import des DR;1,5;Facturation 2018
@@ -702,13 +702,13 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-28;24eme;Congés;7;Congés
 2018-03-27;VINSI;debug tickets;1,5;TMA
 2018-03-27;ODGRhone;ré-import compte;2;TMA
-2018-03-27;ODGProvence;debug;1,5;Forfait
+2018-03-27;ODGProvence;debug;1,5;Lot 1
 2018-03-27;NathanMode;evolutions;4;Forfait
 2018-03-27;CIVA;Réunion;3,5;Réunion
 2018-03-27;CIVA; Réunion;2;Réunion
 2018-03-27;AVA;Facturation du VCI;3,5;Facturation 2018
 2018-03-26;VINSI;crds;3,5;TMA
-2018-03-26;ODGProvence;Présentation des contacts;3,5;Forfait
+2018-03-26;ODGProvence;Présentation des contacts;3,5;Lot 1
 2018-03-26;NathanMode;Git du projet;3;Forfait
 2018-03-26;EliteAuto;Bwat retours;1;Forfait
 2018-03-26;DeclarVins;Assistance;0,5;TMA
@@ -717,8 +717,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-26;24eme;Declaration Beneficiaires;2;
 2018-03-23;ODGRhone;ré-import compte;2;TMA
 2018-03-23;ODGRhone;Estimation;1;TMA
-2018-03-23;ODGProvence;Vérif import;0,5;Forfait
-2018-03-23;ODGProvence;import;5;Forfait
+2018-03-23;ODGProvence;Vérif import;0,5;Lot 1
+2018-03-23;ODGProvence;import;5;Lot 1
 2018-03-23;IVBD;Saisi des contrats hors interpro par le numéro;1;TMA
 2018-03-23;DeclarVins;Assistances;4;TMA
 2018-03-23;DeclarVins;Arrondi EDI;1,5;TMA
@@ -726,45 +726,45 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-23;AVA;Déblocage DRev;0,5;TMA
 2018-03-23;Aurouze;Estimation;1;TMA
 2018-03-22;ODGRhone;problème inao;1;TMA
-2018-03-22;ODGProvence;ré-import;6;Forfait
-2018-03-22;ODGProvence;Préparation import;2,5;Forfait
+2018-03-22;ODGProvence;ré-import;6;Lot 1
+2018-03-22;ODGProvence;Préparation import;2,5;Lot 1
 2018-03-22;IVBD;Saisi des contrats hors interpro par le numéro;3,5;TMA
 2018-03-22;24eme;Jour off;7;
 2018-03-21;VINSI;Intervention DRM télédéclaré;1;TMA
 2018-03-21;Pythagore;Formation Mongo;7;Forfait
-2018-03-21;ODGProvence;Test import nouveau fichier;3,5;Forfait
-2018-03-21;ODGProvence;ré-import Alicia;7;Forfait
+2018-03-21;ODGProvence;Test import nouveau fichier;3,5;Lot 1
+2018-03-21;ODGProvence;ré-import Alicia;7;Lot 1
 2018-03-20;VINSI;Réunion;7;Réunion
 2018-03-20;VINSI;Réunion;7;Réunion
 2018-03-20;Pythagore;Formation Mongo;7;Forfait
 2018-03-20;Aurouze; upload téléphone;1,5;TMA
 2018-03-19;Pythagore;Formation Mongo;7;Forfait
 2018-03-19;ODGRhone;Habilitation INAO;1;Forfait
-2018-03-19;ODGProvence;ré-import Alicia;5,5;Forfait
+2018-03-19;ODGProvence;ré-import Alicia;5,5;Lot 1
 2018-03-19;CIVA;changement et correction arbre produit et mouvement;3,5;TMA
 2018-03-19;Aurouze; upload téléphone;2;TMA
-2018-03-16;ODGProvence;mis en prod;7;Forfait
-2018-03-16;ODGProvence;Dév;4;Forfait
+2018-03-16;ODGProvence;mis en prod;7;Lot 1
+2018-03-16;ODGProvence;Dév;4;Lot 1
 2018-03-16;CIVA;changement et correction arbre produit;2;TMA
 2018-03-16;24eme;Preparation Mongo;7;
-2018-03-15;ODGProvence;import;7;Forfait
-2018-03-15;ODGProvence;Dév;5,5;Forfait
+2018-03-15;ODGProvence;import;7;Lot 1
+2018-03-15;ODGProvence;Dév;5,5;Lot 1
 2018-03-15;EliteAuto;Bwat retours;1;Forfait
 2018-03-15;CIVA;Création tiers + test fichier ingetel;1,5;TMA
 2018-03-15;24eme;Preparation Mongo;6;
-2018-03-14;ODGProvence;Fine Tuning;7;Forfait
-2018-03-14;ODGProvence;Fine tuning;7;Forfait
+2018-03-14;ODGProvence;Fine Tuning;7;Réunion
+2018-03-14;ODGProvence;Fine tuning;7;Réunion
 2018-03-14;ODGProvence;Dév;5;Forfait
 2018-03-14;IVSO;Transmission DRM;1;TMA
 2018-03-14;CIVA;Test fichier cfg67;1;TMA
-2018-03-13;ODGProvence;Fine Tuning;7;Forfait
-2018-03-13;ODGProvence;Fine tuning;7;Forfait
-2018-03-13;ODGProvence;Dév;7;Forfait
+2018-03-13;ODGProvence;Fine Tuning;7;Réunion
+2018-03-13;ODGProvence;Fine tuning;7;Réunion
+2018-03-13;ODGProvence;Dév;7;Lot 1
 2018-03-13;IVSO;Transmission DRM;1;TMA
 2018-03-12;Sancerre;Pb Stats;1;TMA
 2018-03-12;Sancerre;Correction problème de contact;1;TMA
-2018-03-12;ODGProvence;import;7;Forfait
-2018-03-12;ODGProvence;Dév;7;Forfait
+2018-03-12;ODGProvence;import;7;Lot 1
+2018-03-12;ODGProvence;Dév;7;Lot 1
 2018-03-12;EliteAuto;Bwat retours;1;Forfait
 2018-03-12;DeclarVins;Modification fiche contact;0,5;TMA
 2018-03-12;DeclarVins;DRM stock dispo;1;TMA
@@ -773,8 +773,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-12;CIVA;Correction tiers;0,5;TMA
 2018-03-09;VINSI;Intervention DRM télédéclaré;1;TMA
 2018-03-09;Pythagore;Formation MongoDB;7;Forfait
-2018-03-09;ODGProvence;Parcellaire en Parcellaire Affectation et Parcellaire Irriguable;6;Forfait
-2018-03-09;ODGProvence; parcellaire;6;Forfait
+2018-03-09;ODGProvence;Parcellaire en Parcellaire Affectation et Parcellaire Irriguable;6;Lot 1
+2018-03-09;ODGProvence; parcellaire;6;Lot 1
 2018-03-09;Aurouze; preprod upload;1;TMA
 2018-03-08;Pythagore;Formation MongoDB;7;Forfait
 2018-03-08;ODGRhone;problème export;1;TMA
@@ -787,16 +787,16 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-07;VINSI;erreur contrat;0,5;TMA
 2018-03-07;Pythagore;Formation MongoDB;7;Forfait
 2018-03-07;ODGRhone;problème export;2;TMA
-2018-03-07;ODGProvence;parcellaire irrigable;4;Forfait
-2018-03-07;ODGProvence;Parcellaire en Parcellaire Affectation;3;Forfait
+2018-03-07;ODGProvence;parcellaire irrigable;4;Lot 1
+2018-03-07;ODGProvence;Parcellaire en Parcellaire Affectation;3;Lot 1
 2018-03-07;IVSO;Catalogue produit réorganisation +correction télétransmission d'une DRM;2;TMA
 2018-03-07;CIVA;Compte de test pour les douanes;0,5;TMA
 2018-03-07;Aurouze;Déplacement de contrat;0,5;TMA
 2018-03-06;Sancerre;Stats filtre produit + produits manquants;2;TMA
 2018-03-06;ODGRhone;suppression dans les groupes;1;TMA
 2018-03-06;ODGRhone;Habilitation INAO;1,5;Forfait
-2018-03-06;ODGProvence;ré organisation de l'information dans les vue du parcellaire;5;Forfait
-2018-03-06;ODGProvence;Nom de domaine;0,5;Forfait
+2018-03-06;ODGProvence;ré organisation de l'information dans les vue du parcellaire;5;Lot 1
+2018-03-06;ODGProvence;Nom de domaine;0,5;Lot 1
 2018-03-06;IVSO;Catalogue produit avec les alcools et autres;2,5;TMA
 2018-03-06;IVBD;Edi de la cave alliance;1;TMA
 2018-03-06;DeclarVins;Identification produit EDI IS;1,5;TMA
@@ -813,59 +813,59 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-02;ODGRhone;transfère des groupes comptes;4;TMA
 2018-03-02;ODGRhone;Habilitation INAO;1;Forfait
 2018-03-02;ODGRhone;désarchivage d'un compte pas top;1;Forfait
-2018-03-02;ODGProvence;ticketing;2,5;Forfait
+2018-03-02;ODGProvence;ticketing;2,5;Lot 1
 2018-03-02;CIVA;Contrat réservation de numéro;1;TMA
 2018-03-02;24eme;Preparation Mongo;3;
 2018-03-01;VINSI;Intervention DRM télédéclaré;1;TMA
 2018-03-01;Sancerre;Statistiques CVO;4;TMA
 2018-03-01;Sancerre;Correction problème code comptable;1;TMA
 2018-03-01;ODGRhone;Habilitation INAO;3;Forfait
-2018-03-01;ODGProvence;Réunion;7;Forfait
+2018-03-01;ODGProvence;Réunion;7;Réunion
 2018-03-01;IVBD;Correction produit et contrat;1,5;TMA
 2018-03-01;EliteAuto;GP Bwat;Forfait
 2018-02-28;VINSI;Direction Technique;3,5;TMA
 2018-02-28;Sancerre;Direction Technique;3,5;TMA
 2018-02-28;Sancerre;Corrections de bug de génération et notamment dans la facturation;2,5;TMA
-2018-02-28;ODGProvence;tickets;7;Forfait
-2018-02-28;ODGProvence;Direction Technique;10,5;Forfait
-2018-02-28;ODGProvence;Dév;4,5;Forfait
+2018-02-28;ODGProvence;tickets;7;Lot 1
+2018-02-28;ODGProvence;Direction Technique;10,5;Lot 1
+2018-02-28;ODGProvence;Dév;4,5;Lot 1
 2018-02-28;IVSO;Direction Technique;3,5;TMA
 2018-02-28;IVBD;Direction Technique;3,5;TMA
 2018-02-28;CIVA;Direction Technique;3,5;TMA
 2018-02-28;AVA;Réunion téléphonique facturation;0,5;TMA
 2018-02-28;AVA;Direction Technique;3,5;TMA
 2018-02-27;VINSI;Vente négoce à négoce sur les DRM;3;TMA
-2018-02-27;ODGProvence;Tickets;5;Forfait
-2018-02-27;ODGProvence;tickets;5;Forfait
-2018-02-27;ODGProvence;Dév;4,5;Forfait
+2018-02-27;ODGProvence;Tickets;5;Lot 1
+2018-02-27;ODGProvence;tickets;5;Lot 1
+2018-02-27;ODGProvence;Dév;4,5;Lot 1
 2018-02-27;AVA;Ajout d'un opérateur dans la dégustation;0,5;TMA
 2018-02-26;VINSI;Extraction comptable;1;TMA
 2018-02-26;VINSI;Annulation de DRM d'un viti;0,5;TMA
 2018-02-26;ODGRhone;tri alphabetique des comptes;3;TMA
-2018-02-26;ODGProvence;Tickets;7;Forfait
-2018-02-26;ODGProvence;tickets;3,5;Forfait
-2018-02-26;ODGProvence;réunion téléphonique;1;Forfait
-2018-02-26;ODGProvence;Dév;6;Forfait
+2018-02-26;ODGProvence;Tickets;7;Lot 1
+2018-02-26;ODGProvence;tickets;3,5;Lot 1
+2018-02-26;ODGProvence;réunion téléphonique;1;Réunion
+2018-02-26;ODGProvence;Dév;6;Lot 1
 2018-02-26;Aurouze;Déplacement de contrat;0,5;TMA
-2018-02-23;ODGProvence;Tickets;7;Forfait
-2018-02-23;ODGProvence;migration des comptes et import;7;Forfait
-2018-02-23;ODGProvence;Dév;6;Forfait
+2018-02-23;ODGProvence;Tickets;7;Lot 1
+2018-02-23;ODGProvence;migration des comptes et import;7;Lot 1
+2018-02-23;ODGProvence;Dév;6;Lot 1
 2018-02-23;CIVA;Signature d'un contrat interne;0,5;TMA
 2018-02-22;VINSI;Transmission DRM viti;0,5;TMA
-2018-02-22;ODGProvence;Tickets;3;Forfait
-2018-02-22;ODGProvence;migration des comptes et import;7;Forfait
-2018-02-22;ODGProvence;Design général de l'application;3,5;Forfait
+2018-02-22;ODGProvence;Tickets;3;Lot 1
+2018-02-22;ODGProvence;migration des comptes et import;7;Lot 1
+2018-02-22;ODGProvence;Design général de l'application;3,5;Lot 1
 2018-02-22;EliteAuto;GP Bwat;Forfait
 2018-02-22;DeclarVins;Demandes TMA;3;TMA
 2018-02-22;Aurouze;Correction avoir et contrat;1;TMA
-2018-02-21;ODGProvence;migration des comptes et import;7;Forfait
-2018-02-21;ODGProvence;Design général de l'application;3,5;Forfait
+2018-02-21;ODGProvence;migration des comptes et import;7;Lot 1
+2018-02-21;ODGProvence;Design général de l'application;3,5;Lot 1
 2018-02-21;DeclarVins;EDI Declic;5,5;TMA
 2018-02-21;DeclarVins;Demandes TMA;1,5;TMA
 2018-02-21;AVA;Corrections dégustation;1;TMA
 2018-02-20;Sancerre;Statistiques;4;TMA
-2018-02-20;ODGProvence;Réorganisation des fichiers du style css;3,5;Forfait
-2018-02-20;ODGProvence;migration des comptes et import;7;Forfait
+2018-02-20;ODGProvence;Réorganisation des fichiers du style css;3,5;Lot 1
+2018-02-20;ODGProvence;migration des comptes et import;7;Lot 1
 2018-02-20;EliteAuto;GP Bwat;Forfait
 2018-02-20;DeclarVins;Demandes TMA;2;TMA
 2018-02-20;CIVA;Transfert de tiers;0,5;TMA
@@ -874,7 +874,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-02-19;VINSI;Annulation de contrat;1;TMA
 2018-02-19;Sancerre;Transformation arbre produit pour DRM;1;TMA
 2018-02-19;Sancerre;Indexation;3;TMA
-2018-02-19;ODGProvence;migration des comptes;3,5;Forfait
+2018-02-19;ODGProvence;migration des comptes;3,5;Lot 1
 2018-02-19;AVA;Correction bug bouton retour;0,5;TMA
 2018-02-19;Aurouze;Déplacement de contrat;0,5;TMA
 2018-02-19;24eme;Rdv medical;
@@ -898,7 +898,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-02-14;EliteAuto;GP Bwat;Forfait
 2018-02-14;DeclarVins;Demandes TMA;1;TMA
 2018-02-13;ODGRhone;Export DR;2;Forfait
-2018-02-13;ODGProvence;import de donnée et tickets;3;Forfait
+2018-02-13;ODGProvence;import de donnée et tickets;3;Lot 1
 2018-02-13;EliteAuto;GP Bwat;Forfait
 2018-02-13;CIVA; Correction application DRM;1;TMA
 2018-02-13;CIVA;Convention Ciel;3;TMA
@@ -906,40 +906,40 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-02-13;24eme;Compta Estelle;
 2018-02-12;VINSI;Traitement fichier EDI;1;TMA
 2018-02-12;ODGRhone;mis a jour de l'export des DREV et des habilitation;2,5;Forfait
-2018-02-12;ODGProvence;import du parcellaire;3;Forfait
+2018-02-12;ODGProvence;import du parcellaire;3;Lot 1
 2018-02-12;IVSO;Création compte de démo;1;TMA
 2018-02-12;DeclarVins;Demandes TMA;2;TMA
 2018-02-12;Aurouze;Déplacement de contrat;0,5;TMA
 2018-02-12;24eme;Liam Debre;
-2018-02-09;ODGProvence;Reunion Sprint;7;Forfait
-2018-02-09;ODGProvence;Réunion;7;Forfait
+2018-02-09;ODGProvence;Reunion Sprint;7;Réunion
+2018-02-09;ODGProvence;Réunion;7;Réunion
 2018-02-09;DeclarVins;Devalidation DRM;2;TMA
 2018-02-09;DeclarVins;Autocomplete DRM negociant/vini bug;1,5;TMA
-2018-02-08;ODGProvence;Reunion Sprint + Parcellaire Irrigable;7;Forfait
-2018-02-08;ODGProvence;Réunion;7;Forfait
-2018-02-07;ODGProvence;Parcellaire Irrigable;7;Forfait
-2018-02-07;ODGProvence;Parcellaire irrigable;3,5;Forfait
+2018-02-08;ODGProvence;Reunion Sprint + Parcellaire Irrigable;7;Réunion
+2018-02-08;ODGProvence;Réunion;7;Réunion
+2018-02-07;ODGProvence;Parcellaire Irrigable;7;Lot 1
+2018-02-07;ODGProvence;Parcellaire irrigable;3,5;Lot 1
 2018-02-07;DeclarVins;Demandes;3;TMA
 2018-02-06;VINSI;Aide problèmes DRM;1;TMA
-2018-02-06;ODGProvence;Adaptations du parcellaire, import et parcellaire irrigable;6;Forfait
+2018-02-06;ODGProvence;Adaptations du parcellaire, import et parcellaire irrigable;6;Lot 1
 2018-02-06;IVBD;gestion debug;1;TMA
 2018-02-06;24eme;Congés;
-2018-02-05;ODGProvence;Adaptations du parcellaire et import;7;Forfait
+2018-02-05;ODGProvence;Adaptations du parcellaire et import;7;Lot 1
 2018-02-05;24eme;Congés;
 2018-02-02;VINSI;Aide problèmes DRM;2;TMA
 2018-02-02;ODGRhone;Log import DR;2;Forfait
 2018-02-02;ODGRhone;Adaptation export groupe;1;Forfait
-2018-02-02;ODGProvence;Début import;3;Forfait
+2018-02-02;ODGProvence;Début import;3;Lot 1
 2018-02-02;IVBD;gestion debug;1;TMA
 2018-02-02;DeclarVins;Languedoc;1;TMA
 2018-02-01;VINSI;Mise a jour droits circulation;2;TMA
-2018-02-01;ODGProvence;Tache import des Entités;6;Forfait
+2018-02-01;ODGProvence;Tache import des Entités;6;Lot 1
 2018-02-01;DeclarVins;Demandes;4,5;TMA
 2018-02-01;CIVA; Téléphone isagri validation DRM;1;TMA
 2018-02-01;CIVA; Téléphone dominique Marco et produits alcool;2;TMA
 2018-02-01;CIVA;Acces DR;1;TMA
 2018-01-31;VINSI;Debug DRM, pt bloquant contrats;3;TMA
-2018-01-31;ODGProvence;Début import;3;Forfait
+2018-01-31;ODGProvence;Début import;3;Lot 1
 2018-01-31;24eme;Malade;
 2018-01-30;VINSI;Import EDI Isagri Contrats;5;TMA
 2018-01-30;ODGRhone;Nouvelle tache import doc douanes + log import;7;Forfait
@@ -1003,18 +1003,18 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-01-15;DeclarVins;Demandes;1;TMA
 2018-01-12;VINSI;Répartition des contrat;1,5;TMA
 2018-01-12;VINSI;Debug Compte suspendu actif;3,5;TMA
-2018-01-12;ODGProvence;Merge avec l'AVA;3,5;OpenODG
+2018-01-12;ODGProvence;Merge avec l'AVA;3,5;Lot 1
 2018-01-12;DeclarVins;Bilan DRM ameliore et filtre stock epuise;5;TMA
 2018-01-12;CIVA;Export XML et tâche de détéction des VTSGN et modifs contrats vrac;2,5;TMA
 2018-01-12;24eme;TMA Gwen;
-2018-01-11;ODGProvence;Merge avec l'AVA;3,5;OpenODG
+2018-01-11;ODGProvence;Merge avec l'AVA;3,5;Lot 1
 2018-01-11;DeclarVins;Saisie stock 1ere DRM;1,5;TMA
 2018-01-11;DeclarVins;EDI Vrac IVSE;3;TMA
 2018-01-11;Aurouze;Avoir;1;TMA
 2018-01-11;24eme;Reunion NM;3;
-2018-01-10;ODGProvence;Réunion de lancement projet;3;Commercial
-2018-01-10;ODGProvence;Réunion commercial;3,5;Commercial
-2018-01-10;ODGProvence;Reunion;4;Forfait
+2018-01-10;ODGProvence;Réunion de lancement projet;3;Réunion
+2018-01-10;ODGProvence;Réunion commercial;3,5;Réunion
+2018-01-10;ODGProvence;Reunion;4;Réunion
 2018-01-10;DeclarVins;Demandes;1;TMA
 2018-01-10;Aurouze;Listing des contrats en erreurs;4,5;TMA
 2018-01-09;DeclarVins;Demandes;1;TMA
@@ -1023,7 +1023,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-01-09;24eme;Tactical meeting;3,5;24ème
 2018-01-09;24eme;Facturation décembre;3,5;24ème
 2018-01-08;ODGRhone;Export Csv des comptes uniformisation;6;Forfait
-2018-01-08;ODGProvence;Merge avec l'AVA;4;OpenODG
+2018-01-08;ODGProvence;Merge avec l'AVA;4;Lot 1
 2018-01-08;DeclarVins;Languedoc;1;TMA
 2018-01-08;DeclarVins;Demandes;4;TMA
 2018-01-08;AVA;Corrections export et bug drev;1;TMA
