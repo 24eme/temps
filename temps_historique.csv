@@ -85,11 +85,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-05;24eme;RDV CDGS;7;
 2018-10-05;24eme;avant vente CDGS;2;avant vente
 2018-10-04;VINSI;Assistance / Demandes;1;TMA
-2018-10-04;IVBD;reunion statistique;7;reunion
+2018-10-04;IVBD;reunion statistique;7;Réunion
 2018-10-04;24eme;Enrichissement formationmongodb;5;
 2018-10-03;VINSI;debug DRM;1;TMA
-2018-10-03;IVBD;Statistiques;6;TMA
-2018-10-03;IVBD;deploiement statistique;5;Statistique
+2018-10-03;IVBD;Statistiques;6;Statistiques
+2018-10-03;IVBD;deploiement statistique;5;Statistiques
 2018-10-03;24eme;RDV LP;3;
 2018-10-03;24eme;avant vente langues plurielles;2;avant vente
 2018-10-02;VINSI;bug de reprise produit depuis les DS negoce seulement;1,5;TMA
@@ -99,7 +99,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-02;DeclarVins;Assistance / Demandes;4;TMA
 2018-10-02;24eme;RDV laureat.fr;2;
 2018-10-02;24eme;avant vente lauerat fr;2;avant vente
-2018-10-01;IVBD;deploiement statistique;7;Statistique
+2018-10-01;IVBD;deploiement statistique;7;Statistiques
 2018-10-01;DeclarVins;Assistance / Demandes;4;TMA
 2018-10-01;24eme;PreRDV laureat.fr;2;
 2018-09-30;VINSI;TMA DRM;3,5;TMA
