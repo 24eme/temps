@@ -509,8 +509,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-05-14;VINSI;Problème de transmission;1;TMA
 2018-05-14;ODGRhone;problème export habilitation;1;TMA
 2018-05-14;ODGRhone;Debug enregistremlent compte regexp sur site internet ;1;TMA
-2018-05-14;ODGRhone;Bug email de création;3;TMA Non facturable
-2018-05-14;ODGProvence;Import de parcellaires;1;Lot 2
+2018-05-14;ODGRhone;Bug email de création;3;Non facturable
+2018-05-14;ODGProvence;Import de parcellaires;;Lot 2
 2018-05-14;IVSO;Récupération de DRM effacées;1;TMA
 2018-05-14;AVA;Correction DRev;0,5;TMA
 2018-05-11;ODGProvence;Débug des parcellaires;1;Lot 2
