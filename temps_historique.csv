@@ -18,7 +18,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-29;ODGProvence;Popup bio et gestion import;7;Lot 3
 2018-10-29;DeclarVins;Assistance / Demandes;4;TMA
 2018-10-26;ODGProvence;Debug;7;Lot 3
-2018-10-26;IR;Evolution DAE;2;TMA
+2018-10-26;InterRhone;Evolution DAE;2;DAE
 2018-10-26;DeclarVins;Assistance / Demandes;4;TMA
 2018-10-26;Aurouze;Pb reglement / vir sepa;1;TMA
 2018-10-25;VINSI;Export bi et DRM debug;4,5;TMA
@@ -34,7 +34,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-23;Aurouze;adaptation pour les prelevements;3,5;TMA
 2018-10-23;24eme;IVSO budget nextcloud;1,5;
 2018-10-22;TueNet;import donnee;3;TueNet
-2018-10-22;IR;Evolution DAE;1;TMA
+2018-10-22;InterRhone;Evolution DAE;1;DAE
 2018-10-22;DeclarVins;Assistance / Demandes;3,5;TMA
 2018-10-22;CNIV;Tests IP;0,5;TMA
 2018-10-22;CIVA;Fermeture DR;0,5;TMA
@@ -49,15 +49,15 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-19;24eme;Entretien;
 2018-10-18;VINSI;transmission douane;1;TMA
 2018-10-18;TueNet;Import tue net;7;TueNet
-2018-10-18;IR;Evolution DAE;2;TMA
+2018-10-18;InterRhone;Evolution DAE;2;DAE
 2018-10-18;DeclarVins;Assistance / Demandes;2;TMA
 2018-10-18;CNIV;Accompagnement CIVCorse;0,5;TMA
 2018-10-17;TueNet;Import tue net;7;TueNet
-2018-10-17;IR;Evolution DAE;3;TMA
+2018-10-17;InterRhone;Evolution DAE;3;DAE
 2018-10-17;DeclarVins;Assistance / Demandes;3;TMA
 2018-10-17;CNIV;Accompagnement CIVCorse;1;TMA
 2018-10-16;ODGProvence;mis a jour des contacts;3,5;Lot 3
-2018-10-16;IR;Evolution DAE;3;TMA
+2018-10-16;InterRhone;Evolution DAE;3;DAE
 2018-10-16;DeclarVins;Assistance / Demandes;4;TMA
 2018-10-16;24eme;reinstall ordinateur;3;24eme
 2018-10-15;VINSI;mis a jour de la configuration produit champagne;1;TMA
@@ -118,11 +118,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-09-30;24eme;Offre d'emploi;7;24eme
 2018-09-30;24eme;Facturation et tactical;7;24eme
 2018-09-28;PSA;dev;4,5;Forfait
-2018-09-28;InterRhone;Evolution DAE;7;TMA
+2018-09-28;InterRhone;Evolution DAE;7;DAE
 2018-09-28;24eme;ajustement de Ansible;1,5;Ansible
 2018-09-27;VINSI;debug de DRM;1;TMA
 2018-09-27;ODGProvence;choix de produit dans drev avec denom;4;Lot 3
-2018-09-27;InterRhone;Evolution DAE;5;TMA
+2018-09-27;InterRhone;Evolution DAE;5;DAE
 2018-09-27;24eme;Pti Dej CNIV;2;
 2018-09-27;24eme;petit dejeune;2;24eme
 2018-09-26;IVSO;autosiganture des contrats internes;2;TMA
@@ -186,7 +186,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-09-06;CIVA;Gestion catalogue produit;1,5;TMA
 2018-09-06;AVA;Accès plateforme ES;2;TMA
 2018-09-05;Sancerre; Affichage des stocks de fin de DRM si DRM neant;2;TMA
-2018-09-05;InterRhone; DAE tests;0,5;Forfait
+2018-09-05;InterRhone; DAE tests;0,5;DAE
 2018-09-05;DeclarVins;Assistance / Demandes;5;TMA
 2018-09-05;CIVA; Debug des DRM;1,5;TMA
 2018-09-04;DeclarVins;Assistance / Demandes;1,5;TMA
@@ -242,7 +242,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-07-31;IVSO;Intervention DRM et facturation;3,5;TMA
 2018-07-31;IVBD;Intervention DRM et facturation;3,5;TMA
 2018-07-31;IVBD;Import DRM bordeaux;7,0;TMA
-2018-07-31;InterRhone; DAE EDI;2;Forfait
+2018-07-31;InterRhone; DAE EDI;2;DAE
 2018-07-31;InterRhone;DAE;4;TMA
 2018-07-31;CNIV;Renouvellement du certificat;7,0;TMA
 2018-07-31;CIVA;Import des tiers correction des droits, Import tiers, Correction DRM, Rectif contrat, Test fichier EDI;7,0;TMA
@@ -252,8 +252,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-07-31;24eme;Temps, Facturation, Tactical, Bilan comptable;7,0;24EME
 2018-07-31;24eme;Bilan comptable;2;24EME
 2018-07-31;24eme;Bilan Comptable;
-2018-07-30;InterRhone; DAE EDI;5;Forfait
-2018-07-30;InterRhone;DAE;1;TMA
+2018-07-30;InterRhone; DAE EDI;5;DAE
+2018-07-30;InterRhone;DAE;1;DAE
 2018-07-30;DeclarVins;DS Negoce;6;TMA
 2018-07-27;DeclarVins;DS Negoce;5,5;TMA
 2018-07-27;DeclarVins;Assistance;1,5;TMA
@@ -265,41 +265,41 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-07-23;DeclarVins;DS Negoce;6;TMA
 2018-07-23;DeclarVins;Assistance;1;TMA
 2018-07-20;CIVA;Mercuriales;7;TMA
-2018-07-19;InterRhone;Reunion DAE;7;Forfait
+2018-07-19;InterRhone;Reunion DAE;7;DAE
 2018-07-19;24eme;Vacances Mathurin;7;24EME
 2018-07-18;IVSO;retour douane produit libelle personnalise;1;TMA
-2018-07-18;InterRhone;DAE;7;Forfait
+2018-07-18;InterRhone;DAE;7;DAE
 2018-07-18;Giilda;uniformisation giilda;2,5;non facturable
 2018-07-17;VINSI; uniformisation enlevement contrat visu;1;TMA
 2018-07-17;VINSI; Mis en prod xml douane sous forme de tableau;2,5;TMA
 2018-07-17;IVSO; mis en prod xml douane;0,5;TMA
 2018-07-17;IVBD; mis en prod xml douane;0,5;TMA
-2018-07-17;InterRhone;DAE;7;Forfait
+2018-07-17;InterRhone;DAE;7;DAE
 2018-07-17;Aurouze;transferts;0,5;TMA
 2018-07-17;Aurouze;pdf remise banquaire;1;TMA
 2018-07-16;VINSI; Transmission douane foireuse;1;TMA
 2018-07-16;IVSO; Tableau de retour douane;1,5;TMA
 2018-07-16;IVBD; Tableau de retour douane;1,5;TMA
-2018-07-16;InterRhone;DAE;7;Forfait
+2018-07-16;InterRhone;DAE;7;DAE
 2018-07-13;VINSI; Tableau de retour douane;7;TMA
-2018-07-13;InterRhone;DAE;7;Forfait
+2018-07-13;InterRhone;DAE;7;DAE
 2018-07-12;VINSI; Tableau de retour douane;4,5;TMA
 2018-07-12;IVSO;ansible from mail retour douane;0,5;TMA
 2018-07-12;IVSO; ajout de message fin de DRM;1;TMA
 2018-07-12;IVBD; ajout de message fin de DRM;1;TMA
-2018-07-12;InterRhone;DAE;7;Forfait
+2018-07-12;InterRhone;DAE;7;DAE
 2018-07-11;ODGProvence;Ajout Parcellaire irrigue PDF;4,5;TMA
 2018-07-11;IVSO; uniformisation bi;1;TMA
-2018-07-11;InterRhone;DAE;7;Forfait
+2018-07-11;InterRhone;DAE;7;DAE
 2018-07-10;IVSO; Ajout dans Bi des retour douane;2,5;TMA
 2018-07-10;IVBD; Ajout dans Bi des retour douane;1;TMA
-2018-07-10;InterRhone; DAE;2,5;Forfait
+2018-07-10;InterRhone; DAE;2,5;DAE
 2018-07-10;DeclarVins;Assistance;2;TMA
 2018-07-10;24eme;Compta;
 2018-07-09;VINSI; Transmission douane probleme;0,5;TMA
-2018-07-09;InterRhone;DAE;7;Forfait
-2018-07-09;InterRhone; DAE;4,5;Forfait
-2018-07-06;InterRhone; DAE;5;Forfait
+2018-07-09;InterRhone;DAE;7;DAE
+2018-07-09;InterRhone; DAE;4,5;DAE
+2018-07-06;InterRhone; DAE;5;DAE
 2018-07-06;DeclarVins;Assistance;1;TMA
 2018-07-06;CIVA;Mercuriales;6;TMA
 2018-07-05;Aurouze;transferts;0,5;TMA
