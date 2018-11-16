@@ -77,7 +77,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-09;Pythagore;Formation MongoDB;7;Forfait
 2018-10-09;IVSO;Reecriture des contrats CVG et reparation France Agrimer;2;TMA
 2018-10-09;DeclarVins;Assistance / Demandes;2;TMA
-2018-10-09;Aurouze;prelevement banque;1;reunion
+2018-10-09;Aurouze;prelevement banque;1;Réunion
 2018-10-08;VINSI;debug DRM;1;TMA
 2018-10-08;Pythagore;Formation MongoDB;7;Forfait
 2018-10-08;ODGProvence;exports AVPI;5;Lot 3
@@ -153,25 +153,25 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-09-18;24eme;JeanCloude;4;
 2018-09-17;VINSI; analyse et debug retour DRM;1;TMA
 2018-09-17;CIVA;Assistance / Demandes DRM non visible;1,5;TMA
-2018-09-17;Aurouze;sepa banque;3,5;prelevement
+2018-09-17;Aurouze;sepa banque;3,5;Prélèvement
 2018-09-17;Aurouze;debug encours bancaire;1;TMA
 2018-09-17;24eme;PM Off;
-2018-09-14;Aurouze;sepa banque;1;prelevement
+2018-09-14;Aurouze;sepa banque;1;Prélèvement
 2018-09-14;24eme;JeanCloude;7;
 2018-09-13;VINSI; debug DRM reouverture sur les modificatrice en visu;2,5;TMA
 2018-09-13;Juricaf;Assistance / Demandes;1;TMA
-2018-09-13;Aurouze;prelevement banque;3,5;prelevement
+2018-09-13;Aurouze;prelevement banque;3,5;Prélèvement
 2018-09-13;Aurouze;Assistance / Demandes;2;TMA
 2018-09-13;24eme;JeanCloude;4;
-2018-09-12;Aurouze;Reunion Aurouze;2,5;Reunion
+2018-09-12;Aurouze;Reunion Aurouze;2,5;Réunion
 2018-09-12;Aurouze;Point projet;2;TMA
 2018-09-12;24eme;Tactical et facturation;3,5;24EME
 2018-09-12;24eme;Facturation / Tactical;
 2018-09-11;PSA;RDV Rougy;2;Forfait
-2018-09-11;Aurouze;prelevement banque;4,5;prelevement
+2018-09-11;Aurouze;prelevement banque;4,5;Prélèvement
 2018-09-11;Aurouze;en cours de paiement;2,5;TMA
 2018-09-10;DeclarVins;Assistance / Demandes;3;TMA
-2018-09-10;Aurouze;prelevement banque;3,5;prelevement
+2018-09-10;Aurouze;prelevement banque;3,5;Prélèvement
 2018-09-10;24eme;Mathurin absent lapres midi;3,5;conge
 2018-09-07;VINSI; debug de plusieurs DRM;1,5;TMA
 2018-09-07;ODGProvence;reimport des DREV avec bio;2,5;Lot 3
@@ -399,7 +399,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-18;IVBD; retour douane;3,5;TMA
 2018-06-15;VINSI;Enlèvement douane à la demande ;2,5;TMA
 2018-06-15;IVSO;bouton de retour douane;2,5;TMA
-2018-06-15;Aurouze;par default on ne met pas facture dans type de reglement;2;Forfait
+2018-06-15;Aurouze;par default on ne met pas facture dans type de reglement;2;Prélèvement
 2018-06-14;VINSI;maj de l'enlevement contrat ;2,5;TMA
 2018-06-14;Sancerre;Ordre factures libres et orthographe;2;TMA
 2018-06-14;DeclarVins;Bilan DRM correctifs / assistance;7;TMA
@@ -413,7 +413,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-11;ODGRhone;picto de sens interdit pour les comptes en alerte ;2,5;TMA
 2018-06-11;DeclarVins;CAS;1;TMA
 2018-06-11;CIVA;Mercuriales;6;TMA
-2018-06-11;Aurouze;test banquaire suivi;2;Forfait
+2018-06-11;Aurouze;test banquaire suivi;2;Prélèvement
 2018-06-08;Sancerre;retrait pour tous de caution l'oganisme cautionneur dans le formulaire etablissement de drm;3,5;TMA
 2018-06-08;ODGRhone;picto de sens interdit pour les comptes en alerte ;3,5;TMA
 2018-06-08;IVSO;Libelles fiscaux / droits circulation / bug edenwine / assistance catherine;3,5;TMA
@@ -424,19 +424,19 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-06-06;VINSI;Enlevements caclulé en live à chaque validate de DRM ou chaque validate de SV12;3;TMA
 2018-06-06;Pythagore;formation mongo;7;Forfait
 2018-06-06;IVBD;Enlevements contrats calculés à chaque fois;3,5;TMA
-2018-06-06;Aurouze;test banquaire suivi;0,5;Forfait
+2018-06-06;Aurouze;test banquaire suivi;0,5;Prélèvement
 2018-06-05;VINSI;Correctif dans les facturation;2;TMA
 2018-06-05;Pythagore;formation mongo;7;Forfait
 2018-06-05;ODGProvence;Point tel et rectification campagne des parcelle irrigue;3,5;TMA
-2018-06-05;Aurouze;test banquaire suivi;1,5;Forfait
+2018-06-05;Aurouze;test banquaire suivi;1,5;Prélèvement
 2018-06-04;VINSI;Gestion de DRM foireuses;3;TMA
 2018-06-04;VINSI;Annulation de DRM;0,5;TMA
 2018-06-04;Pythagore;formation mongo;7;Forfait
 2018-06-04;ODGRhone;pas d'exception dans les export si on se goure de numéro ;2;TMA
-2018-06-04;Aurouze;test banquaire suivi;1,5;Forfait
+2018-06-04;Aurouze;test banquaire suivi;1,5;Prélèvement
 2018-06-01;VINSI;reecriture toutes DRM;3;TMA
 2018-06-01;Aurouze;transformation libelle des statistique;1;TMA
-2018-06-01;Aurouze;test banquaire suivi;0,5;Forfait
+2018-06-01;Aurouze;test banquaire suivi;0,5;Prélèvement
 2018-06-01;24eme;espace client;
 2018-05-31;VINSI;changement de facture pour les multi papillionnaire;1,5;TMA
 2018-05-31;CIVA;Mise à niveau DRM par rapport aux autres interprofession;7;TMA
@@ -490,14 +490,14 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-05-17;Pythagore;Formation mongo;7;Forfait
 2018-05-17;IVBD;Export des contrats bordeaux;1;TMA
 2018-05-17;CIVA;Correction dans la DRM;2,5;TMA
-2018-05-17;Aurouze; Huissier et paiement;5;Forfait
-2018-05-17;Aurouze;Adaptaion des paiements;1;Forfait
+2018-05-17;Aurouze; Huissier et paiement;5;Adaptation Mobile
+2018-05-17;Aurouze;Adaptaion des paiements;1;Prélèvement
 2018-05-16;VINSI;adaptation factures;4,5;TMA
 2018-05-16;Pythagore;Formation mongo;7;Forfait
 2018-05-16;IVBD;Export des contrats bordeaux;3,5;TMA
 2018-05-16;CIVA;Correction données tiers;0,5;TMA
 2018-05-16;AVA;Génération d'abonnements, Correction DPap, Génération d'abonnement depuis l'interface;3;TMA
-2018-05-16;Aurouze; debug css téléphone;1,5;Forfait
+2018-05-16;Aurouze; debug css téléphone;1,5;Adaptation Mobile
 2018-05-15;VINSI;clean de produits;1;TMA
 2018-05-15;VINSI;Adaptation BI;2;TMA
 2018-05-15;OpenODG;Générisation envoi des mails de compte;2;OpenODG
@@ -516,16 +516,16 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-05-11;ODGProvence;Débug des parcellaires;1;TMA
 2018-05-11;IVBD;aide sur une DRM;0,5;TMA
 2018-05-11;DeclarVins;Assistance CIEL / Demandes CIVP;3;TMA
-2018-05-11;Aurouze; debug tel;1,5;Forfait
+2018-05-11;Aurouze; debug tel;1,5;Gestion Documentaire
 2018-05-09;VINSI;Problème de transmission;1,5;TMA
 2018-05-09;ODGRhone;réparation export habilitation;1;TMA
 2018-05-09;ODGRhone;possibilité de supprimer des des interlocuteurs;1;TMA
 2018-05-09;ODGProvence;possibilité de supprimer des des interlocuteurs;1;TMA
-2018-05-09;Aurouze; protection double upload;2,5;Forfait
+2018-05-09;Aurouze; protection double upload;2,5;Gestion Documentaire
 2018-05-09;24eme;Sysnove;2,5;Admin sys
 2018-05-09;24eme;Envoi des factures;1;24ème
 2018-05-07;ODGRhone;Vérifs migration comptes et mis à jour mineures;1;TMA
-2018-05-07;Aurouze; mis à jour Attachements et mis en prod;5;Forfait
+2018-05-07;Aurouze; mis à jour Attachements et mis en prod;5;Gestion Documentaire
 2018-05-04;VINSI; Template de facture mis à jour;2;TMA
 2018-05-04;VINSI;gestion Volume revendiqué;1;TMA
 2018-05-04;VINSI; EDI mis en place d'une pertinence plus adéquate pour les pays;2;TMA
@@ -546,11 +546,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-05-02;Sancerre;Gestion vinisoft;1;TMA
 2018-05-02;IVBD;crd douane;1,5;TMA
 2018-05-02;DeclarVins;réunion Avignon;7;Conception
-2018-05-02;Aurouze; mis à jour de lordre des Attachements dans les visu;3;Forfait
+2018-05-02;Aurouze; mis à jour de lordre des Attachements dans les visu;3;Gestion Documentaire
 2018-04-30;VINSI;Denom compl;1;TMA
 2018-04-30;VINSI;Bug stocks des mouvements quand modificatrice;1,5;TMA
 2018-04-30;Sancerre;Gestion vinisoft;1;TMA
-2018-04-30;Aurouze; telephone;5;Forfait
+2018-04-30;Aurouze; telephone;5;Adaptation Mobile
 2018-04-30;24eme;Congés;;
 2018-04-30;24eme;Admin sys synove;5,5;24ème
 2018-04-27;VINSI;Sv12 contrat;2;TMA
@@ -560,14 +560,14 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-04-27;IVSO;reinit CRD;4;TMA
 2018-04-27;IVSO;demandes;0,5;TMA
 2018-04-27;IVBD;Export des contrats bordeaux;2;TMA
-2018-04-27;Aurouze; telephone;3;Forfait
+2018-04-27;Aurouze; telephone;3;Adaptation Mobile
 2018-04-27;24eme;Admin sys synove;2;24ème
 2018-04-26;Sancerre;Gestion vinisoft;1;TMA
 2018-04-26;NathanMode;evolutions;6;Forfait
 2018-04-26;IVBD;Export des contrats bordeaux;4,5;TMA
 2018-04-26;IVBD;EDI num accise;1;TMA
 2018-04-26;CIVA;Correction tiers et test fichier EDI;2,5;TMA
-2018-04-26;Aurouze; telephone;2;Forfait
+2018-04-26;Aurouze; telephone;2;Adaptation Mobile
 2018-04-25;VINSI;Denom compl;3,5;TMA
 2018-04-25;Sancerre;libelles persos;2;TMA
 2018-04-25;Sancerre;Catalogue produit;1,5;TMA
@@ -575,7 +575,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-04-25;IVSO;Correction bug emetteur vide;1,5;TMA
 2018-04-25;IVBD;Export des contrats bordeaux;3,5;TMA
 2018-04-25;DeclarVins;demandes;2;TMA
-2018-04-25;Aurouze; telephone;2;Forfait
+2018-04-25;Aurouze; telephone;2;Adaptation Mobile
 2018-04-25;24eme;revision;2;
 2018-04-25;24eme;Amélioration de la visu tinc recherche et image;1,5;24ème
 2018-04-24;VINSI;Denom compl;2;TMA
@@ -649,14 +649,14 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-04-10;DeclarVins;contrat ivse;1;TMA
 2018-04-10;DeclarVins;contrat IS;2;TMA
 2018-04-10;AVA;Tâche de génération des mails;3,5;Facturation 2018
-2018-04-10;Aurouze; Mobile photo ;2,5;Forfait
+2018-04-10;Aurouze; Mobile photo ;2,5;Gestion Documentaire
 2018-04-09;VINSI;gestion retours douanes;2;TMA
 2018-04-09;IVBD;Correction DRM télédéclaré;0,5;TMA
 2018-04-09;AVA;Tâche de génération des mails;3,5;Facturation 2018
 2018-04-09;AVA;Ajout d'un cépage dans la dégustation;0,5;TMA
-2018-04-09;Aurouze; Reunion;2;Non facturable
+2018-04-09;Aurouze; Reunion;2;Réunion
 2018-04-09;Aurouze;Point;1,5;TMA
-2018-04-09;Aurouze; Mobile photo en bas 64 ;3;Forfait
+2018-04-09;Aurouze; Mobile photo en bas 64 ;3;Adaptation Mobile
 2018-04-09;Aurouze;Journee;7;TMA
 2018-04-06;VINSI;tickets et retour douane pertinent;4;TMA
 2018-04-06;ODGRhone;Ajout un lien vers extranet;2;TMA
@@ -888,10 +888,10 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-02-16;EliteAuto;GP Bwat;Forfait
 2018-02-16;DeclarVins;Filtre Nego/Vini;2,5;TMA
 2018-02-16;DeclarVins;Demandes TMA;0,5;TMA
-2018-02-16;Aurouze;upload de fichiers et visu ;4;Gestion documentaire
+2018-02-16;Aurouze;upload de fichiers et visu ;4;Gestion Documentaire
 2018-02-15;ODGRhone;retour sur les Exports;2,5;Forfait
 2018-02-15;IVSO;Transfert DRM;2;TMA
-2018-02-15;Aurouze;upload de fichiers ;2;Gestion documentaire
+2018-02-15;Aurouze;upload de fichiers ;2;Gestion Documentaire
 2018-02-15;Aurouze;Reunion + TMA;5;TMA
 2018-02-15;Aurouze;Repas et point avec les techniciens;2,5;Réunion
 2018-02-14;VINSI;Correction retour Douane;1,5;TMA
