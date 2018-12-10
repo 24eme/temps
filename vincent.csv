@@ -1,10 +1,9 @@
-2018-10-31;CIVA;DS: Export BI, DB2 et XML, Maj Tiers - DRM: EDI, corrections, export DB2 - DR: Ouverture et adaption 2018, Jus de raisin;56;TMA
-2018-10-31;AVA;Corrections export constats, Modifications de constats, Saisie mobile bug dans la saisie du ".";10,5;TMA
-2018-10-31;VINSI;Corrections DRM;10,5;TMA
-2018-10-31;IVBD;Corrections des noeuds CRD pour préparation à l'édition de stats, Correction DRM Bordeaux;3,5;TMA
-2018-10-31;IVSO;Mise à disposition Cahors et corrections de DRM;3,5;TMA
-2018-10-31;Sancerre;Corrections sur les DRM;3,5;TMA
-2018-10-31;ODGRhone;Tâche Iimpot des demandes en cours;14;DI
-2018-10-31;24eme;Report 24 et Mon activité;7;Prodimmo
-2018-10-31;Pythagore;Formation Apache;21;Formation
-2018-10-31;24eme;Facturation et Entretiens;7;24eme
+2018-11-30;AVA;Correction DRev;3,5;TMA
+2018-11-30;AVA;Correction VCI DRev et Registre;14;VCI
+2018-11-30;CNIV;Bilan - interruption de service;7,0;TMA
+2018-11-30;CIVA;Export DB2 DRM, Corrections DR, Corrections DRM;38,5;TMA
+2018-11-30;VINSI;Intervention DRM;3,5;TMA
+2018-11-30;24eme;Report24 et monactivité;10,5;Prodimmo
+2018-11-30;Eurocontrol;Brainstorming et formations;28,0;MigrationGIT
+2018-11-30;PSA;Dév;17,5;Forfait
+2018-11-30;Pythagore;Formation GIT;14;Formation
