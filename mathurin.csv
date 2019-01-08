@@ -1,35 +1,43 @@
-2018-11-02;24eme;vacances;7;24eme
-2018-11-05;VINSI;Loire TMA drm;3,5;TMA
-2018-11-06;OdgProvence;import VCI repartition et creation des inconnu;7;Lot 3
-2018-11-07;Aurouze;gestion reglements;3;TMA
-2018-11-08;BIVC;gestion de DRM et facturation;1;TMA
-2018-11-08;VINSI;Loire TMA drm;1,5;TMA
-2018-11-09;24eme;ordinateur achat;2,5;24eme
-2018-11-12;OdgProvence;ouverture DREV gestion du bio;7;Lot 3
-2018-11-13;24eme;entretient;2,5;24eme
-2018-11-13;CIVA; Debug des DRM;3;TMA
-2018-11-13;OdgProvence;point aide et wording;2;Lot 3
-2018-11-14;24eme;Brice Amato;1;24eme
-2018-11-14;CIVA; retrait du cumul de la sortie manipulationssoutirages;1,5;TMA
-2018-11-14;IVSO;retrait du cumul de la sortie manipulationssoutirages;1,5;TMA
-2018-11-14;VINSI;Loire TMA drm;1,5;TMA
-2018-11-15;IVBD;contacts suspendus;1;TMA
-2018-11-15;VINSI;Loire TMA drm;2,5;TMA
-2018-11-16;24eme;facturation et report 24;3;24eme
-2018-11-16;24eme;Tactical Meeting;3;24eme
-2018-11-19;IVBD;contrats;0,5;TMA
-2018-11-19;VINSI;Loire TMA debug relance et alertes;3;TMA
-2018-11-20;VINSI;debug relance et alertes;2;TMA
-2018-11-20;VINSI;Loire transmission DRM;2;TMA
-2018-11-21;OdgProvence;problème de mail;2;Lot 3
-2018-11-22;IVBD;statistique en couleur mis a jour elk;7;Stats
-2018-11-23;CIVA;compte et login;0,5;TMA
-2018-11-23;IVBD;debug elk;4;Stats
-2018-11-26;IVBD;statistique requetes;5;Stats
-2018-11-26;VINSI;Loire pdf relances et autres configurations;2;TMA
-2018-11-27;Aurouze;transferts contrats;1;TMA
-2018-11-27;PSA; dév;6;PSA
-2018-11-29;IVBD;statistique;7;Stats
-2018-11-30;Aurouze;gestion reglements;1;TMA
-2018-11-30;IVBD;statistique;7;Stats
-2018-11-30;VINSI;probleme compte et DRM;1;TMA
+2018-12-03;IVBD;statistique contrats;5;Stats
+2018-12-03;VINSI;VCI configurations;2;TMA
+2018-12-04;BIVC;relevé de non apurement qui peut ne pas avoir de num accise destinataire;1;TMA
+2018-12-04;IVSO;ouverture compte gestion drm et xml;1,5;TMA
+2018-12-04;VINSI;VCI configurations et debug DRM;3,5;TMA
+2018-12-05;OdgRhone;reprise des volume si pas d acheteur ;2,5;TMA
+2018-12-05;OdgRhone;retrait tag abonnement ;2;TMA
+2018-12-05;VINSI;debug DRM;2;TMA
+2018-12-06;24EME;Sortie Scolaire;2;OSS
+2018-12-06;IVBD;drm a retransmettre;1,5;Stats
+2018-12-06;OdgRhone;reassignement des tag abonnement ;1;TMA
+2018-12-06;VINSI;debug DRM;2;TMA
+2018-12-07;IVBD;drm a retransmettre;1,5;Stats
+2018-12-07;IVSO;gestion DRM;1,5;TMA
+2018-12-07;VINSI;debug DRM;3;TMA
+2018-12-10;24EME;TM;3;TM
+2018-12-10;IVBD;drm a retransmettre;1;TMA
+2018-12-10;VINSI;debug DRM;2;TMA
+2018-12-11;24EME;myRBNB;7;Absent
+2018-12-12;24EME;mail;3;interne
+2018-12-12;IVSO;arbre produit;1,5;TMA
+2018-12-12;VINSI;debug DRM;1,5;TMA
+2018-12-13;IVSO;arbre produit cahors et pdf;4,5;TMA
+2018-12-13;VINSI;debug DRM;1;TMA
+2018-12-14;IVBD;PDF contrat;2,5;TMA
+2018-12-14;IVSO;transmission DRM;1,5;TMA
+2018-12-14;OdgRhone;maj DRs;1,5;TMA
+2018-12-17;Aurouze;debug;2;TMA
+2018-12-17;IVBD;Creation produits VCI;1;TMA
+2018-12-17;VINSI;debug DRM;1,5;TMA
+2018-12-18;CIVA; gestion de drm;1;TMA
+2018-12-18;IVSO;erreur facturation;1;TMA
+2018-12-18;VINSI;debug DRM;1,5;TMA
+2018-12-19;IVSO;modif compte et popup warning alcool;2,5;TMA
+2018-12-19;OdgProvence;Region editable et faut dans erreur 500;2,5;TMA
+2018-12-20;IVBD;Creation portail de test pour EDI et debug EDI;3,5;TMA
+2018-12-20;OdgProvence;Debug region et export SV11 SV12 et DR;2;TMA
+2018-12-20;VINSI;Creation portail de test pour EDI et debug EDI;2;TMA
+2018-12-21;IVSO;Creation portail de test pour EDI et debug EDI;3,5;TMA
+2018-12-21;VINSI;Creation portail de test pour EDI et debug EDI;2;TMA
+2018-12-27;Aurouze;banque et paiement;2;TMA
+2018-12-27;IVBD;modification email;1;TMA
+2018-12-28;24EME;temps;2;interne
