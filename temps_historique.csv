@@ -1,4 +1,114 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2018-12-31;VINSI;Corrections DRM;3,5;TMA
+2018-12-31;PSA;Dev;2,0;TMA
+2018-12-31;ODGRhone;TMA Direction technique;3,5;TMA
+2018-12-31;IVSO;TMA Direction technique;3,5;TMA
+2018-12-31;IVSO;Corrections DRM;2,0;TMA
+2018-12-31;IVBD;TMA Direction technique;3,5;TMA
+2018-12-31;IVBD;Problème de facturation;2,0;TMA
+2018-12-31;Eurocontrol;Brainstorming et dév;17,5;MigrationGIT
+2018-12-31;Eurocontrol;Brainstorming et dév;17,5;MigrationGIT
+2018-12-31;DeclarVins;Correction DRM;2,0;TMA
+2018-12-31;CNIV;Statuts maintenance CIEL;3,5;TMA
+2018-12-31;CNIV;Dont migration IPSec;7,0;TMA
+2018-12-31;CIVA;TMA Direction technique;3,5;TMA
+2018-12-31;CIVA;DR, DRM, Export DB2, EDI;38,5;TMA
+2018-12-31;BIVC;Correction import EDI;2,0;TMA
+2018-12-31;AVA;Correction VCI DRev et Registre;7,0;VCI
+2018-12-31;AVA;Corrections diverses et dégustations;3,5;TMA
+2018-12-31;Aurouze;Correction bug du 31 décembre et migration serveur;3,5;TMA
+2018-12-28;24eme;Temps / NDF / …;7;
+2018-12-28;24eme;temps;2;interne
+2018-12-27;IVBD;modification email;1;TMA
+2018-12-27;DeclarVins;Etat des lieux DRM Dematerialisee;7;TMA
+2018-12-27;Aurouze;banque et paiement;2;TMA
+2018-12-26;IR;Import DAE;1;TMA
+2018-12-26;DeclarVins;Libelles Fiscaux;4;TMA
+2018-12-26;DeclarVins;Assistance / Demandes;2;TMA
+2018-12-21;VINSI;Editeurs / automatisation catalogue mouvement;1;TMA
+2018-12-21;VINSI;Creation portail de test pour EDI et debug EDI;2;TMA
+2018-12-21;IVSO;Editeurs / automatisation catalogue mouvement;2;TMA
+2018-12-21;IVSO;Creation portail de test pour EDI et debug EDI;3,5;TMA
+2018-12-21;IVBD;Editeurs / automatisation catalogue mouvement;2;TMA
+2018-12-21;DeclarVins;Editeurs / automatisation catalogue mouvement;2;TMA
+2018-12-21;CIVA;Editeurs / automatisation catalogue mouvement;1;TMA
+2018-12-20;VINSI;Editeurs / automatisation catalogue produit;1;TMA
+2018-12-20;VINSI;Creation portail de test pour EDI et debug EDI;2;TMA
+2018-12-20;ODGProvence;Debug region et export SV11 SV12 et DR;2;Lot 3
+2018-12-20;IVSO;Editeurs / automatisation catalogue produit;2;TMA
+2018-12-20;IVBD;Editeurs / automatisation catalogue produit;2;TMA
+2018-12-20;IVBD;Creation portail de test pour EDI et debug EDI;3,5;TMA
+2018-12-20;DeclarVins;Editeurs / automatisation catalogue produit;2;TMA
+2018-12-20;CIVA;Editeurs / automatisation catalogue produit;1;TMA
+2018-12-19;Pythagore;Formation MongoDB;7;Forfait
+2018-12-19;ODGProvence;Region editable et faut dans erreur 500;2,5;Lot 3
+2018-12-19;IVSO;modif compte et popup warning alcool;2,5;TMA
+2018-12-18;VINSI;debug DRM;1,5;TMA
+2018-12-18;Pythagore;Formation MongoDB;7;Forfait
+2018-12-18;IVSO;erreur facturation;1;TMA
+2018-12-18;CIVA; gestion de drm;1;TMA
+2018-12-17;VINSI;debug DRM;1,5;TMA
+2018-12-17;Pythagore;Formation MongoDB;7;Forfait
+2018-12-17;IVBD;Creation produits VCI;1;TMA
+2018-12-17;Aurouze;debug;2;TMA
+2018-12-14;ODGRhone;maj DRs;1,5;TMA
+2018-12-14;IVSO;transmission DRM;1,5;TMA
+2018-12-14;IVBD;PDF contrat;2,5;TMA
+2018-12-14;IR;Bug import DAE;3;TMA
+2018-12-14;DeclarVins;EDI Vrac sans Contrat IR;4;TMA
+2018-12-13;VINSI;debug DRM;1;TMA
+2018-12-13;IVSO;arbre produit cahors et pdf;4,5;TMA
+2018-12-13;IVBD;Indexation donnees / intervention catalogue produit;2,5;TMA
+2018-12-13;Aurouze;Creation technicien mobile + Migration Serveur;2;TMA
+2018-12-13;24eme;Slides Mongo;;
+2018-12-12;VINSI;debug DRM;1,5;TMA
+2018-12-12;IVSO;arbre produit;1,5;TMA
+2018-12-12;DeclarVins;Liste editeurs;2,5;TMA
+2018-12-12;DeclarVins;EDI IVSE;1,5;TMA
+2018-12-12;DeclarVins;Assistance / Demandes;1;TMA
+2018-12-12;CNIV;Accompagnement CIVCorse;1;TMA
+2018-12-12;Aurouze;Assistance / Demandes Facture;0,5;TMA
+2018-12-12;24eme;mail;3;interne
+2018-12-11;VINSI;Assistance / Demandes DRM CIEL + Regime CRD;3;TMA
+2018-12-11;IVBD;Bug creation societe / Assistance DRM CIEL;2;TMA
+2018-12-11;CIVA;Fermeture + changement date validation DR;1,5;TMA
+2018-12-11;AVA;Assistance / Demandes DRev;0,5;TMA
+2018-12-11;24eme;myRBNB;7;Absent
+2018-12-10;VINSI;debug DRM;2;TMA
+2018-12-10;IVBD;drm a retransmettre;1;TMA
+2018-12-10;24eme;TM;3;TM
+2018-12-10;24eme;Temps / Gildas / Tactical;7;
+2018-12-07;VINSI;debug DRM;3;TMA
+2018-12-07;IVSO;gestion DRM;1,5;TMA
+2018-12-07;IVBD;drm a retransmettre;1,5;Stats
+2018-12-07;IR;DAE Refactorisation DTI+;3;TMA
+2018-12-07;DeclarVins;Bouton retransmission CIEL;3;TMA
+2018-12-07;DeclarVins;Assistance DRM;1;TMA
+2018-12-06;VINSI;debug DRM;2;TMA
+2018-12-06;ODGRhone;reassignement des tag abonnement ;1;TMA
+2018-12-06;IVBD;drm a retransmettre;1,5;Stats
+2018-12-06;24eme;Sortie Scolaire;2;OSS
+2018-12-06;24eme;Jour off;7;
+2018-12-05;VINSI;debug DRM;2;TMA
+2018-12-05;ODGRhone;retrait tag abonnement ;2;TMA
+2018-12-05;ODGRhone;reprise des volume si pas d acheteur ;2,5;TMA
+2018-12-05;IR;DAE Refactorisation DTI+;5;TMA
+2018-12-05;BIVC;Assistance DRM;1,5;TMA
+2018-12-04;VINSI;VCI configurations et debug DRM;3,5;TMA
+2018-12-04;VINSI;Assistance DRM;2;TMA
+2018-12-04;IVSO;ouverture compte gestion drm et xml;1,5;TMA
+2018-12-04;DeclarVins;Masque CVO nego-viti;1;TMA
+2018-12-04;DeclarVins;Assistance DRM;1,5;TMA
+2018-12-04;DeclarVins;Assistance contrat inscription;1;TMA
+2018-12-04;CNIV;Accompagnement CIVCorse;1;TMA
+2018-12-04;CIVA;Correctifs convention;0,5;TMA
+2018-12-04;BIVC;relevé de non apurement qui peut ne pas avoir de num accise destinataire;1;TMA
+2018-12-03;VINSI;VCI configurations;2;TMA
+2018-12-03;VINSI;Assistance regime CRD;0,5;TMA
+2018-12-03;IVBD;statistique contrats;5;Stats
+2018-12-03;DeclarVins;Numero d'EA autocomplete;1,5;TMA
+2018-12-03;DeclarVins;Notice convention ciel;4;TMA
+2018-12-03;DeclarVins;Assistance DRM;1;TMA
 2018-11-30;VINSI;probleme compte et DRM;1;TMA
 2018-11-30;VINSI;Intervention DRM;3,5;TMA
 2018-11-30;VINSI;Direction technique;0,5;TMA
@@ -124,6 +234,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-31;Sancerre;Corrections sur les DRM;3,5;TMA
 2018-10-31;Pythagore;Formation Apache;21;Formation
 2018-10-31;ODGRhone;Tâche import des demandes en cours;14;DI
+2018-10-31;ODGProvence;2 jours DRev/DR/SV11/SV12, 0.5 réunion;17,5;Lot 3
 2018-10-31;IVSO;Mise à disposition Cahors et corrections de DRM;3,5;TMA
 2018-10-31;IVBD;Corrections des noeuds CRD pour préparation à l'édition de stats, Correction DRM Bordeaux;3,5;TMA
 2018-10-31;DeclarVins;Assistance / Demandes;2;TMA
@@ -313,6 +424,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-09-04;DeclarVins;Assistance / Demandes;1,5;TMA
 2018-09-04;Aurouze;Assistance / Demandes;4;TMA
 2018-09-03;24eme;Vacances;
+2018-08-31;ODGProvence;debug scrapping DR, opti DRev dans la preprod;3,5;Lot 3
 2018-08-31;IVBD;Export et import bordeaux en prod;2;TMA
 2018-08-31;InterRhone;Export csv avec les contrats et tests unitaires;7;DAE
 2018-08-31;CNIV;Renouvellement du certificat SSL;3,5;TMA
@@ -3351,7 +3463,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2016-06-15;Aurouze;Dev recherche avancee;4;Forfait
 2016-06-15;Aurouze;Dév;4;Dév
 2016-06-15;24eme;Merci patron;
-2016-06-14;VINSI;Réunion adaption Douane;2;TMA?
+2016-06-14;VINSI;Réunion adaption Douane;2;TMA
 2016-06-14;Aurouze;Export Paiements;2;Paiements
 2016-06-14;Aurouze;Dév;3,5;Dév
 2016-06-14;24eme;Tactical Meeting;3,5;24ème
