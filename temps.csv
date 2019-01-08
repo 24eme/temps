@@ -82,9 +82,9 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2018-12-18;IVSO;erreur facturation;1;TMA
 2018-12-18;VINSI;debug DRM;1,5;TMA
 2018-12-19;IVSO;modif compte et popup warning alcool;2,5;TMA
-2018-12-19;ODGProvence;Region editable et faut dans erreur 500;2,5;TMA
+2018-12-19;ODGProvence;Region editable et faut dans erreur 500;2,5;Lot 3
 2018-12-20;IVBD;Creation portail de test pour EDI et debug EDI;3,5;TMA
-2018-12-20;ODGProvence;Debug region et export SV11 SV12 et DR;2;TMA
+2018-12-20;ODGProvence;Debug region et export SV11 SV12 et DR;2;Lot 3
 2018-12-20;VINSI;Creation portail de test pour EDI et debug EDI;2;TMA
 2018-12-21;IVSO;Creation portail de test pour EDI et debug EDI;3,5;TMA
 2018-12-21;VINSI;Creation portail de test pour EDI et debug EDI;2;TMA
@@ -101,8 +101,8 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2018-12-31;IVBD;Problème de facturation;2,0;TMA
 2018-12-31;IVSO;Corrections DRM;2,0;TMA
 2018-12-31;PSA;Dev;2,0;TMA
-2018-12-31;CIVP;Correction DRM;2,0;TMA
-2018-12-31;VINSI;Corrections DRM;7,0;TMA
+2018-12-31;DeclarVins;Correction DRM;2,0;TMA
+2018-12-31;VINSI;Corrections DRM;3,5;TMA
 2018-12-31;Eurocontrol;Brainstorming et dév;17,5;MigrationGIT
 2018-12-31;CNIV;Dont migration IPSec;7,0;TMA
 2018-12-31;ODGRhone;TMA Direction technique;3,5;TMA
