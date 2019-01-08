@@ -1,9 +1,12 @@
-2018-11-30;AVA;Correction DRev;3,5;TMA
-2018-11-30;AVA;Correction VCI DRev et Registre;14;VCI
-2018-11-30;CNIV;Bilan - interruption de service;7,0;TMA
-2018-11-30;CIVA;Export DB2 DRM, Corrections DR, Corrections DRM;38,5;TMA
-2018-11-30;VINSI;Intervention DRM;3,5;TMA
-2018-11-30;24eme;Report24 et monactivité;10,5;Prodimmo
-2018-11-30;Eurocontrol;Brainstorming et formations;28,0;MigrationGIT
-2018-11-30;PSA;Dév;17,5;Forfait
-2018-11-30;Pythagore;Formation GIT;14;Formation
+2018-12-31;Aurouze;Correction bug du 31 décembre et migration serveur;3,5;TMA
+2018-12-31;CIVA;DR, DRM, Export DB2, EDI;38,5;TMA
+2018-12-31;AVA;Correction VCI DRev et Registre;7,0;VCI
+2018-12-31;AVA;Corrections diverses et dégustations;3,5;TMA
+2018-12-31;Eurocontrol;Brainstorming et dév;17,5;MigrationGIT
+2018-12-31;CNIV;Statuts maintenance CIEL;3,5;TMA
+2018-12-31;BIVC;Correction import EDI;2,0;TMA
+2018-12-31;IVBD;Problème de facturation;2,0;TMA
+2018-12-31;IVSO;Corrections DRM;2,0;TMA
+2018-12-31;PSA;Dev;2,0;TMA
+2018-12-31;CIVP;Correction DRM;2,0;TMA
+2018-12-31;VINSI;Corrections DRM;7,0;TMA
