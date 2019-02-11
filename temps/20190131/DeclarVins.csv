@@ -1,0 +1,21 @@
+Date;Projet;Description;Temps (en heure);Tache
+2019-01-07;DeclarVins;Assistance / Demandes;2;TMA
+2019-01-07;DeclarVins;EDI IVSE;2;TMA
+2019-01-08;DeclarVins;Stock Negoce;1;TMA
+2019-01-09;DeclarVins;Assistance / Demandes;3;TMA
+2019-01-09;DeclarVins;Evolution btn reouverture;1;TMA
+2019-01-10;DeclarVins;Assistance / Demandes;2;TMA
+2019-01-10;DeclarVins;Stock Negoce;1;TMA
+2019-01-17;DeclarVins;EDI Colonne id douane;4;TMA
+2019-01-17;DeclarVins;Gestion instance prod / preprod;3;TMA
+2019-01-18;DeclarVins;Assistance / Demandes Contrat interpro.;3;TMA
+2019-01-21;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-01-25;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-01-25;DeclarVins;Libelles personnalises;1,5;TMA
+2019-01-25;DeclarVins;Mise a jour taux douane;1;TMA
+2019-01-28;DeclarVins;Assistance / Demandes Contrat interpro.;3;TMA
+2019-01-28;DeclarVins;Convention CIEL + Popup;4;TMA
+2019-01-29;DeclarVins;Convention CIEL + Popup;7;TMA
+2019-01-30;DeclarVins;Convention CIEL + Popup;7;TMA
+2019-01-31;DeclarVins;Bug rail etapes DRM;1,5;TMA
+2019-01-31;DeclarVins;HLAP;5,5;TMA
