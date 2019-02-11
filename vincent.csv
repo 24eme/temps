@@ -1,12 +1,5 @@
-2018-12-31;Aurouze;Correction bug du 31 décembre et migration serveur;3,5;TMA
-2018-12-31;CIVA;DR, DRM, Export DB2, EDI;38,5;TMA
-2018-12-31;AVA;Correction VCI DRev et Registre;7,0;VCI
-2018-12-31;AVA;Corrections diverses et dégustations;3,5;TMA
-2018-12-31;Eurocontrol;Brainstorming et dév;17,5;MigrationGIT
-2018-12-31;CNIV;Statuts maintenance CIEL;3,5;TMA
-2018-12-31;BIVC;Correction import EDI;2,0;TMA
-2018-12-31;IVBD;Problème de facturation;2,0;TMA
-2018-12-31;IVSO;Corrections DRM;2,0;TMA
-2018-12-31;PSA;Dev;2,0;TMA
-2018-12-31;CIVP;Correction DRM;2,0;TMA
-2018-12-31;VINSI;Corrections DRM;7,0;TMA
+2018-01-31;CIVA;Corrections DRM, Export XML DR, Export DB2;35;TMA
+2018-01-31;AVA;Registre VCI corrections et interfaces cave coop négoce;17,5;VCI
+2018-01-31;24eme;Tactical, facturation, carte de voeux, préparation contrat de travail;10,5;24eme
+2018-01-31;Eurocontrol;Formation GIT Avancé et préparation;17,5;MigrationGIT
+2018-01-31;BIVC;Corrections diverse;3,5;TMA
