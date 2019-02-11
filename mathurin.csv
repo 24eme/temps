@@ -1,43 +1,31 @@
-2018-12-03;IVBD;statistique contrats;5;Stats
-2018-12-03;VINSI;VCI configurations;2;TMA
-2018-12-04;BIVC;relevé de non apurement qui peut ne pas avoir de num accise destinataire;1;TMA
-2018-12-04;IVSO;ouverture compte gestion drm et xml;1,5;TMA
-2018-12-04;VINSI;VCI configurations et debug DRM;3,5;TMA
-2018-12-05;OdgRhone;reprise des volume si pas d acheteur ;2,5;TMA
-2018-12-05;OdgRhone;retrait tag abonnement ;2;TMA
-2018-12-05;VINSI;debug DRM;2;TMA
-2018-12-06;24EME;Sortie Scolaire;2;OSS
-2018-12-06;IVBD;drm a retransmettre;1,5;Stats
-2018-12-06;OdgRhone;reassignement des tag abonnement ;1;TMA
-2018-12-06;VINSI;debug DRM;2;TMA
-2018-12-07;IVBD;drm a retransmettre;1,5;Stats
-2018-12-07;IVSO;gestion DRM;1,5;TMA
-2018-12-07;VINSI;debug DRM;3;TMA
-2018-12-10;24EME;TM;3;TM
-2018-12-10;IVBD;drm a retransmettre;1;TMA
-2018-12-10;VINSI;debug DRM;2;TMA
-2018-12-11;24EME;myRBNB;7;Absent
-2018-12-12;24EME;mail;3;interne
-2018-12-12;IVSO;arbre produit;1,5;TMA
-2018-12-12;VINSI;debug DRM;1,5;TMA
-2018-12-13;IVSO;arbre produit cahors et pdf;4,5;TMA
-2018-12-13;VINSI;debug DRM;1;TMA
-2018-12-14;IVBD;PDF contrat;2,5;TMA
-2018-12-14;IVSO;transmission DRM;1,5;TMA
-2018-12-14;OdgRhone;maj DRs;1,5;TMA
-2018-12-17;Aurouze;debug;2;TMA
-2018-12-17;IVBD;Creation produits VCI;1;TMA
-2018-12-17;VINSI;debug DRM;1,5;TMA
-2018-12-18;CIVA; gestion de drm;1;TMA
-2018-12-18;IVSO;erreur facturation;1;TMA
-2018-12-18;VINSI;debug DRM;1,5;TMA
-2018-12-19;IVSO;modif compte et popup warning alcool;2,5;TMA
-2018-12-19;OdgProvence;Region editable et faut dans erreur 500;2,5;TMA
-2018-12-20;IVBD;Creation portail de test pour EDI et debug EDI;3,5;TMA
-2018-12-20;OdgProvence;Debug region et export SV11 SV12 et DR;2;TMA
-2018-12-20;VINSI;Creation portail de test pour EDI et debug EDI;2;TMA
-2018-12-21;IVSO;Creation portail de test pour EDI et debug EDI;3,5;TMA
-2018-12-21;VINSI;Creation portail de test pour EDI et debug EDI;2;TMA
-2018-12-27;Aurouze;banque et paiement;2;TMA
-2018-12-27;IVBD;modification email;1;TMA
-2018-12-28;24EME;temps;2;interne
+2019-01-10;IVBD;Creation bouton de retransmission de DRM;2,5;TMA
+2019-01-10;IVSO;Creation bouton de retransmission de DRM;1;TMA
+2019-01-10;VINSI;Creation bouton de retransmission de DRM;2,5;TMA
+2019-01-11;24EME;TM;3,5;TM
+2019-01-11;VINSI;Debug DRM et retransmission;3,5;TMA
+2019-01-14;VINSI;retransmission des DRM et debug;5,5;TMA
+2019-01-15;OdgProvence;Adapation pour facturation;4;Facturation
+2019-01-15;VINSI;retransmission DRM;1,5;TMA
+2019-01-16;OdgProvence;Adapation pour facturation;6;Facturation
+2019-01-16;OdgRhone;debug pour la tache de rapatriement des SV11 avec la date;0,5;TMA
+2019-01-17;OdgProvence;Adapation pour facturation;6;Facturation
+2019-01-17;OdgRhone;mis à jour des SV11;1;TMA
+2019-01-18;OdgProvence;Adapation pour facturation;7;TMA
+2019-01-21;IVBD;debug metabase;1,5;TMA
+2019-01-22;IVBD;contrat a changer ;0,5;TMA
+2019-01-22;VINSI;array array dans sv11;2,5;TMA
+2019-01-22;VINSI;bi ds qui bouge;1,5;TMA
+2019-01-23;24EME;Reunion douanes;3,5;CIEL
+2019-01-23;VINSI;bi dss;0,5;TMA
+2019-01-23;VINSI;drm modification;1;TMA
+2019-01-24;Aurouze;prix total factures dans listing facture et fond de contrat;5,5;TMA
+2019-01-24;VINSI;reunion Fanny Inteloire;1,5;TMA
+2019-01-25;BIVC;Mis a jour des taux douanes;0,5;TMA
+2019-01-25;IVBD;Mis a jour des taux douanes;0,5;TMA
+2019-01-25;IVSO;Mis a jour des taux douanes;0,5;TMA
+2019-01-25;OdgProvence;dev facturation;2;Facturation
+2019-01-28;OdgProvence;dev facturation;7;Facturation
+2019-01-29;OdgProvence;integration et specialisation templates de facturation;7;Facturation
+2019-01-30;OdgProvence;visualisation des mouvements de facture;7;Facturation
+2019-01-31;24EME;Malade;3,5;AM
+2019-01-31;OdgProvence;mise en preproduction facturation;4,5;Facturation
