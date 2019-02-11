@@ -48,3 +48,67 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2018-12-26;IR;Import DAE;1;TMA
 2018-12-27;DeclarVins;Etat des lieux DRM Dematerialisee;7;TMA
 2018-12-28;24eme;Temps / NDF / …;7;
+2018-12-31;24eme;Vacances;7;
+2019-01-01;24eme;Vacances;7;
+2019-01-02;24eme;Vacances;7;
+2019-01-03;24eme;Vacances;7;
+2019-01-04;24eme;Vacances;7;
+2019-01-07;DeclarVins;Assistance / Demandes;2;TMA
+2019-01-07;DeclarVins;EDI IVSE;2;TMA
+2019-01-08;IR;DAE CSV;1,5;TMA
+2019-01-08;DeclarVins;Stock Negoce;1;TMA
+2019-01-08;BIVC;Probleme mot de passe;1;TMA
+2019-01-08;BIVC;Assistance / Demandes DRM;1;TMA
+2019-01-08;BIVC;EDI logiciel tiers;2;TMA
+2019-01-08;ODGRhone;Assistance / Demandes DR;1;TMA
+2019-01-09;Aurouze;Assistance / Demandes;1,5;TMA
+2019-01-09;BIVC;Assistance / Demandes DRM RNA;1;TMA
+2019-01-09;DeclarVins;Evolution btn reouverture;1;TMA
+2019-01-09;DeclarVins;Assistance / Demandes;3;TMA
+2019-01-09;VINSI;Assistance / Demandes Catalogue produit;0,5;TMA
+2019-01-09;IVBD;Assistance / Demandes Contrat interpro.;0,5;TMA
+2019-01-10;Aurouze;Assistance / Demandes;1,5;TMA
+2019-01-10;CIVA;Assistance / Demandes Comptes DRM;1;TMA
+2019-01-10;VINSI;Assistance / Demandes DRM;1;TMA
+2019-01-10;IVSO;Assistance / Demandes DRM;1;TMA
+2019-01-10;DeclarVins;Stock Negoce;1;TMA
+2019-01-10;DeclarVins;Assistance / Demandes;2;TMA
+2019-01-11;24eme;Tactical + vœux;;
+2019-01-14;Aurouze;Assistance / Demandes;0,5;TMA
+2019-01-14;IVSO;Assistance / Demandes Comptes;1;TMA
+2019-01-14;24eme;Accueil Gabriel;;
+2019-01-15;CIVA;Convention CIEL;5,5;TMA
+2019-01-15;Aurouze;Assistance / Demandes;1,5;TMA
+2019-01-16;IR;Optimisations DAE gros volumes;4;TMA
+2019-01-16;BIVC;Assistance / Demandes Catalogue produit;1,5;TMA
+2019-01-16;VINSI;Assistance / Demandes Contrat Facture;1,5;TMA
+2019-01-17;DeclarVins;Gestion instance prod / preprod;3;TMA
+2019-01-17;DeclarVins;EDI Colonne id douane;4;TMA
+2019-01-18;DeclarVins;Assistance / Demandes Contrat interpro.;3;TMA
+2019-01-18;24eme;Voeux;;
+2019-01-21;IVSO;EDI Colonne id douane;1,5;TMA
+2019-01-21;IVBD;EDI Colonne id douane;1,5;TMA
+2019-01-21;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-01-21;VINSI;EDI Colonne id douane;1,5;TMA
+2019-01-21;24eme;Voeux;;
+2019-01-22;24eme;Voeux;;
+2019-01-23;24eme;Voeux;;
+2019-01-23;CNIV;Réunion EDI douanes nationales;3;TMA
+2019-01-24;24eme;Voeux;;
+2019-01-24;NathanMode;Bug coupe / facture;3;GRATIS
+2019-01-24;CIVA;Message DS Negoce;0,5;TMA
+2019-01-25;CIVA;Mise a jour taux douane;1;TMA
+2019-01-25;BIVC;Mise a jour taux douane;1;TMA
+2019-01-25;DeclarVins;Mise a jour taux douane;1;TMA
+2019-01-25;DeclarVins;Libelles personnalises;1,5;TMA
+2019-01-25;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-01-28;DeclarVins;Assistance / Demandes Contrat interpro.;3;TMA
+2019-01-28;DeclarVins;Convention CIEL + Popup;4;TMA
+2019-01-29;DeclarVins;Convention CIEL + Popup;7;TMA
+2019-01-30;DeclarVins;Convention CIEL + Popup;7;TMA
+2019-01-31;DeclarVins;HLAP;5,5;TMA
+2019-01-31;DeclarVins;Bug rail etapes DRM;1,5;TMA
+2019-02-01;DeclarVins;Assistance / Demandes;3;TMA
+2019-02-01;DeclarVins;HLAP;1;TMA
+2019-02-01;DeclarVins;Popup DRM;3;TMA
+2019-02-04;DeclarVins;Assistance / Demandes;3;TMA
