@@ -535,9 +535,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-09-04;DeclarVins;Assistance / Demandes;1,5;TMA
 2018-09-04;Aurouze;Assistance / Demandes;4;TMA
 2018-09-03;24eme;Vacances;
-2018-08-31;Sancerre;Temps 2018 Tangui;2,5;TMA
-2018-08-31;IVSO;Temps 2018 Tangui;3,75;TMA
-2018-08-31;IVDB;Temps 2018 Tangui;5,75;TMA
+2018-08-31;Sancerre;Temps 2018 Tangui;17,5;TMA
+2018-08-31;IVSO;Temps 2018 Tangui;26,25;TMA
+2018-08-31;IVDB;Temps 2018 Tangui;40,25;TMA
 2018-08-31;ODGProvence;debug scrapping DR, opti DRev dans la preprod;3,5;Lot 3
 2018-08-31;IVBD;Export et import bordeaux en prod;2;TMA
 2018-08-31;InterRhone;Export csv avec les contrats et tests unitaires;7;DAE
