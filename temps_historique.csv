@@ -107,21 +107,15 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-12-31;VINSI;Corrections DRM;3,5;TMA
 2018-12-31;PSA;Dev;2,0;TMA
 2018-12-31;ODGRhone;TMA Direction technique;3,5;TMA
-2018-12-31;ODGRhone;TMA Direction technique;3,5;TMA
-2018-12-31;IVSO;TMA Direction technique;3,5;TMA
 2018-12-31;IVSO;TMA Direction technique;3,5;TMA
 2018-12-31;IVSO;Corrections DRM;2,0;TMA
 2018-12-31;IVBD;TMA Direction technique;3,5;TMA
-2018-12-31;IVBD;TMA Direction technique;3,5;TMA
 2018-12-31;IVBD;Problème de facturation;2,0;TMA
 2018-12-31;Eurocontrol;Brainstorming et dév;17,5;MigrationGIT
-2018-12-31;Eurocontrol;Brainstorming et dév;17,5;MigrationGIT
-2018-12-31;Eurocontrol;Brainstorming et dév;17,5;MigrationGIT
+2018-12-31;Eurocontrol;Brainstorming et dév DT;17,5;MigrationGIT
 2018-12-31;DeclarVins;Correction DRM;2,0;TMA
 2018-12-31;CNIV;Statuts maintenance CIEL;3,5;TMA
 2018-12-31;CNIV;Dont migration IPSec;7,0;TMA
-2018-12-31;CNIV;Dont migration IPSec;7,0;TMA
-2018-12-31;CIVA;TMA Direction technique;3,5;TMA
 2018-12-31;CIVA;TMA Direction technique;3,5;TMA
 2018-12-31;CIVA;DR, DRM, Export DB2, EDI;38,5;TMA
 2018-12-31;Sancerre;Correction import EDI;2,0;TMA
