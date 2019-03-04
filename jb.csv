@@ -1,115 +1,32 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2018-12-03;DeclarVins;Notice convention ciel;4;TMA
-2018-12-03;DeclarVins;Numero d'EA autocomplete;1,5;TMA
-2018-12-03;DeclarVins;Assistance DRM;1;TMA
-2018-12-03;VINSI;Assistance regime CRD;0,5;TMA
-2018-12-04;VINSI;Assistance DRM;2;TMA
-2018-12-04;DeclarVins;Assistance DRM;1,5;TMA
-2018-12-04;DeclarVins;Assistance contrat inscription;1;TMA
-2018-12-04;DeclarVins;Masque CVO nego-viti;1;TMA
-2018-12-04;CNIV;Accompagnement CIVCorse;1;TMA
-2018-12-04;CIVA;Correctifs convention;0,5;TMA
-2018-12-05;BIVC;Assistance DRM;1,5;TMA
-2018-12-05;IR;DAE Refactorisation DTI+;5;TMA
-2018-12-06;24eme;Jour off;7;
-2018-12-07;IR;DAE Refactorisation DTI+;3;TMA
-2018-12-07;DeclarVins;Assistance DRM;1;TMA
-2018-12-07;DeclarVins;Bouton retransmission CIEL;3;TMA
-2018-12-10;24eme;Temps / Gildas / Tactical;7;
-2018-12-11;IVBD;Bug creation societe / Assistance DRM CIEL;2;TMA
-2018-12-11;VINSI;Assistance / Demandes DRM CIEL + Regime CRD;3;TMA
-2018-12-11;CIVA;Fermeture + changement date validation DR;1,5;TMA
-2018-12-11;AVA;Assistance / Demandes DRev;0,5;TMA
-2018-12-12;Aurouze;Assistance / Demandes Facture;0,5;TMA
-2018-12-12;DeclarVins;Assistance / Demandes;1;TMA
-2018-12-12;DeclarVins;Liste editeurs;2,5;TMA
-2018-12-12;DeclarVins;EDI IVSE;1,5;TMA
-2018-12-12;CNIV;Accompagnement CIVCorse;1;TMA
-2018-12-13;Aurouze;Creation technicien mobile + Migration Serveur;2;TMA
-2018-12-13;IVBD;Indexation donnees / intervention catalogue produit;2,5;TMA
-2018-12-13;24eme;Slides Mongo;;
-2018-12-14;DeclarVins;EDI Vrac sans Contrat IR;4;TMA
-2018-12-14;IR;Bug import DAE;3;TMA
-2018-12-17;Pythagore;Formation MongoDB;7;Forfait
-2018-12-18;Pythagore;Formation MongoDB;7;Forfait
-2018-12-19;Pythagore;Formation MongoDB;7;Forfait
-2018-12-20;DeclarVins;Editeurs / automatisation catalogue produit;2;TMA
-2018-12-20;CIVA;Editeurs / automatisation catalogue produit;1;TMA
-2018-12-20;VINSI;Editeurs / automatisation catalogue produit;1;TMA
-2018-12-20;IVSO;Editeurs / automatisation catalogue produit;2;TMA
-2018-12-20;IVBD;Editeurs / automatisation catalogue produit;2;TMA
-2018-12-21;DeclarVins;Editeurs / automatisation catalogue mouvement;2;TMA
-2018-12-21;CIVA;Editeurs / automatisation catalogue mouvement;1;TMA
-2018-12-21;VINSI;Editeurs / automatisation catalogue mouvement;1;TMA
-2018-12-21;IVSO;Editeurs / automatisation catalogue mouvement;2;TMA
-2018-12-21;IVBD;Editeurs / automatisation catalogue mouvement;2;TMA
-2018-12-26;DeclarVins;Libelles Fiscaux;4;TMA
-2018-12-26;DeclarVins;Assistance / Demandes;2;TMA
-2018-12-26;IR;Import DAE;1;TMA
-2018-12-27;DeclarVins;Etat des lieux DRM Dematerialisee;7;TMA
-2018-12-28;24eme;Temps / NDF / …;7;
-2018-12-31;24eme;Vacances;7;
-2019-01-01;24eme;Vacances;7;
-2019-01-02;24eme;Vacances;7;
-2019-01-03;24eme;Vacances;7;
-2019-01-04;24eme;Vacances;7;
-2019-01-07;DeclarVins;Assistance / Demandes;2;TMA
-2019-01-07;DeclarVins;EDI IVSE;2;TMA
-2019-01-08;IR;DAE CSV;1,5;TMA
-2019-01-08;DeclarVins;Stock Negoce;1;TMA
-2019-01-08;BIVC;Probleme mot de passe;1;TMA
-2019-01-08;BIVC;Assistance / Demandes DRM;1;TMA
-2019-01-08;BIVC;EDI logiciel tiers;2;TMA
-2019-01-08;ODGRhone;Assistance / Demandes DR;1;TMA
-2019-01-09;Aurouze;Assistance / Demandes;1,5;TMA
-2019-01-09;BIVC;Assistance / Demandes DRM RNA;1;TMA
-2019-01-09;DeclarVins;Evolution btn reouverture;1;TMA
-2019-01-09;DeclarVins;Assistance / Demandes;3;TMA
-2019-01-09;VINSI;Assistance / Demandes Catalogue produit;0,5;TMA
-2019-01-09;IVBD;Assistance / Demandes Contrat interpro.;0,5;TMA
-2019-01-10;Aurouze;Assistance / Demandes;1,5;TMA
-2019-01-10;CIVA;Assistance / Demandes Comptes DRM;1;TMA
-2019-01-10;VINSI;Assistance / Demandes DRM;1;TMA
-2019-01-10;IVSO;Assistance / Demandes DRM;1;TMA
-2019-01-10;DeclarVins;Stock Negoce;1;TMA
-2019-01-10;DeclarVins;Assistance / Demandes;2;TMA
-2019-01-11;24eme;Tactical + vœux;;
-2019-01-14;Aurouze;Assistance / Demandes;0,5;TMA
-2019-01-14;IVSO;Assistance / Demandes Comptes;1;TMA
-2019-01-14;24eme;Accueil Gabriel;;
-2019-01-15;CIVA;Convention CIEL;5,5;TMA
-2019-01-15;Aurouze;Assistance / Demandes;1,5;TMA
-2019-01-16;IR;Optimisations DAE gros volumes;4;TMA
-2019-01-16;BIVC;Assistance / Demandes Catalogue produit;1,5;TMA
-2019-01-16;VINSI;Assistance / Demandes Contrat Facture;1,5;TMA
-2019-01-17;DeclarVins;Gestion instance prod / preprod;3;TMA
-2019-01-17;DeclarVins;EDI Colonne id douane;4;TMA
-2019-01-18;DeclarVins;Assistance / Demandes Contrat interpro.;3;TMA
-2019-01-18;24eme;Voeux;;
-2019-01-21;IVSO;EDI Colonne id douane;1,5;TMA
-2019-01-21;IVBD;EDI Colonne id douane;1,5;TMA
-2019-01-21;DeclarVins;Assistance / Demandes;1,5;TMA
-2019-01-21;VINSI;EDI Colonne id douane;1,5;TMA
-2019-01-21;24eme;Voeux;;
-2019-01-22;24eme;Voeux;;
-2019-01-22;IVSO;NextCloud;7;Conception
-2019-01-23;24eme;Voeux;;
-2019-01-23;CNIV;Réunion EDI douanes nationales;3;TMA
-2019-01-24;24eme;Voeux;;
-2019-01-24;NathanMode;Bug coupe / facture;3;GRATIS
-2019-01-24;CIVA;Message DS Negoce;0,5;TMA
-2019-01-25;CIVA;Mise a jour taux douane;1;TMA
-2019-01-25;BIVC;Mise a jour taux douane;1;TMA
-2019-01-25;DeclarVins;Mise a jour taux douane;1;TMA
-2019-01-25;DeclarVins;Libelles personnalises;1,5;TMA
-2019-01-25;DeclarVins;Assistance / Demandes;1,5;TMA
-2019-01-28;DeclarVins;Assistance / Demandes Contrat interpro.;3;TMA
-2019-01-28;DeclarVins;Convention CIEL + Popup;4;TMA
-2019-01-29;DeclarVins;Convention CIEL + Popup;7;TMA
-2019-01-30;DeclarVins;Convention CIEL + Popup;7;TMA
-2019-01-31;DeclarVins;HLAP;5,5;TMA
-2019-01-31;DeclarVins;Bug rail etapes DRM;1,5;TMA
 2019-02-01;DeclarVins;Assistance / Demandes;3;TMA
 2019-02-01;DeclarVins;HLAP;1;TMA
 2019-02-01;DeclarVins;Popup DRM;3;TMA
 2019-02-04;DeclarVins;Assistance / Demandes;3;TMA
+2019-02-05;24eme;Grippe;;
+2019-02-06;24eme;Grippe;;
+2019-02-07;24eme;Grippe;;
+2019-02-08;24eme;Grippe;;
+2019-02-11;DeclarVins;Assistance / Demandes;2;TMA
+2019-02-12;DeclarVins;Assistance / Demandes;2;TMA
+2019-02-12;24eme;Facturation;;
+2019-02-13;24eme;RDV Eric Mairet;;
+2019-02-13;CIVA;Mercuriales Export PDF ;5;Mercuriales
+2019-02-14;CIVA;Reunion;4;TMA
+2019-02-14;DeclarVins;Assistance / Demandes;3;TMA
+2019-02-15;Aurouze;Point projet;4;TMA
+2019-02-15;DeclarVins;Assistance / Demandes;2;TMA
+2019-02-18;DeclarVins;Assistance / Demandes;7;TMA
+2019-02-19;DeclarVins;Assistance / Demandes;0,5;TMA
+2019-02-19;IVSO;Assistance / Demandes;0,5;TMA
+2019-02-20;ODGRhone;Export DI INAO;7;DI
+2019-02-21;ODGRhone;Export DI INAO;4;
+2019-02-21;24eme;RDV Eric Simon SCOP;;
+2019-02-22;CIVA;Mercuriales Export PDF ;4;Mercuriales
+2019-02-25;CIVA;Mercuriales Export PDF ;3;Mercuriales
+2019-02-26;CIVA;Mercuriales Gestion Cremant;7;Mercuriales
+2019-02-27;CIVA;Mercuriales Mise en page;2;Mercuriales
+2019-02-27;DeclarVins;Assistance / Demandes;2;Mercuriales
+2019-02-28;DeclarVins;Reunion;7;TMA
+2019-03-04;ODGRhone;Export DI INAO;6;DI
+2019-03-04;24eme;Temps;;
