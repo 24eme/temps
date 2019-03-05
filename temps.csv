@@ -38,7 +38,7 @@
 2019-02-28;IVSO;Mise en place d'import vrac;31,5;EDI
 2019-02-28;Aurouze;Section informations supplémentaires en ajax pour alléger la page plannif;21;Forfait Ajax Info
 2019-02-28;CIVA;DRM, Import DRM EDI, Gestion des tiers;24,5;TMA
-2019-02-28;AVA;Registre VCI, corrections et reprise 2018;24,5;TMA
+2019-02-28;AVA;Registre VCI, corrections et reprise 2018;24,5;VCI
 2019-02-28;AVA;TMA;3,5;TMA
 2019-02-28;Sancerre;Corrections DRM;10,5;TMA
 2019-02-28;DeclarVins;Assistance DRM;7,0;TMA
@@ -70,7 +70,7 @@
 2019-02-19;DeclarVins;Assistance / Demandes;0,5;TMA
 2019-02-19;IVSO;Assistance / Demandes;0,5;TMA
 2019-02-20;ODGRhone;Export DI INAO;7;DI
-2019-02-21;ODGRhone;Export DI INAO;4;
+2019-02-21;ODGRhone;Export DI INAO;4;DI
 2019-02-21;24eme;RDV Eric Simon SCOP;;
 2019-02-22;CIVA;Mercuriales Export PDF ;4;Mercuriales
 2019-02-25;CIVA;Mercuriales Export PDF ;3;Mercuriales
