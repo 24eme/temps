@@ -1,13 +1,13 @@
-2019-02-01;OdgProvence;export facturation sage;4;Facturation
-2019-02-01;OdgProvence;mise en production facturation;3;Facturation
-2019-02-04;OdgProvence;export facturation sage et generation des factures;7;Facturation
+2019-02-01;ODGProvence;export facturation sage;4;Facturation
+2019-02-01;ODGProvence;mise en production facturation;3;Facturation
+2019-02-04;ODGProvence;export facturation sage et generation des factures;7;Facturation
 2019-02-05;24eme;Malade;7;AM
 2019-02-06;24eme;Malade;7;AM
 2019-02-07;24eme;Malade;7;AM
 2019-02-08;24eme;Malade;7;AM
 2019-02-11;Aurouze;correction bugs;1;TMA
 2019-02-11;IVSO;Mis a jour de DRM;1;TMA
-2019-02-11;OdgProvence;adaptation export sage;5;Facturation
+2019-02-11;ODGProvence;adaptation export sage;5;Facturation
 2019-02-12;24eme;Facturation et temps;2;24eme
 2019-02-12;24eme;tactical meeting;3;24eme
 2019-02-13;24eme;Rencontre Eric Mairet;1;24eme
@@ -15,13 +15,13 @@
 2019-02-13;Aurouze;correction bugs;1,5;TMA
 2019-02-14;TueNet;mis en prod et import de donnees;2,5;TueNet
 2019-02-14;CIVA; Reunion;3,5;TMA
-2019-02-14;OdgProvence;finission et mise en prod export sage;2;Facturation
+2019-02-14;ODGProvence;finission et mise en prod export sage;2;Facturation
 2019-02-15;TueNet;correction pour import tue net avec rendezvous;2,5;TueNet
 2019-02-15;Aurouze;Reunion;3,5;TMA
 2019-02-15;VINSI;mis a jour export bi ;1,5;TMA
 2019-02-18;Aurouze;Correction renouvellement;2;TMA
 2019-02-18;IVBD;statistiques reparation logstash;2;Stats
-2019-02-18;OdgProvence;Export sage en production;3;Facturation
+2019-02-18;ODGProvence;Export sage en production;3;Facturation
 2019-02-19;IVBD;statistiques;7;Stats
 2019-02-20;IVBD;statistiques;7;Stats
 2019-02-21;24eme;SCOP;2;24eme
