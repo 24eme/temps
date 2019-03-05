@@ -14,7 +14,7 @@
 2019-02-13;TueNet;Adaptation tuenet et import de donnees;5,5;TueNet
 2019-02-13;Aurouze;correction bugs;1,5;TMA
 2019-02-14;TueNet;mis en prod et import de donnees;2,5;TueNet
-2019-02-14;CIVA; Reunion;3,5;TMA
+2019-02-14;CIVA;Reunion;3,5;Réunion
 2019-02-14;ODGProvence;finission et mise en prod export sage;2;Facturation
 2019-02-15;TueNet;correction pour import tue net avec rendezvous;2,5;TueNet
 2019-02-15;Aurouze;Reunion;3,5;TMA
@@ -62,7 +62,7 @@
 2019-02-12;24eme;Facturation;;
 2019-02-13;24eme;RDV Eric Mairet;;
 2019-02-13;CIVA;Mercuriales Export PDF ;5;Mercuriales
-2019-02-14;CIVA;Reunion;4;TMA
+2019-02-14;CIVA;Reunion;4;Réunion
 2019-02-14;DeclarVins;Assistance / Demandes;3;TMA
 2019-02-15;Aurouze;Point projet;4;TMA
 2019-02-15;DeclarVins;Assistance / Demandes;2;TMA
@@ -84,5 +84,6 @@
 2019-02-28;VINSI;TMA Direction technique;14;TMA
 2019-02-28;ODGRhone;TMA Direction technique;3,5;TMA
 2019-02-28;CIVA;TMA Direction technique;10,5;TMA
+2019-02-28;CIVA;Réunion;3,5;Réunion
 2019-02-28;IVBD;TMA Direction technique;3,5;TMA
 2019-02-28;Juricaf;TMA Direction technique;7;TMA
