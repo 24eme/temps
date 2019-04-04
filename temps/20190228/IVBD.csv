@@ -1,0 +1,10 @@
+Date;Projet;Description;Temps (en heure);Tache
+2019-02-18;IVBD;statistiques reparation logstash;2;Stats
+2019-02-19;IVBD;statistiques;7;Stats
+2019-02-20;IVBD;statistiques;7;Stats
+2019-02-25;IVBD;pdf statistiques;4;Stats
+2019-02-25;IVBD;reindexation elasticsearch;2;Stats
+2019-02-27;IVBD;statistiques tests et adaptation elasticsearch;7;Stats
+2019-02-28;IVBD;Corrections stats contrats Metabase, DRM bordeaux et DRM;7,0;TMA
+2019-02-28;IVBD;statistiques pdf et csv;4;Stats
+2019-02-28;IVBD;TMA Direction technique;3,5;TMA
