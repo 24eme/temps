@@ -1,32 +1,50 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2019-02-01;DeclarVins;Assistance / Demandes;3;TMA
-2019-02-01;DeclarVins;HLAP;1;TMA
-2019-02-01;DeclarVins;Popup DRM;3;TMA
-2019-02-04;DeclarVins;Assistance / Demandes;3;TMA
-2019-02-05;24eme;Grippe;;
-2019-02-06;24eme;Grippe;;
-2019-02-07;24eme;Grippe;;
-2019-02-08;24eme;Grippe;;
-2019-02-11;DeclarVins;Assistance / Demandes;2;TMA
-2019-02-12;DeclarVins;Assistance / Demandes;2;TMA
-2019-02-12;24eme;Facturation;;
-2019-02-13;24eme;RDV Eric Mairet;;
-2019-02-13;CIVA;Mercuriales Export PDF ;5;Mercuriales
-2019-02-14;CIVA;Reunion;4;TMA
-2019-02-14;DeclarVins;Assistance / Demandes;3;TMA
-2019-02-15;Aurouze;Point projet;4;TMA
-2019-02-15;DeclarVins;Assistance / Demandes;2;TMA
-2019-02-18;DeclarVins;Assistance / Demandes;7;TMA
-2019-02-19;DeclarVins;Assistance / Demandes;0,5;TMA
-2019-02-19;IVSO;Assistance / Demandes;0,5;TMA
-2019-02-20;ODGRhone;Export DI INAO;7;DI
-2019-02-21;ODGRhone;Export DI INAO;4;
-2019-02-21;24eme;RDV Eric Simon SCOP;;
-2019-02-22;CIVA;Mercuriales Export PDF ;4;Mercuriales
-2019-02-25;CIVA;Mercuriales Export PDF ;3;Mercuriales
-2019-02-26;CIVA;Mercuriales Gestion Cremant;7;Mercuriales
-2019-02-27;CIVA;Mercuriales Mise en page;2;Mercuriales
-2019-02-27;DeclarVins;Assistance / Demandes;2;TMA
-2019-02-28;DeclarVins;Reunion;7;TMA
 2019-03-04;ODGRhone;Export DI INAO;6;DI
 2019-03-04;24eme;Temps;;
+2019-03-05;24eme;Tactical Meeting;;
+2019-03-05;DeclarVins;Assistance / Demandes;3;TMA
+2019-03-06;DeclarVins;Assistance / Demandes;5;TMA
+2019-03-07;DeclarVins;Assistance / Demandes;1;TMA
+2019-03-07;DeclarVins;Format 5 décimals;2,5;TMA
+2019-03-07;DeclarVins;avenant TMA;1;TMA
+2019-03-07;DeclarVins;Evolutions contrats interpro;3;TMA
+2019-03-08;DeclarVins;Assistance / Demandes;3;TMA
+2019-03-11;VINSI;Double Regime CRD;0,5;TMA
+2019-03-11;24eme;Facturation;;
+2019-03-11;Aurouze;Tickets;4;TMA
+2019-03-11;ODGRhone;Point projet;1;TMA
+2019-03-12;DeclarVins;Assistance / Demandes;2,5;TMA
+2019-03-13;Tuenet;Kick off;7;Forfait
+2019-03-14;InterRhone;Assistance / Demandes;2,5;DAE
+2019-03-14;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-03-15;24eme;Compta;;
+2019-03-18;DeclarVins;Assistance / Demandes;3;TMA
+2019-03-18;DeclarVins;DRM Negoce;4;TMA
+2019-03-19;DeclarVins;DRM Negoce;7;TMA
+2019-03-20;VinIGP;Reunion commercial;7;Forfait
+2019-03-21;DeclarVins;DRM Negoce;7;TMA
+2019-03-22;24eme;Revision cooperative;;
+2019-03-22;DeclarVins;DRM Negoce;4;TMA
+2019-03-25;ODGRhone;Format export INAO;3;DI
+2019-03-25;DeclarVins;Assistance / Demandes;3;TMA
+2019-03-26;24eme;Fauchon + Inno3;;
+2019-03-26;DeclarVins;Catalogue produit + bug formulaire ajout;3;TMA
+2019-03-27;DeclarVins;Catalogue produit + bug formulaire ajout;4;TMA
+2019-03-27;DeclarVins;Prestataire EDI;2;TMA
+2019-03-27;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-03-28;DeclarVins;Choix saisie stock début;5;TMA
+2019-03-28;DeclarVins;Gestion produit hors interpro;2;TMA
+2019-03-29;DeclarVins;Prestataire EDI;2;TMA
+2019-03-29;CIVA;Prestataire EDI;1;TMA
+2019-03-29;BIVC;Prestataire EDI;1;TMA
+2019-03-29;VINSI;Prestataire EDI;1;TMA
+2019-03-29;IVSO;Prestataire EDI;1;TMA
+2019-03-29;IVBD;Prestataire EDI;1;TMA
+2019-04-01;24eme;Off;;
+2019-04-02;DeclarVins;Assistance / Demandes;7;TMA
+2019-04-03;DeclarVins;Assistance / Demandes;4;TMA
+2019-04-03;DeclarVins;Prestataire EDI;2;TMA
+2019-04-04;DeclarVins;Assistance / Demandes;2;TMA
+2019-04-04;InterRhone;Assistance / Demandes;2;DAE
+2019-04-04;24eme;Temps;;
+2019-04-05;24eme;Off;;
