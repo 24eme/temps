@@ -1,4 +1,89 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2019-03-31;VINSI;TMA Direction technique;7;TMA
+2019-03-31;VinIGP;Avant vente;10,5;AvantVente
+2019-03-31;ODGRhone;TMA Direction technique;3,5;TMA
+2019-03-31;ODGProvence;Extraction parcellaire depuis les douanes;28;Parcellaire
+2019-03-31;Juricaf;TMA Direction technique;10,5;TMA
+2019-03-31;IVSO;Mise en place d'import vrac;28;EDI
+2019-03-31;Eurocontrol;Développement;14;MigrationGIT
+2019-03-31;BIVC;TMA Direction technique;3,5;TMA
+2019-03-29;VINSI;Prestataire EDI;1;TMA
+2019-03-29;VINSI;DRM et intégration des DRM du BIVC;10,5;TMA
+2019-03-29;Pythagore;Formation GIT;14;Forfait
+2019-03-29;ODGRhone;Voir les demandes terminées, édition des commentaires, suppression de la dernière demande;10,5;DI
+2019-03-29;ODGRhone;Mise à jour export;3,0;TMA
+2019-03-29;Juricaf;Réunion;3,5;TMA
+2019-03-29;IVSO;Prestataire EDI;1;TMA
+2019-03-29;IVSO;DRM et mise à dispo des DRM pour Bordeaux;3,5;TMA
+2019-03-29;IVBD;Prestataire EDI;1;TMA
+2019-03-29;IVBD;Corrections contrats et export Bordeaux;7;TMA
+2019-03-29;DeclarVins;Prestataire EDI;2;TMA
+2019-03-29;CIVA;Prestataire EDI;1;TMA
+2019-03-29;CIVA;DRM, Export DB2, Tiers;28;TMA
+2019-03-29;BIVC;Prestataire EDI;1;TMA
+2019-03-29;BIVC;Corrections DRM;3,5;TMA
+2019-03-29;AVA;Stats récolte, Correction export comptable, Registre VCI;14;TMA
+2019-03-29;24eme;Congès;7;interne
+2019-03-29;24eme;Changement d'adresse et révision coop;3,5;24eme
+2019-03-28;DeclarVins;Gestion produit hors interpro;2;TMA
+2019-03-28;24eme;Congès;7;interne
+2019-03-27;DeclarVins;Prestataire EDI;2;TMA
+2019-03-27;DeclarVins;Catalogue produit + bug formulaire ajout;4;TMA
+2019-03-27;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-03-27;24eme;Congès;7;interne
+2019-03-26;DeclarVins;Catalogue produit + bug formulaire ajout;3;TMA
+2019-03-26;24eme;Fauchon + Inno3;;
+2019-03-26;24eme;Congès;7;interne
+2019-03-25;ODGRhone;Format export INAO;3;DI
+2019-03-25;DeclarVins;Assistance / Demandes;3;TMA
+2019-03-25;24eme;Congès;7;interne
+2019-03-22;DeclarVins;DRM Negoce;4;TMA
+2019-03-22;24eme;Revision cooperative;;
+2019-03-22;24eme;Congès;7;interne
+2019-03-21;DeclarVins;DRM Negoce;7;TMA
+2019-03-21;24eme;Congès;7;interne
+2019-03-20;VinIGP;Reunion commercial;7;AvantVente
+2019-03-20;24eme;Congès;7;interne
+2019-03-19;DeclarVins;DRM Negoce;7;TMA
+2019-03-19;24eme;Congès;7;interne
+2019-03-18;DeclarVins;DRM Negoce;4;TMA
+2019-03-18;DeclarVins;Assistance / Demandes;3;TMA
+2019-03-18;24eme;Congès;7;interne
+2019-03-15;24eme;Congès;7;interne
+2019-03-15;24eme;Compta;;
+2019-03-14;InterRhone;Assistance / Demandes;2,5;DAE
+2019-03-14;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-03-13;TueNet;reunion;7;Forfait
+2019-03-13;TueNet;Kick off;7;Forfait
+2019-03-13;IVSO;TMA diverse;1;TMA
+2019-03-12;VINSI;reparation bi avec les libelle produits;3;TMA
+2019-03-12;TueNet;import;4;Forfait
+2019-03-12;DeclarVins;Assistance / Demandes;2,5;TMA
+2019-03-11;VINSI;Double Regime CRD;0,5;TMA
+2019-03-11;TueNet;import  et adaptation;4;Forfait
+2019-03-11;ODGRhone;Point projet;1;TMA
+2019-03-11;IVBD;mise en prod stats;3;Stats
+2019-03-11;Aurouze;Tickets;4;TMA
+2019-03-11;24eme;Facturation;;
+2019-03-08;IVSO;ajout de CDATA pour les libelle de produit et adaptation comparaison;2;TMA
+2019-03-08;DeclarVins;Assistance / Demandes;3;TMA
+2019-03-08;CIVA;Edi probleme CRD et replis declassement ouvert pour IGP;4,5;TMA
+2019-03-07;IVBD;stats mentions valorisantes;7;Stats
+2019-03-07;DeclarVins;Evolutions contrats interpro;3;TMA
+2019-03-07;DeclarVins;avenant TMA;1;TMA
+2019-03-07;DeclarVins;Assistance / Demandes;1;TMA
+2019-03-07;Aurouze;Correction contrat;1;TMA
+2019-03-06;VINSI;Correction pour les numero accise et verification des drm teledeclare en EDI;3,5;TMA
+2019-03-06;IVBD;export pour Report One Ajout de Bib;2,5;TMA
+2019-03-06;DeclarVins;Assistance / Demandes;5;TMA
+2019-03-06;CIVA;creation tiers;0,5;TMA
+2019-03-05;DeclarVins;Assistance / Demandes;3;TMA
+2019-03-05;24eme;tactical meeting;3;24eme
+2019-03-05;24eme;Tactical Meeting;;
+2019-03-04;ODGRhone;Export DI INAO;6;DI
+2019-03-04;IVBD;mise en coherence des statistiques;7;Stats
+2019-03-04;24eme;Temps;;
+2019-03-01;IVBD;statistiques pdf et csv;7;Stats
 2019-02-28;VINSI;TMA Direction technique;14;TMA
 2019-02-28;VINSI;Corrections de DRM et début de reprise des DRM Sancerre;10,5;TMA
 2019-02-28;Sancerre;Corrections DRM;10,5;TMA
