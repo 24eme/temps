@@ -1,37 +1,27 @@
-2019-02-01;OdgProvence;export facturation sage;4;Facturation
-2019-02-01;OdgProvence;mise en production facturation;3;Facturation
-2019-02-04;OdgProvence;export facturation sage et generation des factures;7;Facturation
-2019-02-05;24eme;Malade;7;AM
-2019-02-06;24eme;Malade;7;AM
-2019-02-07;24eme;Malade;7;AM
-2019-02-08;24eme;Malade;7;AM
-2019-02-11;Aurouze;correction bugs;1;TMA
-2019-02-11;IVSO;Mis a jour de DRM;1;TMA
-2019-02-11;OdgProvence;adaptation export sage;5;Facturation
-2019-02-12;24eme;Facturation et temps;2;24eme
-2019-02-12;24eme;tactical meeting;3;24eme
-2019-02-13;24eme;Rencontre Eric Mairet;1;24eme
-2019-02-13;Aurouze;Adaptation tuenet et import de donnees;5,5;TueNet
-2019-02-13;Aurouze;correction bugs;1,5;TMA
-2019-02-14;Aurouze;mis en prod et import de donnees;2,5;TueNet
-2019-02-14;CIVA; Reunion;3,5;TMA
-2019-02-14;OdgProvence;finission et mise en prod export sage;2;Facturation
-2019-02-15;Aurouze;correction pour import tue net avec rendezvous;2,5;TueNet
-2019-02-15;Aurouze;Reunion;3,5;TMA
-2019-02-15;VINSI;mis a jour export bi ;1,5;TMA
-2019-02-18;Aurouze;Correction renouvellement;2;TMA
-2019-02-18;IVBD;statistiques reparation logstash;2;Stats
-2019-02-18;OdgProvence;Export sage en production;3;Facturation
-2019-02-19;IVBD;statistiques;7;Stats
-2019-02-20;IVBD;statistiques;7;Stats
-2019-02-21;24eme;SCOP;2;24eme
-2019-02-22;VINSI;Extraction des factures;2,5;TMA
-2019-02-25;IVBD;pdf statistiques;4;Stats
-2019-02-25;IVBD;reindexation elasticsearch;2;Stats
-2019-02-25;VINSI;Extraction des factures pour la campagne;1;TMA
-2019-02-26;BIVC;reindexation elasticsearch;1;TMA
-2019-02-26;CIVA; reparation des drm pour la reprise des donnees;6,5;TMA
-2019-02-27;IVBD;statistiques tests et adaptation elasticsearch;7;Stats
-2019-02-28;Aurouze;debug;2,5;TMA
-2019-02-28;AVA;debug de tournee;0,5;TMA
-2019-02-28;IVBD;statistiques pdf et csv;4;Stats
+2019-03-01;IVBD;statistiques pdf et csv;7;Stats
+2019-03-04;IVBD;mise en coherence des statistiques;7;Stats
+2019-03-05;24eme;tactical meeting;3;24eme
+2019-03-06;CIVA;creation tiers;0,5;TMA
+2019-03-06;IVBD;export pour Report One Ajout de Bib;2,5;TMA
+2019-03-06;VINSI;Correction pour les numero accise et verification des drm teledeclare en EDI;3,5;TMA
+2019-03-07;Aurouze;Correction contrat;1;TMA
+2019-03-07;IVBD;stats mentions valorisantes;7;Stats
+2019-03-08;CIVA;Edi probleme CRD et replis declassement ouvert pour IGP;4,5;TMA
+2019-03-08;IVSO;ajout de CDATA pour les libelle de produit et adaptation comparaison;2;TMA
+2019-03-11;IVBD;mise en prod stats;3;Stats
+2019-03-11;TueNet;import  et adaptation;4;TueNet
+2019-03-12;TueNet;import;4;TueNet
+2019-03-12;VINSI;reparation bi avec les libelle produits;3;TMA
+2019-03-13;IVSO;TMA diverse;1;TMA
+2019-03-13;TueNet;reunion;4;TueNet
+2019-03-15;24eme;Congès;7;interne
+2019-03-18;24eme;Congès;7;interne
+2019-03-19;24eme;Congès;7;interne
+2019-03-20;24eme;Congès;7;interne
+2019-03-21;24eme;Congès;7;interne
+2019-03-22;24eme;Congès;7;interne
+2019-03-25;24eme;Congès;7;interne
+2019-03-26;24eme;Congès;7;interne
+2019-03-27;24eme;Congès;7;interne
+2019-03-28;24eme;Congès;7;interne
+2019-03-29;24eme;Congès;7;interne
