@@ -1,12 +1,11 @@
-2019-02-28;CIVA;DRM, Import DRM EDI, Gestion des tiers;24,5;TMA
-2019-02-28;AVA;Registre VCI, corrections et reprise 2018;24,5;TMA
-2019-02-28;AVA;TMA;3,5;TMA
-2019-02-28;Sancerre;Corrections DRM;10,5;TMA
-2019-02-28;DeclarVins;Assistance DRM;7,0;TMA
-2019-02-28;IVBD;Corrections stats contrats Metabase, DRM bordeaux et DRM;7,0;TMA
-2019-02-28;VINSI;Corrections de DRM et début de reprise des DRM BIVC;10,5;TMA
-2019-02-28;Eurocontrol;Réunion et conseil;3,5;MigrationGIT
-2019-02-28;Eurocontrol;Développement;7;MigrationGIT
-2019-02-28;ODGRhone;Dév DI;10,5;DI
-2019-02-28;24ème;Amélioration report 24 et corrections mon activité;3,5;Prodimmo
-2019-02-28;IVSO;Administration système problème https et mapping préprod;1,5;TMA
+2019-03-29;CIVA;DRM, Export DB2, Tiers;28;TMA
+2019-03-29;BIVC;Corrections DRM;3,5;TMA
+2019-03-29;IVBD;Corrections contrats et export Bordeaux;7;TMA
+2019-03-29;ODGRhone;Mise à jour export;2,0;TMA
+2019-03-29;ODGRhone;Voir les demandes terminées, édition des commentaires, suppression de la dernière demande;10,5;DI
+2019-03-29;AVA;Stats récolte, Correction export comptable, Registre VCI;14;TMA
+2019-03-29;VINSI;DRM et intégration des DRM du BIVC;10,5;TMA
+2019-03-29;IVSO;DRM et mise à dispo des DRM pour Bordeaux;3,5;TMA
+2019-03-29;Juricaf;Réunion;3,5;TMA
+2019-03-29;Pythagore;Formation GIT;14;Forfait
+2019-03-29;24eme;Changement d'adresse et révision coop;3,5;24eme
