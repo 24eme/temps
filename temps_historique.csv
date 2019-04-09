@@ -5,7 +5,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-03-31;ODGProvence;Extraction parcellaire depuis les douanes;28;Parcellaire
 2019-03-31;Juricaf;TMA Direction technique;10,5;TMA
 2019-03-31;IVSO;Mise en place d'import vrac;28;EDI
-2019-03-31;Eurocontrol;Développement;14;MigrationGIT
+2019-03-31;Eurocontrol;Développement;14;Scripts et Support
 2019-03-31;Sancerre;TMA Direction technique;3,5;TMA
 2019-03-29;VINSI;Prestataire EDI;1;TMA
 2019-03-29;VINSI;DRM et intégration des DRM du BIVC;10,5;TMA
@@ -96,10 +96,10 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-02-28;IVBD;TMA Direction technique;3,5;TMA
 2019-02-28;IVBD;statistiques pdf et csv;4;Stats
 2019-02-28;IVBD;Corrections stats contrats Metabase, DRM bordeaux et DRM;7,0;TMA
-2019-02-28;Eurocontrol;Réunion et conseil;3,5;MigrationGIT
-2019-02-28;Eurocontrol;Réunion et conseil;3,5;MigrationGIT
-2019-02-28;Eurocontrol;Développement;7;MigrationGIT
-2019-02-28;Eurocontrol;Développement;7;MigrationGIT
+2019-02-28;Eurocontrol;Réunion et conseil;3,5;Scripts et Support
+2019-02-28;Eurocontrol;Réunion et conseil DT;3,5;Scripts et Support
+2019-02-28;Eurocontrol;Développement DT;10,5;Scripts et Support
+2019-02-28;Eurocontrol;Développement;7;Scripts et Support
 2019-02-28;DeclarVins;Reunion;7;TMA
 2019-02-28;DeclarVins;Assistance DRM;7,0;TMA
 2019-02-28;CIVA;TMA Direction technique;10,5;TMA
@@ -180,8 +180,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-01-31;ODGProvence;mise en preproduction facturation;4,5;Facturation
 2019-01-31;IVSO;TMA Direction technique;10,5;NextCloud
 2019-01-31;IVSO;Intégration groupe LDAP dans un NextCloud;35;NextCloud
-2019-01-31;Eurocontrol;Formation GIT Avancé et préparation;17,5;MigrationGIT
-2019-01-31;Eurocontrol;Formation Git Avancé;14;MigrationGIT
+2019-01-31;Eurocontrol;Formation GIT Avancé et préparation;17,5;Formation et Brainstorming
+2019-01-31;Eurocontrol;Formation Git Avancé DT;14;Formation et Brainstorming
 2019-01-31;DeclarVins;HLAP;5,5;TMA
 2019-01-31;DeclarVins;Bug rail etapes DRM;1,5;TMA
 2019-01-31;CIVA;TMA Direction technique;10,5;TMA
@@ -286,8 +286,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-12-31;IVSO;Corrections DRM;2,0;TMA
 2018-12-31;IVBD;TMA Direction technique;3,5;TMA
 2018-12-31;IVBD;Problème de facturation;2,0;TMA
-2018-12-31;Eurocontrol;Brainstorming et dév DT;17,5;MigrationGIT
-2018-12-31;Eurocontrol;Brainstorming et dév;17,5;MigrationGIT
+2018-12-31;Eurocontrol;Brainstorming préparation et restitution DT;10,5;Formation et Brainstorming
+2018-12-31;Eurocontrol;Dév DT;14;Scripts et Support
+2018-12-31;Eurocontrol;Brainstorming;7,0;Formation et Brainstorming
+2018-12-31;Eurocontrol;Brainstorming Facilitateur;7,0;Formation et Brainstorming
+2018-12-31;Eurocontrol;Dév;14;Scripts et Support
 2018-12-31;DeclarVins;Correction DRM;2,0;TMA
 2018-12-31;CNIV;Statuts maintenance CIEL;3,5;TMA
 2018-12-31;CNIV;Dont migration IPSec;7,0;TMA
@@ -398,8 +401,10 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-11-30;ODGRhone;Direction technique;7;TMA
 2018-11-30;ODGProvence;DRev, récupération DR, CAS;10,5;Lot 3
 2018-11-30;IVBD;statistique;7;Statistiques
-2018-11-30;Eurocontrol;Formation brainstorming et dév DT;38,5;MigrationGIT
-2018-11-30;Eurocontrol;Brainstorming et formations;28,0;MigrationGIT
+2018-11-30;Eurocontrol;Formation et brainstorming préparation et restitution DT;28,0;Formation et Brainstorming
+2018-11-30;Eurocontrol;Dév DT;10,5;Scripts et Support
+2018-11-30;Eurocontrol;Brainstorming et formations;28,0;Formation et Brainstorming
+2018-11-30;Eurocontrol;Brainstorming Facilitateur;7,0;Formation et Brainstorming
 2018-11-30;DeclarVins;Extraction Chateauneuf du pape;1,5;TMA
 2018-11-30;DeclarVins;Assistance DRM;1;TMA
 2018-11-30;CNIV;IPSec;0,5;MigrationLS
