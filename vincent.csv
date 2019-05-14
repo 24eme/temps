@@ -1,12 +1,11 @@
-2019-02-28;CIVA;DRM, Import DRM EDI, Gestion des tiers;24,5;TMA
-2019-02-28;AVA;Registre VCI, corrections et reprise 2018;24,5;TMA
-2019-02-28;AVA;TMA;3,5;TMA
-2019-02-28;Sancerre;Corrections DRM;10,5;TMA
-2019-02-28;DeclarVins;Assistance DRM;7,0;TMA
-2019-02-28;IVBD;Corrections stats contrats Metabase, DRM bordeaux et DRM;7,0;TMA
-2019-02-28;VINSI;Corrections de DRM et début de reprise des DRM BIVC;10,5;TMA
-2019-02-28;Eurocontrol;Réunion et conseil;3,5;MigrationGIT
-2019-02-28;Eurocontrol;Développement;7;MigrationGIT
-2019-02-28;ODGRhone;Dév DI;10,5;DI
-2019-02-28;24ème;Amélioration report 24 et corrections mon activité;3,5;Prodimmo
-2019-02-28;IVSO;Administration système problème https et mapping préprod;1,5;TMA
+2019-04-30;AVA;Facturation 2019, Registre VCI, Export INAO;45,5;TMA
+2019-04-30;CIVA;Corrections DRM, Import Tiers, EDI;10,5;TMA
+2019-04-30;BIVC;Ajout de produits dans la conf;2;TMA
+2019-04-30;VINSI;Assitance DRM;3,5;TMA
+2019-04-30:VINSI;Réunion;7;TMA
+2019-04-30;VINSI;DRev Loire;7;ODG
+2019-04-30;VINSI;Réunion;3,5;ODG
+2019-04-30;ODGRhone;DI;7;DI
+2019-04-30;Eurocontrol;Atelier;3,5;Migration GIT
+2019-04-30;Aurouze;Dév;10,5;Tuenet
+2019-04-30;IVSO;Étape Transert TAV;10,5;TMA
