@@ -51,16 +51,16 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-03-18;24eme;Congès;7;interne
 2019-03-15;24eme;Congès;7;interne
 2019-03-15;24eme;Compta;;
-2019-03-14;InterRhone;Assistance / Demandes;2,5;DAE
+2019-03-14;IR;Assistance / Demandes;2,5;DAE
 2019-03-14;DeclarVins;Assistance / Demandes;3,5;TMA
-2019-03-13;TueNet;reunion;7;Forfait
-2019-03-13;TueNet;Kick off;7;Forfait
+2019-03-13;Aurouze;reunion;7;TueNet
+2019-03-13;Aurouze;Kick off;7;TueNet
 2019-03-13;IVSO;TMA diverse;1;TMA
 2019-03-12;VINSI;reparation bi avec les libelle produits;3;TMA
-2019-03-12;TueNet;import;4;Forfait
+2019-03-12;Aurouze;import;4;TueNet
 2019-03-12;DeclarVins;Assistance / Demandes;2,5;TMA
 2019-03-11;VINSI;Double Regime CRD;0,5;TMA
-2019-03-11;TueNet;import  et adaptation;4;Forfait
+2019-03-11;Aurouze;import et adaptation;4;TueNet
 2019-03-11;ODGRhone;Point projet;1;TMA
 2019-03-11;IVBD;mise en prod stats;3;Stats
 2019-03-11;Aurouze;Tickets;4;TMA
@@ -136,16 +136,16 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-02-18;DeclarVins;Assistance / Demandes;7;TMA
 2019-02-18;Aurouze;Correction renouvellement;2;TMA
 2019-02-15;VINSI;mis a jour export bi ;1,5;TMA
-2019-02-15;TueNet;correction pour import tue net avec rendezvous;2,5;TueNet
+2019-02-15;Aurouze;correction pour import tue net avec rendezvous;2,5;TueNet
 2019-02-15;DeclarVins;Assistance / Demandes;2;TMA
 2019-02-15;Aurouze;Reunion;3,5;TMA
 2019-02-15;Aurouze;Point projet;4;TMA
-2019-02-14;TueNet;mis en prod et import de donnees;2,5;TueNet
+2019-02-14;Aurouze;mis en prod et import de donnees;2,5;TueNet
 2019-02-14;ODGProvence;finission et mise en prod export sage;2;Facturation
 2019-02-14;DeclarVins;Assistance / Demandes;3;TMA
 2019-02-14;CIVA;Reunion;4;Réunion
 2019-02-14;CIVA;Reunion;3,5;Réunion
-2019-02-13;TueNet;Adaptation tuenet et import de donnees;5,5;TueNet
+2019-02-13;Aurouze;Adaptation tuenet et import de donnees;5,5;TueNet
 2019-02-13;CIVA;Mercuriales Export PDF ;5;Mercuriales
 2019-02-13;Aurouze;correction bugs;1,5;TMA
 2019-02-13;24eme;Rencontre Eric Mairet;1;24eme
@@ -548,7 +548,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-23;CNIV;nouvelles IP;1,5;TMA
 2018-10-23;Aurouze;adaptation pour les prelevements;3,5;TMA
 2018-10-23;24eme;IVSO budget nextcloud;1,5;
-2018-10-22;TueNet;import donnee;3;TueNet
+2018-10-22;Aurouze;import donnee;3;TueNet
 2018-10-22;IR;Evolution DAE;1;DAE
 2018-10-22;DeclarVins;Assistance / Demandes;3,5;TMA
 2018-10-22;CNIV;Tests IP;0,5;TMA
@@ -563,11 +563,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-19;24eme;Entretient;3;24eme
 2018-10-19;24eme;Entretien;;
 2018-10-18;VINSI;transmission douane;1;TMA
-2018-10-18;TueNet;Import tue net;7;TueNet
+2018-10-18;Aurouze;Import tue net;7;TueNet
 2018-10-18;IR;Evolution DAE;2;DAE
 2018-10-18;DeclarVins;Assistance / Demandes;2;TMA
 2018-10-18;CNIV;Accompagnement CIVCorse;0,5;TMA
-2018-10-17;TueNet;Import tue net;7;TueNet
+2018-10-17;Aurouze;Import tue net;7;TueNet
 2018-10-17;IR;Evolution DAE;3;DAE
 2018-10-17;DeclarVins;Assistance / Demandes;3;TMA
 2018-10-17;CNIV;Accompagnement CIVCorse;1;TMA
@@ -4751,7 +4751,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2015-07-31;AVA;Mockups constats VTSGN;1,5;Constats VTSGN
 2015-07-31;AVA;Fixe bug saisie DRevMarc papier;1;DRev
 2015-07-31;24eme;Recherche assurance multirisques;1;
-2015-07-30;VINSI;Verso contrat nouveau;1,5;TMA VINSI
+2015-07-30;VINSI;Verso contrat nouveau;1,5;TMA
 2015-07-30;VINSI;Points, Tickets;5,5;Télédeclaration DRM
 2015-07-30;VINSI;maj export EDI;4;Télédeclaration DRM
 2015-07-30;DeclarVins;Tickets 14735 15777 14499;6;TMA
@@ -4838,10 +4838,10 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2015-07-01;DeclarVins;Intervention transfert historique;1;TMA
 2015-07-01;AVA;Export SAGE;7;Facturation
 2015-06-30;VINSI; template rendu avec l'intelligence mais sans l'inté;1;Télédeclaration DRM
-2015-06-30;VINSI; #15418 Export one shot des établissements actifs viticulteurs Exclu;1,5;TMA VINSI
-2015-06-30;VINSI;#15417 mis à jour des nouveaux établissements avec Interpro;2,5;TMA VINSI
-2015-06-30;VINSI; #15416 Enregistrement avec Interpro pour les nouveaux ETBs;1,5;TMA VINSI
-2015-06-30;VINSI;#15333 Problème de Facturation en 100% négociant;1,5;TMA VINSI
+2015-06-30;VINSI; #15418 Export one shot des établissements actifs viticulteurs Exclu;1,5;TMA
+2015-06-30;VINSI;#15417 mis à jour des nouveaux établissements avec Interpro;2,5;TMA
+2015-06-30;VINSI; #15416 Enregistrement avec Interpro pour les nouveaux ETBs;1,5;TMA
+2015-06-30;VINSI;#15333 Problème de Facturation en 100% négociant;1,5;TMA
 2015-06-30;DeclarVins;Gestion des transferts d'historique;5;TMA
 2015-06-30;DeclarVins;Gestion de projet evolution grc;1;TMA
 2015-06-30;Aymeric;Portfolio;2;Aymeric
@@ -4863,7 +4863,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2015-06-25;AVA;Module de generation d'export;3;DRev & Parcellaire
 2015-06-25;24eme;Préparation pièce comptable;2;Gestion
 2015-06-24;VINSI;Choix entrées sorties avec Gwen et Fanny;3;Télédeclaration DRM
-2015-06-24;VINSI;Analyse de maintenance;1;TMA VINSI
+2015-06-24;VINSI;Analyse de maintenance;1;TMA
 2015-06-24;DeclarVins;Debug par email ouverture DRM;3;TMA
 2015-06-24;AVA;Module de generation d'export;4;DRev & Parcellaire
 2015-06-24;AVA;Formulaire de saisie des formations;1;Dégustation
@@ -4872,7 +4872,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2015-06-23;DeclarVins;Ticket 15320;5;TMA
 2015-06-23;DeclarVins;Mise en prod + Ouverture DRM IR;2;TMA
 2015-06-23;AVA;Formulaire de saisie des formations;4;Dégustation
-2015-06-22;VINSI;calendrier items ;7;TMA VINSI
+2015-06-22;VINSI;calendrier items ;7;TMA
 2015-06-22;DeclarVins;Ticket 15320;2;TMA
 2015-06-22;DeclarVins;Ticket 15309;1;TMA
 2015-06-22;DeclarVins;Point gestion de projet;1;TMA
