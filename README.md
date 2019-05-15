@@ -2,19 +2,21 @@
 
 ## Temps
 
-Les temps du mois courants : https://github.com/24eme/temps/blob/master/temps.csv
+Temps du mois courant : [temps.csv](https://github.com/24eme/temps/blob/master/temps.csv)
 
-Ils sont archivés chaque mois : https://github.com/24eme/temps/tree/master/temps
+Historique des temps depuis le début : [temps_historique.csv](https://github.com/24eme/temps/tree/master/temps_historique.csv)
 
 ## Consommation des projets
 
-Les temps prévus et consommés sur chacun de nos projets : https://github.com/24eme/temps/blob/master/suivi_projets.csv
+Suivi temps prévus et consommés sur chacun de nos projets : [Voir le tableau](https://github.com/24eme/temps/blob/master/suivi_projets.csv)
 
 ## Indicateurs
 
-Nos indicateurs : https://github.com/24eme/temps/blob/master/indicateurs.csv
+Description des indicateurs suivis :
 
 * Facturé : Montant facturé ce mois
 * Jours restants : Nombre de jours restant connus de développement
 * Charges n-1 : Toutes les dépenses du mois en excluant celle relative à la TVA (PRLV SEPA DGFIP TVA)
 * Trésorie NET : Solde du compte déduit du capital, des parts bloqués et de la réserve
+
+[Voir le tableau des indicateurs](https://github.com/24eme/temps/blob/master/indicateurs.csv)
