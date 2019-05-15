@@ -1,1 +1,80 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2019-04-01;24eme;Off;;
+2019-04-02;DeclarVins;Assistance / Demandes;7;TMA
+2019-04-03;DeclarVins;Assistance / Demandes;4;TMA
+2019-04-03;DeclarVins;Prestataire EDI;2;TMA
+2019-04-04;DeclarVins;Assistance / Demandes;2;TMA
+2019-04-04;InterRhone;Assistance / Demandes;2;DAE
+2019-04-04;24eme;Temps;;
+2019-04-05;24eme;Off;;
+2019-04-08;24eme;Tactical + compta;;
+2019-04-09;24eme;Off;;
+2019-04-10;DeclarVins;Assistance / Demandes;3;TMA
+2019-04-10;DeclarVins;Transferts EDI;2,5;TMA
+2019-04-11;DeclarVins;Transferts EDI;1,5;TMA
+2019-04-11;24eme;Devis Tuenet;;
+2019-04-12;DeclarVins;Assistance / Demandes;2,5;TMA
+2019-04-12;DeclarVins;Association mouvements;4,5;DrmNegoce
+2019-04-15;CNIV;Assistance CIV Corse;1;TMA
+2019-04-16;Aurouze;Formulaire de transfert Contrat;6;TMA
+2019-04-16;DeclarVins;Mise à jour country list;1;TMA
+2019-04-17;Aurouze;Reunion;7;Tuenet
+2019-04-18;ODGRhone;Correctifs export INAO + ajout statut;7;TMA
+2019-04-19;DeclarVins;Assistance / Demandes;2;TMA
+2019-04-22;24eme;Malade;;
+2019-04-23;24eme;Malade;;
+2019-04-24;24eme;Malade;;
+2019-04-25;24eme;Malade;;
+2019-04-26;24eme;Malade;;
+2019-04-29;24eme;Congé;;
+2019-04-29;DeclarVins;Assistance contrats Declaviti;1,5;TMA
+2019-04-30;24eme;Congé;;
+2019-04-01;IVBD;export bi;1,5;TMA
+2019-04-02;IVBD;point tel et adaptation;1,5;Stats
+2019-04-02;VINSI;tma compte et drm;2,5;TMA
+2019-04-03;IVSO;TMA diverse;1;TMA
+2019-04-04;BIVC;retour douane pas de reouverture;1;TMA
+2019-04-04;IVBD;retour douane pas de reouverture;1;TMA
+2019-04-04;IVSO;retour douane pas de reouverture;1;TMA
+2019-04-04;VINSI;retour douane pas de reouverture;1;TMA
+2019-04-05;IVBD;optimisation et adaptation;6;Stats
+2019-04-05;VINSI;drm;1;TMA
+2019-04-12;Aurouze;debug;2;TMA
+2019-04-12;IVBD;adaptation;3,5;Stats
+2019-04-12;IVBD;drm modifies;2;TMA
+2019-04-12;IVSO;drm;1,5;TMA
+2019-04-12;VINSI;drm et tma;9;TMA
+2019-04-17;TueNet;reunion;7;Forfait
+2019-04-19;ODGProvence;probleme dans les noms;1;TMA
+2019-04-19;TueNet;dev et imports;22;Forfait
+2019-04-26;BIVC;probleme contrat et sv12;1,5;TMA
+2019-04-26;IVSO;matiere premiere;6,5;TMA
+2019-04-26;IVSO;region hors cvo;1,5;TMA
+2019-04-26;TueNet;dev;7;Forfait
+2019-04-26;VINSI;facturation;6,5;TMA
+2019-04-29;IVSO;matiere premiere;6,5;TMA
+2019-04-29;VINSI;probleme de facture;1;TMA
+2019-04-30;Aurouze;debug lie a la carte;1;TMA
+2019-04-30;ODGProvence;import parcellaire 2019;6;Parcellaire
+2019-04-30;Eurocontrol;Développement;10,5;Scripts et Support
+2019-04-30;Eurocontrol;Atelier;3,5;Scripts et Support
+2019-04-30;VINSI;Direction technique + réunion;14;TMA
+2019-04-30;VINSI;Direction technique + réunion;10,5;ODG
+2019-04-30;VinIGP;Avant vente;7;AvantVente
+2019-04-30;Juricaf;TMA Direction technique;7;TMA
+2019-04-30;IVSO;TMA Direction technique;7;TMA
+2019-04-30;CNIV;TMA Direction technique;7;TMA
+2019-04-30;ODGProvence;Import parcellaire 2019;56;Parcellaire
+2019-04-30;VINSI;Réunion;7;TMA
+2019-04-30;ODGProvence;Réunion;3,5;ODG
+2019-04-30;AVA;Facturation 2019, Registre VCI, Export INAO;45,5;TMA
+2019-04-30;CIVA;Corrections DRM, Import Tiers, EDI;10,5;TMA
+2019-04-30;BIVC;Ajout de produits dans la conf;2;TMA
+2019-04-30;VINSI;Assistance DRM;3,5;TMA
+2019-04-30;VINSI;Réunion;7;TMA
+2019-04-30;VINSI;DRev Loire;7;ODG
+2019-04-30;VINSI;Réunion;3,5;ODG
+2019-04-30;ODGRhone;DI;7;DI
+2019-04-30;Eurocontrol;Atelier;3,5;Scripts et Support
+2019-04-30;Aurouze;Dév;10,5;Tuenet
+2019-04-30;IVSO;Étape Transert TAV;10,5;TMA
