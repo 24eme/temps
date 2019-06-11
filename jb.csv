@@ -17,7 +17,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-04-12;DeclarVins;Association mouvements;4,5;DrmNegoce
 2019-04-15;CNIV;Assistance CIV Corse;1;TMA
 2019-04-16;Aurouze;Formulaire de transfert Contrat;6;TMA
-2019-04-16;DeclarVins;Mise à jour country list;1;TMA
+2019-04-16;DeclarVins;Mise Ã  jour country list;1;TMA
 2019-04-17;Aurouze;Reunion;7;Tuenet
 2019-04-18;ODGRhone;Correctifs export INAO + ajout statut;7;TMA
 2019-04-19;DeclarVins;Assistance / Demandes;2;TMA
@@ -26,12 +26,12 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-04-24;24eme;Malade;;
 2019-04-25;24eme;Malade;;
 2019-04-26;24eme;Malade;;
-2019-04-29;24eme;Congé;;
+2019-04-29;24eme;CongÃ©;;
 2019-04-29;DeclarVins;Assistance contrats Declaviti;1,5;TMA
-2019-04-30;24eme;Congé;;
-2019-05-01;24eme;Férié;;
-2019-05-02;24eme;Congé;;
-2019-05-03;24eme;Congé;;
+2019-04-30;24eme;Conge;;
+2019-05-01;24eme;Ferie;;
+2019-05-02;24eme;Conge;;
+2019-05-03;24eme;Conge;;
 2019-05-06;DeclarVins;SPF Mail IVSE;1;TMA
 2019-05-07;DeclarVins;SPF Mail IVSE;1;TMA
 2019-05-07;DeclarVins;Interruption Liaison Ciel;4;TMA
