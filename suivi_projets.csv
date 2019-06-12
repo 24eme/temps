@@ -1,5 +1,6 @@
 "Projet","Date Début","Date fin","Nb jours total","Nb jours consommés","Date maj consommé","Nb jours restants","Tarif HT"
 "Aurouze – TMA","2019-01-01","2019-12-31",12,8,"2019-05-31",4,550
+"Aurouze – Forfait Ajax Info","2019-01-01","2019-12-31",2,2,"2019-05-31",,550
 "AVA – TMA","2019-01-01","Au temps passé",,"10.5","2019-05-31",,570
 "AVA – VCI","2018-01-01","2018-12-31",,"13.5","2019-02-28",,570
 "CIVA – TMA","2019-01-01","Au temps passé",,"24.25","2019-05-31",,570
@@ -28,7 +29,7 @@
 "AHJUCAF","2019-01-01","Au temps passé",6,4,"2019-04-30",2,710
 "Eurocontrol - Brainstorming et formation","2018-09-01","2019-02-28",12,17,"2019-03-31",,
 "Eurocontrol - Scripts et Support","2018-09-01","2019-02-28",25,17,"2019-05-31",8,
-"Tuenet","2018-10-01","2019-06-30",20,"30","2019-05-31",,550
+"Tuenet","2018-10-01","2019-06-30",20,"28","2019-05-31",,550
 "Tuenet TMA","2019-07-01","2019-12-31",6,,"2019-05-31",6,550
 "Production immobilisée","2018-01-01","Au temps passé",,"5.5","2019-04-30",,
 "PSA","2018-01-01","Au temps passé",,"16.75","2019-05-31",,
