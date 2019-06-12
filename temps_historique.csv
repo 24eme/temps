@@ -19,7 +19,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-04-30;Eurocontrol;Atelier;3,5;Scripts et Support
 2019-04-30;CNIV;TMA Direction technique;7;TMA
 2019-04-30;CIVA;Corrections DRM, Import Tiers, EDI;10,5;TMA
-2019-04-30;BIVC;Ajout de produits dans la conf;2;TMA
+2019-04-30;Sancerre;Ajout de produits dans la conf;2;TMA
 2019-04-30;AVA;Facturation 2019, Registre VCI, Export INAO;45,5;TMA
 2019-04-30;Aurouze;Dév;10,5;TueNet
 2019-04-30;Aurouze;debug lie a la carte;1;TMA
@@ -31,7 +31,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-04-26;VINSI;facturation;6,5;TMA
 2019-04-26;IVSO;region hors cvo;1,5;TMA
 2019-04-26;IVSO;matiere premiere;6,5;TMA
-2019-04-26;BIVC;probleme contrat et sv12;1,5;TMA
+2019-04-26;Sancerre;probleme contrat et sv12;1,5;TMA
 2019-04-26;Aurouze;dev;7;TueNet
 2019-04-26;24eme;Malade;;
 2019-04-25;24eme;Malade;;
@@ -68,7 +68,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-04-04;IVBD;retour douane pas de reouverture;1;TMA
 2019-04-04;IR;Assistance / Demandes;2;DAE
 2019-04-04;DeclarVins;Assistance / Demandes;2;TMA
-2019-04-04;BIVC;retour douane pas de reouverture;1;TMA
+2019-04-04;Sancerre;retour douane pas de reouverture;1;TMA
 2019-04-04;24eme;Temps;;
 2019-04-03;IVSO;TMA diverse;1;TMA
 2019-04-03;DeclarVins;Prestataire EDI;2;TMA
