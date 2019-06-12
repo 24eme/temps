@@ -1,27 +1,27 @@
 2019-05-02;IVSO;region hors cvo;2;TMA
 2019-05-02;OdgProvence;probleme import parcellaire;5;Parcellaire
 2019-05-03;OdgProvence;probleme import parcellaire;3;Parcellaire
-2019-05-06;TueNet;import de données;7;Forfait
-2019-05-07;TueNet;import de données;7;Forfait
+2019-05-06;Aurouze;import de données;7;TueNet
+2019-05-07;Aurouze;import de données;7;TueNet
 2019-05-10;Aurouze;carte et retour;1;TMA
 2019-05-10;IVBD;transmission douane et accise;2;TMA
 2019-05-10;IVSO;Transmission et DRM;4;TMA
-2019-05-10;TueNet;import de données;4;Forfait
+2019-05-10;Aurouze;import de données;4;TueNet
 2019-05-10;VINSI;Transmission double regime;2;TMA
-2019-05-13;TueNet;dev;3;Forfait
+2019-05-13;Aurouze;dev;3;TueNet
 2019-05-14;VINSI;Decalage stock Bi;3;TMA
-2019-05-15;TueNet;dev;3,5;Forfait
-2019-05-16;TueNet;dev;6,5;Forfait
+2019-05-15;Aurouze;dev;3,5;TueNet
+2019-05-16;Aurouze;dev;6,5;TueNet
 2019-05-17;VINSI;Debug xml et autres demandes;4;TMA
-2019-05-20;TueNet;FineTuning;7;Forfait
-2019-05-21;TueNet;FineTuning;7;Forfait
-2019-05-22;TueNet;FineTuning;7;Forfait
-2019-05-23;TueNet;dev et bug;4;Forfait
-2019-05-24;TueNet;FineTuning;7;Forfait
+2019-05-20;Aurouze;FineTuning;7;TueNet
+2019-05-21;Aurouze;FineTuning;7;TueNet
+2019-05-22;Aurouze;FineTuning;7;TueNet
+2019-05-23;Aurouze;dev et bug;4;TueNet
+2019-05-24;Aurouze;FineTuning;7;TueNet
 2019-05-27;Aurouze;ajax partout pour les paiements;5;TMA
 2019-05-27;IVBD;transmission douane et accise;1;TMA
-2019-05-27;TueNet;dev et bug;1;Forfait
-2019-05-28;TueNet;Telephone et tournees;7;Forfait
+2019-05-27;Aurouze;dev et bug;1;TueNet
+2019-05-28;Aurouze;Telephone et tournees;7;TueNet
 2019-05-29;VINSI;Facturation par email;6;TMA
 2019-05-31;CIVA;tiers;0,5;TMA
 2019-05-31;VINSI;Facturation par email;7;TMA
