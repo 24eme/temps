@@ -284,7 +284,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-02-28;Aurouze;debug;2,5;TMA
 2019-02-28;24eme;Amélioration report 24 et corrections mon activité;3,5;Prodimmo
 2019-02-27;IVBD;statistiques tests et adaptation elasticsearch;7;Stats
-2019-02-27;DeclarVins;Assistance / Demandes;2;Mercuriales
+2019-02-27;DeclarVins;Assistance / Demandes;2;TMA
 2019-02-27;CIVA;Mercuriales Mise en page;2;Mercuriales
 2019-02-26;Sancerre;reindexation elasticsearch;1;TMA
 2019-02-26;CIVA; reparation des drm pour la reprise des donnees;6,5;TMA
@@ -390,7 +390,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-01-23;24eme;Reunion douanes;3,5;CIEL
 2019-01-22;VINSI;bi ds qui bouge;1,5;TMA
 2019-01-22;VINSI;array array dans sv11;2,5;TMA
-2019-01-22;IVSO;NextCloud;7;Conception
+2019-01-22;IVSO;NextCloud;7;NextCloud
 2019-01-22;IVBD;contrat a changer ;0,5;TMA
 2019-01-22;24eme;Voeux;;
 2019-01-21;VINSI;EDI Colonne id douane;1,5;TMA
