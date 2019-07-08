@@ -1,11 +1,15 @@
-2019-04-30;AVA;Facturation 2019, Registre VCI, Export INAO;45,5;TMA
-2019-04-30;CIVA;Corrections DRM, Import Tiers, EDI;10,5;TMA
-2019-04-30;BIVC;Ajout de produits dans la conf;2;TMA
-2019-04-30;VINSI;Assitance DRM;3,5;TMA
-2019-04-30:VINSI;Réunion;7;TMA
-2019-04-30;VINSI;DRev Loire;7;ODG
-2019-04-30;VINSI;Réunion;3,5;ODG
-2019-04-30;ODGRhone;DI;7;DI
-2019-04-30;Eurocontrol;Atelier;3,5;Migration GIT
-2019-04-30;Aurouze;Dév;10,5;Tuenet
-2019-04-30;IVSO;Étape Transert TAV;10,5;TMA
+2019-06-30;ODGRhone;DI;14;DI
+2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7,0;Réunion
+2019-06-30;ODGRhone;Metabase;31,5;Metabase
+2019-06-30;Sancerre;DRM et EDI;3,5;TMA
+2019-06-30;AVA;Points téléphonique, corrections Facturation, VCI, Prélèvement;10,5;TMA
+2019-06-30;DeclarVins;Assistance DRM et gestion mise à jour du serveur TAS;7,0;TMA
+2019-06-30;IVBD;Intervention DRM et échanges avec DRM CIVB;14,0;TMA
+2019-06-30;Eurocontrol;Réunion;3,5;Scripts et Support
+2019-06-30;Aurouze;TMA Tuenet;3,5;TMA Tuenet
+2019-06-30;VINSI;TMA;10,5;TMA
+2019-06-30;VINSI;ODG;3,5;ODG Réunion
+2019-06-30;VINSI;ODG;17,5;ODG
+2019-06-30;IVSO;TMA;7,0;TMA
+2019-06-30;CIVA;TMA;7,0;TMA
+2019-06-30;CNIV;TMA;3,5;TMA

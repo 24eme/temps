@@ -1,0 +1,24 @@
+Date;Projet;Description;Temps (en heure);Tache
+2019-05-06;DeclarVins;SPF Mail IVSE;1;TMA
+2019-05-07;DeclarVins;Interruption Liaison Ciel;4;TMA
+2019-05-07;DeclarVins;SPF Mail IVSE;1;TMA
+2019-05-07;DeclarVins;Tache retransmission Ciel;3;TMA
+2019-05-09;DeclarVins;Interruption Liaison Ciel;3;TMA
+2019-05-10;DeclarVins;Assistance / Demandes;1;TMA
+2019-05-10;DeclarVins;Pb calcul CVO contrat;3;TMA
+2019-05-10;DeclarVins;Pb EDI IS;1;TMA
+2019-05-13;DeclarVins;Pb EDI IS;1;TMA
+2019-05-14;DeclarVins;Correspondances Mouvements;5;DrmNegoce
+2019-05-14;DeclarVins;Doc EDI Alcool;2,5;TMA
+2019-05-15;DeclarVins;Pb EDI IS;0,5;TMA
+2019-05-15;DeclarVins;SPF Mail IVSE;0,5;TMA
+2019-05-16;DeclarVins;Assistance / Demandes;1;TMA
+2019-05-16;DeclarVins;Developpement;4;DrmNegoce
+2019-05-17;DeclarVins;Developpement;4;DrmNegoce
+2019-05-17;DeclarVins;EDI Contrat;1;TMA
+2019-05-20;DeclarVins;EDI Contrat + EDI DRM;1;TMA
+2019-05-21;DeclarVins;EDI Contrat;1;TMA
+2019-05-23;DeclarVins;Developpement;5;DrmNegoce
+2019-05-24;DeclarVins;Assistance / Demandes;1;TMA
+2019-05-29;DeclarVins;Gestion TAS;2;TMA
+2019-05-31;DeclarVins;Direction technique;3,5;TMA
