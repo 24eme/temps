@@ -1,0 +1,50 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24eme;;2;0,3
+24eme;TOTAL;2;0,3
+Aurouze;TMA;1;0,1
+Aurouze;TMA Tuenet;24,5;3,5
+Aurouze;TOTAL;25,5;3,6
+AVA;TMA;15;2,1
+AVA;TOTAL;15;2,1
+CIVA;TMA;7,5;1,1
+CIVA;TOTAL;7,5;1,1
+CNIV;TMA;12,5;1,8
+CNIV;TOTAL;12,5;1,8
+DeclarVins;DrmNegoce;11,5;1,6
+Declarvins;TMA;10,5;1,5
+DeclarVins;TMA;44;6,3
+Declarvins;TOTAL;10,5;1,5
+DeclarVins;TOTAL;55,5;7,9
+Eurocontrol;MigrationGIT;14;2,0
+Eurocontrol;Scripts et Support;3,5;0,5
+Eurocontrol;TOTAL;17,5;2,5
+InterRhone;TMA;3,5;0,5
+InterRhone;TOTAL;3,5;0,5
+IVBD;TMA;24;3,4
+IVBD;TOTAL;24;3,4
+IVSO;TMA;12,5;1,8
+IVSO;TOTAL;12,5;1,8
+ODGProvence;Parcellaire;7;1,0
+ODGProvence;TOTAL;7;1,0
+ODGRhone;DI;14;2,0
+ODGRhone;Metabase;31,5;4,5
+ODGRhone;Réunion;14;2,0
+ODGRhone;TMA;7;1,0
+ODGRhone;TOTAL;66,5;9,5
+Provence;TMA;3,5;0,5
+Provence;TOTAL;3,5;0,5
+PSA;Forfait;36;5,1
+PSA;Prodimmo;13;1,9
+PSA;TOTAL;49;7,0
+Pythagore;Forfait;21;3,0
+Pythagore;TOTAL;21;3,0
+Sancerre;DrmNegoce;18;2,6
+Sancerre;TMA;5,5;0,8
+Sancerre;TOTAL;23,5;3,4
+VINSI;Facturation;63;9,0
+VINSI;ODG;31,5;4,5
+VINSI;ODG Réunion;3,5;0,5
+VINSI;Reunion;14;2,0
+VINSI;TMA;30,5;4,4
+VINSI;TOTAL;142,5;20,4
+TOTAL;TOTAL;71,3
