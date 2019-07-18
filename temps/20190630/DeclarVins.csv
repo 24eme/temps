@@ -1,0 +1,21 @@
+Date;Projet;Description;Temps (en heure);Tache
+2019-06-07;DeclarVins;Assistance / Demandes;3;TMA
+2019-06-07;DeclarVins;Gestion TAS;1;TMA
+2019-06-11;DeclarVins;Assistance / Demandes;2;TMA
+2019-06-11;DeclarVins;Gestion probleme liaison CIEL;4;TMA
+2019-06-12;DeclarVins;Gestion TAS;2;TMA
+2019-06-13;DeclarVins;Assistance / Demandes;2;TMA
+2019-06-13;DeclarVins;Harmonisation LDAP;4;TMA
+2019-06-14;DeclarVins;Assistance / Demandes;2,5;TMA
+2019-06-14;DeclarVins;Certificat IR;3;TMA
+2019-06-17;DeclarVins;Developpement;3;DrmNegoce
+2019-06-20;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-06-20;DeclarVins;Developpement;3,5;DrmNegoce
+2019-06-20;DeclarVins;Echanges IS;2;TMA
+2019-06-21;DeclarVins;Developpement;3;DrmNegoce
+2019-06-21;DeclarVins;Echanges IS;3;TMA
+2019-06-25;DeclarVins;Assistance / Demandes;3;TMA
+2019-06-27;DeclarVins;Developpement;2;DrmNegoce
+2019-06-28;DeclarVins;Assistance / Demandes;1;TMA
+2019-06-28;DeclarVins;Echanges IS;3;TMA
+2019-06-30;DeclarVins;Assistance DRM et gestion mise à jour du serveur TAS;7,0;TMA
