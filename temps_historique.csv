@@ -8,7 +8,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-06-30;VINSI;Direction technique;7;TMA
 2019-06-30;VINSI;CRD;4;TMA
 2019-06-30;Sancerre;DRM et EDI;3,5;TMA
-2019-06-30;PSA;Dev;36;Forfait
+2019-06-30;Prodimmo;Dev;36;PSA
 2019-06-30;Provence;TMA Direction technique;3,5;TMA
 2019-06-30;ODGRhone;TMA Direction technique;7;TMA
 2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7;Réunion
@@ -39,11 +39,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-06-28;DeclarVins;Assistance / Demandes;1;TMA
 2019-06-28;Aurouze;tma diverse;3;TMA Tuenet
 2019-06-27;Sancerre;Interfaces;3;DrmNegoce
-2019-06-27;PSA;Evolutions formulaire;2;Prodimmo
+2019-06-27;Prodimmo;Evolutions formulaire;2;PSA
 2019-06-27;DeclarVins;Developpement;2;DrmNegoce
-2019-06-26;PSA;Evolutions formulaire;7;Prodimmo
+2019-06-26;Prodimmo;Evolutions formulaire;7;PSA
 2019-06-25;VINSI;odgloire compte et droits;7;ODG
-2019-06-25;PSA;Evolutions formulaire;4;Prodimmo
+2019-06-25;Prodimmo;Evolutions formulaire;4;PSA
 2019-06-25;DeclarVins;Assistance / Demandes;3;TMA
 2019-06-24;Sancerre;Interfaces;3;DrmNegoce
 2019-06-21;VINSI;transmission DRM;1;TMA
@@ -118,11 +118,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-05-31;AVA;Correction Facturation, Export INAO;10,5;TMA
 2019-05-31;Aurouze;Correction;0,5;TMA
 2019-05-31;24eme;Off;;
-2019-05-31;24eme;Améliortation monactivité;3,5;Prodimmo
+2019-05-31;Prodimmo;Améliortation monactivité;3,5;Outils internes
 2019-05-30;24eme;Ferie;;
 2019-05-29;VINSI;Facturation par email;6;TMA
-2019-05-29;PSA;Reunion;3;Forfait
-2019-05-29;PSA;Export;1;Forfait
+2019-05-29;Prodimmo;Reunion;3;PSA
+2019-05-29;Prodimmo;Export;1;PSA
 2019-05-29;DeclarVins;Gestion TAS;2;TMA
 2019-05-29;Aurouze;Developpement;2;TueNet
 2019-05-28;Aurouze;Telephone et tournees;7;TueNet
@@ -379,7 +379,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-02-28;AVA;debug de tournee;0,5;TMA
 2019-02-28;Aurouze;Section informations supplémentaires en ajax pour alléger la page plannif;14;Forfait Ajax Info
 2019-02-28;Aurouze;debug;2,5;TMA
-2019-02-28;24eme;Amélioration report 24 et corrections mon activité;3,5;Prodimmo
+2019-02-28;Prodimmo;Amélioration report 24 et corrections mon activité;3,5;Outils internes
 2019-02-27;IVBD;statistiques tests et adaptation elasticsearch;7;Stats
 2019-02-27;DeclarVins;Assistance / Demandes;2;TMA
 2019-02-27;CIVA;Mercuriales Mise en page;2;Mercuriales
@@ -664,8 +664,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-11-30;VINSI;Intervention DRM;3,5;TMA
 2018-11-30;VINSI;Direction technique;0,5;TMA
 2018-11-30;Pythagore;Formation GIT;14;Formation
-2018-11-30;PSA;Dév;17,5;Forfait
-2018-11-30;PSA;Dév;1,25;Forfait
+2018-11-30;Prodimmo;Dév;17,5;PSA
+2018-11-30;Prodimmo;Dév;1,25;PSA
 2018-11-30;ODGRhone;Probleme mauvais mail;2,5;TMA
 2018-11-30;ODGRhone;Direction technique;7;TMA
 2018-11-30;ODGProvence;DRev, récupération DR, CAS;10,5;Lot 3
@@ -687,14 +687,14 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-11-30;AVA;Correction VCI DRev et Registre;14;VCI
 2018-11-30;AVA;Correction DRev;3,5;TMA
 2018-11-30;Aurouze;gestion reglements;1;TMA
-2018-11-30;24eme;Report24 et monactivité;10,5;Prodimmo
-2018-11-30;24eme;Report 24;0,25;Prodimmo
+2018-11-30;Prodimmo;Report24 et monactivité;10,5;Outils internes
+2018-11-30;Prodimmo;Report 24;0,25;Outils internes
 2018-11-29;IVBD;statistique;7;Stats
 2018-11-29;24eme;Jour off;7;
-2018-11-28;PSA;Dev;5;Forfait
+2018-11-28;Prodimmo;Dev;5;PSA
 2018-11-28;Aurouze;Creation technicien mobile;1,5;TMA
-2018-11-27;PSA; dév;6;PSA
-2018-11-27;PSA;Dev;3;Forfait
+2018-11-27;Prodimmo; dév;6;PSA
+2018-11-27;Prodimmo;Dev;3;PSA
 2018-11-27;IR;DAE evolutions et correctifs;1;DAE
 2018-11-27;IR;DAE EDI;3;DAE
 2018-11-27;Aurouze;transferts contrats;1;TMA
@@ -734,7 +734,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-11-16;DeclarVins;Demandes DRM;1,5;TMA
 2018-11-16;24eme;Tactical Meeting;3;24eme
 2018-11-16;24eme;Tactical;;
-2018-11-16;24eme;report 24;3;Prodimmo
+2018-11-16;Prodimmo;report 24;3;Outils internes
 2018-11-15;VINSI;Loire TMA drm;2,5;TMA
 2018-11-15;IVBD;contacts suspendus;1;TMA
 2018-11-15;AVA;DRev VCI;4,5;VCI
@@ -793,7 +793,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-31;DeclarVins;Assistance / Demandes;2;TMA
 2018-10-31;CIVA;DS: Export BI, DB2 et XML, Maj Tiers - DRM: EDI, corrections, export DB2 - DR: Ouverture et adaption 2018, Jus de raisin;56;TMA
 2018-10-31;AVA;"Corrections export constats, Modifications de constats, Saisie mobile bug dans la saisie du "".""";10,5;TMA
-2018-10-31;24eme;Report 24 et Mon activité;7;Prodimmo
+2018-10-31;Prodimmo;Report 24 et Mon activité;7;Outils internes
 2018-10-31;24eme;Facturation et Entretiens;7;24eme
 2018-10-31;24eme;Entretient;4;24eme
 2018-10-31;24eme;Entretiens Jerome / Gabriel;;
@@ -806,8 +806,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-26;DeclarVins;Assistance / Demandes;4;TMA
 2018-10-26;Aurouze;Pb reglement / vir sepa;1;TMA
 2018-10-25;VINSI;Export bi et DRM debug;4,5;TMA
-2018-10-25;24eme;Report 24;4;Prodimmo
-2018-10-25;24eme;report24;3,5;Prodimmo
+2018-10-25;Prodimmo;Report 24;4;Outils internes
+2018-10-25;Prodimmo;report24;3,5;Outils internes
 2018-10-25;24eme;Entretien Jerome;;
 2018-10-24;ODGProvence;reunion provence;7;Lot 3
 2018-10-24;ODGProvence;Reunion;7;Lot 3
@@ -889,8 +889,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-01;24eme;PreRDV laureat.fr;2;
 2018-09-30;VINSI;TMA DRM;3,5;TMA
 2018-09-30;Sancerre;Mise à jour de la CVO;2;TMA
-2018-09-30;PSA;Réunion;3,5;Réunion
-2018-09-30;PSA;Dév;17,5;Forfait
+2018-09-30;Prodimmo;Réunion;3,5;PSA
+2018-09-30;Prodimmo;Dév;17,5;PSA
 2018-09-30;ODGRhone;Export csv des demandes d'habilitation;7;DI
 2018-09-30;IVBD;Export DRM Bordeaux;2;TMA
 2018-09-30;CIVA;TMA DRM (Corrections, PDF, EDI);14;TMA
@@ -902,7 +902,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-09-30;Aurouze;Réunion paiement;3,5;Réunion
 2018-09-30;24eme;Offre d'emploi;7;24eme
 2018-09-30;24eme;Facturation et tactical;7;24eme
-2018-09-28;PSA;dev;4,5;Forfait
+2018-09-28;Prodimmo;dev;4,5;PSA
 2018-09-28;IR;Evolution DAE;7;DAE
 2018-09-28;24eme;ajustement de Ansible;1,5;Ansible
 2018-09-27;VINSI;debug de DRM;1;TMA
@@ -914,24 +914,24 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-09-26;Giilda;reparation des tests pour tous;5;GIILDA
 2018-09-26;24eme;Off;;
 2018-09-25;VINSI; Changement de logo dans les pdfs;3,5;TMA
-2018-09-25;PSA;Dev;7;Forfait
+2018-09-25;Prodimmo;Dev;7;PSA
 2018-09-25;IVSO;autosiganture des contrats internes;3,5;TMA
 2018-09-24;VINSI; evolution pdf et autre pour les DRM;5;TMA
-2018-09-24;PSA;Réunion;2;Réunion
-2018-09-24;PSA;RDV Rougy / Fouad;3;Réunion
+2018-09-24;Prodimmo;Réunion;2;PSA
+2018-09-24;Prodimmo;RDV Rougy / Fouad;3;PSA
 2018-09-24;DeclarVins;Assistance / Demandes;3;TMA
-2018-09-21;PSA;test dans psa;2;Forfait
-2018-09-21;PSA;Dev;5;Forfait
+2018-09-21;Prodimmo;test dans psa;2;PSA
+2018-09-21;Prodimmo;Dev;5;PSA
 2018-09-21;Juricaf;Assistance / Demandes;2;TMA
 2018-09-21;24eme;Mathurin absent lapres midi;3,5;conge
-2018-09-20;PSA;dev;7;Forfait
-2018-09-20;PSA;Dev;5;Forfait
+2018-09-20;Prodimmo;dev;7;PSA
+2018-09-20;Prodimmo;Dev;5;PSA
 2018-09-20;DeclarVins;Assistance / Demandes;2;TMA
-2018-09-19;PSA;dev;7;Forfait
+2018-09-19;Prodimmo;dev;7;PSA
 2018-09-19;DeclarVins;Assistance / Demandes;3;TMA
 2018-09-19;24eme;RDV InnovAgro;;
 2018-09-18;VINSI; Mis en place du TAV pour alcool DRM;5;TMA
-2018-09-18;PSA;mis en place projet;2;Forfait
+2018-09-18;Prodimmo;mis en place projet;2;PSA
 2018-09-18;DeclarVins;Assistance / Demandes;1;TMA
 2018-09-18;AVA;Accès plateforme Pb Online;2;TMA
 2018-09-18;Aurouze;debug encours bancaire;1;Prélèvement
@@ -952,7 +952,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-09-12;Aurouze;Point projet;2;TMA
 2018-09-12;24eme;Tactical et facturation;3,5;24EME
 2018-09-12;24eme;Facturation / Tactical;;
-2018-09-11;PSA;RDV Rougy;2;Forfait
+2018-09-11;Prodimmo;RDV Rougy;2;PSA
 2018-09-11;Aurouze;prelevement banque;4,5;Prélèvement
 2018-09-11;Aurouze;en cours de paiement;2,5;Prélèvement
 2018-09-10;DeclarVins;Assistance / Demandes;3;TMA
