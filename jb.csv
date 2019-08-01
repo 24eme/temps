@@ -121,3 +121,51 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-07-04;DeclarVins;Stats Douanes;4;TMA
 2019-07-04;DeclarVins;Assistance / Demandes;3,5;TMA
 2019-07-05;24eme;Laffitte / temps / compta;;
+2019-07-07;VINSI;Gestion message certificat invalide;1;TMA
+2019-07-08;DeclarVins;Assistance / Demandes;7;TMA
+2019-07-09;Sancerre;Correctifs;2;DrmNegoce
+2019-07-09;Sancerre;Assistance / Demandes;1;TMA
+2019-07-09;DeclarVins;Assistance / Demandes;2;TMA
+2019-07-09;DeclarVins;Stats Douanes;2;TMA
+2019-07-10;24eme;Demenagement;;
+2019-07-10;DeclarVins;Ouverture DRM Negoce;2;DrmNegoce
+2019-07-11;24eme;Emmenagement;;
+2019-07-12;DeclarVins;Assistance / Demandes;4;TMA
+2019-07-12;IVSO;Configuration mvts, produits;1;DrmNegoce
+2019-07-12;IVBD;Configuration mvts, produits;1;DrmNegoce
+2019-07-12;CIVA;Configuration mvts, produits;1;DrmNegoce
+2019-07-15;IVSO;Configuration mvts, produits;2;DrmNegoce
+2019-07-15;IVBD;Configuration mvts, produits;2;DrmNegoce
+2019-07-15;CIVA;Configuration mvts, produits;2;DrmNegoce
+2019-07-16;IVSO;Configuration mvts, produits;1;DrmNegoce
+2019-07-16;IVBD;Configuration mvts, produits;1;DrmNegoce
+2019-07-16;CIVA;Configuration mvts, produits;1;DrmNegoce
+2019-07-16;24eme;Marcadet, PU;;
+2019-07-17;PSA;Export donnees;3;Prodimmo
+2019-07-17;DeclarVins;Stats Douanes;2,5;TMA
+2019-07-18;24eme;Preparation Bilan;;
+2019-07-19;24eme;Preparation Bilan;;
+2019-07-19;DeclarVins;Assistance / Demandes;3;TMA
+2019-07-22;Aurouze;Assistance / Demandes;1;TMA
+2019-07-22;IVSO;Configuration mvts, produits;1;DrmNegoce
+2019-07-22;DeclarVins;Assistance / Demandes;1;TMA
+2019-07-22;24eme;Preparation Bilan;;
+2019-07-23;IVBD;Assistance / Demandes;1;TMA
+2019-07-23;DeclarVins;Assistance / Demandes;5;TMA
+2019-07-23;CNIV;Editeurs logiciels cave;1;TMA
+2019-07-24;24eme;CIAMT;;
+2019-07-24;DeclarVins;Assistance / Demandes;4;TMA
+2019-07-25;CIVA;Maj tiers;1;TMA
+2019-07-25;DeclarVins;Assistance / Demandes;5,5;TMA
+2019-07-26;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-07-26;TueNet;Assistance / Demandes;1,5;TMA
+2019-07-26;24eme;Preparation Bilan;;
+2019-07-29;DeclarVins;Assistance / Demandes;2;TMA
+2019-07-29;24eme;Formation Colmar / Preparation bilan;;
+2019-07-30;Sancerre;probleme facturation negociant pur;3;TMA
+2019-07-30;DeclarVins;Assistance / Demandes;3;TMA
+2019-07-31;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-07-31;24eme;Bilan;;
+2019-08-01;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-08-01;IVSO;Probleme mp/alcool;2;TMA
+2019-08-01;BIVC;Assistance / Demandes;1,5;TMA
