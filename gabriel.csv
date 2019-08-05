@@ -1,8 +1,36 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2019-06-30;VINSI;Facturation electronique et paiement en ligne;7;Reunion
-2019-06-30;VINSI;DRM;4;TMA
-2019-06-30;VINSI;CRD;4;TMA
-2019-06-30;VINSI;Facturation electronique et paiement en ligne;7;Facturation
-2019-06-30;ODGProvence;Parcellaire;7;Parcellaire
-2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7;Reunion
-2019-06-30;PSA;Dev;36;Forfait
+2019-07-01;BIVC;Évolution CRD;4;DRM
+2019-07-01;PSA;Évolution sur les status;4;Prodimmo
+2019-07-02;VINSI;Entreprises liées;7;Vrac
+2019-07-03;PSA;Maj dépendances;3;Prodimmo
+2019-07-03;VINSI;Bug annuaire;1;TMA
+2019-07-05;ENVA;Journée de presta;7;
+2019-07-09;ODGProvence;Suppression parcelle irriguée;1;TMA
+2019-07-09;VINSI;Correction entreprises liées;1;TMA
+2019-07-09;VINSI;Entreprises liées;1;Vrac
+2019-07-09;IVBD;Transmission douane;1;TMA
+2019-07-09;IVSO;Transmission douane;1;TMA
+2019-07-09;CIVA;Maj tiers;1;TMA
+2019-07-10;24eme;Déménagement;;
+2019-07-11;24eme;Déménagement;;
+2019-07-12;IVSO;DRM;1;TMA
+2019-07-12;IVSO;Double régime CRD;1;CRD
+2019-07-15;24eme;Conges;;
+2019-07-16;24eme;Conges;;
+2019-07-17;24eme;Conges;;
+2019-07-18;24eme;Conges;;
+2019-07-19;24eme;Conges;;
+2019-07-22;Aurouze;Prélèvement;2;Prélèvement
+2019-07-22;Aurouze;Recherche par tag;5;Recherche
+2019-07-24;Aurouze;Prélèvement;7;Prélèvement
+2019-07-25;Aurouze;Récap dans les contrats;5;Contrats
+2019-07-26;Aurouze;2nd email pour le rapport;5;Tournées
+2019-07-26;Aurouze;Fix récap contrat;1;Contrats
+2019-07-29;CIVA;Ouverture Periode DS;1;TMA
+2019-07-29;BIVC;Ajout produits;1;TMA
+2019-07-29;IVBD;Changement date contrat;1;TMA
+2019-07-30;DeclarVins;Assistance;1;TMA
+2019-07-30;CIVA;Correction PDF;1;TMA
+2019-07-30;DeclarVins;Assistance;1;TMA
+2019-07-30;VINSI;Assistance;1;TMA
+2019-07-31;CIVA;Assistance;2;TMA
