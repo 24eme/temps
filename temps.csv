@@ -62,7 +62,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-07-05;ODGProvence;Parcellaire;1;TMA
 2019-07-05;VINSI;configuration;3,5;TMA DRM
 2019-07-08;24eme;facturation;3;interne
-2019-07-08;VINSI;debug contrat;4,5;TMA Vrac
+2019-07-08;VINSI;debug contrat;4,5;TMA Contrat
 2019-07-09;24eme;facturation;1;interne
 2019-07-09;VINSI;odgloire drev;6;ODG
 2019-07-10;24eme;demenagement;4;interne
@@ -97,13 +97,13 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-07-31;Eurocontrol;Réunion;3,5;Scripts et Support
 2019-07-01;Sancerre;Évolution CRD;4;TMA
 2019-07-01;PSA;Évolution sur les status;4;Prodimmo
-2019-07-02;VINSI;Entreprises liées;7;TMA Vrac
+2019-07-02;VINSI;Entreprises liées;7;TMA Contrat
 2019-07-03;PSA;Maj dépendances;3;Prodimmo
 2019-07-05;ENVA;Journée de presta;7;Intervention
-2019-07-03;VINSI;Bug annuaire;1;TMA Vrac
+2019-07-03;VINSI;Bug annuaire;1;TMA Contrat
 2019-07-09;ODGProvence;Suppression parcelle irriguée;1;TMA
-2019-07-09;VINSI;Correction entreprises liées;1;TMA Vrac
-2019-07-09;VINSI;Entreprises liées;1;TMA Vrac
+2019-07-09;VINSI;Correction entreprises liées;1;TMA Contrat
+2019-07-09;VINSI;Entreprises liées;1;TMA Contrat
 2019-07-09;IVBD;Transmission douane;1;TMA
 2019-07-09;IVSO;Transmission douane;1;TMA
 2019-07-09;CIVA;Maj tiers;1;TMA
