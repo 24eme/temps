@@ -8,7 +8,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-07-04;DeclarVins;Stats Douanes;4;TMA
 2019-07-04;DeclarVins;Assistance / Demandes;3,5;TMA
 2019-07-05;24eme;Laffitte / temps / compta;;
-2019-07-07;VINSI;Gestion message certificat invalide;1;TMA
+2019-07-07;VINSI;Gestion message certificat invalide;1;TMA DRM
 2019-07-08;DeclarVins;Assistance / Demandes;7;TMA
 2019-07-09;Sancerre;Correctifs DRMNegoce;2;TMA
 2019-07-09;Sancerre;Assistance / Demandes;1;TMA
@@ -60,9 +60,9 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-07-04;VINSI;odgloire drev;6,5;ODG
 2019-07-05;IVBD;contrat et drm;1;TMA
 2019-07-05;ODGProvence;Parcellaire;1;TMA
-2019-07-05;VINSI;configuration;3,5;TMA
+2019-07-05;VINSI;configuration;3,5;TMA DRM
 2019-07-08;24eme;facturation;3;interne
-2019-07-08;VINSI;debug contrat;4,5;TMA
+2019-07-08;VINSI;debug contrat;4,5;TMA Vrac
 2019-07-09;24eme;facturation;1;interne
 2019-07-09;VINSI;odgloire drev;6;ODG
 2019-07-10;24eme;demenagement;4;interne
@@ -80,7 +80,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-07-29;CIVA;DS ouverture et differents bug;5,5;TMA
 2019-07-29;IVBD;drm;0,5;TMA
 2019-07-29;ODGRhone;debug tache export;0,5;TMA
-2019-07-29;VINSI;drm;2;TMA
+2019-07-29;VINSI;drm;2;TMA DRM
 2019-07-30;VINSI;odgloire drev;7;ODG
 2019-07-31;VINSI;odgloire drev;3,5;ODG
 2019-07-31;CIVA;TMA;17,5;TMA
@@ -99,10 +99,10 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-07-01;PSA;Évolution sur les status;4;Prodimmo
 2019-07-02;VINSI;Entreprises liées;7;TMA Vrac
 2019-07-03;PSA;Maj dépendances;3;Prodimmo
-2019-07-03;VINSI;Bug annuaire;1;TMA
 2019-07-05;ENVA;Journée de presta;7;Intervention
+2019-07-03;VINSI;Bug annuaire;1;TMA Vrac
 2019-07-09;ODGProvence;Suppression parcelle irriguée;1;TMA
-2019-07-09;VINSI;Correction entreprises liées;1;TMA
+2019-07-09;VINSI;Correction entreprises liées;1;TMA Vrac
 2019-07-09;VINSI;Entreprises liées;1;TMA Vrac
 2019-07-09;IVBD;Transmission douane;1;TMA
 2019-07-09;IVSO;Transmission douane;1;TMA
@@ -128,7 +128,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-07-30;DeclarVins;Assistance;1;TMA
 2019-07-30;CIVA;Correction PDF;1;TMA
 2019-07-30;DeclarVins;Assistance;1;TMA
-2019-07-30;VINSI;Assistance;1;TMA
+2019-07-30;VINSI;Assistance;1;TMA DRM
 2019-07-31;CIVA;Assistance;2;TMA
 2019-07-31;IVSO;TMA Direction technique;3,5;TMA
 2019-07-31;CNIV;TMA Direction technique;7;TMA
