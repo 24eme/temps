@@ -1,15 +1,12 @@
-2019-06-30;ODGRhone;DI;14;DI
-2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7,0;Réunion
-2019-06-30;ODGRhone;Metabase;31,5;Metabase
-2019-06-30;Sancerre;DRM et EDI;3,5;TMA
-2019-06-30;AVA;Points téléphonique, corrections Facturation, VCI, Prélèvement;10,5;TMA
-2019-06-30;DeclarVins;Assistance DRM et gestion mise à jour du serveur TAS;7,0;TMA
-2019-06-30;IVBD;Intervention DRM et échanges avec DRM CIVB;14,0;TMA
-2019-06-30;Eurocontrol;Réunion;3,5;Scripts et Support
-2019-06-30;Aurouze;TMA Tuenet;3,5;TMA Tuenet
-2019-06-30;VINSI;TMA;10,5;TMA
-2019-06-30;VINSI;ODG;3,5;ODG Réunion
-2019-06-30;VINSI;ODG;17,5;ODG
-2019-06-30;IVSO;TMA;7,0;TMA
-2019-06-30;CIVA;TMA;7,0;TMA
-2019-06-30;CNIV;TMA;3,5;TMA
+2019-07-31;CIVA;TMA;17,5;TMA
+2019-07-31;ODGRhone;Correction DI et correction clé produit;7;TMA
+2019-07-31;VINSI;Réunion DRev;3,5;ODG Réunion
+2019-07-31;VINSI;Dév du sprint;38,5;ODG
+2019-07-31;VINSI;TMA DRM;17,5;TMA DRM
+2019-07-31;DeclarVins;TMA DRM;3,5;TMA DRM
+2019-07-31;AVA;Stats de facturation et interventions;7,0;TMA
+2019-07-31;Sancerre;TMA DRM;2,0;TMA
+2019-07-31;IVBD;TMA DRM;2,0;TMA
+2019-07-31;Aurouze;TMA Tuenet;7,0;TMA Tuenet
+2019-07-31;IVSO;Corrections et interventions DRM;10,5;TMA
+2019-07-31;Eurocontrol;Réunion;3,5;Scripts et Support
