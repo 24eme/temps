@@ -1,4 +1,146 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2019-07-31;VINSI;TMA DRM;17,5;TMA DRM
+2019-07-31;VINSI;Réunion DRev;3,5;ODG Réunion
+2019-07-31;VINSI;odgloire drev;3,5;ODG
+2019-07-31;VINSI;Direction technique;14;TMA DRM
+2019-07-31;VINSI;Direction technique;10,5;ODG
+2019-07-31;VINSI;Dév du sprint;38,5;ODG
+2019-07-31;Sancerre;TMA DRM;2,0;TMA
+2019-07-31;ODGRhone;TMA Direction technique;10,5;TMA
+2019-07-31;ODGRhone;Correction DI et correction clé produit;7;TMA
+2019-07-31;Juricaf;TMA Direction technique;3,5;TMA
+2019-07-31;IVSO;TMA Direction technique;3,5;TMA
+2019-07-31;IVSO;Corrections et interventions DRM;10,5;TMA
+2019-07-31;IVBD;TMA DRM;2,0;TMA
+2019-07-31;Eurocontrol;Réunion;3,5;Scripts et Support
+2019-07-31;Eurocontrol;Développement;14;Scripts et Support
+2019-07-31;Eurocontrol;Atelier;3,5;Scripts et Support
+2019-07-31;DeclarVins;TMA DRM;3,5;TMA
+2019-07-31;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-07-31;CNIV;TMA Direction technique;7;TMA
+2019-07-31;CIVA;TMA;17,5;TMA
+2019-07-31;CIVA;Direction technique DS;5;TMA
+2019-07-31;CIVA;Direction technique;2;TMA
+2019-07-31;CIVA;Assistance;2;TMA
+2019-07-31;BIVC;TMA Direction technique;3,5;TMA
+2019-07-31;AVA;Stats de facturation et interventions;7,0;TMA
+2019-07-31;Aurouze;TMA Tuenet;7,0;TMA Tuenet
+2019-07-31;24eme;Bilan;;
+2019-07-30;VINSI;odgloire drev;7;ODG
+2019-07-30;VINSI;Assistance;1;TMA DRM
+2019-07-30;Sancerre;probleme facturation negociant pur;3;TMA
+2019-07-30;DeclarVins;Assistance / Demandes;3;TMA
+2019-07-30;DeclarVins;Assistance;1;TMA
+2019-07-30;DeclarVins;Assistance;1;TMA
+2019-07-30;CIVA;Correction PDF;1;TMA
+2019-07-29;VINSI;drm;2;TMA DRM
+2019-07-29;Sancerre;Ajout produits;1;TMA
+2019-07-29;ODGRhone;debug tache export;0,5;TMA
+2019-07-29;IVBD;drm;0,5;TMA
+2019-07-29;IVBD;Changement date contrat;1;TMA
+2019-07-29;DeclarVins;Assistance / Demandes;2;TMA
+2019-07-29;CIVA;Ouverture Periode DS;1;TMA
+2019-07-29;CIVA;DS ouverture et differents bug;5,5;TMA
+2019-07-29;Aurouze;tma diverse;3;TMA Tuenet
+2019-07-29;24eme;Formation Colmar / Preparation bilan;;
+2019-07-26;VINSI;odgloire drev;7;ODG
+2019-07-26;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-07-26;Aurouze;Fix récap contrat;1;TMA Contrats
+2019-07-26;Aurouze;Assistance / Demandes;1,5;TMA Tuenet
+2019-07-26;Aurouze;2nd email pour le rapport;5;TMA Tournées
+2019-07-26;24eme;Preparation Bilan;;
+2019-07-25;VINSI;odgloire drev;3;ODG
+2019-07-25;DeclarVins;Assistance / Demandes;5,5;TMA
+2019-07-25;CIVA;Maj tiers;1;TMA
+2019-07-25;Aurouze;Récap dans les contrats;5;TMA Contrats
+2019-07-24;VINSI;odgloire drev;5;ODG
+2019-07-24;DeclarVins;Assistance / Demandes;4;TMA
+2019-07-24;Aurouze;Prélèvement;7;TMA Prélèvement
+2019-07-24;24eme;CIAMT;;
+2019-07-23;VINSI;odgloire drev;3;ODG
+2019-07-23;IVBD;Assistance / Demandes;1;TMA
+2019-07-23;DeclarVins;Assistance / Demandes;5;TMA
+2019-07-23;CNIV;Editeurs logiciels cave;1;TMA
+2019-07-22;VINSI;odgloire drev;7;ODG
+2019-07-22;IVSO;Configuration mvts, produits;1;TMA
+2019-07-22;DeclarVins;Assistance / Demandes;1;TMA
+2019-07-22;Aurouze;Recherche par tag;5;TMA Recherche
+2019-07-22;Aurouze;Prélèvement;2;TMA Prélèvement
+2019-07-22;Aurouze;Assistance / Demandes;1;TMA
+2019-07-22;24eme;Preparation Bilan;;
+2019-07-19;DeclarVins;Assistance / Demandes;3;TMA
+2019-07-19;24eme;Preparation Bilan;;
+2019-07-19;24eme;Conges;;
+2019-07-18;VINSI;odgloire drev;7;ODG
+2019-07-18;24eme;Preparation Bilan;;
+2019-07-18;24eme;Conges;;
+2019-07-17;VINSI;odgloire drev;5;ODG
+2019-07-17;PSA;Export donnees;3;Prodimmo
+2019-07-17;DeclarVins;Stats Douanes;2,5;TMA
+2019-07-17;24eme;Conges;;
+2019-07-16;IVSO;Configuration mvts, produits DRMNegoce;1;TMA
+2019-07-16;IVBD;Configuration mvts, produits DRMNegoce;1;TMA
+2019-07-16;CIVA;DS double lieu de stockage;5,5;TMA
+2019-07-16;CIVA;Configuration mvts, produits DRMNegoce;1;TMA
+2019-07-16;24eme;Marcadet, PU;;
+2019-07-16;24eme;Conges;;
+2019-07-15;IVSO;Configuration mvts, produits DRMNegoce;2;TMA
+2019-07-15;IVBD;Configuration mvts, produits DRMNegoce;2;TMA
+2019-07-15;CIVA;Configuration mvts, produits DRMNegoce;2;TMA
+2019-07-15;24eme;Conges;;
+2019-07-12;IVSO;DRM;1;TMA
+2019-07-12;IVSO; drm;1;TMA
+2019-07-12;IVSO;Double régime CRD;1;TMA
+2019-07-12;IVSO;Configuration mvts, produits DRMNegoce;1;TMA
+2019-07-12;IVBD;Configuration mvts, produits DRMNegoce;1;TMA
+2019-07-12;DeclarVins;Assistance / Demandes;4;TMA
+2019-07-12;CIVA;Configuration mvts, produits DRMNegoce;1;TMA
+2019-07-12;Aurouze;probleme paiement;1,5;TMA
+2019-07-11;24eme;Emmenagement;;
+2019-07-11;24eme;Déménagement;;
+2019-07-10;DeclarVins;Ouverture DRM Negoce;2;DrmNegoce
+2019-07-10;24eme;demenagement;4;interne
+2019-07-10;24eme;Déménagement;;
+2019-07-10;24eme;Demenagement;;
+2019-07-09;VINSI;odgloire drev;6;ODG
+2019-07-09;VINSI;Entreprises liées;1;TMA Contrat
+2019-07-09;VINSI;Correction entreprises liées;1;TMA Contrat
+2019-07-09;Sancerre;Correctifs DRMNegoce;2;TMA
+2019-07-09;Sancerre;Assistance / Demandes;1;TMA
+2019-07-09;ODGProvence;Suppression parcelle irriguée;1;TMA
+2019-07-09;IVSO;Transmission douane;1;TMA
+2019-07-09;IVBD;Transmission douane;1;TMA
+2019-07-09;DeclarVins;Stats Douanes;2;TMA
+2019-07-09;DeclarVins;Assistance / Demandes;2;TMA
+2019-07-09;CIVA;Maj tiers;1;TMA
+2019-07-09;24eme;facturation;1;interne
+2019-07-08;VINSI;debug contrat;4,5;TMA Contrat
+2019-07-08;DeclarVins;Assistance / Demandes;7;TMA
+2019-07-08;24eme;facturation;3;interne
+2019-07-07;VINSI;Gestion message certificat invalide;1;TMA DRM
+2019-07-05;VINSI;configuration;3,5;TMA DRM
+2019-07-05;ODGProvence;Parcellaire;1;TMA
+2019-07-05;IVBD;contrat et drm;1;TMA
+2019-07-05;ENVA;Journée de presta;7;Intervention
+2019-07-05;24eme;Laffitte / temps / compta;;
+2019-07-04;VINSI;odgloire drev;6,5;ODG
+2019-07-04;DeclarVins;Stats Douanes;4;TMA
+2019-07-04;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-07-03;VINSI;odgloire drev;7;ODG
+2019-07-03;VINSI;Bug annuaire;1;TMA Contrat
+2019-07-03;PSA;Maj dépendances;3;Prodimmo
+2019-07-03;DeclarVins;Stats Douanes;4;TMA
+2019-07-03;DeclarVins;DS Negoce;2;TMA
+2019-07-03;DeclarVins;Assistance / Demandes;1,5;TMA
+2019-07-02;VINSI;odgloire drev;7;ODG
+2019-07-02;VINSI;Entreprises liées;7;TMA Contrat
+2019-07-02;Sancerre;Mise en prod DRM Negoce;2;TMA
+2019-07-02;DeclarVins;Stats Douanes;5;TMA
+2019-07-01;VINSI;odgloire drev;4;ODG
+2019-07-01;VINSI;mis en prod facturation en ligne;3,5;facturation
+2019-07-01;Sancerre;XML DRM Negoce;4;TMA
+2019-07-01;Sancerre;Évolution CRD;4;TMA
+2019-07-01;PSA;Évolution sur les status;4;Prodimmo
 2019-06-30;VINSI;TMA;10,5;TMA
 2019-06-30;VINSI;ODG;3,5;ODG Réunion
 2019-06-30;VINSI;ODG;17,5;ODG
@@ -8,8 +150,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-06-30;VINSI;Direction technique;7;TMA
 2019-06-30;VINSI;CRD;4;TMA
 2019-06-30;Sancerre;DRM et EDI;3,5;TMA
-2019-06-30;Prodimmo;Dev;36;PSA
 2019-06-30;Provence;TMA Direction technique;3,5;TMA
+2019-06-30;Prodimmo;Dev;36;PSA
 2019-06-30;ODGRhone;TMA Direction technique;7;TMA
 2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7;Réunion
 2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7,0;Réunion
@@ -101,6 +243,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-05-31;VINSI;Direction technique;3,5;TMA
 2019-05-31;VINSI;Corrections DRM;3,5;TMA
 2019-05-31;VINSI;Adaptation ODG Loire à VINSI, rapport prirority river;17.5;ODG
+2019-05-31;Prodimmo;Améliortation monactivité;3,5;Outils internes
 2019-05-31;ODGRhone;DI;7;DI
 2019-05-31;ODGProvence;TMA Direction technique;3,5;TMA
 2019-05-31;IVSO;TMA Direction technique;3,5;TMA
@@ -118,7 +261,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-05-31;AVA;Correction Facturation, Export INAO;10,5;TMA
 2019-05-31;Aurouze;Correction;0,5;TMA
 2019-05-31;24eme;Off;;
-2019-05-31;Prodimmo;Améliortation monactivité;3,5;Outils internes
 2019-05-30;24eme;Ferie;;
 2019-05-29;VINSI;Facturation par email;6;TMA
 2019-05-29;Prodimmo;Reunion;3;PSA
@@ -356,6 +498,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-02-28;VINSI;TMA Direction technique;14;TMA
 2019-02-28;VINSI;Corrections de DRM et début de reprise des DRM Sancerre;10,5;TMA
 2019-02-28;Sancerre;Corrections DRM;10,5;TMA
+2019-02-28;Prodimmo;Amélioration report 24 et corrections mon activité;3,5;Outils internes
 2019-02-28;ODGRhone;TMA Direction technique;3,5;TMA
 2019-02-28;ODGRhone;Dév DI;10,5;DI
 2019-02-28;Juricaf;TMA Direction technique;7;TMA
@@ -379,7 +522,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-02-28;AVA;debug de tournee;0,5;TMA
 2019-02-28;Aurouze;Section informations supplémentaires en ajax pour alléger la page plannif;14;Forfait Ajax Info
 2019-02-28;Aurouze;debug;2,5;TMA
-2019-02-28;Prodimmo;Amélioration report 24 et corrections mon activité;3,5;Outils internes
 2019-02-27;IVBD;statistiques tests et adaptation elasticsearch;7;Stats
 2019-02-27;DeclarVins;Assistance / Demandes;2;TMA
 2019-02-27;CIVA;Mercuriales Mise en page;2;Mercuriales
@@ -664,6 +806,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-11-30;VINSI;Intervention DRM;3,5;TMA
 2018-11-30;VINSI;Direction technique;0,5;TMA
 2018-11-30;Pythagore;Formation GIT;14;Formation
+2018-11-30;Prodimmo;Report24 et monactivité;10,5;Outils internes
+2018-11-30;Prodimmo;Report 24;0,25;Outils internes
 2018-11-30;Prodimmo;Dév;17,5;PSA
 2018-11-30;Prodimmo;Dév;1,25;PSA
 2018-11-30;ODGRhone;Probleme mauvais mail;2,5;TMA
@@ -687,8 +831,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-11-30;AVA;Correction VCI DRev et Registre;14;VCI
 2018-11-30;AVA;Correction DRev;3,5;TMA
 2018-11-30;Aurouze;gestion reglements;1;TMA
-2018-11-30;Prodimmo;Report24 et monactivité;10,5;Outils internes
-2018-11-30;Prodimmo;Report 24;0,25;Outils internes
 2018-11-29;IVBD;statistique;7;Stats
 2018-11-29;24eme;Jour off;7;
 2018-11-28;Prodimmo;Dev;5;PSA
@@ -730,11 +872,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-11-19;DeclarVins;Probleme DeclaViti;1,5;TMA
 2018-11-19;DeclarVins;Assistance DRM;0,5;TMA
 2018-11-19;CIVA;Mise a jour template convention Ciel;4,5;TMA
+2018-11-16;Prodimmo;report 24;3;Outils internes
 2018-11-16;IR;DAE optimisations et corrections;2;DAE
 2018-11-16;DeclarVins;Demandes DRM;1,5;TMA
 2018-11-16;24eme;Tactical Meeting;3;24eme
 2018-11-16;24eme;Tactical;;
-2018-11-16;Prodimmo;report 24;3;Outils internes
 2018-11-15;VINSI;Loire TMA drm;2,5;TMA
 2018-11-15;IVBD;contacts suspendus;1;TMA
 2018-11-15;AVA;DRev VCI;4,5;VCI
@@ -786,6 +928,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-31;VINSI;Corrections DRM;10,5;TMA
 2018-10-31;Sancerre;Corrections sur les DRM;3,5;TMA
 2018-10-31;Pythagore;Formation Apache;21;Formation
+2018-10-31;Prodimmo;Report 24 et Mon activité;7;Outils internes
 2018-10-31;ODGRhone;Tâche import des demandes en cours;14;DI
 2018-10-31;ODGProvence;2 jours DRev/DR/SV11/SV12, 0.5 réunion;17,5;Lot 3
 2018-10-31;IVSO;Mise à disposition Cahors et corrections de DRM;3,5;TMA
@@ -793,7 +936,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-10-31;DeclarVins;Assistance / Demandes;2;TMA
 2018-10-31;CIVA;DS: Export BI, DB2 et XML, Maj Tiers - DRM: EDI, corrections, export DB2 - DR: Ouverture et adaption 2018, Jus de raisin;56;TMA
 2018-10-31;AVA;"Corrections export constats, Modifications de constats, Saisie mobile bug dans la saisie du "".""";10,5;TMA
-2018-10-31;Prodimmo;Report 24 et Mon activité;7;Outils internes
 2018-10-31;24eme;Facturation et Entretiens;7;24eme
 2018-10-31;24eme;Entretient;4;24eme
 2018-10-31;24eme;Entretiens Jerome / Gabriel;;

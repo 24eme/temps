@@ -1,0 +1,30 @@
+Date;Projet;Description;Temps (en heure);Tache
+2019-07-01;VINSI;mis en prod facturation en ligne;3,5;facturation
+2019-07-01;VINSI;odgloire drev;4;ODG
+2019-07-02;VINSI;Entreprises liées;7;TMA Contrat
+2019-07-02;VINSI;odgloire drev;7;ODG
+2019-07-03;VINSI;Bug annuaire;1;TMA Contrat
+2019-07-03;VINSI;odgloire drev;7;ODG
+2019-07-04;VINSI;odgloire drev;6,5;ODG
+2019-07-05;VINSI;configuration;3,5;TMA DRM
+2019-07-07;VINSI;Gestion message certificat invalide;1;TMA DRM
+2019-07-08;VINSI;debug contrat;4,5;TMA Contrat
+2019-07-09;VINSI;Correction entreprises liées;1;TMA Contrat
+2019-07-09;VINSI;Entreprises liées;1;TMA Contrat
+2019-07-09;VINSI;odgloire drev;6;ODG
+2019-07-17;VINSI;odgloire drev;5;ODG
+2019-07-18;VINSI;odgloire drev;7;ODG
+2019-07-22;VINSI;odgloire drev;7;ODG
+2019-07-23;VINSI;odgloire drev;3;ODG
+2019-07-24;VINSI;odgloire drev;5;ODG
+2019-07-25;VINSI;odgloire drev;3;ODG
+2019-07-26;VINSI;odgloire drev;7;ODG
+2019-07-29;VINSI;drm;2;TMA DRM
+2019-07-30;VINSI;Assistance;1;TMA DRM
+2019-07-30;VINSI;odgloire drev;7;ODG
+2019-07-31;VINSI;Dév du sprint;38,5;ODG
+2019-07-31;VINSI;Direction technique;10,5;ODG
+2019-07-31;VINSI;Direction technique;14;TMA DRM
+2019-07-31;VINSI;odgloire drev;3,5;ODG
+2019-07-31;VINSI;Réunion DRev;3,5;ODG Réunion
+2019-07-31;VINSI;TMA DRM;17,5;TMA DRM
