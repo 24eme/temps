@@ -175,19 +175,19 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-06-30;Aurouze;TMA Tuenet;3,5;TMA Tuenet
 2019-06-28;VINSI;probleme drm;1,5;TMA
 2019-06-28;VINSI;odgloire compte et droits;7;ODG
-2019-06-28;Sancerre;Interfaces;3;DrmNegoce
+2019-06-28;Sancerre;Interfaces;3;TMA
 2019-06-28;IVBD;probleme stats;7;TMA
 2019-06-28;DeclarVins;Echanges IS;3;TMA
 2019-06-28;DeclarVins;Assistance / Demandes;1;TMA
 2019-06-28;Aurouze;tma diverse;3;TMA Tuenet
-2019-06-27;Sancerre;Interfaces;3;DrmNegoce
+2019-06-27;Sancerre;Interfaces;3;TMA
 2019-06-27;Prodimmo;Evolutions formulaire;2;PSA
 2019-06-27;DeclarVins;Developpement;2;DrmNegoce
 2019-06-26;Prodimmo;Evolutions formulaire;7;PSA
 2019-06-25;VINSI;odgloire compte et droits;7;ODG
 2019-06-25;Prodimmo;Evolutions formulaire;4;PSA
 2019-06-25;DeclarVins;Assistance / Demandes;3;TMA
-2019-06-24;Sancerre;Interfaces;3;DrmNegoce
+2019-06-24;Sancerre;Interfaces;3;TMA
 2019-06-21;VINSI;transmission DRM;1;TMA
 2019-06-21;VINSI;Facturation electronique et paiement en ligne;7;Facturation
 2019-06-21;Sancerre;Transmission et edi DRM;1;TMA
@@ -199,9 +199,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-06-20;DeclarVins;Developpement;3,5;DrmNegoce
 2019-06-20;DeclarVins;Assistance / Demandes;1,5;TMA
 2019-06-20;Aurouze;tma diverse et stats;4;TMA Tuenet
-2019-06-19;Sancerre;Interfaces;4;DrmNegoce
+2019-06-19;Sancerre;Interfaces;4;TMA
 2019-06-19;Aurouze;tma diverse et stats;5;TMA Tuenet
-2019-06-18;Sancerre;Correspondances Mouvements;5;DrmNegoce
+2019-06-18;Sancerre;Correspondances Mouvements;5;TMA
 2019-06-18;Aurouze;tma diverse;7;TMA Tuenet
 2019-06-18;24eme;compta;2;
 2019-06-17;VINSI;Facturation electronique et paiement en ligne;7;Facturation
