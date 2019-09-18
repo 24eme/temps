@@ -29,8 +29,8 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-08-20;VINSI;Changement CVO;0.5;TMA
 2019-08-21;ODGRhone;Export auto comptes;1;TMA
 2019-08-21;CIVA;Bug aggrégat;1;TMA
-2019-08-21;CIVP;Transmission CIEL;1;TMA
-2019-08-21;CIVA;DRM faite aux douanes;1;TMA
+2019-08-21;DeclarVins;Transmission CIEL;1;TMA
+2019-08-21;DeclarVins;DRM faite aux douanes;1;TMA
 2019-08-21;AVA;Import DR;1.5;TMA
 2019-08-22;Aurouze;Modification contrat;1;TMA
 2019-08-22;IVBD;Droit cadre transmission;0.5;TMA
@@ -53,9 +53,9 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-08-28;CIVA;Maj notice;1;TMA
 2019-08-29;VINSI;Finalisation DRM;0.5;TMA
 2019-08-29;IVSO;Changement acheteur;0.5;TMA
-2019-08-29;CIVA;Recuperation DS DRM;3;TMA
-2019-08-30;CIVA;Maj Tiers;1;Tiers
-2019-08-30;CIVP;Stock à zero;1;TMA
+2019-08-29;DeclarVins;Recuperation DS DRM;3;TMA
+2019-08-30;CIVA;Maj Tiers;1;TMA
+2019-08-30;DeclarVins;Stock à zero;1;TMA
 2019-08-30;VINSI;Page blanche ODGLoire;1;ODG
 2019-08-01;CIVA;DS debug probleme de VCI;2,5;TMA
 2019-08-01;VINSI;odgloire drev;4;ODG Réunion
@@ -87,4 +87,4 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-08-31;CIVA;Direction technique;17,5;TMA
 2019-08-31;Juricaf;TMA Direction technique;3,5;TMA
 2019-08-31;ODGProvence;TMA Direction technique;3,5;Hébergement
-2019-08-31;Declarvins;TMA Direction technique;10,5;TMA
+2019-08-31;DeclarVins;TMA Direction technique;10,5;TMA
