@@ -1,8 +1,47 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2019-06-30;VINSI;Facturation electronique et paiement en ligne;7;Reunion
-2019-06-30;VINSI;DRM;4;TMA
-2019-06-30;VINSI;CRD;4;TMA
-2019-06-30;VINSI;Facturation electronique et paiement en ligne;7;Facturation
-2019-06-30;ODGProvence;Parcellaire;7;Parcellaire
-2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7;Reunion
-2019-06-30;PSA;Dev;36;Forfait
+2019-08-01;CIVA;Statistiques DS;1;TMA
+2019-08-01;BIVC;DRM;1;TMA
+2019-08-01;VINSI;Produit coché si stock;1;TMA
+2019-08-01;IVSO;Oups Matiere première;1;TMA
+2019-08-02;CIVP;Correction XML;1;TMA
+2019-08-06;24eme;Tactical;;Tactical
+2019-08-07;24eme;Conges;;
+2019-08-08;24eme;Conges;;
+2019-08-09;24eme;Conges;;
+2019-08-12;24eme;Conges;;
+2019-08-13;24eme;Conges;;
+2019-08-14;24eme;Conges;;
+2019-08-19;VINSI;Problèmes transmission DRM;1;TMA
+2019-08-20;ODGRhone;Export manuel societe;2;Export
+2019-08-20;IVBD;Maj Configuration;2;Configuration
+2019-08-20;VINSI;Changement CVO;0.5;TMA
+2019-08-21;ODGRhone;Export auto comptes;1;Export
+2019-08-21;CIVA;Bug aggrégat;1;TMA
+2019-08-21;CIVP;Transmission CIEL;1;TMA
+2019-08-21;CIVA;DRM faite aux douanes;1;TMA
+2019-08-21;AVA;Import DR;1.5;TMA
+2019-08-22;Aurouze;Modification contrat;1;TMA
+2019-08-22;IVBD;Droit cadre transmission;0.5;TMA
+2019-08-22;VINSI;Disparition de vin;1;TMA
+2019-08-23;VINSI;Disparition de vin;2;TMA
+2019-08-23;CIVA;Mix clé et libellé csv;1;TMA
+2019-08-23;VINSI;Disparition de vin;1;TMA
+2019-08-26;IVBD;Tri vrac;0.5;TMA
+2019-08-26;CIVA;Maj Tiers;1;Tiers
+2019-08-26;AVA;Reouverture DREV;0.5;TMA
+2019-08-26;IVSO;Oups TAV;1;TMA
+2019-08-26;IVSO;Reprise TAV;1;TMA
+2019-08-27;Aurouze;Suppression Facture;1;TMA
+2019-08-27;CIVA;Recuperation DS DRM;3;TMA
+2019-08-27;IVSO;Certificat;1;Certificat
+2019-08-28;IVSO;Certificat;1;Certificat
+2019-08-28;Aurouze;Reouverture paiement;0.5;TMA
+2019-08-28;AVA;Reouverture DREV;1;TMA
+2019-08-28;VINSI;Finalisation DRM;2;TMA
+2019-08-28;CIVA;Maj notice;1;TMA
+2019-08-29;VINSI;Finalisation DRM;0.5;TMA
+2019-08-29;IVSO;Changement acheteur;0.5;TMA
+2019-08-29;CIVA;Recuperation DS DRM;3;TMA
+2019-08-30;CIVA;Maj Tiers;1;Tiers
+2019-08-30;CIVP;Stock à zero;1;TMA
+2019-08-30;ODGLoire;Page blanche ODGLoire;1;TMA
