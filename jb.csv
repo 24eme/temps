@@ -1,171 +1,50 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2019-04-01;24eme;Off;;
-2019-04-02;DeclarVins;Assistance / Demandes;7;TMA
-2019-04-03;DeclarVins;Assistance / Demandes;4;TMA
-2019-04-03;DeclarVins;Prestataire EDI;2;TMA
-2019-04-04;DeclarVins;Assistance / Demandes;2;TMA
-2019-04-04;InterRhone;Assistance / Demandes;2;DAE
-2019-04-04;24eme;Temps;;
-2019-04-05;24eme;Off;;
-2019-04-08;24eme;Tactical + compta;;
-2019-04-09;24eme;Off;;
-2019-04-10;DeclarVins;Assistance / Demandes;3;TMA
-2019-04-10;DeclarVins;Transferts EDI;2,5;TMA
-2019-04-11;DeclarVins;Transferts EDI;1,5;TMA
-2019-04-11;24eme;Devis Tuenet;;
-2019-04-12;DeclarVins;Assistance / Demandes;2,5;TMA
-2019-04-12;DeclarVins;Association mouvements;4,5;DrmNegoce
-2019-04-15;CNIV;Assistance CIV Corse;1;TMA
-2019-04-16;Aurouze;Formulaire de transfert Contrat;6;TMA
-2019-04-16;DeclarVins;Mise à jour country list;1;TMA
-2019-04-17;Aurouze;Reunion;7;Tuenet
-2019-04-18;ODGRhone;Correctifs export INAO + ajout statut;7;TMA
-2019-04-19;DeclarVins;Assistance / Demandes;2;TMA
-2019-04-22;24eme;Malade;;
-2019-04-23;24eme;Malade;;
-2019-04-24;24eme;Malade;;
-2019-04-25;24eme;Malade;;
-2019-04-26;24eme;Malade;;
-2019-04-29;24eme;Congé;;
-2019-04-29;DeclarVins;Assistance contrats Declaviti;1,5;TMA
-2019-04-30;24eme;Conge;;
-2019-05-01;24eme;Ferie;;
-2019-05-02;24eme;Conge;;
-2019-05-03;24eme;Conge;;
-2019-05-06;DeclarVins;SPF Mail IVSE;1;TMA
-2019-05-07;DeclarVins;SPF Mail IVSE;1;TMA
-2019-05-07;DeclarVins;Interruption Liaison Ciel;4;TMA
-2019-05-07;DeclarVins;Tache retransmission Ciel;3;TMA
-2019-05-08;24eme;Ferie;;
-2019-05-09;CIVA;Ajout CRD;1;TMA
-2019-05-09;CNIV;Assistance CIV Corse;1;TMA
-2019-05-09;DeclarVins;Interruption Liaison Ciel;3;TMA
-2019-05-10;DeclarVins;Pb EDI IS;1;TMA
-2019-05-10;DeclarVins;Pb calcul CVO contrat;3;TMA
-2019-05-10;DeclarVins;Assistance / Demandes;1;TMA
-2019-05-10;24eme;Visite;;
-2019-05-13;24eme;Visite + Off PM;;
-2019-05-13;DeclarVins;Pb EDI IS;1;TMA
-2019-05-14;DeclarVins;Doc EDI Alcool;2,5;TMA
-2019-05-14;DeclarVins;Correspondances Mouvements;5;DrmNegoce
-2019-05-15;DeclarVins;SPF Mail IVSE;0,5;TMA
-2019-05-15;DeclarVins;Pb EDI IS;0,5;TMA
-2019-05-15;24eme;Facturation + tactical;;
-2019-05-16;Aurouze;Assistance / Demandes;0,5;TMA
-2019-05-16;DeclarVins;Assistance / Demandes;1;TMA
-2019-05-16;DeclarVins;Developpement;4;DrmNegoce
-2019-05-16;24eme;Visite;;
-2019-05-17;Aurouze;Developpement;2;Tuenet
-2019-05-17;DeclarVins;EDI Contrat;1;TMA
-2019-05-17;DeclarVins;Developpement;4;DrmNegoce
-2019-05-20;DeclarVins;EDI Contrat + EDI DRM;1;TMA
-2019-05-20;Aurouze;Developpement;7;Tuenet
-2019-05-21;Aurouze;Developpement;7;Tuenet
-2019-05-21;DeclarVins;EDI Contrat;1;TMA
-2019-05-22;Aurouze;Developpement;7;Tuenet
-2019-05-23;DeclarVins;Developpement;5;DrmNegoce
-2019-05-23;24eme;Contrat Morning Marcadet;;
-2019-05-24;Aurouze;Developpement;7;Tuenet
-2019-05-24;DeclarVins;Assistance / Demandes;1;TMA
-2019-05-27;24eme;Visite + Gestion Marcadet;;
-2019-05-28;Aurouze;Developpement;7;Tuenet
-2019-05-29;PSA;Reunion;3;Forfait
-2019-05-29;PSA;Export;1;Forfait
-2019-05-29;Aurouze;Developpement;2;Tuenet
-2019-05-29;DeclarVins;Gestion TAS;2;TMA
-2019-05-30;24eme;Ferie;;
-2019-05-31;24eme;Off;;
-2019-06-03;Pythagore;Formation MongoDB;7;Forfait
-2019-06-04;Pythagore;Formation MongoDB;7;Forfait
-2019-06-05;Pythagore;Formation MongoDB;7;Forfait
-2019-06-06;24eme;Off;;
-2019-06-07;DeclarVins;Assistance / Demandes;3;TMA
-2019-06-07;DeclarVins;Gestion TAS;1;TMA
-2019-06-07;24eme;Amenagement Bureau;;
-2019-06-10;24eme;Ferie;;
-2019-06-11;DeclarVins;Gestion probleme liaison CIEL;4;TMA
-2019-06-11;DeclarVins;Assistance / Demandes;2;TMA
-2019-06-12;DeclarVins;Gestion TAS;2;TMA
-2019-06-12;24eme;Facturation + tactical;;
-2019-06-13;DeclarVins;Assistance / Demandes;2;TMA
-2019-06-13;DeclarVins;Harmonisation LDAP;4;TMA
-2019-06-13;Aurouze;contrat sans passage;1;TMA
-2019-06-14;CNIV;Assistance CIV Corse;2;TMA
-2019-06-14;DeclarVins;Assistance / Demandes;2,5;TMA
-2019-06-14;DeclarVins;Certificat IR;3;TMA
-2019-06-17;DeclarVins;Developpement;3;DrmNegoce
-2019-06-18;Sancerre;Correspondances Mouvements;5;DrmNegoce
-2019-06-18;24eme;compta;2;
-2019-06-19;Sancerre;Interfaces;4;DrmNegoce
-2019-06-20;DeclarVins;Developpement;3,5;DrmNegoce
-2019-06-20;DeclarVins;Assistance / Demandes;1,5;TMA
-2019-06-20;DeclarVins;Echanges IS;2;TMA
-2019-06-21;DeclarVins;Echanges IS;3;TMA
-2019-06-21;DeclarVins;Developpement;3;DrmNegoce
-2019-06-24;Sancerre;Interfaces;3;DrmNegoce
-2019-06-25;DeclarVins;Assistance / Demandes;3;TMA
-2019-06-25;PSA;Evolutions formulaire;4;Prodimmo
-2019-06-26;PSA;Evolutions formulaire;7;Prodimmo
-2019-06-27;PSA;Evolutions formulaire;2;Prodimmo
-2019-06-27;Sancerre;Interfaces;3;DrmNegoce
-2019-06-27;DeclarVins;Developpement;2;DrmNegoce
-2019-06-28;Sancerre;Interfaces;3;DrmNegoce
-2019-06-28;DeclarVins;Echanges IS;3;TMA
-2019-06-28;DeclarVins;Assistance / Demandes;1;TMA
-2019-07-01;Sancerre;XML;4;DrmNegoce
-2019-07-02;Sancerre;Mise en prod;2;DrmNegoce
-2019-07-02;DeclarVins;Stats Douanes;5;TMA
-2019-07-03;DeclarVins;Stats Douanes;4;TMA
-2019-07-03;DeclarVins;DS Negoce;2;TMA
-2019-07-03;DeclarVins;Assistance / Demandes;1,5;TMA
-2019-07-04;DeclarVins;Stats Douanes;4;TMA
-2019-07-04;DeclarVins;Assistance / Demandes;3,5;TMA
-2019-07-05;24eme;Laffitte / temps / compta;;
-2019-07-07;VINSI;Gestion message certificat invalide;1;TMA
-2019-07-08;DeclarVins;Assistance / Demandes;7;TMA
-2019-07-09;Sancerre;Correctifs;2;DrmNegoce
-2019-07-09;Sancerre;Assistance / Demandes;1;TMA
-2019-07-09;DeclarVins;Assistance / Demandes;2;TMA
-2019-07-09;DeclarVins;Stats Douanes;2;TMA
-2019-07-10;24eme;Demenagement;;
-2019-07-10;DeclarVins;Ouverture DRM Negoce;2;DrmNegoce
-2019-07-11;24eme;Emmenagement;;
-2019-07-12;DeclarVins;Assistance / Demandes;4;TMA
-2019-07-12;IVSO;Configuration mvts, produits;1;DrmNegoce
-2019-07-12;IVBD;Configuration mvts, produits;1;DrmNegoce
-2019-07-12;CIVA;Configuration mvts, produits;1;DrmNegoce
-2019-07-15;IVSO;Configuration mvts, produits;2;DrmNegoce
-2019-07-15;IVBD;Configuration mvts, produits;2;DrmNegoce
-2019-07-15;CIVA;Configuration mvts, produits;2;DrmNegoce
-2019-07-16;IVSO;Configuration mvts, produits;1;DrmNegoce
-2019-07-16;IVBD;Configuration mvts, produits;1;DrmNegoce
-2019-07-16;CIVA;Configuration mvts, produits;1;DrmNegoce
-2019-07-16;24eme;Marcadet, PU;;
-2019-07-17;PSA;Export donnees;3;Prodimmo
-2019-07-17;DeclarVins;Stats Douanes;2,5;TMA
-2019-07-18;24eme;Preparation Bilan;;
-2019-07-19;24eme;Preparation Bilan;;
-2019-07-19;DeclarVins;Assistance / Demandes;3;TMA
-2019-07-22;Aurouze;Assistance / Demandes;1;TMA
-2019-07-22;IVSO;Configuration mvts, produits;1;DrmNegoce
-2019-07-22;DeclarVins;Assistance / Demandes;1;TMA
-2019-07-22;24eme;Preparation Bilan;;
-2019-07-23;IVBD;Assistance / Demandes;1;TMA
-2019-07-23;DeclarVins;Assistance / Demandes;5;TMA
-2019-07-23;CNIV;Editeurs logiciels cave;1;TMA
-2019-07-24;24eme;CIAMT;;
-2019-07-24;DeclarVins;Assistance / Demandes;4;TMA
-2019-07-25;CIVA;Maj tiers;1;TMA
-2019-07-25;DeclarVins;Assistance / Demandes;5,5;TMA
-2019-07-26;DeclarVins;Assistance / Demandes;3,5;TMA
-2019-07-26;TueNet;Assistance / Demandes;1,5;TMA
-2019-07-26;24eme;Preparation Bilan;;
-2019-07-29;DeclarVins;Assistance / Demandes;2;TMA
-2019-07-29;24eme;Formation Colmar / Preparation bilan;;
-2019-07-30;Sancerre;probleme facturation negociant pur;3;TMA
-2019-07-30;DeclarVins;Assistance / Demandes;3;TMA
-2019-07-31;DeclarVins;Assistance / Demandes;1,5;TMA
-2019-07-31;24eme;Bilan;;
-2019-08-01;DeclarVins;Assistance / Demandes;3,5;TMA
-2019-08-01;IVSO;Probleme mp/alcool;2;TMA
-2019-08-01;BIVC;Assistance / Demandes;1,5;TMA
+2019-09-02;PSA;Export donnees;1;Probono
+2019-09-02;DeclarVins;Assistance EDI Prestataire;1;TMA
+2019-09-02;IVBD;Assistance / Demandes;1,5;TMA
+2019-09-02;24eme;Compta;;
+2019-09-03;BIVC;Corrections Statistiques;2;TMA
+2019-09-03;BIVC;Assistance / Demandes;1,5;TMA
+2019-09-03;Aurouze;Assistance / Demandes;1;TMA
+2019-09-03;DeclarVins;Assistance / Demandes;3;TMA
+2019-09-04;BIVC;Adaptation XSD XML Negoce;4;TMA
+2019-09-04;BIVC;Corrections Statistiques;3;TMA
+2019-09-05;DeclarVins;Adaptation XSD XML Negoce;6;TMA
+2019-09-05;Aurouze;Assistance / Demandes;0,5;TMA
+2019-09-06;DeclarVins;Adaptation XSD XML Negoce;3;TMA
+2019-09-06;DeclarVins;Assistance / Demandes;2,5;TMA
+2019-09-06;IVBD;Assistance / Demandes;1,5;TMA
+2019-09-09;IVBD;Assistance / Demandes;2;TMA
+2019-09-09;BIVC;Corrections Statistiques;3;TMA
+2019-09-09;DeclarVins;Assistance EDI Prestataire;1;TMA
+2019-09-09;DeclarVins;Assistance / Demandes;1;TMA
+2019-09-10;BIVC;Assistance / Demandes;1;TMA
+2019-09-10;DeclarVins;Evolution Usurpation;2,5;TMA
+2019-09-10;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-09-11;DeclarVins;Assistance / Demandes;7;TMA
+2019-09-12;DeclarVins;Assistance / Demandes;2,5;TMA
+2019-09-12;VINSI;Assistance / Demandes;2,5;TMA
+2019-09-12;CIVA;Assistance / Demandes;1,5;TMA
+2019-09-13;BIVC;Adaptation XSD XML Negoce;3;TMA
+2019-09-13;CIVA;Assistance / Demandes;1;TMA
+2019-09-13;DeclarVins;Entetes EDI;2;TMA
+2019-09-16;24eme;Malade;;
+2019-09-17;DeclarVins;Reunion Avignon;7;Conception
+2019-09-18;24eme;Facturation, tactical meeting;;
+2019-09-18;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-09-19;PSA;Export automatique + acces;3,5;Probono
+2019-09-19;CIVA;Mercuriales;0,5;Mercuriales
+2019-09-19;DeclarVins;Assistance / Demandes;1;TMA
+2019-09-20;24eme;Compta + Dej Apperce;;
+2019-09-23;CIVA;Mercuriales;3;Mercuriales
+2019-09-23;DeclarVins;Assistance / Demandes;2;TMA
+2019-09-24;DeclarVins;Compatibilité PHP7;3,5;TMA
+2019-09-24;VINSI;Dev;3,5;ODGLoire
+2019-09-25;CIVA;Mercuriales;4;Mercuriales
+2019-09-26;CIVA;Mercuriales;6;Mercuriales
+2019-09-27;CIVA;Mercuriales;3;Mercuriales
+2019-09-27;CIVA;Assistance / Demandes;1;TMA
+2019-09-30;DeclarVins;Assistance / Demandes;1;TMA
+2019-09-30;VINSI;Fine Tuning;7;ODGLoire
+2019-10-01;VINSI;Fine Tuning;7;ODGLoire
+2019-10-01;DeclarVins;Assistance / Demandes;0,5;TMA
