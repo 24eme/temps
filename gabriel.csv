@@ -1,47 +1,57 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2019-08-01;CIVA;Statistiques DS;1;TMA
-2019-08-01;BIVC;DRM;1;TMA
-2019-08-01;VINSI;Produit coché si stock;1;TMA
-2019-08-01;IVSO;Oups Matiere première;1;TMA
-2019-08-02;CIVP;Correction XML;1;TMA
-2019-08-06;24eme;Tactical;;Tactical
-2019-08-07;24eme;Conges;;
-2019-08-08;24eme;Conges;;
-2019-08-09;24eme;Conges;;
-2019-08-12;24eme;Conges;;
-2019-08-13;24eme;Conges;;
-2019-08-14;24eme;Conges;;
-2019-08-19;VINSI;Problèmes transmission DRM;1;TMA
-2019-08-20;ODGRhone;Export manuel societe;2;Export
-2019-08-20;IVBD;Maj Configuration;2;Configuration
-2019-08-20;VINSI;Changement CVO;0.5;TMA
-2019-08-21;ODGRhone;Export auto comptes;1;Export
-2019-08-21;CIVA;Bug aggrégat;1;TMA
-2019-08-21;CIVP;Transmission CIEL;1;TMA
-2019-08-21;CIVA;DRM faite aux douanes;1;TMA
-2019-08-21;AVA;Import DR;1.5;TMA
-2019-08-22;Aurouze;Modification contrat;1;TMA
-2019-08-22;IVBD;Droit cadre transmission;0.5;TMA
-2019-08-22;VINSI;Disparition de vin;1;TMA
-2019-08-23;VINSI;Disparition de vin;2;TMA
-2019-08-23;CIVA;Mix clé et libellé csv;1;TMA
-2019-08-23;VINSI;Disparition de vin;1;TMA
-2019-08-26;IVBD;Tri vrac;0.5;TMA
-2019-08-26;CIVA;Maj Tiers;1;Tiers
-2019-08-26;AVA;Reouverture DREV;0.5;TMA
-2019-08-26;IVSO;Oups TAV;1;TMA
-2019-08-26;IVSO;Reprise TAV;1;TMA
-2019-08-27;Aurouze;Suppression Facture;1;TMA
-2019-08-27;CIVA;Recuperation DS DRM;3;TMA
-2019-08-27;IVSO;Certificat;1;Certificat
-2019-08-28;IVSO;Certificat;1;Certificat
-2019-08-28;Aurouze;Reouverture paiement;0.5;TMA
-2019-08-28;AVA;Reouverture DREV;1;TMA
-2019-08-28;VINSI;Finalisation DRM;2;TMA
-2019-08-28;CIVA;Maj notice;1;TMA
-2019-08-29;VINSI;Finalisation DRM;0.5;TMA
-2019-08-29;IVSO;Changement acheteur;0.5;TMA
-2019-08-29;CIVA;Recuperation DS DRM;3;TMA
-2019-08-30;CIVA;Maj Tiers;1;Tiers
-2019-08-30;CIVP;Stock à zero;1;TMA
-2019-08-30;ODGLoire;Page blanche ODGLoire;1;TMA
+2019-09-02;CIVA;Tache export;2;TMA
+2019-09-02;CIVA;Maj Tiers;1;TMA
+2019-09-02;VINSI;Oups;0,5;ODGLoire TMA
+2019-09-02;IVSO;Certificat;1,5;Certificat
+2019-09-03;CIVA;Lieu stockage;0,5;TMA
+2019-09-03;CIVA;Import csv;0,5;TMA
+2019-09-03;VINSI;Suppression DRM;0,5;TMA
+2019-09-03;VINSI;Export BI;0,5;TMA
+2019-09-03;Aurouze;Contrat;0,5;TMA
+2019-09-03;IVSO;Ajout BIB;0,5;TMA
+2019-09-04;VINSI;Export BI;1;TMA
+2019-09-04;VINSI;CVO;0,5;TMA
+2019-09-05;VINSI;Suppression DRM;0,5;TMA
+2019-09-05;IVBD;Certificat;2;Certificat
+2019-09-06;VINSI;Problème transmission;1;TMA
+2019-09-06;Aurouze;Contrat;0,5;TMA
+2019-09-06;VINSI;Problème transmission;1;TMA
+2019-09-09;BIVC;Problème transmission;1;TMA
+2019-09-09;BIVC;Wording;0,5;TMA
+2019-09-09;IVSO;Problème transmission;1;TMA
+2019-09-09;VINSI;Bug ajout produit;1;TMA
+2019-09-10;VINSI;Conformité douane;1;TMA
+2019-09-10;VINSI;Suppression DRM;0,5;TMA
+2019-09-10;IVBD;Modification Contrat;0,5;TMA
+2019-09-10;BIVC;XML;1;TMA
+2019-09-11;Aurouze;Contrat;1,5;TMA
+2019-09-11;BIVC;XML;1;TMA
+2019-09-11;VINSI;Import csv;1;TMA
+2019-09-12;VINSI;DRM;1;TMA
+2019-09-12;Aurouze;Export facture;0,5;TMA
+2019-09-13;VINSI;Timelimit Import CSV;0,5;TMA
+2019-09-13;VINSI;Transmission DRM;0,5;TMA
+2019-09-13;CIVA;Cloture DS;1;TMA
+2019-09-13;VINSI;Conformité DRM;1;TMA
+2019-09-13;VINSI;Conformité DRM;1;TMA
+2019-09-13;VINSI;Conformité DRM;1;TMA
+2019-09-16;VINSI;Transmission DRM;1;TMA
+2019-09-17;DeclarVins;Réunion;7;Réunion
+2019-09-19;DeclarVins;Templating;1;TMA
+2019-09-20;VINSI;Conformité DRM;1;TMA
+2019-09-23;Aurouze;Modification passage;1;TMA
+2019-09-23;Aurouze;Ordre produits;2,5;TMA
+2019-09-24;Aurouze;Societes suspendues;1;TMA
+2019-09-24;CIVA;DRM;1,5;TMA
+2019-09-25;VINSI;Import CSV;2;TMA
+2019-09-25;VINSI;Conformite douane;0,5;TMA
+2019-09-25;VINSI;Entreprise liee;1,5;TMA
+2019-09-26;IVBD;Problème arbre produit;1,5;TMA
+2019-09-26;VINSI;Entreprise liee;0,5;TMA
+2019-09-26;IVBD;Annulation contrat;0,5;TMA
+2019-09-27;VINSI;Comparaison XML;1;TMA
+2019-09-27;VINSI;Conformite DRM;1;TMA
+2019-09-27;IVBD;Modification contrat;0,5;TMA
+2019-09-27;VINSI;Conformite DRM;2;TMA
+2019-09-27;CIVA;Code Creation;0,5;TMA
+2019-09-30;VINSI;Fine tuning;7;ODGLoire Réunion
