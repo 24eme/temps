@@ -1,4 +1,147 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2019-09-30;VINSI;TMA DRM;3,5;TMA
+2019-09-30;VINSI;Réunion DRev;3,5;ODG
+2019-09-30;VINSI;Fine Tuning;7;ODG
+2019-09-30;VINSI;Fine Tuning;7;ODG
+2019-09-30;VINSI;Fine tuning;7;ODG
+2019-09-30;VINSI;Fine tuning;7,0;ODG
+2019-09-30;VINSI;Direction technique;17,5;ODG
+2019-09-30;VINSI;Direction technique;10,5;TMA
+2019-09-30;VINSI;Dév;17,5;ODG
+2019-09-30;Sancerre;TMA;7,0;TMA
+2019-09-30;ODGRhone;TMA Direction technique;3,5;TMA
+2019-09-30;ODGRhone;TMA;7,0;TMA
+2019-09-30;Juricaf;TMA Direction technique;3,5;TMA
+2019-09-30;IVSO;TMA Direction technique;3,5;TMA
+2019-09-30;IVSO;TMA;10,5;TMA
+2019-09-30;IVBD;TMA Direction technique;3,5;TMA
+2019-09-30;IVBD;TMA;3,5;TMA
+2019-09-30;Declarvins;TMA Direction technique;3,5;TMA
+2019-09-30;DeclarVins;TMA;7,0;TMA
+2019-09-30;DeclarVins;Assistance / Demandes;1;TMA
+2019-09-30;CNIV;TMA Direction technique;3,5;TMA
+2019-09-30;CNIV;TMA;3,5;TMA
+2019-09-30;CIVA;TMA;24,5;TMA
+2019-09-30;CIVA;Direction technique;7;TMA
+2019-09-30;AVA;TMA;3,5;TMA
+2019-09-30;Aurouze;tma journee tuenet;7;Tuenet
+2019-09-30;Aurouze;TMA;14,5;Tuenet
+2019-09-27;VINSI;page lots;6;ODG
+2019-09-27;VINSI;Conformite DRM;2;TMA
+2019-09-27;VINSI;Conformite DRM;1;TMA
+2019-09-27;VINSI;Comparaison XML;1;TMA
+2019-09-27;IVBD;Modification contrat;0,5;TMA
+2019-09-27;CIVA;Mercuriales;3;Mercuriales
+2019-09-27;CIVA;Code Creation;0,5;TMA
+2019-09-27;CIVA;Assistance / Demandes;1;TMA
+2019-09-27;Aurouze;tma;1;TMA Tuenet
+2019-09-26;VINSI;tickets;7;ODG
+2019-09-26;VINSI;Entreprise liee;0,5;TMA
+2019-09-26;IVBD;Problème arbre produit;1,5;TMA
+2019-09-26;IVBD;Annulation contrat;0,5;TMA
+2019-09-26;CIVA;Mercuriales;6;Mercuriales
+2019-09-25;VINSI;tickets;5;ODG
+2019-09-25;VINSI;Import CSV;2;TMA
+2019-09-25;VINSI;Entreprise liee;1,5;TMA
+2019-09-25;VINSI;Conformite douane;0,5;TMA
+2019-09-25;CIVA;Mercuriales;4;Mercuriales
+2019-09-24;VINSI;tickets;7;ODG
+2019-09-24;VINSI;Dev;3,5;ODG
+2019-09-24;DeclarVins;Compatibilité PHP7;3,5;TMA
+2019-09-24;CIVA;DRM;1,5;TMA
+2019-09-24;Aurouze;Societes suspendues;1;TMA
+2019-09-23;VINSI;match des cooperative sur VINSI et autre;7;ODG
+2019-09-23;DeclarVins;Assistance / Demandes;2;TMA
+2019-09-23;CIVA;Mercuriales;3;Mercuriales
+2019-09-23;Aurouze;Ordre produits;2,5;TMA
+2019-09-23;Aurouze;Modification passage;1;TMA
+2019-09-20;VINSI;correction pouir transmission SAGE et adaptation pdf;6,5;Facturation
+2019-09-20;VINSI;Conformité DRM;1;TMA
+2019-09-20;24eme;Compta + Dej Apperce;;
+2019-09-19;PSA;Export automatique + acces;3,5;Probono
+2019-09-19;ODGRhone;evolution documents et DI et reecriture de type de document;7;DI
+2019-09-19;DeclarVins;Templating;1;TMA
+2019-09-19;DeclarVins;Assistance / Demandes;1;TMA
+2019-09-19;CIVA;Mercuriales;0,5;Mercuriales
+2019-09-18;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-09-18;Aurouze;adaptation tuenet;3,5;TMA Tuenet
+2019-09-18;24eme;TM;3,5;interne
+2019-09-18;24eme;Facturation, tactical meeting;;
+2019-09-17;DeclarVins;Reunion Avignon;7;Conception
+2019-09-17;DeclarVins;Réunion;7;Réunion
+2019-09-17;Aurouze;tma journee tuenet;7;TMA Tuenet
+2019-09-16;VINSI;Transmission DRM;1;TMA
+2019-09-16;VINSI;correction sur la facturation;4,5;Facturation
+2019-09-16;Aurouze;sepa  et carto;3,5;TMA
+2019-09-16;24eme;Malade;;
+2019-09-13;VINSI;Transmission DRM;0,5;TMA
+2019-09-13;VINSI;Timelimit Import CSV;0,5;TMA
+2019-09-13;VINSI;reunion;3,5;ODG
+2019-09-13;VINSI;Conformité DRM;1;TMA
+2019-09-13;VINSI;Conformité DRM;1;TMA
+2019-09-13;VINSI;Conformité DRM;1;TMA
+2019-09-13;Sancerre;Adaptation XSD XML Negoce;3;TMA
+2019-09-13;DeclarVins;Entetes EDI;2;TMA
+2019-09-13;CIVA;Cloture DS;1;TMA
+2019-09-13;CIVA;Assistance / Demandes;1;TMA
+2019-09-12;VINSI;odgloire drev modificatrices;7,5;ODG
+2019-09-12;VINSI;DRM;1;TMA
+2019-09-12;VINSI;Assistance / Demandes;2,5;TMA
+2019-09-12;DeclarVins;Assistance / Demandes;2,5;TMA
+2019-09-12;CIVA;Assistance / Demandes;1,5;TMA
+2019-09-12;Aurouze;Export facture;0,5;TMA
+2019-09-11;VINSI;odgloire drev pdf;5,5;ODG
+2019-09-11;VINSI;Import csv;1;TMA
+2019-09-11;Sancerre;XML;1;TMA
+2019-09-11;DeclarVins;Assistance / Demandes;7;TMA
+2019-09-11;Aurouze;Contrat;1,5;TMA
+2019-09-10;VINSI;Suppression DRM;0,5;TMA
+2019-09-10;VINSI;Conformité douane;1;TMA
+2019-09-10;Sancerre;XML;1;TMA
+2019-09-10;Sancerre;Assistance / Demandes;1;TMA
+2019-09-10;IVBD;Modification Contrat;0,5;TMA
+2019-09-10;DeclarVins;Evolution Usurpation;2,5;TMA
+2019-09-10;DeclarVins;Assistance / Demandes;3,5;TMA
+2019-09-09;VINSI;Bug ajout produit;1;TMA
+2019-09-09;Sancerre;Wording;0,5;TMA
+2019-09-09;Sancerre;Problème transmission;1;TMA
+2019-09-09;Sancerre;Corrections Statistiques;3;TMA
+2019-09-09;IVSO;Problème transmission;1;TMA
+2019-09-09;IVBD;Assistance / Demandes;2;TMA
+2019-09-09;DeclarVins;Assistance EDI Prestataire;1;TMA
+2019-09-09;DeclarVins;Assistance / Demandes;1;TMA
+2019-09-06;VINSI;Problème transmission;1;TMA
+2019-09-06;VINSI;Problème transmission;1;TMA
+2019-09-06;IVBD;Assistance / Demandes;1,5;TMA
+2019-09-06;DeclarVins;Assistance / Demandes;2,5;TMA
+2019-09-06;DeclarVins;Adaptation XSD XML Negoce;3;TMA
+2019-09-06;Aurouze;Contrat;0,5;TMA
+2019-09-05;VINSI;Suppression DRM;0,5;TMA
+2019-09-05;IVBD;Certificat;2;TMA
+2019-09-05;DeclarVins;Adaptation XSD XML Negoce;6;TMA
+2019-09-05;Aurouze;Assistance / Demandes;0,5;TMA
+2019-09-04;VINSI;Export BI;1;TMA
+2019-09-04;VINSI;CVO;0,5;TMA
+2019-09-04;Sancerre;Corrections Statistiques;3;TMA
+2019-09-04;Sancerre;Adaptation XSD XML Negoce;4;TMA
+2019-09-03;VINSI;Suppression DRM;0,5;TMA
+2019-09-03;VINSI;Export BI;0,5;TMA
+2019-09-03;Sancerre;Corrections Statistiques;2;TMA
+2019-09-03;Sancerre;Assistance / Demandes;1,5;TMA
+2019-09-03;IVSO;Ajout BIB;0,5;TMA
+2019-09-03;DeclarVins;Assistance / Demandes;3;TMA
+2019-09-03;CIVA;Lieu stockage;0,5;TMA
+2019-09-03;CIVA;Import csv;0,5;TMA
+2019-09-03;Aurouze;Contrat;0,5;TMA
+2019-09-03;Aurouze;Assistance / Demandes;1;TMA
+2019-09-02;VINSI;Oups;0,5;ODG
+2019-09-02;PSA;Export donnees;1;Probono
+2019-09-02;IVSO;Certificat;1,5;TMA
+2019-09-02;IVBD;Assistance / Demandes;1,5;TMA
+2019-09-02;DeclarVins;Assistance EDI Prestataire;1;TMA
+2019-09-02;CIVA;Tache export;2;TMA
+2019-09-02;CIVA;Maj Tiers;1;TMA
+2019-09-02;24eme;Compta;;
 2019-08-31;VINSI;TMA DRM;3,5;TMA
 2019-08-31;VINSI;Réunion DRev;3,5;ODG Réunion
 2019-08-31;VINSI;Journée Vie ma vie;7,0;Réunion
@@ -6,6 +149,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-08-31;VINSI;Direction technique;3,5;ODG
 2019-08-31;VINSI;Direction technique;17,5;TMA
 2019-08-31;VINSI;Dév;3,5;ODG
+2019-08-31;Sancerre;TMA Direction technique;7;TMA
 2019-08-31;ODGRhone;TMA Direction technique;3,5;TMA
 2019-08-31;ODGProvence;TMA Direction technique;3,5;Hébergement
 2019-08-31;Juricaf;TMA Direction technique;3,5;TMA
@@ -17,7 +161,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-08-31;CNIV;TMA Direction technique;3,5;TMA
 2019-08-31;CIVA;TMA;10,5;TMA
 2019-08-31;CIVA;Direction technique;17,5;TMA
-2019-08-31;BIVC;TMA Direction technique;7;TMA
 2019-08-31;AVA;TMA;3,5;TMA
 2019-08-30;VINSI;Page blanche ODGLoire;1;ODG
 2019-08-30;DeclarVins;Stock à zero;1;TMA
@@ -81,13 +224,13 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-08-02;CIVP;Correction XML;1;TMA
 2019-08-01;VINSI;Produit coché si stock;1;TMA
 2019-08-01;VINSI;odgloire drev;4;ODG Réunion
+2019-08-01;Sancerre;DRM;1;TMA
+2019-08-01;Sancerre;Assistance / Demandes;1,5;TMA
 2019-08-01;IVSO;Probleme mp/alcool;2;TMA
 2019-08-01;IVSO;Oups Matiere première;1;TMA
 2019-08-01;DeclarVins;Assistance / Demandes;3,5;TMA
 2019-08-01;CIVA;Statistiques DS;1;TMA
 2019-08-01;CIVA;DS debug probleme de VCI;2,5;TMA
-2019-08-01;BIVC;DRM;1;TMA
-2019-08-01;BIVC;Assistance / Demandes;1,5;TMA
 2019-07-31;VINSI;TMA DRM;17,5;TMA DRM
 2019-07-31;VINSI;Réunion DRev;3,5;ODG Réunion
 2019-07-31;VINSI;odgloire drev;3,5;ODG
@@ -95,6 +238,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-07-31;VINSI;Direction technique;10,5;ODG
 2019-07-31;VINSI;Dév du sprint;38,5;ODG
 2019-07-31;Sancerre;TMA DRM;2,0;TMA
+2019-07-31;Sancerre;TMA Direction technique;3,5;TMA
 2019-07-31;ODGRhone;TMA Direction technique;10,5;TMA
 2019-07-31;ODGRhone;Correction DI et correction clé produit;7;TMA
 2019-07-31;Juricaf;TMA Direction technique;3,5;TMA
@@ -111,7 +255,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-07-31;CIVA;Direction technique DS;5;TMA
 2019-07-31;CIVA;Direction technique;2;TMA
 2019-07-31;CIVA;Assistance;2;TMA
-2019-07-31;BIVC;TMA Direction technique;3,5;TMA
 2019-07-31;AVA;Stats de Facturation et interventions;7,0;TMA
 2019-07-31;Aurouze;TMA Tuenet;7,0;TMA Tuenet
 2019-07-31;24eme;Bilan;;

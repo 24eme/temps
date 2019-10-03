@@ -1,8 +1,8 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
 2019-09-02;CIVA;Tache export;2;TMA
 2019-09-02;CIVA;Maj Tiers;1;TMA
-2019-09-02;VINSI;Oups;0,5;ODGLoire TMA
-2019-09-02;IVSO;Certificat;1,5;Certificat
+2019-09-02;VINSI;Oups;0,5;ODG
+2019-09-02;IVSO;Certificat;1,5;TMA
 2019-09-03;CIVA;Lieu stockage;0,5;TMA
 2019-09-03;CIVA;Import csv;0,5;TMA
 2019-09-03;VINSI;Suppression DRM;0,5;TMA
@@ -12,20 +12,20 @@ Date;Projet;Description;Temps (en heure);Tache (Optionnel)
 2019-09-04;VINSI;Export BI;1;TMA
 2019-09-04;VINSI;CVO;0,5;TMA
 2019-09-05;VINSI;Suppression DRM;0,5;TMA
-2019-09-05;IVBD;Certificat;2;Certificat
+2019-09-05;IVBD;Certificat;2;TMA
 2019-09-06;VINSI;Problème transmission;1;TMA
 2019-09-06;Aurouze;Contrat;0,5;TMA
 2019-09-06;VINSI;Problème transmission;1;TMA
-2019-09-09;BIVC;Problème transmission;1;TMA
-2019-09-09;BIVC;Wording;0,5;TMA
+2019-09-09;Sancerre;Problème transmission;1;TMA
+2019-09-09;Sancerre;Wording;0,5;TMA
 2019-09-09;IVSO;Problème transmission;1;TMA
 2019-09-09;VINSI;Bug ajout produit;1;TMA
 2019-09-10;VINSI;Conformité douane;1;TMA
 2019-09-10;VINSI;Suppression DRM;0,5;TMA
 2019-09-10;IVBD;Modification Contrat;0,5;TMA
-2019-09-10;BIVC;XML;1;TMA
+2019-09-10;Sancerre;XML;1;TMA
 2019-09-11;Aurouze;Contrat;1,5;TMA
-2019-09-11;BIVC;XML;1;TMA
+2019-09-11;Sancerre;XML;1;TMA
 2019-09-11;VINSI;Import csv;1;TMA
 2019-09-12;VINSI;DRM;1;TMA
 2019-09-12;Aurouze;Export facture;0,5;TMA
@@ -54,4 +54,4 @@ Date;Projet;Description;Temps (en heure);Tache (Optionnel)
 2019-09-27;IVBD;Modification contrat;0,5;TMA
 2019-09-27;VINSI;Conformite DRM;2;TMA
 2019-09-27;CIVA;Code Creation;0,5;TMA
-2019-09-30;VINSI;Fine tuning;7;ODGLoire Réunion
+2019-09-30;VINSI;Fine tuning;7;ODG
