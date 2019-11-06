@@ -27,7 +27,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-10-29;DeclarVins;Evolution Contrat;7;Egalim
 2019-10-30;24eme;Off;;
 2019-10-31;DeclarVins;Evolution Contrat;8;Egalim
-2019-10-02;BIVC;coupure douane;1;TMA
+2019-10-02;Sancerre;coupure douane;1;TMA
 2019-10-02;IVBD;transmission drm coupure douane;1;TMA
 2019-10-02;VINSI;Fine tuning;7;ODG Finetuning
 2019-10-02;VINSI;configuration et dev;4;ODG
@@ -108,5 +108,4 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-10-31;CIVA;Direction technique;10,5;TMA DT
 2019-10-31;Juricaf;TMA Direction technique;3,5;TMA DT
 2019-10-31;ODGProvence;TMA Direction technique;7;TMA DT
-2019-10-31;DeclarVins;TMA Direction technique;3,5;TMA DT
-2019-10-31;CIVP;TMA Direction technique;3,5;TMA DT
+2019-10-31;DeclarVins;TMA Direction technique;7,0;TMA DT
