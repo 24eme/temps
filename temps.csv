@@ -1,5 +1,5 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2019-10-01;VINSI;Fine Tuning;7;ODG
+2019-10-01;VINSI;Fine Tuning;7;ODG Finetuning
 2019-10-01;DeclarVins;Assistance / Demandes;0,5;TMA
 2019-10-02;24eme;Off;;
 2019-10-03;24eme;Facturation, tactical meeting;;
@@ -29,6 +29,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-10-31;DeclarVins;Evolution Contrat;8;Egalim
 2019-10-02;BIVC;coupure douane;1;TMA
 2019-10-02;IVBD;transmission drm coupure douane;1;TMA
+2019-10-02;VINSI;Fine tuning;7;ODG Finetuning
 2019-10-02;VINSI;configuration et dev;4;ODG
 2019-10-03;VINSI;configuration et dev;3,5;ODG
 2019-10-04;Aurouze;deblocage facture;1,5;TMA
@@ -60,6 +61,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-10-23;VINSI; export bi et region dans retour douane;3,5;TMA
 2019-10-31;VINSI;TMA DRM;7,0;TMA
 2019-10-31;VINSI;Dév + ouverture;35,0;ODG
+2019-10-31;VINSI;Fine tuning;7,0;ODG Finetuning
 2019-10-31;IVSO;TMA DRM;7,0;TMA
 2019-10-31;IVSO;Réintégration plusieurs dates et volumes;10,5;TMA
 2019-10-31;CNIV;TMA (plusieurs down);7,0;TMA
@@ -69,6 +71,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-10-31;IVBD;TMA DRM;3,5;TMA
 2019-10-31;Aurouze;TMA;3,5;Tuenet
 2019-10-31;ODGRhone;API timpre et export société;21,0;TMA
+2019-10-01;VINSI;Fine tuning;7;ODG Finetuning
 2019-10-02;VINSI;Problème edi;1;TMA
 2019-10-03;VINSI;Ajout CRD;1;TMA
 2019-10-04;Aurouze;recherche contrat trop court;1;TMA
@@ -85,7 +88,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-10-25;DeclarVins;Evolution Contrat;4;Egalim
 2019-10-28;CIVA;DRM Douane OK;1;TMA
 2019-10-28;CIVA;Maj Tiers;1,5;TMA
-2019-10-28;DeclarVins;1;TMA
+2019-10-28;DeclarVins;;1;TMA
 2019-10-29;AVA;Integration DR;1,5;TMA
 2019-10-29;DeclarVins;Decloturation DSNegoce;1;TMA
 2019-10-29;VINSI;Recherche Cooperative;1;TMA
@@ -94,15 +97,16 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-10-31;DeclarVins;DRM;1;TMA
 2019-10-31;CIVA;DRM douane OK;1;TMA
 2019-10-31;VINSI;TMA;21;ODG
-2019-10-31;ODG Provence;Dev;14;Map parcellaires
+2019-10-31;ODGProvence;Dev;14;Map parcellaires
 2019-10-31;IVSO;TMA Direction technique;3,5;TMA DT
 2019-10-31;AVA;TMA Direction technique;3,5;TMA DT
 2019-10-31;CNIV;TMA Direction technique;7;TMA DT
-2019-10-31;VINSI;Direction technique;24,5;ODG DT
+2019-10-31;VINSI;Direction technique;17,5;ODG DT
+2019-10-31;VINSI;Fine tuning;7,0;ODG DT Finetuning
 2019-10-31;ODGRhone;TMA Direction technique;3,5;TMA DT
-2019-10-31;Declarvins;TMA Direction technique;3,5;TMA DT
+2019-10-31;DeclarVins;TMA Direction technique;3,5;TMA DT
 2019-10-31;CIVA;Direction technique;10,5;TMA DT
 2019-10-31;Juricaf;TMA Direction technique;3,5;TMA DT
 2019-10-31;ODGProvence;TMA Direction technique;7;TMA DT
-2019-10-31;IR;TMA Direction technique;3,5;TMA DT
+2019-10-31;DeclarVins;TMA Direction technique;3,5;TMA DT
 2019-10-31;CIVP;TMA Direction technique;3,5;TMA DT
