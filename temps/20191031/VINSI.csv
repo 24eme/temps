@@ -1,21 +1,17 @@
-2019-10-02;BIVC;coupure douane;1;TMA
-2019-10-02;IVBD;transmission drm coupure douane;1;TMA
+Date;Projet;Description;Temps (en heure);Tache
+2019-10-01;VINSI;Fine tuning;7;ODG Finetuning
+2019-10-01;VINSI;Fine Tuning;7;ODG Finetuning
 2019-10-02;VINSI;configuration et dev;4;ODG
+2019-10-02;VINSI;Fine tuning;7;ODG Finetuning
+2019-10-02;VINSI;Problème edi;1;TMA
+2019-10-03;VINSI;Ajout CRD;1;TMA
 2019-10-03;VINSI;configuration et dev;3,5;ODG
-2019-10-04;Aurouze;deblocage facture;1,5;TMA
-2019-10-04;CIVA;Déblocage DRM;0,5;TMA
 2019-10-04;VINSI;configuration et dev;5;ODG
-2019-10-07;DeclarVins;Drm en probleme;2;TMA
-2019-10-07;IVBD;transmission drm;0,5;TMA
-2019-10-07;IVSO;transmission drm;0,5;TMA
+2019-10-04;VINSI;Conformité DRM;1;TMA
 2019-10-07;VINSI;drm problematique;4;TMA
 2019-10-08;VINSI;configuration et dev;7;ODG
 2019-10-09;VINSI;configuration et dev;2;ODG
 2019-10-10;VINSI;configuration et dev;6;ODG
-2019-10-11;Aurouze;modification contrat;2;TMA
-2019-10-11;DeclarVins;Drm en probleme;0,5;TMA
-2019-10-11;IVBD;transmission drm;1;TMA
-2019-10-11;IVSO;transmission drm;1;TMA
 2019-10-11;VINSI;configuration et dev;6;ODG
 2019-10-11;VINSI;tma mails;1;TMA
 2019-10-14;VINSI;Ouverture Drev;6;ODG
@@ -24,8 +20,17 @@
 2019-10-17;VINSI;exports par odg;3,5;ODG
 2019-10-17;VINSI;inte et tickets;4;ODG
 2019-10-18;VINSI;inte et tickets;4;ODG
+2019-10-21;VINSI;Conformité DRM;0,5;TMA
 2019-10-21;VINSI;exports par odg;3;ODG
 2019-10-21;VINSI;multichai;3,5;ODG
-2019-10-22;IGPFrance;avant vente;3,5;reunion
+2019-10-21;VINSI;Transmission douane;1;TMA
 2019-10-22;VINSI;multichai;3,5;ODG
+2019-10-23;VINSI;DRM;1;TMA
 2019-10-23;VINSI; export bi et region dans retour douane;3,5;TMA
+2019-10-29;VINSI;Recherche Cooperative;1;TMA
+2019-10-31;VINSI;Dév + ouverture;35,0;ODG
+2019-10-31;VINSI;Direction technique;17,5;ODG DT
+2019-10-31;VINSI;Fine tuning;7,0;ODG DT Finetuning
+2019-10-31;VINSI;Fine tuning;7,0;ODG Finetuning
+2019-10-31;VINSI;TMA;21;ODG
+2019-10-31;VINSI;TMA DRM;7,0;TMA

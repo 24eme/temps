@@ -1,57 +1,25 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2019-09-02;CIVA;Tache export;2;TMA
-2019-09-02;CIVA;Maj Tiers;1;TMA
-2019-09-02;VINSI;Oups;0,5;ODG
-2019-09-02;IVSO;Certificat;1,5;TMA
-2019-09-03;CIVA;Lieu stockage;0,5;TMA
-2019-09-03;CIVA;Import csv;0,5;TMA
-2019-09-03;VINSI;Suppression DRM;0,5;TMA
-2019-09-03;VINSI;Export BI;0,5;TMA
-2019-09-03;Aurouze;Contrat;0,5;TMA
-2019-09-03;IVSO;Ajout BIB;0,5;TMA
-2019-09-04;VINSI;Export BI;1;TMA
-2019-09-04;VINSI;CVO;0,5;TMA
-2019-09-05;VINSI;Suppression DRM;0,5;TMA
-2019-09-05;IVBD;Certificat;2;TMA
-2019-09-06;VINSI;Problème transmission;1;TMA
-2019-09-06;Aurouze;Contrat;0,5;TMA
-2019-09-06;VINSI;Problème transmission;1;TMA
-2019-09-09;Sancerre;Problème transmission;1;TMA
-2019-09-09;Sancerre;Wording;0,5;TMA
-2019-09-09;IVSO;Problème transmission;1;TMA
-2019-09-09;VINSI;Bug ajout produit;1;TMA
-2019-09-10;VINSI;Conformité douane;1;TMA
-2019-09-10;VINSI;Suppression DRM;0,5;TMA
-2019-09-10;IVBD;Modification Contrat;0,5;TMA
-2019-09-10;Sancerre;XML;1;TMA
-2019-09-11;Aurouze;Contrat;1,5;TMA
-2019-09-11;Sancerre;XML;1;TMA
-2019-09-11;VINSI;Import csv;1;TMA
-2019-09-12;VINSI;DRM;1;TMA
-2019-09-12;Aurouze;Export facture;0,5;TMA
-2019-09-13;VINSI;Timelimit Import CSV;0,5;TMA
-2019-09-13;VINSI;Transmission DRM;0,5;TMA
-2019-09-13;CIVA;Cloture DS;1;TMA
-2019-09-13;VINSI;Conformité DRM;1;TMA
-2019-09-13;VINSI;Conformité DRM;1;TMA
-2019-09-13;VINSI;Conformité DRM;1;TMA
-2019-09-16;VINSI;Transmission DRM;1;TMA
-2019-09-17;DeclarVins;Réunion;7;Réunion
-2019-09-19;DeclarVins;Templating;1;TMA
-2019-09-20;VINSI;Conformité DRM;1;TMA
-2019-09-23;Aurouze;Modification passage;1;TMA
-2019-09-23;Aurouze;Ordre produits;2,5;TMA
-2019-09-24;Aurouze;Societes suspendues;1;TMA
-2019-09-24;CIVA;DRM;1,5;TMA
-2019-09-25;VINSI;Import CSV;2;TMA
-2019-09-25;VINSI;Conformite douane;0,5;TMA
-2019-09-25;VINSI;Entreprise liee;1,5;TMA
-2019-09-26;IVBD;Problème arbre produit;1,5;TMA
-2019-09-26;VINSI;Entreprise liee;0,5;TMA
-2019-09-26;IVBD;Annulation contrat;0,5;TMA
-2019-09-27;VINSI;Comparaison XML;1;TMA
-2019-09-27;VINSI;Conformite DRM;1;TMA
-2019-09-27;IVBD;Modification contrat;0,5;TMA
-2019-09-27;VINSI;Conformite DRM;2;TMA
-2019-09-27;CIVA;Code Creation;0,5;TMA
-2019-09-30;VINSI;Fine tuning;7;ODG
+2019-10-02;VINSI;Problème edi;1;TMA
+2019-10-03;VINSI;Ajout CRD;1;TMA
+2019-10-04;Aurouze;recherche contrat trop court;1;TMA
+2019-10-04;VINSI;Conformité DRM;1;TMA
+2019-10-21;CIVA;DRM saisie interne;0,5;TMA
+2019-10-21;VINSI;Transmission douane;1;TMA
+2019-10-21;CIVA;Message ouverture DR;0,5;TMA
+2019-10-21;CIVA;Maj tiers;1;TMA
+2019-10-21;VINSI;Conformité DRM;0,5;TMA
+2019-10-22;DeclarVins;Réunion contrat;7;Conception
+2019-10-23;DeclarVins;Evolution Contrat;2;Egalim
+2019-10-23;VINSI;DRM;1;TMA
+2019-10-24;DeclarVins;Evolution Contrat;3;Egalim
+2019-10-25;DeclarVins;Evolution Contrat;4;Egalim
+2019-10-28;CIVA;DRM Douane OK;1;TMA
+2019-10-28;CIVA;Maj Tiers;1,5;TMA
+2019-10-28;DeclarVins;1;TMA
+2019-10-29;AVA;Integration DR;1,5;TMA
+2019-10-29;DeclarVins;Decloturation DSNegoce;1;TMA
+2019-10-29;VINSI;Recherche Cooperative;1;TMA
+2019-10-30;DeclarVins;Evolution Contrat;3;TMA
+2019-10-30;DeclarVins;DRM;1;TMA
+2019-10-31;DeclarVins;DRM;1;TMA
+2019-10-31;CIVA;DRM douane OK;1;TMA
