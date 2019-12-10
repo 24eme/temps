@@ -1,31 +1,37 @@
-2019-10-02;BIVC;coupure douane;1;TMA
-2019-10-02;IVBD;transmission drm coupure douane;1;TMA
-2019-10-02;VINSI;configuration et dev;4;ODG
-2019-10-03;VINSI;configuration et dev;3,5;ODG
-2019-10-04;Aurouze;deblocage facture;1,5;TMA
-2019-10-04;CIVA;Déblocage DRM;0,5;TMA
-2019-10-04;VINSI;configuration et dev;5;ODG
-2019-10-07;DeclarVins;Drm en probleme;2;TMA
-2019-10-07;IVBD;transmission drm;0,5;TMA
-2019-10-07;IVSO;transmission drm;0,5;TMA
-2019-10-07;VINSI;drm problematique;4;TMA
-2019-10-08;VINSI;configuration et dev;7;ODG
-2019-10-09;VINSI;configuration et dev;2;ODG
-2019-10-10;VINSI;configuration et dev;6;ODG
-2019-10-11;Aurouze;modification contrat;2;TMA
-2019-10-11;DeclarVins;Drm en probleme;0,5;TMA
-2019-10-11;IVBD;transmission drm;1;TMA
-2019-10-11;IVSO;transmission drm;1;TMA
-2019-10-11;VINSI;configuration et dev;6;ODG
-2019-10-11;VINSI;tma mails;1;TMA
-2019-10-14;VINSI;Ouverture Drev;6;ODG
-2019-10-15;VINSI;Ouverture Drev;7;ODG
-2019-10-16;VINSI;exports par odg;7;ODG
-2019-10-17;VINSI;exports par odg;3,5;ODG
-2019-10-17;VINSI;inte et tickets;4;ODG
-2019-10-18;VINSI;inte et tickets;4;ODG
-2019-10-21;VINSI;exports par odg;3;ODG
-2019-10-21;VINSI;multichai;3,5;ODG
-2019-10-22;IGPFrance;avant vente;3,5;reunion
-2019-10-22;VINSI;multichai;3,5;ODG
-2019-10-23;VINSI; export bi et region dans retour douane;3,5;TMA
+2019-11-05;VINSI;Drev ticket et configuration des email;7;ODG
+2019-11-06;24eme;Temps facturation;2;interne
+2019-11-06;24eme;TM;3,5;interne
+2019-11-07;VINSI; Probleme de DRM;3;TMA
+2019-11-08;Aurouze;tma;2;TMA Tuenet
+2019-11-08;AVA;debug constats;1;TMA
+2019-11-08;BIVC;Drm et editeur;1;TMA
+2019-11-08;CIVA;Deblocage DRM et autres bugs;2,5;TMA
+2019-11-08;IVBD;transmission drm stats;2,5;TMA
+2019-11-08;IVSO;transmission drm;3,5;TMA
+2019-11-08;OdgProvence;tma;2;TMA
+2019-11-12;VINSI;Drev debug et configuration;5;ODG
+2019-11-13;VINSI; export bi mal forme;3,5;TMA
+2019-11-14;CIVA;Contrats bio;6;TMA
+2019-11-14;VINSI; drm tma;1;TMA
+2019-11-15;CIVA;Contrats bio;5,5;TMA
+2019-11-15;IVSO;ajour bio export;1;TMA
+2019-11-18;VINSI; dev ciel 1;3;Ciel1
+2019-11-18;VINSI; drm tma;4;TMA
+2019-11-19;VINSI; configuration et developpement ciel 1;7;Ciel1
+2019-11-20;VINSI; developpement et configuration ciel 1;7;Ciel1
+2019-11-21;VINSI; developpement et configuration ciel 1;4;Ciel1
+2019-11-22;VINSI; developpement et configuration ciel 1;5;Ciel1
+2019-11-22;VINSI;Drev debug;1;ODG
+2019-11-25;OdgRhone;debug import sv11 avec vci;1;TMA
+2019-11-25;VINSI; adaptation fe et pa;5;Facturation electronique
+2019-11-25;VINSI; developpement et configuration ciel 1;2;Ciel1
+2019-11-26;IVSO;drm deblocage;0,5;TMA
+2019-11-26;VINSI; adaptation fe et pa;7;Facturation electronique
+2019-11-27;CIVA;Reunion;3;Reunion
+2019-11-27;IVSO;drm deblocage;0,5;TMA
+2019-11-27;VINSI; adaptation fe et pa;2;Facturation electronique
+2019-11-27;VINSI; Probleme de DRM;1;TMA
+2019-11-28;VINSI; adaptation fe et pa reponse mails;3,5;Facturation electronique
+2019-11-28;VINSI; adaptation vinsi et droit fe et pa;2,5;Facturation electronique
+2019-11-28;VINSI; debug;1;TMA
+2019-11-29;VINSI; configuration vinsi pour fe;4,5;Facturation electronique
