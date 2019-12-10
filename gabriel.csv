@@ -48,4 +48,9 @@ Date;Projet;Description;Temps (en heure);Tache (Optionnel)
 2019-11-22;BIVC;Tier introuvable recherche;1;TMA
 2019-11-22;CIVA;Maj notice d'aide dr;0,5;TMA
 2019-11-26;VINSI;Refacto message d'aide;1;TMA
+2019-11-26;PlateauUrbain;update dependances composer + config.yml;1,5;Web
+2019-11-27;PlateauUrbain;Maj dernière version composer;3;Web
 2019-11-27;CIVA;Reunion Dominique Paris;3,5;Reunion
+2019-11-28;PlateauUrbain;Fix formulaire actuality;2;Web
+2019-11-28;PlateauUrbain;Fix message de dpréciation;2;Web
+2019-11-29;PlateauUrbain;Fix formulaires admin;3;Web
