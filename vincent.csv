@@ -1,11 +1,12 @@
-2019-10-31;VINSI;TMA DRM;7,0;TMA
-2019-10-31;VINSI;Dév + ouverture;35,0;ODG
-2019-10-31;IVSO;TMA DRM;7,0;TMA
-2019-10-31;IVSO;Réintégration plusieurs dates et volumes;10,5;TMA
-2019-10-31;CNIV;TMA (plusieurs down);7,0;TMA
-2019-10-31;DeclarVins;TMA DRM;21,0;TMA
-2019-10-31;CIVA;TMA DRM;10,5;TMA
-2019-10-31;Sancerre;TMA DRM;7,0;TMA
-2019-10-31;IVBD;TMA DRM;3,5;TMA
-2019-10-31;Aurouze;TMA;3,5;Tuenet
-2019-10-31;ODGRhone;API timpre et export société;21,0;TMA
+2019-11-30;VINSI;TMA DRM;3,5;TMA
+2019-11-30;VINSI;TMA DREV;17,5;ODG
+2019-11-30;IVSO;TMA DRM, mise à dipo drm floc gascogne, connexion ldap;10,5;TMA
+2019-11-30;DeclarVins;TMA DRM;3,5;TMA
+2019-11-30;CIVA;TMA DRM, DR et Contrat;17,5;TMA
+2019-11-30;CIVA;Réunion;3,5;Reunion
+2019-11-30;ODGRhone;Habilitation et divers;7,0;TMA
+2019-11-30;AVA;Adaption VCI, visu facturation;7,0;TMA
+2019-11-30;Sancerre;TMA DRM;3,5;TMA
+2019-11-30;IVBD;Résolution de problèmes d'import et export des DRM de Bordeaux;7,0;TMA
+2019-11-30;Pythagore;Formation ansible;14,0;Formation
+2019-11-30;Prodimmo;Monactivité;3,5;Outils internes
