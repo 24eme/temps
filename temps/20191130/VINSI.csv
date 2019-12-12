@@ -1,0 +1,38 @@
+Date;Projet;Description;Temps (en heure);Tache
+2019-11-04;VINSI;Drev récupération prodouane;0,2;TMA
+2019-11-05;VINSI;Drev ticket et configuration des email;7;ODG
+2019-11-07;VINSI;Coopérative dans recherche;1;TMA
+2019-11-07;VINSI;Maj info Chinon;0,5;TMA
+2019-11-07;VINSI;Oups DRM;1;TMA
+2019-11-07;VINSI; Probleme de DRM;3;TMA
+2019-11-12;VINSI;Drev debug et configuration;5;ODG
+2019-11-13;VINSI; export bi mal forme;3,5;TMA
+2019-11-14;VINSI; drm tma;1;TMA
+2019-11-18;VINSI; dev ciel 1;3;Ciel1
+2019-11-18;VINSI; drm tma;4;TMA
+2019-11-18;VINSI;Validation DRM;1;TMA
+2019-11-19;VINSI;Assistance / Demandes;2;TMA
+2019-11-19;VINSI; configuration et developpement ciel 1;7;Ciel1
+2019-11-19;VINSI;Transmission DRM;1,5;TMA
+2019-11-19;VINSI;Validation DRM;1;TMA
+2019-11-20;VINSI; developpement et configuration ciel 1;7;Ciel1
+2019-11-20;VINSI;Oups préprod;1;TMA
+2019-11-21;VINSI; developpement et configuration ciel 1;4;Ciel1
+2019-11-21;VINSI;Problème PDF;0,5;TMA
+2019-11-21;VINSI;Suppression DRM;0,5;TMA
+2019-11-22;VINSI;Conformité DRM;1,5;TMA
+2019-11-22;VINSI; developpement et configuration ciel 1;5;Ciel1
+2019-11-22;VINSI;Drev debug;1;ODG
+2019-11-25;VINSI; adaptation fe et pa;5;Facturation electronique
+2019-11-25;VINSI; developpement et configuration ciel 1;2;Ciel1
+2019-11-26;VINSI; adaptation fe et pa;7;Facturation electronique
+2019-11-26;VINSI;Refacto message d'aide;1;TMA
+2019-11-27;VINSI; adaptation fe et pa;2;Facturation electronique
+2019-11-27;VINSI; Probleme de DRM;1;TMA
+2019-11-28;VINSI; adaptation fe et pa reponse mails;3,5;Facturation electronique
+2019-11-28;VINSI; adaptation vinsi et droit fe et pa;2,5;Facturation electronique
+2019-11-28;VINSI; debug;1;TMA
+2019-11-29;VINSI; configuration vinsi pour fe;4,5;Facturation electronique
+2019-11-30;VINSI;Direction technique;14;ODG
+2019-11-30;VINSI;TMA DREV;17,5;ODG
+2019-11-30;VINSI;TMA DRM;3,5;TMA

@@ -1,0 +1,6 @@
+Date;Projet;Description;Temps (en heure);Tache
+2019-11-26;PlateauUrbain;update dependances composer + config.yml;1,5;Web
+2019-11-27;PlateauUrbain;Maj dernière version composer;3;Web
+2019-11-28;PlateauUrbain;Fix formulaire actuality;2;Web
+2019-11-28;PlateauUrbain;Fix message de dpréciation;2;Web
+2019-11-29;PlateauUrbain;Fix formulaires admin;3;Web
