@@ -5,7 +5,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-11-07;VINSI; Probleme de DRM;3;TMA
 2019-11-08;Aurouze;tma;2;TMA Tuenet
 2019-11-08;AVA;debug constats;1;TMA
-2019-11-08;BIVC;Drm et editeur;1;TMA
+2019-11-08;Sancerre;Drm et editeur;1;TMA
 2019-11-08;CIVA;Deblocage DRM et autres bugs;2,5;TMA
 2019-11-08;IVBD;transmission drm stats;2,5;TMA
 2019-11-08;IVSO;transmission drm;3,5;TMA
@@ -82,7 +82,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-11-22;VINSI;Conformité DRM;1,5;TMA
 2019-11-22;CIVA;Compte mot de passe oublié;0,5;TMA
 2019-11-22;CIVA;Reactivation Tiers;0,5;TMA
-2019-11-22;BIVC;Tier introuvable recherche;1;TMA
+2019-11-22;Sancerre;Tier introuvable recherche;1;TMA
 2019-11-22;CIVA;Maj notice d'aide dr;0,5;TMA
 2019-11-26;VINSI;Refacto message d'aide;1;TMA
 2019-11-26;PlateauUrbain;update dependances composer + config.yml;1,5;Web
