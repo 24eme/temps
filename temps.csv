@@ -105,7 +105,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-11-30;Pythagore;Formation ansible;14,0;Formation
 2019-11-30;Prodimmo;Monactivité;3,5;Outils internes
 2019-11-04;DeclarVins;Evolution Contrat;10;Egalim
-2019-11-05;DeclarVins;Evolution Contrat;2,5;Egalim
+2019-11-05;DeclarVins;Evolution Contrat;3;Egalim
 2019-11-05;DeclarVins;Assistance / Demandes;1;TMA
 2019-11-06;24eme;tactical;;
 2019-11-06;24eme;Off AM;;
@@ -156,3 +156,11 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-11-28;DeclarVins;Assistance / Demande;1,5;TMA
 2019-11-29;DeclarVins;Assistance / Demande;1;TMA
 2019-11-29;ODGProvence;Assistance / Demande;1;TMA
+2019-11-30;VINSI;Direction technique;14;ODG
+2019-11-30;ODGRhone;TMA Direction technique;14;TMA
+2019-11-30;Juricaf;TMA Direction technique;3,5;TMA
+2019-11-30;CNIV;TMA Direction technique;3,5;TMA
+2019-11-30;CIVA;Direction technique;3,5;TMA
+2019-11-30;CIVA;Direction technique;3,5;Réunion
+2019-11-30;IVSO;TMA Direction technique;7;TMA
+2019-11-30;AVA;TMA Direction technique;3,5;TMA
