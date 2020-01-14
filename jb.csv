@@ -59,6 +59,21 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2019-12-05;DeclarVins;Egalim;2;TMA
 2019-12-05;DeclarVins;Assistance / Demande;5;TMA
 2019-12-06;DeclarVins;Assistance / Demande;3;TMA
-2019-12-09;24eme;Malade;;
+2019-12-09;24eme;Off Oeil;;
 2019-12-10;DeclarVins;Assistance / Demande;2;TMA
 2019-12-11;DeclarVins;Assistance / Demande;3,5;TMA
+2019-12-12;24eme;Off Oeil;;
+2019-12-13;DeclarVins;Assistance / Demande;1;TMA
+2019-12-13;CIVA;Correctifs et export données CSV;4;Mercuriales
+2019-12-16;DeclarVins;Assistance / Demande;1,5;TMA
+2019-12-16;DeclarVins;Replacement multi CRD;4;TMA
+2019-12-16;VINSI;Validation Drev et produit VCI;1,5;ODG
+2019-12-17;CIVA;Correctifs;6;Mercuriales
+2019-12-17;DeclarVins;Assistance / Demande;2;TMA
+2019-12-18;CIVA;Gestion du bio;7;Mercuriales
+2019-12-18;DeclarVins;Assistance / Demande;1;TMA
+2019-12-19;CIVA;Contrats millésimés et correctifs;7;Mercuriales
+2019-12-20;IVBD;Soldage contrats;2;TMA
+2019-12-20;24eme;RDV Oeil;;
+2019-12-23;ODGRhone;Export DR;2,5;TMA
+2019-12-24;ODGRhone;Export DR;1,5;TMA
