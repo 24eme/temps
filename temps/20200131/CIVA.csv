@@ -1,0 +1,17 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-01-03;CIVA;Mercuriale moyenne pondérée;3;TMA
+2020-01-03;CIVA;TMA ;3,5;TMA
+2020-01-03;CIVA;Transmission douane;1;TMA
+2020-01-08;CIVA;Maj adresse;0,5;TMA
+2020-01-10;CIVA;Import CSV;1;TMA
+2020-01-10;CIVA;Integration CSV;O,5;TMA
+2020-01-10;CIVA;TMA ;1,5;TMA
+2020-01-17;CIVA;gestion des xml civa et douane;5;TMA
+2020-01-17;CIVA;TMA ;1,5;TMA
+2020-01-24;CIVA;Creation compte;0,5;TMA
+2020-01-24;CIVA;Taux douane et correction DRM;1,5;TMA
+2020-01-28;CIVA;Corrections mercuriales;2;Mercuriales
+2020-01-31;CIVA;Correctifs PDF mercuriales;0,5;Mercuriales
+2020-01-31;CIVA;Direction technique;10,5;TMA
+2020-01-31;CIVA;Export DRM BI;3,5;TMA
+2020-01-31;CIVA;TMA DRM, DR;14,0;TMA
