@@ -85,24 +85,24 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-12-02;24eme;Compta;;
 2019-11-30;VINSI;TMA DRM;3,5;TMA
 2019-11-30;VINSI;TMA DREV;17,5;ODG
-2019-11-30;VINSI;Direction technique;14;ODG
+2019-11-30;VINSI;Direction technique;14;ODG DT
 2019-11-30;Sancerre;TMA DRM;3,5;TMA
 2019-11-30;Pythagore;Formation ansible;14,0;Formation
 2019-11-30;Prodimmo;Monactivité;3,5;Outils internes
-2019-11-30;ODGRhone;TMA Direction technique;14;TMA
+2019-11-30;ODGRhone;TMA Direction technique;14;TMA DT
 2019-11-30;ODGRhone;Habilitation et divers;7,0;TMA
 2019-11-30;ODGProvence;Dev;35;Map parcellaires
-2019-11-30;Juricaf;TMA Direction technique;3,5;TMA
+2019-11-30;Juricaf;TMA Direction technique;3,5;TMA DT
 2019-11-30;IVSO;TMA DRM, mise à dipo drm floc gascogne, connexion ldap;10,5;TMA
-2019-11-30;IVSO;TMA Direction technique;7;TMA
+2019-11-30;IVSO;TMA Direction technique;7;TMA DT
 2019-11-30;IVBD;Résolution de problèmes d'import et export des DRM de Bordeaux;7,0;TMA
 2019-11-30;DeclarVins;TMA DRM;3,5;TMA
-2019-11-30;CNIV;TMA Direction technique;3,5;TMA
+2019-11-30;CNIV;TMA Direction technique;3,5;TMA DT
 2019-11-30;CIVA;TMA DRM, DR et Contrat;17,5;TMA
 2019-11-30;CIVA;Réunion;3,5;Reunion
-2019-11-30;CIVA;Direction technique;3,5;TMA
-2019-11-30;CIVA;Direction technique;3,5;Réunion
-2019-11-30;AVA;TMA Direction technique;3,5;TMA
+2019-11-30;CIVA;Direction technique;3,5;TMA DT
+2019-11-30;CIVA;Direction technique;3,5;Réunion DT
+2019-11-30;AVA;TMA Direction technique;3,5;TMA DT
 2019-11-30;AVA;Adaption VCI, visu facturation;7,0;TMA
 2019-11-29;VINSI; configuration vinsi pour fe;4,5;Facturation electronique
 2019-11-29;PlateauUrbain;Fix formulaires admin;3;Web
@@ -255,13 +255,13 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-10-31;VINSI;Direction technique;17,5;ODG DT
 2019-10-31;VINSI;Dév + ouverture;35,0;ODG
 2019-10-31;Sancerre;TMA DRM;7,0;TMA
-2019-10-31;ODGRhone;TMA Direction technique;3,5;TMA
+2019-10-31;ODGRhone;TMA Direction technique;3,5;TMA DT
 2019-10-31;ODGRhone;API timpre et export société;21,0;TMA
-2019-10-31;ODGProvence;TMA Direction technique;7;TMA
+2019-10-31;ODGProvence;TMA Direction technique;7;TMA DT
 2019-10-31;ODGProvence;Dev;14;Map parcellaires
-2019-10-31;Juricaf;TMA Direction technique;3,5;TMA
+2019-10-31;Juricaf;TMA Direction technique;3,5;TMA DT
 2019-10-31;IVSO;TMA DRM;7,0;TMA
-2019-10-31;IVSO;TMA Direction technique;3,5;TMA
+2019-10-31;IVSO;TMA Direction technique;3,5;TMA DT
 2019-10-31;IVSO;Réintégration plusieurs dates et volumes;10,5;TMA
 2019-10-31;IVBD;TMA DRM;3,5;TMA
 2019-10-31;DeclarVins;TMA DRM;21,0;TMA
@@ -270,11 +270,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-10-31;DeclarVins;Evolution Contrat;8;Egalim
 2019-10-31;DeclarVins;DRM;1;TMA
 2019-10-31;CNIV;TMA (plusieurs down);7,0;TMA
-2019-10-31;CNIV;TMA Direction technique;7;TMA
+2019-10-31;CNIV;TMA Direction technique;7;TMA DT
 2019-10-31;CIVA;TMA DRM;10,5;TMA
 2019-10-31;CIVA;DRM douane OK;1;TMA
-2019-10-31;CIVA;Direction technique;10,5;TMA
-2019-10-31;AVA;TMA Direction technique;3,5;TMA
+2019-10-31;CIVA;Direction technique;10,5;TMA DT
+2019-10-31;AVA;TMA Direction technique;3,5;TMA DT
 2019-10-31;Aurouze;TMA;3,5;Tuenet
 2019-10-30;DeclarVins;Evolution Contrat;3;TMA
 2019-10-30;DeclarVins;DRM;1;TMA
@@ -365,24 +365,24 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-09-30;VINSI;Fine tuning;7;ODG
 2019-09-30;VINSI;Fine tuning;7;ODG
 2019-09-30;VINSI;Fine tuning;7;ODG
-2019-09-30;VINSI;Direction technique;10,5;TMA
-2019-09-30;VINSI;Direction technique;10,5;ODG
+2019-09-30;VINSI;Direction technique;10,5;TMA DT
+2019-09-30;VINSI;Direction technique;10,5;ODG DT
 2019-09-30;VINSI;Dév;17,5;ODG
 2019-09-30;Sancerre;TMA;7,0;TMA
-2019-09-30;ODGRhone;TMA Direction technique;3,5;TMA
+2019-09-30;ODGRhone;TMA Direction technique;3,5;TMA DT
 2019-09-30;ODGRhone;TMA;7,0;TMA
-2019-09-30;Juricaf;TMA Direction technique;3,5;TMA
-2019-09-30;IVSO;TMA Direction technique;3,5;TMA
+2019-09-30;Juricaf;TMA Direction technique;3,5;TMA DT
+2019-09-30;IVSO;TMA Direction technique;3,5;TMA DT
 2019-09-30;IVSO;TMA;10,5;TMA
-2019-09-30;IVBD;TMA Direction technique;3,5;TMA
+2019-09-30;IVBD;TMA Direction technique;3,5;TMA DT
 2019-09-30;IVBD;TMA;3,5;TMA
-2019-09-30;Declarvins;TMA Direction technique;3,5;TMA
+2019-09-30;Declarvins;TMA Direction technique;3,5;TMA DT
 2019-09-30;DeclarVins;TMA;7,0;TMA
 2019-09-30;DeclarVins;Assistance / Demandes;1;TMA
-2019-09-30;CNIV;TMA Direction technique;3,5;TMA
+2019-09-30;CNIV;TMA Direction technique;3,5;TMA DT
 2019-09-30;CNIV;TMA;3,5;TMA
 2019-09-30;CIVA;TMA;24,5;TMA
-2019-09-30;CIVA;Direction technique;7;TMA
+2019-09-30;CIVA;Direction technique;7;TMA DT
 2019-09-30;AVA;TMA;3,5;TMA
 2019-09-30;Aurouze;tma journee tuenet;7;Tuenet
 2019-09-30;Aurouze;TMA;14,5;Tuenet
@@ -505,22 +505,22 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-08-31;VINSI;TMA DRM;3,5;TMA
 2019-08-31;VINSI;Réunion DRev;3,5;ODG Réunion
 2019-08-31;VINSI;Journée Vie ma vie;7,0;Réunion
-2019-08-31;VINSI;Direction technique;3,5;ODG Réunion
-2019-08-31;VINSI;Direction technique;3,5;ODG
-2019-08-31;VINSI;Direction technique;17,5;TMA
+2019-08-31;VINSI;Direction technique;3,5;ODG Réunion DT
+2019-08-31;VINSI;Direction technique;3,5;ODG DT
+2019-08-31;VINSI;Direction technique;17,5;TMA DT
 2019-08-31;VINSI;Dév;3,5;ODG
-2019-08-31;Sancerre;TMA Direction technique;7;TMA
-2019-08-31;ODGRhone;TMA Direction technique;3,5;TMA
-2019-08-31;ODGProvence;TMA Direction technique;3,5;Hébergement
-2019-08-31;Juricaf;TMA Direction technique;3,5;TMA
-2019-08-31;IVSO;TMA Direction technique;3,5;TMA
+2019-08-31;Sancerre;TMA Direction technique;7;TMA DT
+2019-08-31;ODGRhone;TMA Direction technique;3,5;TMA DT
+2019-08-31;ODGProvence;TMA Direction technique;3,5;Hébergement DT
+2019-08-31;Juricaf;TMA Direction technique;3,5;TMA DT
+2019-08-31;IVSO;TMA Direction technique;3,5;TMA DT
 2019-08-31;IVSO;TMA;10,5;TMA
 2019-08-31;IVBD;TMA;10,5;TMA
-2019-08-31;DeclarVins;TMA Direction technique;10,5;TMA
+2019-08-31;DeclarVins;TMA Direction technique;10,5;TMA DT
 2019-08-31;DeclarVins;TMA;10,5;TMA
-2019-08-31;CNIV;TMA Direction technique;3,5;TMA
+2019-08-31;CNIV;TMA Direction technique;3,5;TMA DT
 2019-08-31;CIVA;TMA;10,5;TMA
-2019-08-31;CIVA;Direction technique;17,5;TMA
+2019-08-31;CIVA;Direction technique;17,5;TMA DT
 2019-08-31;AVA;TMA;3,5;TMA
 2019-08-30;VINSI;Page blanche ODGLoire;1;ODG
 2019-08-30;DeclarVins;Stock à zero;1;TMA
@@ -594,15 +594,15 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-07-31;VINSI;TMA DRM;17,5;TMA DRM
 2019-07-31;VINSI;Réunion DRev;3,5;ODG Réunion
 2019-07-31;VINSI;odgloire drev;3,5;ODG
-2019-07-31;VINSI;Direction technique;14;TMA DRM
-2019-07-31;VINSI;Direction technique;10,5;ODG
+2019-07-31;VINSI;Direction technique;14;TMA DRM DT
+2019-07-31;VINSI;Direction technique;10,5;ODG DT
 2019-07-31;VINSI;Dév du sprint;38,5;ODG
 2019-07-31;Sancerre;TMA DRM;2,0;TMA
-2019-07-31;Sancerre;TMA Direction technique;3,5;TMA
-2019-07-31;ODGRhone;TMA Direction technique;10,5;TMA
+2019-07-31;Sancerre;TMA Direction technique;3,5;TMA DT
+2019-07-31;ODGRhone;TMA Direction technique;10,5;TMA DT
 2019-07-31;ODGRhone;Correction DI et correction clé produit;7;TMA
-2019-07-31;Juricaf;TMA Direction technique;3,5;TMA
-2019-07-31;IVSO;TMA Direction technique;3,5;TMA
+2019-07-31;Juricaf;TMA Direction technique;3,5;TMA DT
+2019-07-31;IVSO;TMA Direction technique;3,5;TMA DT
 2019-07-31;IVSO;Corrections et interventions DRM;10,5;TMA
 2019-07-31;IVBD;TMA DRM;2,0;TMA
 2019-07-31;Eurocontrol;Réunion;3,5;Scripts et Support
@@ -610,10 +610,10 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-07-31;Eurocontrol;Atelier;3,5;Scripts et Support
 2019-07-31;DeclarVins;TMA DRM;3,5;TMA
 2019-07-31;DeclarVins;Assistance / Demandes;1,5;TMA
-2019-07-31;CNIV;TMA Direction technique;7;TMA
+2019-07-31;CNIV;TMA Direction technique;7;TMA DT
 2019-07-31;CIVA;TMA;17,5;TMA
-2019-07-31;CIVA;Direction technique DS;5;TMA
-2019-07-31;CIVA;Direction technique;2;TMA
+2019-07-31;CIVA;Direction technique DS;5;TMA DT
+2019-07-31;CIVA;Direction technique;2;TMA DT
 2019-07-31;CIVA;Assistance;2;TMA
 2019-07-31;AVA;Stats de Facturation et interventions;7,0;TMA
 2019-07-31;Aurouze;TMA Tuenet;7,0;TMA Tuenet
@@ -739,30 +739,30 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-06-30;VINSI;Facturation electronique et paiement en ligne;7;Réunion
 2019-06-30;VINSI;Facturation electronique et paiement en ligne;7;Facturation
 2019-06-30;VINSI;DRM;4;TMA
-2019-06-30;VINSI;Direction technique;7;TMA
+2019-06-30;VINSI;Direction technique;7;TMA DT
 2019-06-30;VINSI;CRD;4;TMA
 2019-06-30;Sancerre;DRM et EDI;3,5;TMA
-2019-06-30;Provence;TMA Direction technique;3,5;TMA
+2019-06-30;Provence;TMA Direction technique;3,5;TMA DT
 2019-06-30;Prodimmo;Dev;36;PSA
-2019-06-30;ODGRhone;TMA Direction technique;7;TMA
+2019-06-30;ODGRhone;TMA Direction technique;7;TMA DT
 2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7;Réunion
 2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7,0;Réunion
 2019-06-30;ODGRhone;Metabase;31,5;Metabase
 2019-06-30;ODGRhone;DI;14;DI
 2019-06-30;ODGProvence;Parcellaire;7;Parcellaire
-2019-06-30;IVSO;TMA Direction technique;3,5;TMA
+2019-06-30;IVSO;TMA Direction technique;3,5;TMA DT
 2019-06-30;IVSO;TMA;7,0;TMA
 2019-06-30;IVBD;Intervention DRM et échanges avec DRM CIVB;14,0;TMA
-2019-06-30;InterRhone;Direction technique (Assistance CAS);3.5;TMA
+2019-06-30;InterRhone;Direction technique (Assistance CAS);3.5;TMA DT
 2019-06-30;Eurocontrol;Réunion;3,5;Scripts et Support
 2019-06-30;Eurocontrol;Développement;10,5;MigrationGIT
 2019-06-30;Eurocontrol;Atelier;3,5;MigrationGIT
-2019-06-30;Declarvins;Direction technique;10.5;TMA
+2019-06-30;Declarvins;Direction technique;10.5;TMA DT
 2019-06-30;DeclarVins;Assistance DRM et gestion mise à jour du serveur TAS;7,0;TMA
-2019-06-30;CNIV;TMA Direction technique;7;TMA
+2019-06-30;CNIV;TMA Direction technique;7;TMA DT
 2019-06-30;CNIV;TMA;3,5;TMA
 2019-06-30;CIVA;TMA;7,0;TMA
-2019-06-30;AVA;TMA Direction technique;3,5;TMA
+2019-06-30;AVA;TMA Direction technique;3,5;TMA DT
 2019-06-30;AVA;Points téléphonique, corrections Facturation, VCI, Prélèvement;10,5;TMA
 2019-06-30;Aurouze;TMA Tuenet;3,5;TMA Tuenet
 2019-06-28;VINSI;probleme drm;1,5;TMA
@@ -832,21 +832,21 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-06-03;Pythagore;Formation MongoDB;7;Forfait
 2019-05-31;VINSI;Facture + DRM;42;TMA
 2019-05-31;VINSI;Facturation par email;7;TMA
-2019-05-31;VINSI;Direction technique;3,5;TMA
+2019-05-31;VINSI;Direction technique;3,5;TMA DT
 2019-05-31;VINSI;Corrections DRM;3,5;TMA
 2019-05-31;VINSI;Adaptation ODG Loire à VINSI, rapport prirority river;17.5;ODG
 2019-05-31;Prodimmo;Améliortation monactivité;3,5;Outils internes
 2019-05-31;ODGRhone;DI;7;DI
-2019-05-31;ODGProvence;TMA Direction technique;3,5;TMA
-2019-05-31;IVSO;TMA Direction technique;3,5;TMA
+2019-05-31;ODGProvence;TMA Direction technique;3,5;TMA DT
+2019-05-31;IVSO;TMA Direction technique;3,5;TMA DT
 2019-05-31;IVSO;Corrections DRM et Factures;3,5;TMA
 2019-05-31;IVBD;Corrections DRM;3,5;TMA
 2019-05-31;Eurocontrol;Développement;7;Scripts et Support
 2019-05-31;Eurocontrol;Développement;10,5;Scripts et Support
 2019-05-31;Eurocontrol;Atelier;3,5;Scripts et Support
 2019-05-31;Eurocontrol;Atelier;3,5;Scripts et Support
-2019-05-31;DeclarVins;Direction technique;3,5;TMA
-2019-05-31;CNIV;TMA Direction technique;14;TMA
+2019-05-31;DeclarVins;Direction technique;3,5;TMA DT
+2019-05-31;CNIV;TMA Direction technique;14;TMA DT
 2019-05-31;CNIV;Gestion du down des douanes;10,5;TMA
 2019-05-31;CIVA;tiers;0,5;TMA
 2019-05-31;CIVA;Corrections DRM, Import Tiers, EDI;10,5;TMA
@@ -928,21 +928,21 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-04-30;VINSI;Réunion;3,5;ODG
 2019-04-30;VINSI;Réunion;3,5;ODG
 2019-04-30;VINSI;DRev Loire;7;ODG
-2019-04-30;VINSI;Direction technique + réunion;14;TMA
-2019-04-30;VINSI;Direction technique + réunion;10,5;ODG
+2019-04-30;VINSI;Direction technique + réunion;14;TMA DT
+2019-04-30;VINSI;Direction technique + réunion;10,5;ODG DT
 2019-04-30;VINSI;Assistance DRM;3,5;TMA
 2019-04-30;VinIGP;Avant vente;7;AvantVente
 2019-04-30;Sancerre;Ajout de produits dans la conf;2;TMA
 2019-04-30;ODGRhone;DI;7;DI
 2019-04-30;ODGProvence;import parcellaire 2019;6;Parcellaire
 2019-04-30;ODGProvence;Import parcellaire 2019;56;Parcellaire
-2019-04-30;Juricaf;TMA Direction technique;7;TMA
-2019-04-30;IVSO;TMA Direction technique;7;TMA
+2019-04-30;Juricaf;TMA Direction technique;7;TMA DT
+2019-04-30;IVSO;TMA Direction technique;7;TMA DT
 2019-04-30;IVSO;Étape Transert TAV;10,5;TMA
 2019-04-30;Eurocontrol;Développement;10,5;Scripts et Support
 2019-04-30;Eurocontrol;Atelier;3,5;Scripts et Support
 2019-04-30;Eurocontrol;Atelier;3,5;Scripts et Support
-2019-04-30;CNIV;TMA Direction technique;7;TMA
+2019-04-30;CNIV;TMA Direction technique;7;TMA DT
 2019-04-30;CIVA;Corrections DRM, Import Tiers, EDI;10,5;TMA
 2019-04-30;AVA;Facturation 2019, Registre VCI, Export INAO;45,5;TMA
 2019-04-30;Aurouze;Dév;10,5;TueNet
@@ -1002,12 +1002,12 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-04-02;DeclarVins;Assistance / Demandes;7;TMA
 2019-04-01;IVBD;export bi;1,5;TMA
 2019-04-01;24eme;Off;;
-2019-03-31;VINSI;TMA Direction technique;7;TMA
+2019-03-31;VINSI;TMA Direction technique;7;TMA DT
 2019-03-31;VinIGP;Avant vente;10,5;AvantVente
-2019-03-31;Sancerre;TMA Direction technique;3,5;TMA
-2019-03-31;ODGRhone;TMA Direction technique;3,5;TMA
+2019-03-31;Sancerre;TMA Direction technique;3,5;TMA DT
+2019-03-31;ODGRhone;TMA Direction technique;3,5;TMA DT
 2019-03-31;ODGProvence;Extraction parcellaire depuis les douanes;28;Parcellaire
-2019-03-31;Juricaf;TMA Direction technique;10,5;TMA
+2019-03-31;Juricaf;TMA Direction technique;10,5;TMA DT
 2019-03-31;IVSO;Mise en place d'import vrac;28;EDI
 2019-03-31;Eurocontrol;Développement DT;14;Scripts et Support
 2019-03-29;VINSI;Prestataire EDI;1;TMA
@@ -1087,17 +1087,17 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-03-04;IVBD;mise en coherence des statistiques;7;Stats
 2019-03-04;24eme;Temps;;
 2019-03-01;IVBD;statistiques pdf et csv;7;Stats
-2019-02-28;VINSI;TMA Direction technique;14;TMA
+2019-02-28;VINSI;TMA Direction technique;14;TMA DT
 2019-02-28;VINSI;Corrections de DRM et début de reprise des DRM Sancerre;10,5;TMA
 2019-02-28;Sancerre;Corrections DRM;10,5;TMA
 2019-02-28;Prodimmo;Amélioration report 24 et corrections mon activité;3,5;Outils internes
-2019-02-28;ODGRhone;TMA Direction technique;3,5;TMA
+2019-02-28;ODGRhone;TMA Direction technique;3,5;TMA DT
 2019-02-28;ODGRhone;Dév DI;10,5;DI
-2019-02-28;Juricaf;TMA Direction technique;7;TMA
-2019-02-28;IVSO;TMA Direction technique;7;TMA
+2019-02-28;Juricaf;TMA Direction technique;7;TMA DT
+2019-02-28;IVSO;TMA Direction technique;7;TMA DT
 2019-02-28;IVSO;Mise en place d'import vrac;31,5;EDI
 2019-02-28;IVSO;Administration système problème https et mapping préprod;1,5;TMA
-2019-02-28;IVBD;TMA Direction technique;3,5;TMA
+2019-02-28;IVBD;TMA Direction technique;3,5;TMA DT
 2019-02-28;IVBD;statistiques pdf et csv;4;Stats
 2019-02-28;IVBD;Corrections stats contrats Metabase, DRM bordeaux et DRM;7;TMA
 2019-02-28;Eurocontrol;Réunion et conseil DT;3,5;Scripts et Support
@@ -1106,7 +1106,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-02-28;Eurocontrol;Développement;7;Scripts et Support
 2019-02-28;DeclarVins;Réunion;7;TMA
 2019-02-28;DeclarVins;Assistance DRM;7;TMA
-2019-02-28;CIVA;TMA Direction technique;10,5;TMA
+2019-02-28;CIVA;TMA Direction technique;10,5;TMA DT
 2019-02-28;CIVA;Réunion;3,5;Réunion
 2019-02-28;CIVA;DRM, Import DRM EDI, Gestion des tiers;24,5;TMA
 2019-02-28;AVA;TMA;3,5;TMA
@@ -1176,18 +1176,18 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-02-01;DeclarVins;Popup DRM;3;TMA
 2019-02-01;DeclarVins;HLAP;1;TMA
 2019-02-01;DeclarVins;Assistance / Demandes;3;TMA
-2019-01-31;VINSI;TMA Direction technique;7;TMA
+2019-01-31;VINSI;TMA Direction technique;7;TMA DT
 2019-01-31;Sancerre;Corrections diverse;3,5;TMA
-2019-01-31;ODGRhone;TMA Direction technique;7;TMA
-2019-01-31;ODGProvence;TMA Direction technique;3,5;TMA
+2019-01-31;ODGRhone;TMA Direction technique;7;TMA DT
+2019-01-31;ODGProvence;TMA Direction technique;3,5;TMA DT
 2019-01-31;ODGProvence;mise en preproduction Facturation;4,5;Facturation
-2019-01-31;IVSO;TMA Direction technique;10,5;NextCloud
+2019-01-31;IVSO;TMA Direction technique;10,5;NextCloud DT
 2019-01-31;IVSO;Intégration groupe LDAP dans un NextCloud;35;NextCloud
 2019-01-31;Eurocontrol;Formation GIT Avancé et préparation;17,5;Formation et Brainstorming
 2019-01-31;Eurocontrol;Formation Git Avancé DT;14;Formation et Brainstorming
 2019-01-31;DeclarVins;HLAP;5,5;TMA
 2019-01-31;DeclarVins;Bug rail etapes DRM;1,5;TMA
-2019-01-31;CIVA;TMA Direction technique;10,5;TMA
+2019-01-31;CIVA;TMA Direction technique;10,5;TMA DT
 2019-01-31;CIVA;Corrections DRM, Export XML DR, Export DB2;35;TMA
 2019-01-31;AVA;Registre VCI corrections et interfaces cave coop négoce;17,5;VCI
 2019-01-31;24eme;Tactical, Facturation, carte de voeux, préparation contrat de travail;10,5;24eme
@@ -1284,10 +1284,10 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-12-31;VINSI;Corrections DRM;3,5;TMA
 2018-12-31;Sancerre;Correction import EDI;2;TMA
 2018-12-31;PSA;Dev;2;TMA
-2018-12-31;ODGRhone;TMA Direction technique;3,5;TMA
-2018-12-31;IVSO;TMA Direction technique;3,5;TMA
+2018-12-31;ODGRhone;TMA Direction technique;3,5;TMA DT
+2018-12-31;IVSO;TMA Direction technique;3,5;TMA DT
 2018-12-31;IVSO;Corrections DRM;2;TMA
-2018-12-31;IVBD;TMA Direction technique;3,5;TMA
+2018-12-31;IVBD;TMA Direction technique;3,5;TMA DT
 2018-12-31;IVBD;Problème de Facturation;2;TMA
 2018-12-31;Eurocontrol;Dév DT;14;Scripts et Support
 2018-12-31;Eurocontrol;Dév;14;Scripts et Support
@@ -1297,7 +1297,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-12-31;DeclarVins;Correction DRM;2;TMA
 2018-12-31;CNIV;Statuts maintenance CIEL;3,5;TMA
 2018-12-31;CNIV;Dont migration IPSec;7;TMA
-2018-12-31;CIVA;TMA Direction technique;3,5;TMA
+2018-12-31;CIVA;TMA Direction technique;3,5;TMA DT
 2018-12-31;CIVA;DR, DRM, Export DB2, EDI;38,5;TMA
 2018-12-31;AVA;Correction VCI DRev et Registre;7;VCI
 2018-12-31;AVA;Corrections diverses et dégustations;3,5;TMA
@@ -1396,14 +1396,14 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-12-03;DeclarVins;Assistance DRM;1;TMA
 2018-11-30;VINSI;probleme compte et DRM;1;TMA
 2018-11-30;VINSI;Intervention DRM;3,5;TMA
-2018-11-30;VINSI;Direction technique;0,5;TMA
+2018-11-30;VINSI;Direction technique;0,5;TMA DT
 2018-11-30;Pythagore;Formation GIT;14;Formation
 2018-11-30;Prodimmo;Report24 et monactivité;10,5;Outils internes
 2018-11-30;Prodimmo;Report 24;0,25;Outils internes
 2018-11-30;Prodimmo;Dév;17,5;PSA
 2018-11-30;Prodimmo;Dév;1,25;PSA
 2018-11-30;ODGRhone;Probleme mauvais mail;2,5;TMA
-2018-11-30;ODGRhone;Direction technique;7;TMA
+2018-11-30;ODGRhone;Direction technique;7;TMA DT
 2018-11-30;ODGProvence;DRev, récupération DR, CAS;10,5;Lot 3
 2018-11-30;IVBD;statistique;7;Stats
 2018-11-30;Eurocontrol;Formation et brainstorming préparation et restitution DT;28;Formation et Brainstorming
@@ -1414,12 +1414,12 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-11-30;DeclarVins;Assistance DRM;1;TMA
 2018-11-30;CNIV;IPSec;0,5;MigrationLS
 2018-11-30;CNIV;Divers admyn sys;0,5;TMA
-2018-11-30;CNIV;Direction technique;0,5;TMA
+2018-11-30;CNIV;Direction technique;0,5;TMA DT
 2018-11-30;CNIV;Bilan - interruption de service;7;TMA
 2018-11-30;CIVA;Export DB2 DRM, Corrections DR, Corrections DRM;38,5;TMA
-2018-11-30;CIVA;Direction technique;0,5;TMA
+2018-11-30;CIVA;Direction technique;0,5;TMA DT
 2018-11-30;CIVA;Assistance convention a probleme;1,5;TMA
-2018-11-30;AVA;Direction technique;3,5;TMA
+2018-11-30;AVA;Direction technique;3,5;TMA DT
 2018-11-30;AVA;Correction VCI DRev et Registre;14;VCI
 2018-11-30;AVA;Correction DRev;3,5;TMA
 2018-11-30;Aurouze;gestion reglements;1;TMA
@@ -2347,17 +2347,17 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-01;ODGProvence;Réunion;7;Réunion
 2018-03-01;IVBD;Correction produit et contrat;1,5;TMA
 2018-03-01;EliteAuto;GP Bwat;Forfait;
-2018-02-28;VINSI;Direction Technique;3,5;TMA
-2018-02-28;Sancerre;Direction Technique;3,5;TMA
+2018-02-28;VINSI;Direction Technique;3,5;TMA DT
+2018-02-28;Sancerre;Direction Technique;3,5;TMA DT
 2018-02-28;Sancerre;Corrections de bug de génération et notamment dans la Facturation;2,5;TMA
 2018-02-28;ODGProvence;tickets;7;Lot 1
-2018-02-28;ODGProvence;Direction Technique;10,5;Lot 1
+2018-02-28;ODGProvence;Direction Technique;10,5;Lot 1 DT
 2018-02-28;ODGProvence;Dév;4,5;Lot 1
-2018-02-28;IVSO;Direction Technique;3,5;TMA
-2018-02-28;IVBD;Direction Technique;3,5;TMA
-2018-02-28;CIVA;Direction Technique;3,5;TMA
+2018-02-28;IVSO;Direction Technique;3,5;TMA DT
+2018-02-28;IVBD;Direction Technique;3,5;TMA DT
+2018-02-28;CIVA;Direction Technique;3,5;TMA DT
 2018-02-28;AVA;Réunion téléphonique Facturation;0,5;TMA
-2018-02-28;AVA;Direction Technique;3,5;TMA
+2018-02-28;AVA;Direction Technique;3,5;TMA DT
 2018-02-27;VINSI;Vente négoce à négoce sur les DRM;3;TMA
 2018-02-27;ODGProvence;Tickets;5;Lot 1
 2018-02-27;ODGProvence;tickets;5;Lot 1
