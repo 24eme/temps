@@ -1,8 +1,12 @@
-2019-12-31;VINSI;TMA DRM;3,5;TMA
-2019-12-31;VINSI;TMA DREV;10,5;ODG
-2019-12-31;VINSI;Réunion;7,0;Réunion
-2019-12-31;ODGProvence;Réunion;3,5;Réunion
-2019-12-31;DeclarVins;TMA DRM;2,0;TMA
-2019-12-31;CIVA;TMA DRM, DR, Contrat etTiers;31,5;TMA
-2019-12-31;AVA;Correction VCI, DRev et degustation;7,0;TMA
-2019-12-31;IVBD;Correction Export Bordeaux;2,0;TMA
+2020-01-31;VINSI;TMA DREV;1,75;ODG
+2020-01-31;ODGNantes;Dév;35;Forfait
+2020-01-31;DeclarVins;TMA DRM;17,5;TMA
+2020-01-31;CIVA;TMA DRM, DR;14,0;TMA
+2020-01-31;AVA;VCI et Affectation parcellaire;3,5;TMA
+2020-01-31;IVBD;Mise à jour taux douane;2,5;TMA
+2020-01-31;IVSO;TMA DRM et Facturation et mise à jour taux douane;7,0;TMA
+2020-01-31;IVSO;Préparation de la réunion;1,75;Nextcloud
+2020-01-31;IVSO;Réunion Nextcloude et démat;3,5;Reunion
+2020-01-31;BIVC;Mise à jour taux douane et amélioration import csv;2,5;TMA
+2020-01-31;Aurouze;Debug facuration;1,75;TMA
+2020-01-31;CNIV;Panne douane;3,5;TMA
