@@ -376,7 +376,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-09-30;IVSO;TMA;10,5;TMA
 2019-09-30;IVBD;TMA Direction technique;3,5;TMA DT
 2019-09-30;IVBD;TMA;3,5;TMA
-2019-09-30;Declarvins;TMA Direction technique;3,5;TMA DT
+2019-09-30;DeclarVins;TMA Direction technique;3,5;TMA DT
 2019-09-30;DeclarVins;TMA;7,0;TMA
 2019-09-30;DeclarVins;Assistance / Demandes;1;TMA
 2019-09-30;CNIV;TMA Direction technique;3,5;TMA DT
@@ -757,7 +757,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-06-30;Eurocontrol;Réunion;3,5;Scripts et Support
 2019-06-30;Eurocontrol;Développement;10,5;MigrationGIT
 2019-06-30;Eurocontrol;Atelier;3,5;MigrationGIT
-2019-06-30;Declarvins;Direction technique;10.5;TMA DT
+2019-06-30;DeclarVins;Direction technique;10.5;TMA DT
 2019-06-30;DeclarVins;Assistance DRM et gestion mise à jour du serveur TAS;7,0;TMA
 2019-06-30;CNIV;TMA Direction technique;7;TMA DT
 2019-06-30;CNIV;TMA;3,5;TMA
