@@ -30,9 +30,9 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-01-16;IVBD;Suppression Contrat;0,5;TMA
 2020-01-16;DeclarVins;Modification CRD DRM;1;TMA
 2020-01-16;DeclarVins;Création produit;1;TMA
-2020-01-20;Aurouze;Réunion Cécile;3,5;Reunion
+2020-01-20;Aurouze;Réunion Cécile;3,5;Évolutions
 2020-01-20;IVSO;Annulation génération de facture;0,5;TMA
-2020-01-20;Aurouze;Modifs suite à la réunion;2;TMA
+2020-01-20;Aurouze;Modifs suite à la réunion;2;Évolutions
 2020-01-24;CIVA;Creation compte;0,5;TMA
 2020-01-27;PlateauUrbain;Reunion pu;3,5;Web
 2020-01-29;DeclarVins;Modifications contrats;2,5;TMA
@@ -73,15 +73,15 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-01-17;ODGProvence;TMA et facturation;7;TMA
 2020-01-17;VINSI;TMA classique;2;TMA
 2020-01-17;VINSI;xml export innov et test;4;ODG
-2020-01-20;Aurouze;Reunion;4,5;Reunion
-2020-01-24;Aurouze;ticket et amelioration;6;TMA
+2020-01-20;Aurouze;Reunion;4,5;Évolutions
+2020-01-24;Aurouze;ticket et amelioration;6;Évolutions
 2020-01-24;ODGProvence;mise en prdo et template facturation;3,5;TMA
 2020-01-24;VINSI;TMA classique;2;TMA
 2020-01-24;VINSI;xml export innov par region au global;6,5;ODG
 2020-01-27;Aurouze;probleme de contrat;2,5;TMA
 2020-01-27;VINSI;xml export innov par region ;2,5;ODG
 2020-01-28;VINSI;factures electronique;3,5;TMA
-2020-01-29;Aurouze;tickets et cron;9;TMA
+2020-01-29;Aurouze;tickets et cron;9;Évolutions
 2020-01-31;VINSI;TMA DREV;1,75;ODG
 2020-01-31;ODGNantes;Dév;35;Forfait
 2020-01-31;DeclarVins;TMA DRM;17,5;TMA
