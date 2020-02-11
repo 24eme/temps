@@ -26,7 +26,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-12-20;IVBD;Soldage contrats;2;TMA
 2019-12-20;DeclarVins;Probleme mail civp;2;TMA
 2019-12-20;CIVA;tma ;1;TMA
-2019-12-20;Aurouze;tma;2;TMA TueNet
+2019-12-20;Aurouze;tma;2;TMA Tuenet
 2019-12-20;24eme;RDV Oeil;;
 2019-12-19;CIVA;(Suite)(Suite) dans pdf;1;TMA
 2019-12-19;CIVA;Contrats millésimés et correctifs;7;Mercuriales
@@ -275,7 +275,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-10-31;CIVA;DRM douane OK;1;TMA
 2019-10-31;CIVA;Direction technique;10,5;TMA DT
 2019-10-31;AVA;TMA Direction technique;3,5;TMA DT
-2019-10-31;Aurouze;TMA;3,5;Tuenet
+2019-10-31;Aurouze;TMA;3,5;TueNet
 2019-10-30;DeclarVins;Evolution Contrat;3;TMA
 2019-10-30;DeclarVins;DRM;1;TMA
 2019-10-30;24eme;Off;;
@@ -384,8 +384,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-09-30;CIVA;TMA;24,5;TMA
 2019-09-30;CIVA;Direction technique;7;TMA DT
 2019-09-30;AVA;TMA;3,5;TMA
-2019-09-30;Aurouze;tma journee tuenet;7;Tuenet
-2019-09-30;Aurouze;TMA;14,5;Tuenet
+2019-09-30;Aurouze;tma journee tuenet;7;TueNet
+2019-09-30;Aurouze;TMA;14,5;TueNet
 2019-09-27;VINSI;page lots;6;ODG
 2019-09-27;VINSI;Conformite DRM;2;TMA
 2019-09-27;VINSI;Conformite DRM;1;TMA
@@ -637,17 +637,17 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-07-29;24eme;Formation Colmar / Preparation bilan;;
 2019-07-26;VINSI;odgloire drev;7;ODG
 2019-07-26;DeclarVins;Assistance / Demandes;3,5;TMA
-2019-07-26;Aurouze;Fix récap contrat;1;TMA Contrats
+2019-07-26;Aurouze;Fix récap contrat;1;TMA
 2019-07-26;Aurouze;Assistance / Demandes;1,5;TMA Tuenet
-2019-07-26;Aurouze;2nd email pour le rapport;5;TMA Tournées
+2019-07-26;Aurouze;2nd email pour le rapport;5;TMA
 2019-07-26;24eme;Preparation Bilan;;
 2019-07-25;VINSI;odgloire drev;3;ODG
 2019-07-25;DeclarVins;Assistance / Demandes;5,5;TMA
 2019-07-25;CIVA;Maj tiers;1;TMA
-2019-07-25;Aurouze;Récap dans les contrats;5;TMA Contrats
+2019-07-25;Aurouze;Récap dans les contrats;5;TMA
 2019-07-24;VINSI;odgloire drev;5;ODG
 2019-07-24;DeclarVins;Assistance / Demandes;4;TMA
-2019-07-24;Aurouze;Prélèvement;7;TMA Prélèvement
+2019-07-24;Aurouze;Prélèvement;7;TMA
 2019-07-24;24eme;CIAMT;;
 2019-07-23;VINSI;odgloire drev;3;ODG
 2019-07-23;IVBD;Assistance / Demandes;1;TMA
@@ -656,8 +656,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-07-22;VINSI;odgloire drev;7;ODG
 2019-07-22;IVSO;Configuration mvts, produits;1;TMA
 2019-07-22;DeclarVins;Assistance / Demandes;1;TMA
-2019-07-22;Aurouze;Recherche par tag;5;TMA Recherche
-2019-07-22;Aurouze;Prélèvement;2;TMA Prélèvement
+2019-07-22;Aurouze;Recherche par tag;5;TMAe
+2019-07-22;Aurouze;Prélèvement;2;TMA
 2019-07-22;Aurouze;Assistance / Demandes;1;TMA
 2019-07-22;24eme;Preparation Bilan;;
 2019-07-19;DeclarVins;Assistance / Demandes;3;TMA
