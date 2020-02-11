@@ -5,19 +5,19 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-01-03;CIVA;Mercuriale moyenne pondérée;3;TMA
 2020-01-06;DeclarVins;Fix maj prix total contrat;2;TMA
 2020-01-07;DeclarVins;Fix maj prix total contrat;1;TMA
-2020-01-07;BIVC;Saisie DRM;1;TMA
+2020-01-07;Sancerre;Saisie DRM;1;TMA
 2020-01-07;DeclarVins;Transmission DRM;1;TMA
 2020-01-07;VINSI;Transmission douane Lacheteau;1;TMA
 2020-01-08;VINSI;Transmission douane Lacheteau;1;TMA
-2020-01-08;BIVC;Import XML négoce pur;1;TMA
-2020-01-08;BIVC;Import fichier;1;TMA
+2020-01-08;Sancerre;Import XML négoce pur;1;TMA
+2020-01-08;Sancerre;Import fichier;1;TMA
 2020-01-08;CIVA;Maj adresse;0,5;TMA
-2020-01-08;BIVC;Correction fichier XML;1;TMA
+2020-01-08;Sancerre;Correction fichier XML;1;TMA
 2020-01-09;VINSI;Transmission douane Lacheteau;1;TMA
 2020-01-09;DeclarVins;Dévalidation contrat;1;TMA
 2020-01-09;DeclarVins;Verification XML;0,5;TMA
 2020-01-10;CIVA;Integration CSV;O,5;TMA
-2020-01-10;BIVC;Correction fichier XML;0,5;TMA
+2020-01-10;Sancerre;Correction fichier XML;0,5;TMA
 2020-01-10;CIVA;Import CSV;1;TMA
 2020-01-10;DeclarVins;Validation DRM;1;TMA
 2020-01-13;IVBD;Modification contrat;0,5;TMA
@@ -34,11 +34,11 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-01-20;IVSO;Annulation génération de facture;0,5;TMA
 2020-01-20;Aurouze;Modifs suite à la réunion;2;TMA
 2020-01-24;CIVA;Creation compte;0,5;TMA
-2020-01-27;PlateauUrbain;Reunion pu;3,5;Reunion
+2020-01-27;PlateauUrbain;Reunion pu;3,5;Web
 2020-01-29;DeclarVins;Modifications contrats;2,5;TMA
 2020-01-30;IVSO;Contrats;1;TMA
 2020-01-31;IVSO;Pas de couleurs dans les tags;1,5;TMA
-2020-01-31;PlateauUrbain;Travail sur la plateforme;10;Plateforme
+2020-01-31;PlateauUrbain;Travail sur la plateforme;10;Web
 2020-01-23;DeclarVins;Assistance / Demande;5;TMA
 2020-01-24;CIVA;Taux douane et correction DRM;1,5;TMA
 2020-01-27;Sancerre;Assistance / Demande;1;TMA
@@ -91,7 +91,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-01-31;IVSO;TMA DRM et Facturation et mise à jour taux douane;7,0;TMA
 2020-01-31;IVSO;Préparation de la réunion;1,75;Nextcloud
 2020-01-31;IVSO;Réunion Nextcloude et démat;3,5;Reunion
-2020-01-31;BIVC;Mise à jour taux douane et amélioration import csv;2,5;TMA
+2020-01-31;Sancerre;Mise à jour taux douane et amélioration import csv;2,5;TMA
 2020-01-31;Aurouze;Debug facuration;1,75;TMA
 2020-01-31;CNIV;Panne douane;3,5;TMA
 2020-01-31;CIVA;Direction technique;10,5;TMA
@@ -99,7 +99,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-01-31;VINSI;Direction technique;21;VINSI/SV12
 2020-01-31;CNIV;Direction technique;3,5;TMA
 2020-01-31;DeclarVins;Direction technique;17,5;TMA
-2020-01-31;PlateauUrbain;Direction technique;3,5;TMA
+2020-01-31;PlateauUrbain;Direction technique;3,5;Web
 2020-01-31;IVSO;Direction technique;10,5;TMA
 2020-01-31;IVBD;Direction technique;3,5;TMA
-2020-01-31;BIVC;Direction technique;3,5;TMA
+2020-01-31;Sancerre;Direction technique;3,5;TMA
