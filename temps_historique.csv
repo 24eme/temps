@@ -1,26 +1,26 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-01-31;VINSI;TMA DREV;1,75;ODG
-2020-01-31;VINSI;Direction technique;3,5;ODG
-2020-01-31;VINSI;Direction technique;21;VINSI/SV12
+2020-01-31;VINSI;Direction technique;3,5;ODG DT
+2020-01-31;VINSI;Direction technique;21;VINSI/SV12 DT
 2020-01-31;Sancerre;Mise à jour taux douane et amélioration import csv;2,5;TMA
-2020-01-31;Sancerre;Direction technique;3,5;TMA
+2020-01-31;Sancerre;Direction technique;3,5;TMA DT
 2020-01-31;PlateauUrbain;Travail sur la plateforme;10;Web
-2020-01-31;PlateauUrbain;Direction technique;3,5;Web
+2020-01-31;PlateauUrbain;Direction technique;3,5;Web DT
 2020-01-31;ODGNantes;Dév;35;Forfait
 2020-01-31;IVSO;TMA DRM et Facturation et mise à jour taux douane;7,0;TMA
 2020-01-31;IVSO;Réunion Nextcloude et démat;3,5;Reunion
 2020-01-31;IVSO;Préparation de la réunion;1,75;Nextcloud
 2020-01-31;IVSO;Pas de couleurs dans les tags;1,5;TMA 2019
-2020-01-31;IVSO;Direction technique;10,5;TMA
+2020-01-31;IVSO;Direction technique;10,5;TMA DT
 2020-01-31;IVBD;Mise à jour taux douane;2,5;TMA
-2020-01-31;IVBD;Direction technique;3,5;TMA
+2020-01-31;IVBD;Direction technique;3,5;TMA DT
 2020-01-31;DeclarVins;TMA DRM;17,5;TMA
-2020-01-31;DeclarVins;Direction technique;17,5;TMA
+2020-01-31;DeclarVins;Direction technique;17,5;TMA DT
 2020-01-31;CNIV;Panne douane;3,5;TMA
-2020-01-31;CNIV;Direction technique;3,5;TMA
+2020-01-31;CNIV;Direction technique;3,5;TMA DT
 2020-01-31;CIVA;TMA DRM, DR;14,0;TMA
 2020-01-31;CIVA;Export DRM BI;3,5;TMA
-2020-01-31;CIVA;Direction technique;10,5;TMA
+2020-01-31;CIVA;Direction technique;10,5;TMA DT
 2020-01-31;CIVA;Correctifs PDF mercuriales;0,5;Mercuriales
 2020-01-31;AVA;VCI et Affectation parcellaire;3,5;TMA
 2020-01-31;Aurouze;Debug facuration;1,75;TMA
@@ -103,6 +103,13 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-01-03;CIVA;Mercuriale moyenne pondérée;3;TMA
 2020-01-02;VINSI;Maj contrat;1;TMA
 2020-01-02;IVBD;Maj contrat;1;TMA
+2019-12-31;VINSI;Direction technique;24,5;ODG DT
+2019-12-31;VINSI;Direction technique;10,5;Réunion+préparation DT
+2019-12-31;Juricaf;Direction technique;7;TMA DT
+2019-12-31;CNIV;Direction technique;3,5;TMA DT
+2019-12-31;CIVA;Direction technique;7;TMA DT
+2019-12-31;ODGProvence;Direction technique;3,5;Réunion DT
+2019-12-31;ODGProvence;Direction technique;3,5;TMA DT
 2019-12-31;VINSI;TMA DRM;3,5;TMA
 2019-12-31;VINSI;TMA DREV;10,5;ODG
 2019-12-31;VINSI;Réunion;7,0;Réunion
