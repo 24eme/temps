@@ -1,29 +1,30 @@
-2019-12-03;VINSI;Drev debug;2,5;ODG
-2019-12-03;VINSI; Problemes divers et drm ciel;3,5;TMA
-2019-12-04;OdgProvence;reunion;3,5;reunion
-2019-12-04;VINSI;Drev debug;4;ODG
-2019-12-06;Aurouze;tma;2;TMA
-2019-12-06;AVA;debug Drev ;2;TMA
-2019-12-06;CIVA;DRM transmission et Tiers ;3,5;TMA
-2019-12-06;IVBD;transmission drm et dev ciel1;4;TMA
-2019-12-06;IVSO;drm deblocage et dev ciel 1;7;TMA
-2019-12-06;OdgProvence;tma;1;TMA
-2019-12-06;VINSI; Problemes drm transmission et factures;7;TMA
-2019-12-11;VINSI;reunion loire;7;reunion
-2019-12-13;CIVA;DRM probleme ;1;TMA
-2019-12-13;DeclarVins;Drm en probleme IR;1;TMA
-2019-12-13;IVBD;tma;1,5;TMA
-2019-12-13;OdgProvence;tma;1,5;TMA
-2019-12-13;VINSI;Drev debug;2;ODG
-2019-12-13;VINSI; Problemes drm et autre tma;4;TMA
-2019-12-20;Aurouze;tma;2;TMA TueNet
-2019-12-20;CIVA;tma ;1;TMA
-2019-12-20;DeclarVins;Probleme mail civp;2;TMA
-2019-12-20;IVBD;tma;1;TMA
-2019-12-20;Sancerre;Drm et editeur;1;TMA
-2019-12-20;VINSI;adaptation interface;2;Ciel 1
-2019-12-20;VINSI; tma;3;TMA
-2019-12-20;VINSI;tma odg;2;ODG
-2019-12-27;CIVA;tma ;2;TMA
-2019-12-27;VINSI; tma;2,5;TMA
-2019-12-27;VINSI;tma odg;1;ODG
+2020-01-03;CIVA;tma ;3,5;TMA
+2020-01-03;IVSO;drm et 5 chiffres aprs virgule;1,5;TMA
+2020-01-10;Aurouze;tma;2,5;TMA TueNet
+2020-01-10;CIVA;tma ;1,5;TMA
+2020-01-10;DeclarVins;Drm en probleme IR;3;TMA
+2020-01-10;IVBD;tma;1;TMA
+2020-01-10;IVSO;drm et ciel1;11;TMA
+2020-01-10;OdgRhone;calcul stock vci;1,5;TMA
+2020-01-10;Sancerre;Drm et editeur;2,5;TMA
+2020-01-10;VINSI; tma;8;TMA
+2020-01-10;VINSI;xml export innov;4;ODG
+2020-01-14;IVSO;reunion;4,5;reunion
+2020-01-17;Aurouze;tma;2;TMA TueNet
+2020-01-17;CIVA;gestion des xml civa et douane;5;TMA
+2020-01-17;CIVA;tma ;1,5;TMA
+2020-01-17;DeclarVins;Drm a probleme;1,5;TMA
+2020-01-17;IVBD;tma;1;TMA
+2020-01-17;IVSO;drm et transmission;3,5;TMA
+2020-01-17;OdgProvence;tma et facturation;7;TMA
+2020-01-17;VINSI;tma classique;2;tma
+2020-01-17;VINSI;xml export innov et test;4;ODG
+2020-01-20;Aurouze;reunion;4,5;TMA
+2020-01-24;Aurouze;ticket et amelioration;6;TMA
+2020-01-24;OdgProvence;mise en prdo et template facturation;3,5;TMA
+2020-01-24;VINSI;tma classique;2;tma
+2020-01-24;VINSI;xml export innov par region au global;6,5;ODG
+2020-01-27;Aurouze;probleme de contrat;2,5;TMA
+2020-01-27;VINSI;xml export innov par region ;2,5;ODG
+2020-01-28;VINSI;factures electronique;3,5;TMA
+2020-01-29;Aurouze;tickets et cron;9;TMA
