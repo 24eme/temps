@@ -52,31 +52,31 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-01-31;Aurouze;Assistance / Demande;2;TMA
 2020-01-31;CIVA;Export DRM BI;3,5;TMA
 2020-01-31;CIVA;Correctifs PDF mercuriales;0,5;Mercuriales
-2020-01-03;CIVA;tma ;3,5;TMA
+2020-01-03;CIVA;TMA ;3,5;TMA
 2020-01-03;IVSO;drm et 5 chiffres aprs virgule;1,5;TMA
-2020-01-10;Aurouze;tma;2,5;TMA Tuenet
-2020-01-10;CIVA;tma ;1,5;TMA
+2020-01-10;Aurouze;TMA;2,5;TMA Tuenet
+2020-01-10;CIVA;TMA ;1,5;TMA
 2020-01-10;DeclarVins;Drm en probleme IR;3;TMA
-2020-01-10;IVBD;tma;1;TMA
+2020-01-10;IVBD;TMA;1;TMA
 2020-01-10;IVSO;drm et ciel1;11;TMA
 2020-01-10;ODGRhone;calcul stock vci;1,5;TMA
 2020-01-10;Sancerre;Drm et editeur;2,5;TMA
-2020-01-10;VINSI; tma;8;TMA
+2020-01-10;VINSI; TMA;8;TMA
 2020-01-10;VINSI;xml export innov;4;ODG
 2020-01-14;IVSO;Reunion;4,5;Reunion
-2020-01-17;Aurouze;tma;2;TMA Tuenet
+2020-01-17;Aurouze;TMA;2;TMA Tuenet
 2020-01-17;CIVA;gestion des xml civa et douane;5;TMA
-2020-01-17;CIVA;tma ;1,5;TMA
+2020-01-17;CIVA;TMA ;1,5;TMA
 2020-01-17;DeclarVins;Drm a probleme;1,5;TMA
-2020-01-17;IVBD;tma;1;TMA
+2020-01-17;IVBD;TMA;1;TMA
 2020-01-17;IVSO;drm et transmission;3,5;TMA
-2020-01-17;ODGProvence;tma et facturation;7;TMA
-2020-01-17;VINSI;tma classique;2;tma
+2020-01-17;ODGProvence;TMA et facturation;7;TMA
+2020-01-17;VINSI;TMA classique;2;TMA
 2020-01-17;VINSI;xml export innov et test;4;ODG
 2020-01-20;Aurouze;Reunion;4,5;Reunion
 2020-01-24;Aurouze;ticket et amelioration;6;TMA
 2020-01-24;ODGProvence;mise en prdo et template facturation;3,5;TMA
-2020-01-24;VINSI;tma classique;2;tma
+2020-01-24;VINSI;TMA classique;2;TMA
 2020-01-24;VINSI;xml export innov par region au global;6,5;ODG
 2020-01-27;Aurouze;probleme de contrat;2,5;TMA
 2020-01-27;VINSI;xml export innov par region ;2,5;ODG
@@ -96,7 +96,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-01-31;CNIV;Panne douane;3,5;TMA
 2020-01-31;CIVA;Direction technique;10,5;TMA
 2020-01-31;VINSI;Direction technique;3,5;ODG
-2020-01-31;VINSI;Direction technique;21;Vinsi/SV12
+2020-01-31;VINSI;Direction technique;21;VINSI/SV12
 2020-01-31;CNIV;Direction technique;3,5;TMA
 2020-01-31;DeclarVins;Direction technique;17,5;TMA
 2020-01-31;PlateauUrbain;Direction technique;3,5;TMA
