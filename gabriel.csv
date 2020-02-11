@@ -1,56 +1,19 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2019-11-04;AVA;Questions;0,2;TMA
-2019-11-04;VINSI;Drev récupération prodouane;0,2;TMA
-2019-11-05;DeclarVins;Transmission DRM;1;TMA
-2019-11-05;Aurouze;Modification facture;1;TMA
-2019-11-05;Sancerre;Mvmts suspendu;0,5;TMA
-2019-11-05;DeclarVins;Import CSV;1;TMA
-2019-11-05;CIVA;Suppression DRM;1;TMA
-2019-11-06;24eme;Tactical;3,5;Tactical
-2019-11-06;CIVA;Maj Tiers;1;TMA
-2019-11-07;VINSI;Maj info Chinon;0,5;TMA
-2019-11-07;CIVA;Ajout CRD;0,5;TMA
-2019-11-07;VINSI;Coopérative dans recherche;1;TMA
-2019-11-07;VINSI;Oups DRM;1;TMA
-2019-11-08;CIVA;Maj Tiers;1;TMA
-2019-11-08;IVSO;Time limit à 0 import CSV;1;TMA
-2019-11-08;CIVA;Statut DRM;0,5;TMA
-2019-11-08;CIVA;MaJ Tiers;1;TMA
-2019-11-08;IVSO;Transmission DRM;1;TMA
-2019-11-12;CIVA;Statut DRM;1;TMA
-2019-11-12;DeclarVins;Import CSV;2;TMA
-2019-11-13;CIVA;Statut DRM;1;TMA
-2019-11-13;CIVA;Numéro accise;1;TMA
-2019-11-13;DeclarVins;Transmission DRM;0,5;TMA
-2019-11-14;DeclarVins;Import CSV;2;TMA
-2019-11-14;DeclarVins;Retour douane;0,5;TMA
-2019-11-14;DeclarVins;Import CSV;2;TMA
-2019-11-15;DeclarVins;Import CSV;2;TMA
-2019-11-18;VINSI;Validation DRM;1;TMA
-2019-11-18;ODGProvence;Mot de passe oublié;1;TMA
-2019-11-19;VINSI;Transmission DRM;1,5;TMA
-2019-11-19;CIVA;Maj délégation;1;TMA
-2019-11-19;CIVA;Maj Tiers;0,5;TMA
-2019-11-19;VINSI;Validation DRM;1;TMA
-2019-11-19;ODGProvence;Liaison déclarvin;1;TMA
-2019-11-20;VINSI;Oups préprod;1;TMA
-2019-11-20;DeclarVins;Contrat Vrac;1;TMA
-2019-11-20;CIVA;Mot de passe oublié;1;TMA
-2019-11-21;CIVA;Maj Tiers;1;TMA
-2019-11-21;VINSI;Problème PDF;0,5;TMA
-2019-11-21;CIVA;Maj Tiers;0,5;TMA
-2019-11-21;VINSI;Suppression DRM;0,5;TMA
-2019-11-21;CIVA;Maj Délégations;1;TMA
-2019-11-22;CIVA;Accès mon compte;0,5;TMA
-2019-11-22;VINSI;Conformité DRM;1,5;TMA
-2019-11-22;CIVA;Compte mot de passe oublié;0,5;TMA
-2019-11-22;CIVA;Reactivation Tiers;0,5;TMA
-2019-11-22;BIVC;Tier introuvable recherche;1;TMA
-2019-11-22;CIVA;Maj notice d'aide dr;0,5;TMA
-2019-11-26;VINSI;Refacto message d'aide;1;TMA
-2019-11-26;PlateauUrbain;update dependances composer + config.yml;1,5;Web
-2019-11-27;PlateauUrbain;Maj dernière version composer;3;Web
-2019-11-27;CIVA;Reunion Dominique Paris;3,5;Reunion
-2019-11-28;PlateauUrbain;Fix formulaire actuality;2;Web
-2019-11-28;PlateauUrbain;Fix message de dpréciation;2;Web
-2019-11-29;PlateauUrbain;Fix formulaires admin;3;Web
+2019-12-02;Prodimmo;Intégration dump PU;2;TMA
+2019-12-04;24eme;Maj URL report24;;
+2019-12-06;ODGRhone;Mdp oublié;1;TMA
+2019-12-09;ODGProvence;Liaison déclarvin;1;TMA
+2019-12-09;CIVA;Deux décimal ou plus sans 0;2;TMA
+2019-12-10;CIVA;Disparition de DR;2;TMA
+2019-12-10;CIVA;Sélection multiple mercuriale;1;TMA
+2019-12-10;CIVA;Pas d'import si pays inconnu;1;TMA
+2019-12-10;CIVA;Maj HK;1;TMA
+2019-12-12;CIVA;Reset CRD dans mon compte;1;TMA
+2019-12-16;CIVA;Changement statut CRD;0,5;TMA
+2019-12-17;CIVA;Hopla CIVA giilda;2;TMA
+2019-12-18;CIVA;Identifiant DRM pdf;1;TMA
+2019-12-18;CIVA;Francisation;1;TMA
+2019-12-19;CIVA;(Suite)(Suite) dans pdf;1;TMA
+2019-12-27;CIVA;XMD DR;1;TMA
+2019-12-27;CIVA;DR manquante dans XML;2;TMA
+2019-12-30;Aurouze;Correction facture;1;TMA
