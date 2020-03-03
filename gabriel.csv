@@ -1,19 +1,34 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2019-12-02;Prodimmo;Intégration dump PU;2;TMA
-2019-12-04;24eme;Maj URL report24;;
-2019-12-06;ODGRhone;Mdp oublié;1;TMA
-2019-12-09;ODGProvence;Liaison déclarvin;1;TMA
-2019-12-09;CIVA;Deux décimal ou plus sans 0;2;TMA
-2019-12-10;CIVA;Disparition de DR;2;TMA
-2019-12-10;CIVA;Sélection multiple mercuriale;1;TMA
-2019-12-10;CIVA;Pas d'import si pays inconnu;1;TMA
-2019-12-10;CIVA;Maj HK;1;TMA
-2019-12-12;CIVA;Reset CRD dans mon compte;1;TMA
-2019-12-16;CIVA;Changement statut CRD;0,5;TMA
-2019-12-17;CIVA;Hopla CIVA giilda;2;TMA
-2019-12-18;CIVA;Identifiant DRM pdf;1;TMA
-2019-12-18;CIVA;Francisation;1;TMA
-2019-12-19;CIVA;(Suite)(Suite) dans pdf;1;TMA
-2019-12-27;CIVA;XMD DR;1;TMA
-2019-12-27;CIVA;DR manquante dans XML;2;TMA
-2019-12-30;Aurouze;Correction facture;1;TMA
+2020-02-03;Aurouze;Fix Creation id prestation;1;TMA
+2020-02-04;IVSO;Update compte interlo ldap on recupere les tags societes;2;TMA
+2020-02-05;IVSO;Mise a jour du serveur en Debian 10;2;TMA
+2020-02-O6;Aurouze;Mail quand contrat accepté / résilié;1;TMA
+2020-02-10;VINSI;TMA DRM;1;TMA
+2020-02-10;VINSI;TMA DRM;1;TMA
+2020-02-10;DeclarVins;Problème cache dans import EDI;1,5;TMA
+2020-02-10;IVSO;Maj ansible nextcloud;2,5;TMA
+2020-02-11;24eme;Temps;;
+2020-02-12;24eme;Tactical;;
+2020-02-12;ODGProvence;Reunion Juliet;2;Reunion
+2020-02-12;CIVA;Typo faussait la generation mercuriale;1,5;TMA
+2020-02-13;CIVA;DRM success;1;TMA
+2020-02-13;Aurouze;Fix template email contrat accepte/resilie;1,5;TMA
+2020-02-13;CIVA;Maj Tiers;1;TMA
+2020-02-13;CIVA;Status DRM;0,5;TMA
+2020-02-13;CIVA;Date contrat Mercuriale;0,5;TMA
+2020-02-14;Aurouze;Somme total retard paiement;1,5;TMA
+2020-02-17;IVSO;Gestion tags LDAP;2;TMA
+2020-02-18;IVSO;Lien création code de création interlo;1;TMA
+2020-02-18;IVSO;Maj liens nav giilda;1;TMA
+2020-02-20;IVSO;Facturation Negociant;3;TMA
+2020-02-21;IVSO;Facturation Negociant intermediaire;0,5;TMA
+2020-02-24;IVSO;Nego vinificateur;0,5;TMA
+2020-02-24;ODGNantes;Factures;2;TMA
+2020-02-25;ODGNantes;Check quantité 0;0,5;TMA
+2020-02-25;ODGNantes;Nav;2;TMA
+2020-02-26;ODGNantes;Facture;1;TMA
+2020-02-27;ODGNantes;Facture;2;TMA
+2020-02-27;ODGNantes;Export contact;1;TMA
+2020-02-28;ODGNantes;Facture;1;TMA
+2020-02-28;ODGNantes;Scrape Parcellaire;2;TMA
+2020-02-31;IVSO;Nextcloud;10;Nextcloud

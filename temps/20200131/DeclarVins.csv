@@ -1,0 +1,19 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-01-06;DeclarVins;Fix maj prix total contrat;2;TMA
+2020-01-07;DeclarVins;Fix maj prix total contrat;1;TMA
+2020-01-07;DeclarVins;Transmission DRM;1;TMA
+2020-01-09;DeclarVins;Dévalidation contrat;1;TMA
+2020-01-09;DeclarVins;Verification XML;0,5;TMA
+2020-01-10;DeclarVins;Drm en probleme IR;3;TMA
+2020-01-10;DeclarVins;Validation DRM;1;TMA
+2020-01-16;DeclarVins;Création produit;1;TMA
+2020-01-16;DeclarVins;Modification CRD DRM;1;TMA
+2020-01-17;DeclarVins;Drm a probleme;1,5;TMA
+2020-01-23;DeclarVins;Assistance / Demande;5;TMA
+2020-01-28;DeclarVins;Assistance / Demande;2,5;TMA
+2020-01-29;DeclarVins;Assistance / Demande;1;TMA
+2020-01-29;DeclarVins;EDI DRM Negoce;2;TMA
+2020-01-29;DeclarVins;Modifications contrats;2,5;TMA
+2020-01-30;DeclarVins;Assistance / Demande;2;TMA
+2020-01-31;DeclarVins;Direction technique;17,5;TMA
+2020-01-31;DeclarVins;TMA DRM;17,5;TMA
