@@ -1,10 +1,10 @@
-2019-09-30;"Aurouze";"TMA";14,5;"Tuenet"
-2019-10-31;"ODG";"TMA";21;
-2019-10-31;"ODG Provence";"Dev";14;"Map parcellaires"
-2019-11-30;"ODG Provence";"Dev";35;"Map parcellaires"
-2019-12-31;"ODG Provence";"Dev";35;"Map parcellaires"
-2019-12-31;"Reunion";;7;"Reunion Loire"
-2019-12-31;"Reunion";;"3.5";"Reunion Provence"
-2020-02-14;"Reunion";;"3.5";"Reunion Provence"
-2020-02-14;"ODG Provence";;35;"Map parcellaires"
-2020-03-04;"ODG Provence";"Dev";;"Dénomination complémentaire"
+2019-09-30,"Aurouze","TMA",14,5,"Tuenet"
+2019-10-31,"ODG","TMA",21,,
+2019-10-31,"ODG Provence","Dev",14,"Map parcellaires",
+2019-11-30,"ODG Provence","Dev",35,"Map parcellaires",
+2019-12-31,"ODG Provence","Dev",35,"Map parcellaires",
+2019-12-31,"Reunion",,7,"Reunion Loire",
+2019-12-31,"Reunion",,"3.5","Reunion Provence",
+2020-02-14,"Reunion",,"3.5","Reunion Provence",
+2020-02-14,"ODG Provence",,35,"Map parcellaires",
+2020-03-04,"ODG Provence","Dev",21,"Dénomination complémentaire",
