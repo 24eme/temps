@@ -1,0 +1,113 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2020-02-03;Aurouze;Fix Creation id prestation;1;TMA
+2020-02-04;IVSO;Update compte interlo ldap on recupere les tags societes;2;TMA
+2020-02-05;IVSO;Mise a jour du serveur en Debian 10;2;TMA
+2020-02-O6;Aurouze;Mail quand contrat accepté / résilié;1;TMA
+2020-02-10;VINSI;TMA DRM;1;TMA
+2020-02-10;VINSI;TMA DRM;1;TMA
+2020-02-10;DeclarVins;Problème cache dans import EDI;1,5;TMA
+2020-02-10;IVSO;Maj ansible nextcloud;2,5;TMA
+2020-02-11;24eme;Temps;;
+2020-02-12;24eme;Tactical;;
+2020-02-12;ODGProvence;Reunion Juliet;2;Reunion
+2020-02-12;CIVA;Typo faussait la generation mercuriale;1,5;TMA
+2020-02-13;CIVA;DRM success;1;TMA
+2020-02-13;Aurouze;Fix template email contrat accepte/resilie;1,5;TMA
+2020-02-13;CIVA;Maj Tiers;1;TMA
+2020-02-13;CIVA;Status DRM;0,5;TMA
+2020-02-13;CIVA;Date contrat Mercuriale;0,5;TMA
+2020-02-14;Aurouze;Somme total retard paiement;1,5;TMA
+2020-02-17;IVSO;Gestion tags LDAP;2;TMA
+2020-02-18;IVSO;Lien création code de création interlo;1;TMA
+2020-02-18;IVSO;Maj liens nav giilda;1;TMA
+2020-02-20;IVSO;Facturation Negociant;3;TMA
+2020-02-21;IVSO;Facturation Negociant intermediaire;0,5;TMA
+2020-02-24;IVSO;Nego vinificateur;0,5;TMA
+2020-02-24;ODGNantes;Factures;2;Forfait
+2020-02-25;ODGNantes;Check quantité 0;0,5;Forfait
+2020-02-25;ODGNantes;Nav;2;Forfait
+2020-02-26;ODGNantes;Facture;1;Forfait
+2020-02-27;ODGNantes;Facture;2;Forfait
+2020-02-27;ODGNantes;Export contact;1;Forfait
+2020-02-28;ODGNantes;Facture;1;Forfait
+2020-02-28;ODGNantes;Scrape Parcellaire;2;Forfait
+2020-02-29;IVSO;Nextcloud;10;Nextcloud
+2020-02-03;Aurouze;Assistance / Demande;2;TMA Tuenet
+2020-02-03;Aurouze;Evolution gestion facture, passage sur contrat;3,5;TMA Tuenet
+2020-02-03;DeclarVins;Assistance / Demande;1,5;TMA
+2020-02-04;DeclarVins;Assistance / Demande;2,5;TMA
+2020-02-04;ODGProvence;Developpement;1;DAP
+2020-02-04;BIVC;Assistance / Demande;1;TMA
+2020-02-06;ODGProvence;Developpement;3;DAP
+2020-02-06;DeclarVins;Assistance / Demande;3;TMA
+2020-02-06;Aurouze;Assistance / Demande;0,5;TMA
+2020-02-07;ODGProvence;Developpement;4,5;DAP
+2020-02-07;DeclarVins;Assistance / Demande;2;TMA
+2020-02-10;ODGProvence;Developpement;6,5;DAP
+2020-02-10;DeclarVins;Assistance / Demande;1;TMA
+2020-02-11;ODGProvence;Developpement;7;DAP
+2020-02-12;DeclarVins;Assistance / Demande;2;TMA
+2020-02-13;CIVA;Probleme export vrac;2;TMA
+2020-02-13;Aurouze;Assistance / Demande;2;TMA Tuenet
+2020-02-13;DeclarVins;Assistance / Demande;3;TMA
+2020-02-14;DeclarVins;Assistance / Demande;4;TMA
+2020-02-17;24eme;Compta;;
+2020-02-18;24eme;Off;;
+2020-02-19;ODGProvence;Developpement;2;DAP
+2020-02-19;24eme;Compta + tuteur;;
+2020-02-19;DeclarVins;Assistance / Demande;1;TMA
+2020-02-20;24eme;Compta;;
+2020-02-20;ODGProvence;Developpement;5;DAP
+2020-02-21;ODGProvence;Developpement;7;DAP
+2020-02-24;DeclarVins;Assistance / Demande;1;TMA
+2020-02-24;ODGProvence;Developpement;6;DAP
+2020-02-25;ODGProvence;Developpement;5;DAP
+2020-02-25;DeclarVins;Assistance / Demande;1;TMA
+2020-02-26;ODGProvence;Import;6;DAP
+2020-02-27;ODGProvence;Import;7;DAP
+2020-02-27;24eme;Compta;;
+2020-02-28;ODGProvence;Import;7;DAP
+2020-02-03;CIVA;verso contrat ;5,5;TMA
+2020-02-04;IVBD;tma;2,5;TMA
+2020-02-05;ODGNantes;import de donnee ;7;Forfait
+2020-02-06;ODGNantes;import de donnee ;7;Forfait
+2020-02-10;ODGNantes;fine tuning ;7;Forfait
+2020-02-11;ODGNantes;import de donnee ;4;Forfait
+2020-02-13;ODGNantes;tickets ;5;Forfait
+2020-02-17;ODGNantes;import de donnee ;7;Forfait
+2020-02-19;ODGNantes;import de donnee et ticket;7;Forfait
+2020-02-24;CIVA;tma ;1,5;TMA
+2020-02-24;IVSO;tma;2;TMA
+2020-02-24;ODGNantes;import de donnee et ticket;4;Forfait
+2020-02-26;ODGNantes;import de donnee cote loire;3;Forfait
+2020-02-27;IVBD;tma;2;TMA
+2020-02-27;ODGNantes;import de donnee et facturation;7;Forfait
+2020-02-28;IVSO;tma;3;TMA
+2020-02-28;ODGNantes;facturation;5;Forfait
+2020-02-14;Reunion;;3,5;Reunion Provence
+2020-02-14;ODGProvence;;35;Map parcellaires
+2020-02-29;CNIV;Direction technique;3,5;TMA DT
+2020-02-29;VINSI;Direction technique;3,5;ODG DT
+2020-02-29;VINSI;Direction technique;10,5;TMA DT
+2020-02-29;IVSO;Direction technique;3,5;TMA DT
+2020-02-29;CIVA;Direction technique;14;TMA DT
+2020-02-29;ODGNantes;Direction technique;3,5;Forfait DT
+2020-02-29;DeclarVins;Direction technique;17,5;TMA DT
+2020-02-29;ODGProvence;Direction technique;3,5;TMA DT
+2020-02-29;IVBD;Direction technique;3,5;TMA DT
+2020-02-29;ODGRhone;Direction technique;3,5;TMA DT
+2020-02-28;VINSI;TMA;7,0;TMA
+2020-02-28;ODGNantes;Dév;14;Forfait
+2020-02-28;ODGNantes;AdminSys;14;Forfait
+2020-02-28;ODGNantes;Finetuning;7;Forfait
+2020-02-28;DeclarVins;TMA DRM;3,5;TMA
+2020-02-28;CIVA;TMA DRM, Tiers;7,0;TMA
+2020-02-28;AVA;VCI et Développement de la répartition d'affectation parcellaire;14;TMA
+2020-02-28;IVBD;DRM;3,5;TMA
+2020-02-28;IVSO;Nextcloud theming;3,5;Nextcloud
+2020-02-28;IVSO;TMA DRM;3,5;TMA
+2020-02-28;Aurouze;TMA;3,5;TMA
+2020-02-28;ODGProvence;Reunion;1,5;Reunion
+2020-02-28;Juricaf;Analyse Scrappe arrêts Belge;3,5;TMA
+2020-02-28;Sancerre;TMA DRM;3,5;TMA
+2020-02-29;Juricaf;Direction technique;3,5;TMA DT
