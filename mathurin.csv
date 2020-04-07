@@ -1,17 +1,35 @@
-2020-02-03;CIVA;verso contrat ;5,5;TMA
-2020-02-04;IVBD;tma;2,5;TMA
-2020-02-05;ODGNantes;import de donnee ;7;Forfait
-2020-02-06;ODGNantes;import de donnee ;7;Forfait
-2020-02-10;ODGNantes;fine tuning ;7;Forfait
-2020-02-11;ODGNantes;import de donnee ;4;Forfait
-2020-02-13;ODGNantes;tickets ;5;Forfait
-2020-02-17;ODGNantes;import de donnee ;7;Forfait
-2020-02-19;ODGNantes;import de donnee et ticket;7;Forfait
-2020-02-24;CIVA;tma ;1,5;TMA
-2020-02-24;IVSO;tma;2;TMA
-2020-02-24;ODGNantes;import de donnee et ticket;4;Forfait
-2020-02-26;ODGNantes;import de donnee cote loire;3;Forfait
-2020-02-27;IVBD;tma;2;TMA
-2020-02-27;ODGNantes;import de donnee et facturation;7;Forfait
-2020-02-28;IVSO;tma;3;TMA
-2020-02-28;ODGNantes;facturation;5;Forfait
+2020-03-04;ODGNantes;import de donnee cote loire;3;Forfait
+2020-03-05;ODGNantes;import de donnee cote loire;1;Forfait
+2020-03-06;Aurouze;mouvements a facture et export;3;TMA
+2020-03-06;CIVA;tma ;3;TMA
+2020-03-06;IVSO;tma;3;TMA
+2020-03-06;ODGNantes;facturation avec forfait;4;Forfait
+2020-03-06;OdgProvence;boutons de facturation;0,5;TMA
+2020-03-06;OdgRhone;syncho compte raison sociale;0,5;TMA
+2020-03-06;Sancerre;Drm arrondies;1,5;TMA
+2020-03-06;VINSI;tma DRM ;5;TMA
+2020-03-09;ODGNantes;facturation avec forfait;3;Forfait
+2020-03-10;ODGNantes;facturation avec forfait;2;Forfait
+2020-03-11;ODGNantes;facturation avec forfait;1;Forfait
+2020-03-12;ODGNantes;facturation avec forfait;1;Forfait
+2020-03-13;Aurouze;tma;1;TMA
+2020-03-13;CIVA;tma ;3,5;TMA
+2020-03-13;IVBD;tma;2,5;TMA
+2020-03-13;IVSO;tma;2,5;TMA
+2020-03-13;ODGNantes;facturation avec forfait;4;Forfait
+2020-03-13;OdgProvence;boutons de facturation;1;TMA
+2020-03-13;VINSI;tma DRM ;1;TMA
+2020-03-16;ODGNantes;import de donnee cote loire;3;Forfait
+2020-03-18;ODGNantes;import de donnee cote loire;2;Forfait
+2020-03-19;ODGNantes;import de donnee cote loire;3;Forfait
+2020-03-20;CIVA;tma ;0,5;TMA
+2020-03-20;IVSO;tma;1,5;TMA
+2020-03-20;ODGNantes;import de donnee cote loire;2;Forfait
+2020-03-20;VINSI;tma DRM ;6,5;TMA
+2020-03-23;ODGNantes;facturation mise en prod;2;Forfait
+2020-03-24;ODGNantes;facturation mise en prod;1;Forfait
+2020-03-26;ODGNantes;export et reglements;3;Forfait
+2020-03-27;Aurouze;tma;1;TMA
+2020-03-27;VINSI;tma DRM ;3,5;TMA
+2020-03-30;ODGNantes;export et reglements;4;Forfait
+2020-03-31;ODGNantes;export déplacement;3;Forfait
