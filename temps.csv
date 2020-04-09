@@ -1,1 +1,102 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2020-03-31;CNIV;Direction technique;7;TMA DT
+2020-03-31;VINSI;Direction technique;7;ODG DT
+2020-03-31;VINSI;Direction technique;7;Vinsi TMA DT
+2020-03-31;IVSO;Direction technique;3,5;TMA DT
+2020-03-31;Declarvins;Direction technique;3,5;TMA DT
+2020-03-31;Juricaf;Direction technique;7;TMA DT
+2020-03-31;PlateeauUrbain;Direction technique;3,5;TMA DT
+2020-03-31;BIVC;Direction technique;3,5;TMA DT
+2020-03-31;Hébergement;Direction technique - Déclarvins;3,5;AdminSys DT
+2020-03-31;Hébergement;Direction technique - Couchdb2Elasticsearch;14;TMA DT
+2020-03-04;ODGNantes;import de donnee cote loire;3;Forfait
+2020-03-05;ODGNantes;import de donnee cote loire;1;Forfait
+2020-03-06;Aurouze;mouvements a facture et export;3;TMA
+2020-03-06;CIVA;tma ;3;TMA
+2020-03-06;IVSO;tma;3;TMA
+2020-03-06;ODGNantes;facturation avec forfait;4;Forfait
+2020-03-06;OdgProvence;boutons de facturation;0,5;TMA
+2020-03-06;OdgRhone;syncho compte raison sociale;0,5;TMA
+2020-03-06;Sancerre;Drm arrondies;1,5;TMA
+2020-03-06;VINSI;tma DRM ;5;TMA
+2020-03-09;ODGNantes;facturation avec forfait;3;Forfait
+2020-03-10;ODGNantes;facturation avec forfait;2;Forfait
+2020-03-11;ODGNantes;facturation avec forfait;1;Forfait
+2020-03-12;ODGNantes;facturation avec forfait;1;Forfait
+2020-03-13;Aurouze;tma;1;TMA
+2020-03-13;CIVA;tma ;3,5;TMA
+2020-03-13;IVBD;tma;2,5;TMA
+2020-03-13;IVSO;tma;2,5;TMA
+2020-03-13;ODGNantes;facturation avec forfait;4;Forfait
+2020-03-13;OdgProvence;boutons de facturation;1;TMA
+2020-03-13;VINSI;tma DRM ;1;TMA
+2020-03-16;ODGNantes;import de donnee cote loire;3;Forfait
+2020-03-18;ODGNantes;import de donnee cote loire;2;Forfait
+2020-03-19;ODGNantes;import de donnee cote loire;3;Forfait
+2020-03-20;CIVA;tma ;0,5;TMA
+2020-03-20;IVSO;tma;1,5;TMA
+2020-03-20;ODGNantes;import de donnee cote loire;2;Forfait
+2020-03-20;VINSI;tma DRM ;6,5;TMA
+2020-03-23;ODGNantes;facturation mise en prod;2;Forfait
+2020-03-24;ODGNantes;facturation mise en prod;1;Forfait
+2020-03-26;ODGNantes;export et reglements;3;Forfait
+2020-03-27;Aurouze;tma;1;TMA
+2020-03-27;VINSI;tma DRM ;3,5;TMA
+2020-03-30;ODGNantes;export et reglements;4;Forfait
+2020-03-31;ODGNantes;export déplacement;3;Forfait
+2020-03-31;VINSI;TMA;14,0;TMA
+2020-03-31;ODGNantes;Dév;7;Forfait
+2020-03-31;ODGNantes;AdminSys;7;Forfait
+2020-03-31;DeclarVins;TMA DRM;14,0;TMA
+2020-03-31;CIVA;TMA DRM, Tiers, Export;10,5;TMA
+2020-03-31;AVA;DRev et Factures;38,5;TMA
+2020-03-31;IVBD;DRM;1;TMA
+2020-03-31;IVSO;TMA;14;TMA
+2020-03-31;Sancerre;TMA;3,5;TMA
+2020-03-02;DeclarVins;Assistance / Demande;2;TMA
+2020-03-02;DeclarVins;Controle et correctif migration serveur;3;TMA
+2020-03-03;24eme;Compta + temps;;
+2020-03-04;DeclarVins;Assistance / Demande;2;TMA
+2020-03-04;24eme;Facturation + tactical;;
+2020-03-05;24eme;Demarchage recherche dev;;
+2020-03-05;Aurouze;Assistance / Demande;1;TMA
+2020-03-05;DeclarVins;Assistance / Demande;3;TMA
+2020-03-06;ODGProvence;Import;7;DAP
+2020-03-09;ODGProvence;Import;5;DAP
+2020-03-09;DeclarVins;Assistance / Demande;2;TMA
+2020-03-15;ODGProvence;Import;2;DAP
+2020-03-23;ODGProvence;Corrections import;2;DAP
+2020-03-24;ODGProvence;Exports;3;DAP
+2020-03-25;ODGProvence;Exports;1,5;DAP
+2020-03-26;DeclarVins;Assistance / Demande;2;TMA
+2020-03-30;DeclarVins;Securisation mdp oublie;2;TMA
+2020-03-30;ODGProvence;Exports par tache quotidienne;2;TMA
+2020-03-31;BIVC;Bug deconnexion usurpation;1,5;TMA
+2020-03-31;ODGProvence;Exports;1;DAP
+2020-03-02;ODGNantes;PDF facture;1;TMA
+2020-03-02;PlateeauUrbain;clean les infos perso;2;TMA
+2020-03-03;ODGNantes;PDF facture;1;TMA
+2020-03-06;PlateeauUrbain;recherche accessible anonymement;3;TMA
+2020-03-06;PlateeauUrbain;Typo, fix et style;1,5;TMA
+2020-03-07;24eme;Conges;;
+2020-03-16;VINSI;entrées / sorties Colonnes VCI;1;TMA
+2020-03-16;VINSI;vigilance reintegration;1;TMA
+2020-03-16;VINSI;configuration;2;TMA
+2020-03-17;VINSI;bug affichage colonne vide;2;TMA
+2020-03-17;VINSI;5 chiffres après la virgule;2;TMA
+2020-03-18;VINSI;Fix 403 contrat;2;TMA
+2020-03-18;VINSI;5 decimales par défaut;0,5;TMA
+2020-03-18;Aurouze;Type contrat duplication;,5;TMA
+2020-03-19;IVBD;Vigilance -> erreur CRD negatif;0,5;TMA
+2020-03-23;Aurouze;Affichage devis recherche;2,5;TMA
+2020-03-24;VINSI;retour douane compte negociant;1,5;TMA
+2020-03-25;PlateeauUrbain;Refacto formulaire profil / candidature;4;TMA
+2020-03-26;PlateeauUrbain;Refacto fiche de profil SpaceOwner;2;TMA
+2020-03-26;PlateeauUrbain;Redirection, route, et check proprio;2;TMA
+2020-03-27;PlateeauUrbain;Ajout image dans l'espace;1,5;TMA
+2020-03-30;PlateeauUrbain;Création / suppression d'espace;2,5;TMA
+2020-03-30;Aurouze;Erreur plus explicite si pas de commercial;1;TMA
+2020-03-31;PlateeauUrbain;harmonisation des termes, maj readme, bouton candidature;1;TMA
+2020-03-31;PlateeauUrbain;accès et candidature sans compte;3;TMA
+2020-03-31;PlateeauUrbain;Faux onglets pour connexion;1;TMA
+2020-03-04,"ODG Provence","Dev",21,"Dénomination complémentaire"
