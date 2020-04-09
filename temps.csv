@@ -1,12 +1,12 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-03-31;CNIV;Direction technique;7;TMA DT
 2020-03-31;VINSI;Direction technique;7;ODG DT
-2020-03-31;VINSI;Direction technique;7;Vinsi TMA DT
+2020-03-31;VINSI;Direction technique;7;TMA DT
 2020-03-31;IVSO;Direction technique;3,5;TMA DT
-2020-03-31;Declarvins;Direction technique;3,5;TMA DT
+2020-03-31;DeclarVins;Direction technique;3,5;TMA DT
 2020-03-31;Juricaf;Direction technique;7;TMA DT
-2020-03-31;PlateeauUrbain;Direction technique;3,5;TMA DT
-2020-03-31;BIVC;Direction technique;3,5;TMA DT
+2020-03-31;PlateauUrbain;Direction technique;3,5;Web DT
+2020-03-31;Sancerre;Direction technique;3,5;TMA DT
 2020-03-31;Hébergement;Direction technique - Déclarvins;3,5;AdminSys DT
 2020-03-31;Hébergement;Direction technique - Couchdb2Elasticsearch;14;TMA DT
 2020-03-04;ODGNantes;import de donnee cote loire;3;Forfait
@@ -15,8 +15,8 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-03-06;CIVA;tma ;3;TMA
 2020-03-06;IVSO;tma;3;TMA
 2020-03-06;ODGNantes;facturation avec forfait;4;Forfait
-2020-03-06;OdgProvence;boutons de facturation;0,5;TMA
-2020-03-06;OdgRhone;syncho compte raison sociale;0,5;TMA
+2020-03-06;ODGProvence;boutons de facturation;0,5;TMA
+2020-03-06;ODGRhone;syncho compte raison sociale;0,5;TMA
 2020-03-06;Sancerre;Drm arrondies;1,5;TMA
 2020-03-06;VINSI;tma DRM ;5;TMA
 2020-03-09;ODGNantes;facturation avec forfait;3;Forfait
@@ -28,7 +28,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-03-13;IVBD;tma;2,5;TMA
 2020-03-13;IVSO;tma;2,5;TMA
 2020-03-13;ODGNantes;facturation avec forfait;4;Forfait
-2020-03-13;OdgProvence;boutons de facturation;1;TMA
+2020-03-13;ODGProvence;boutons de facturation;1;TMA
 2020-03-13;VINSI;tma DRM ;1;TMA
 2020-03-16;ODGNantes;import de donnee cote loire;3;Forfait
 2020-03-18;ODGNantes;import de donnee cote loire;2;Forfait
@@ -71,13 +71,13 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-03-26;DeclarVins;Assistance / Demande;2;TMA
 2020-03-30;DeclarVins;Securisation mdp oublie;2;TMA
 2020-03-30;ODGProvence;Exports par tache quotidienne;2;TMA
-2020-03-31;BIVC;Bug deconnexion usurpation;1,5;TMA
+2020-03-31;Sancerre;Bug deconnexion usurpation;1,5;TMA
 2020-03-31;ODGProvence;Exports;1;DAP
-2020-03-02;ODGNantes;PDF facture;1;TMA
-2020-03-02;PlateeauUrbain;clean les infos perso;2;TMA
+2020-03-02;ODGNantes;PDF facture;1;Forfait
+2020-03-02;PlateauUrbain;clean les infos perso;2;Web
 2020-03-03;ODGNantes;PDF facture;1;TMA
-2020-03-06;PlateeauUrbain;recherche accessible anonymement;3;TMA
-2020-03-06;PlateeauUrbain;Typo, fix et style;1,5;TMA
+2020-03-06;PlateauUrbain;recherche accessible anonymement;3;Web
+2020-03-06;PlateauUrbain;Typo, fix et style;1,5;Web
 2020-03-07;24eme;Conges;;
 2020-03-16;VINSI;entrées / sorties Colonnes VCI;1;TMA
 2020-03-16;VINSI;vigilance reintegration;1;TMA
@@ -90,13 +90,13 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-03-19;IVBD;Vigilance -> erreur CRD negatif;0,5;TMA
 2020-03-23;Aurouze;Affichage devis recherche;2,5;TMA
 2020-03-24;VINSI;retour douane compte negociant;1,5;TMA
-2020-03-25;PlateeauUrbain;Refacto formulaire profil / candidature;4;TMA
-2020-03-26;PlateeauUrbain;Refacto fiche de profil SpaceOwner;2;TMA
-2020-03-26;PlateeauUrbain;Redirection, route, et check proprio;2;TMA
-2020-03-27;PlateeauUrbain;Ajout image dans l'espace;1,5;TMA
-2020-03-30;PlateeauUrbain;Création / suppression d'espace;2,5;TMA
+2020-03-25;PlateauUrbain;Refacto formulaire profil / candidature;4;Web
+2020-03-26;PlateauUrbain;Refacto fiche de profil SpaceOwner;2;Web
+2020-03-26;PlateauUrbain;Redirection, route, et check proprio;2;Web
+2020-03-27;PlateauUrbain;Ajout image dans l'espace;1,5;Web
+2020-03-30;PlateauUrbain;Création / suppression d'espace;2,5;Web
 2020-03-30;Aurouze;Erreur plus explicite si pas de commercial;1;TMA
-2020-03-31;PlateeauUrbain;harmonisation des termes, maj readme, bouton candidature;1;TMA
-2020-03-31;PlateeauUrbain;accès et candidature sans compte;3;TMA
-2020-03-31;PlateeauUrbain;Faux onglets pour connexion;1;TMA
+2020-03-31;PlateauUrbain;harmonisation des termes, maj readme, bouton candidature;1;Web
+2020-03-31;PlateauUrbain;accès et candidature sans compte;3;Web
+2020-03-31;PlateauUrbain;Faux onglets pour connexion;1;Web
 2020-03-04,"ODG Provence","Dev",21,"Dénomination complémentaire"
