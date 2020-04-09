@@ -1,0 +1,13 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-03-02;PlateauUrbain;clean les infos perso;2;Web
+2020-03-06;PlateauUrbain;recherche accessible anonymement;3;Web
+2020-03-06;PlateauUrbain;Typo, fix et style;1,5;Web
+2020-03-25;PlateauUrbain;Refacto formulaire profil / candidature;4;Web
+2020-03-26;PlateauUrbain;Redirection, route, et check proprio;2;Web
+2020-03-26;PlateauUrbain;Refacto fiche de profil SpaceOwner;2;Web
+2020-03-27;PlateauUrbain;Ajout image dans l'espace;1,5;Web
+2020-03-30;PlateauUrbain;Création / suppression d'espace;2,5;Web
+2020-03-31;PlateauUrbain;accès et candidature sans compte;3;Web
+2020-03-31;PlateauUrbain;Direction technique;3,5;Web DT
+2020-03-31;PlateauUrbain;Faux onglets pour connexion;1;Web
+2020-03-31;PlateauUrbain;harmonisation des termes, maj readme, bouton candidature;1;Web
