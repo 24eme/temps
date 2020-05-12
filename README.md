@@ -8,7 +8,7 @@ Historique des temps depuis le début : [temps_historique.csv](https://github.co
 
 ## Consommation des projets
 
-Suivi temps prévus et consommés sur chacun de nos projets : [Voir le tableau](https://github.com/24eme/temps/blob/master/suivi_projets.csv)
+Suivi temps prévus et consommés sur chacun de nos projets : [Voir le tableau](https://github.com/24eme/temps/blob/master/suivi_forfaits.csv)
 
 ## Indicateurs
 
