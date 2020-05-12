@@ -1,56 +1,8 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2020-02-03;Aurouze;Assistance / Demande;2;Tuenet
-2020-02-03;Aurouze;Evolution gestion facture, passage sur contrat;3,5;Tuenet
-2020-02-03;DeclarVins;Assistance / Demande;1,5;TMA
-2020-02-04;DeclarVins;Assistance / Demande;2,5;TMA
-2020-02-04;ODGProvence;Developpement;1;DAP
-2020-02-04;BIVC;Assistance / Demande;1;TMA
-2020-02-06;ODGProvence;Developpement;3;DAP
-2020-02-06;DeclarVins;Assistance / Demande;3;TMA
-2020-02-06;Aurouze;Assistance / Demande;0,5;TMA
-2020-02-07;ODGProvence;Developpement;4,5;DAP
-2020-02-07;DeclarVins;Assistance / Demande;2;TMA
-2020-02-10;ODGProvence;Developpement;6,5;DAP
-2020-02-10;DeclarVins;Assistance / Demande;1;TMA
-2020-02-11;ODGProvence;Developpement;7;DAP
-2020-02-12;DeclarVins;Assistance / Demande;2;TMA
-2020-02-13;CIVA;Probleme export vrac;2;TMA
-2020-02-13;Aurouze;Assistance / Demande;2;Tuenet
-2020-02-13;DeclarVins;Assistance / Demande;3;TMA
-2020-02-14;DeclarVins;Assistance / Demande;4;TMA
-2020-02-17;24eme;Compta;;
-2020-02-18;24eme;Off;;
-2020-02-19;ODGProvence;Developpement;2;DAP
-2020-02-19;24eme;Compta + tuteur;;
-2020-02-19;DeclarVins;Assistance / Demande;1;TMA
-2020-02-20;24eme;Compta;;
-2020-02-20;ODGProvence;Developpement;5;DAP
-2020-02-21;ODGProvence;Developpement;7;DAP
-2020-02-24;DeclarVins;Assistance / Demande;1;TMA
-2020-02-24;ODGProvence;Developpement;6;DAP
-2020-02-25;ODGProvence;Developpement;5;DAP
-2020-02-25;DeclarVins;Assistance / Demande;1;TMA
-2020-02-26;ODGProvence;Import;6;DAP
-2020-02-27;ODGProvence;Import;7;DAP
-2020-02-27;24eme;Compta;;
-2020-02-28;ODGProvence;Import;7;DAP
-2020-03-02;DeclarVins;Assistance / Demande;2;TMA
-2020-03-02;DeclarVins;Controle et correctif migration serveur;3;TMA
-2020-03-03;24eme;Compta + temps;;
-2020-03-04;DeclarVins;Assistance / Demande;2;TMA
-2020-03-04;24eme;Facturation + tactical;;
-2020-03-05;24eme;Demarchage recherche dev;;
-2020-03-05;Aurouze;Assistance / Demande;1;TMA
-2020-03-05;DeclarVins;Assistance / Demande;3;TMA
-2020-03-06;ODGProvence;Import;7;DAP
-2020-03-09;ODGProvence;Import;5;DAP
-2020-03-09;DeclarVins;Assistance / Demande;2;TMA
-2020-03-15;ODGProvence;Import;2;DAP
-2020-03-23;ODGProvence;Corrections import;2;DAP
-2020-03-24;ODGProvence;Exports;3;DAP
-2020-03-25;ODGProvence;Exports;1,5;DAP
-2020-03-26;DeclarVins;Assistance / Demande;2;TMA
-2020-03-30;DeclarVins;Securisation mdp oublie;2;TMA
-2020-03-30;ODGProvence;Exports par tache quotidienne;2;TMA
-2020-03-31;BIVC;Bug deconnexion usurpation;1,5;TMA
-2020-03-31;ODGProvence;Exports;1;DAP
+2020-04-30;ODGProvence;Finalisation;10;DAP
+2020-04-30;ODGProvence;Developpement;25;PotentielProduction
+2020-04-30;ODGProvence;Assistance / Demande;2,5;TMA
+2020-04-30;DeclarVins;Assistance / Demande;14;TMA
+2020-04-30;VINSI;Assistance / Demande;4,5;TMA
+2020-04-30;CIVA;Corrections mercuriales;1,5;TMA
+2020-04-30;BIVC;Assistance / Demande;1,5;TMA
