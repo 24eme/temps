@@ -1,0 +1,43 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24eme;;0;0,0
+24eme;TOTAL;0;0,0
+Aurouze;TMA;10;1,4
+Aurouze;TOTAL;10;1,4
+AVA;TMA;38,5;5,5
+AVA;TOTAL;38,5;5,5
+CIVA;TMA;17,5;2,5
+CIVA;TOTAL;17,5;2,5
+CNIV;TMA DT;7;1,0
+CNIV;TOTAL;7;1,0
+DeclarVins;TMA;30;4,3
+DeclarVins;TMA DT;3,5;0,5
+DeclarVins;TOTAL;33,5;4,8
+Hébergement;AdminSys DT;3,5;0,5
+Hébergement;TMA DT;14;2,0
+Hébergement;TOTAL;17,5;2,5
+IVBD;TMA;4;0,6
+IVBD;TOTAL;4;0,6
+IVSO;TMA;21;3,0
+IVSO;TMA DT;3,5;0,5
+IVSO;TOTAL;24,5;3,5
+Juricaf;TMA DT;7;1,0
+Juricaf;TOTAL;7;1,0
+ODGNantes;ForfaiOt;1;0,1
+ODGNantes;Forfait;57;8,1
+ODGNantes;TOTAL;58;8,3
+ODGProvence;DAP;42,5;6,1
+ODGProvence;TMA;3,5;0,5
+ODGProvence;TOTAL;46;6,6
+ODGRhone;TMA;0,5;0,1
+ODGRhone;TOTAL;0,5;0,1
+PlateauUrbain;Web;23,5;3,4
+PlateauUrbain;Web DT;3,5;0,5
+PlateauUrbain;TOTAL;27;3,9
+Sancerre;TMA;6,5;0,9
+Sancerre;TMA DT;3,5;0,5
+Sancerre;TOTAL;10;1,4
+VINSI;ODG DT;7;1,0
+VINSI;TMA;42;6,0
+VINSI;TMA DT;7;1,0
+VINSI;TOTAL;56;8,0
+TOTAL;TOTAL;51,0

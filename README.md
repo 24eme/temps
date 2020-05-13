@@ -6,9 +6,9 @@ Temps du mois courant : [temps.csv](https://github.com/24eme/temps/blob/master/t
 
 Historique des temps depuis le début : [temps_historique.csv](https://github.com/24eme/temps/tree/master/temps_historique.csv)
 
-## Consommation des projets
+## Suivi des forfaits
 
-Suivi temps prévus et consommés sur chacun de nos projets : [Voir le tableau](https://github.com/24eme/temps/blob/master/suivi_projets.csv)
+Suivi temps prévus et consommés sur les forfaits convenus : [Voir le tableau](https://github.com/24eme/temps/blob/master/suivi_forfaits.csv)
 
 ## Indicateurs
 
