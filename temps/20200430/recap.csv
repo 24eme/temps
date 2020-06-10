@@ -1,0 +1,40 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Aurouze;Devis;34,5;4,9
+Aurouze;Forfait;33;4,7
+Aurouze;TMA;12;1,7
+Aurouze;TOTAL;79,5;11,4
+AVA;TMA;24,5;3,5
+AVA;TOTAL;24,5;3,5
+BIVC;TMA;1,5;0,2
+BIVC;TMA DT;3,5;0,5
+BIVC;TOTAL;5;0,7
+CIVA;TMA;12,5;1,8
+CIVA;TMA DT;7;1,0
+CIVA;TOTAL;19,5;2,8
+CNIV;TMA DT;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+DeclarVins;TMA;18,5;2,6
+DeclarVins;TOTAL;18,5;2,6
+Hébergement;AdminSys DT;31,5;4,5
+Hébergement;TMA DT;14;2,0
+Hébergement;TOTAL;45,5;6,5
+IVBD;TMA DT;10,5;1,5
+IVBD;TOTAL;10,5;1,5
+IVSO;TMA;17,5;2,5
+IVSO;TMA DT;3,5;0,5
+IVSO;TOTAL;21;3,0
+Juricaf;TMA DT;7;1,0
+Juricaf;TOTAL;7;1,0
+ODGNantes;Forfait;13;1,9
+ODGNantes;TOTAL;13;1,9
+ODGProvence;DAP;10;1,4
+ODGProvence;PotentielProduction;25;3,6
+ODGProvence;TMA;2,5;0,4
+ODGProvence;TOTAL;37,5;5,4
+Prodimmo;Outils internes;14;2,0
+Prodimmo;TOTAL;14;2,0
+VINSI;ODG TMA;1;0,1
+VINSI;TMA;38;5,4
+VINSI;Vinsi TMA DT;21;3,0
+VINSI;TOTAL;60;8,6
+TOTAL;TOTAL;51,3
