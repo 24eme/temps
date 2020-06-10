@@ -7,23 +7,23 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-05-20;VINSI;Deblocage DRM aout;1;TMA
 2020-05-27;IVBD;Changement date contrat;1;TMA
 2020-05-28;BIVC;filtre Export par catégorie;1,5;TMA
-2020-05-07;24eme;Mise en place projet;1;CommuneMesure
-2020-05-07;24eme;debut vue;1;CommuneMesure
-2020-05-14;24eme;route/controller page d'accueil;2;CommuneMesure
-2020-05-14;24eme;json exemple lieu;1;CommuneMesure
-2020-05-15;24eme;popup carte pour info lieu;2;CommuneMesure
-2020-05-15;24eme;view page d'accueil;2;CommuneMesure
-2020-05-18;24eme;Bulma pour framework;1;CommuneMesure
-2020-05-18;24eme;Stylage lieu;2;CommuneMesure
-2020-05-18;24eme;Map;0,5;CommuneMesure
-2020-05-20;24eme;Bulma.min;0,5;CommuneMesure
-2020-05-20;24eme;Page static a propos;1;CommuneMesure
-2020-05-28;24eme;Deplacement submenu dans section;1;CommuneMesure
-2020-05-28;24eme;rework controller;1,5;CommuneMesure
-2020-05-28;24eme;submenu lieu;2;CommuneMesure
-2020-05-28;24eme;rework page lieu;1;CommuneMesure
-2020-05-29;24eme;Scrollspy submenu;1,5;CommuneMesure
-2020-05-29;24eme;carte page lieu;1;CommuneMesure
+2020-05-07;CommuneMesure;Mise en place projet;1;Forfait
+2020-05-07;CommuneMesure;debut vue;1;Forfait
+2020-05-14;CommuneMesure;route/controller page d'accueil;2;Forfait
+2020-05-14;CommuneMesure;json exemple lieu;1;Forfait
+2020-05-15;CommuneMesure;popup carte pour info lieu;2;Forfait
+2020-05-15;CommuneMesure;view page d'accueil;2;Forfait
+2020-05-18;CommuneMesure;Bulma pour framework;1;Forfait
+2020-05-18;CommuneMesure;Stylage lieu;2;Forfait
+2020-05-18;CommuneMesure;Map;0,5;Forfait
+2020-05-20;CommuneMesure;Bulma.min;0,5;Forfait
+2020-05-20;CommuneMesure;Page static a propos;1;Forfait
+2020-05-28;CommuneMesure;Deplacement submenu dans section;1;Forfait
+2020-05-28;CommuneMesure;rework controller;1,5;Forfait
+2020-05-28;CommuneMesure;submenu lieu;2;Forfait
+2020-05-28;CommuneMesure;rework page lieu;1;Forfait
+2020-05-29;CommuneMesure;Scrollspy submenu;1,5;Forfait
+2020-05-29;CommuneMesure;carte page lieu;1;Forfait
 2020-05-31;ODGProvence;Corrections et reimport;20;DAP
 2020-05-31;ODGProvence;Developpement;18;PotentielProduction
 2020-05-31;DeclarVins;Assistance / Demande;7;TMA
@@ -66,5 +66,5 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-05-31;AVA;Correction Parcellaire, VCI Bilan, Mutualisation;14,0;TMA
 2020-05-31;CIVA;Contrat, DRM, Tiers;10,5;TMA
 2020-05-31;ODGRhone;Évolutions habilitation;42,0;Habilitation
-2020-05-31;"Commune mesure";"Dev";18;"Sprint 1 affichage des lieux"
-2020-05-31;"Giilda IVBD";"TMA";"0.125";"DRM points de controles"
+2020-05-31;CommuneMesure;Sprint 1 affichage des lieux;18;Forfait
+2020-05-31;IVBD;DRM points de controles;0.125;TMA
