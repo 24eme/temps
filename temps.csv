@@ -31,8 +31,8 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-05-31;IVSO;Assistance / Demande;1,5;TMA
 2020-05-31;IVBD;Assistance / Demande;1,5;TMA
 2020-05-04;24eme;intercampagne;2,5;24eme
-2020-05-04;Aurouze;Devis tel;1,5;Forfait
-2020-05-05;Aurouze;Devis tel;3,5;Forfait
+2020-05-04;Aurouze;Devis tel;1,5;Devis
+2020-05-05;Aurouze;Devis tel;3,5;Devis
 2020-05-05;CIVA;tma ;1;TMA
 2020-05-06;24eme;embauche et covid;2;24eme
 2020-05-06;Aurouze;migration;2,5;TMA
@@ -43,7 +43,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-05-11;VINSI;probleme DRM;0,5;TMA
 2020-05-12;CIVA;tma ;0,5;TMA
 2020-05-12;VINSI;probleme DRM;1;TMA
-2020-05-13;Aurouze;popup;1,5;Forfait
+2020-05-13;Aurouze;popup;1,5;Devis
 2020-05-13;Aurouze;reglement;1,5;TMA
 2020-05-13;ODGNantes;aide et questions;2;Forfait
 2020-05-14;ODGNantes;debug Drev;1,5;Forfait
