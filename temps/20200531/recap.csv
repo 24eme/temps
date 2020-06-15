@@ -1,0 +1,43 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24eme;24eme;4,5;0,6
+24eme;TOTAL;4,5;0,6
+Aurouze;Devis;8;1,1
+Aurouze;TMA;7;1,0
+Aurouze;TOTAL;15;2,1
+AVA;TMA;14;2,0
+AVA;TOTAL;14;2,0
+BIVC;TMA;1,5;0,2
+BIVC;TOTAL;1,5;0,2
+CIVA;TMA;16;2,3
+CIVA;TMA DT;7;1,0
+CIVA;TOTAL;23;3,3
+CNIV;TMA DT;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+CommuneMesure;Forfait;40;5,7
+CommuneMesure;TOTAL;40;5,7
+DeclarVins;TMA;14;2,0
+DeclarVins;TOTAL;14;2,0
+Hébergement;AdminSys DT;3,5;0,5
+Hébergement;TOTAL;3,5;0,5
+IVBD;TMA;3,625;0,5
+IVBD;TMA DT;7;1,0
+IVBD;TOTAL;10,625;1,5
+IVSO;TMA;9,5;1,4
+IVSO;TMA DT;3,5;0,5
+IVSO;TOTAL;13;1,9
+ODGNantes;Forfait;26;3,7
+ODGNantes;TMA;2,5;0,4
+ODGNantes;TOTAL;28,5;4,1
+ODGProvence;DAP;20;2,9
+ODGProvence;PotentielProduction;18;2,6
+ODGProvence;TOTAL;38;5,4
+ODGRhone;Habilitation;42;6,0
+ODGRhone;TMA DT;3,5;0,5
+ODGRhone;TOTAL;45,5;6,5
+Prodimmo;Outils internes;7;1,0
+Prodimmo;TOTAL;7;1,0
+VINSI;TMA;17,5;2,5
+VINSI;Vinsi AdminSys DT;7;1,0
+VINSI;Vinsi TMA DT;7;1,0
+VINSI;TOTAL;31,5;4,5
+TOTAL;TOTAL;41,9
