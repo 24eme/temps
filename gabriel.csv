@@ -1,26 +1,36 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2020-05-05;ODGNantes;Maj des tests;2,5;TMA
-2020-05-05;Aurouze;Couleurs dans calendrier;1,5;Devis
-2020-05-12;VINSI;Tache récupération email contrat;2;TMA
-2020-05-13;VINSI;Envoi mail contrat;1;TMA
-2020-05-14;CIVA;Bouton ignorer validation;1;TMA
-2020-05-20;VINSI;Deblocage DRM aout;1;TMA
-2020-05-27;IVBD;Changement date contrat;1;TMA
-2020-05-28;BIVC;filtre Export par catégorie;1,5;TMA
-2020-05-07;24eme;Mise en place projet;1;CommuneMesure
-2020-05-07;24eme;debut vue;1;CommuneMesure
-2020-05-14;24eme;route/controller page d'accueil;2;CommuneMesure
-2020-05-14;24eme;json exemple lieu;1;CommuneMesure
-2020-05-15;24eme;popup carte pour info lieu;2;CommuneMesure
-2020-05-15;24eme;view page d'accueil;2;CommuneMesure
-2020-05-18;24eme;Bulma pour framework;1;CommuneMesure
-2020-05-18;24eme;Stylage lieu;2;CommuneMesure
-2020-05-18;24eme;Map;0,5;CommuneMesure
-2020-05-20;24eme;Bulma.min;0,5;CommuneMesure
-2020-05-20;24eme;Page static a propos;1;CommuneMesure
-2020-05-28;24eme;Deplacement submenu dans section;1;CommuneMesure
-2020-05-28;24eme;rework controller;1,5;CommuneMesure
-2020-05-28;24eme;submenu lieu;2;CommuneMesure
-2020-05-28;24eme;rework page lieu;1;CommuneMesure
-2020-05-29;24eme;Scrollspy submenu;1,5;CommuneMesure
-2020-05-29;24eme;carte page lieu;1;CommuneMesure
+2020-06-02;IVBD;Changement date;0,5;TMA
+2020-06-15;AVA;Dévalidation DREV;0,5;TMA
+2020-06-16;CIVA;Volume facturable mai;1;TMA
+2020-06-17;AVA;Parcelles inactives dans répartition;1,5;TMA
+2020-06-18;DeclarVins;Mauvaise création DRM;2;TMA
+2020-06-18;Aurouze;Id compte page de compte;0,5;TMA
+2020-06-18;CIVA;transmission prodouane;1;TMA
+2020-06-19;IVSO;Facturation libre suppr mouvement;1;TMA
+2020-06-23;IVBD;Contrat non soldé;1,5;TMA
+2020-06-25;Aurouze;Reactivation passage;1;TMA
+2020-06-02;CommuneMesure;fix js;2;Forfait
+2020-06-03;CommuneMesure;popup carte;1;Forfait
+2020-06-03;CommuneMesure;Scroll wheel zoom control;1;Forfait
+2020-06-03;CommuneMesure;Titre;0,5;Forfait
+2020-06-03;CommuneMesure;animate chiffres;1;Forfait
+2020-06-05;CommuneMesure;Mapjs pour créer des cartes;1,5;Forfait
+2020-06-05;CommuneMesure;Infobox coté lieux;2;Forfait
+2020-06-08;CommuneMesure;Infobox + badges;3;Forfait
+2020-06-11;CommuneMesure;Bulma scss npm;2;Forfait
+2020-06-12;CommuneMesure;webpack;1,5;Forfait
+2020-06-12;CommuneMesure;chartjs;2;Forfait
+2020-06-15;CommuneMesure;couleurs charts;1;Forfait
+2020-06-16;CommuneMesure;Graph en mode objet php;2;Forfait
+2020-06-17;CommuneMesure;Css adapté à l'autre site;3;Forfait
+2020-06-18;CommuneMesure;Refacto home page;1;Forfait
+2020-06-18;CommuneMesure;Travail infobox;0,5;Forfait
+2020-06-24;CommuneMesure;Chart svg % homme / femme;3;Forfait
+2020-06-25;CommuneMesure;Place en mode model php;1;Forfait
+2020-06-26;CommuneMesure;fontawesome + svg bodies + style;2;Forfait
+2020-06-29;CommuneMesure;Tabs graphiques / données;2;Forfait
+2020-06-29;CommuneMesure;Multiples tabs possible;1;Forfait
+2020-06-30;CommuneMesure;Graph % H/F cote a cote;2;Forfait
+2020-06-30;CommuneMesure;Tabs pour page données;0,5;Forfait
+2020-06-30;CommuneMesure;Event on change pour bar;0,5;Forfait
+2020-06-30;Prodimmo;Outils de facturation;24,5;
