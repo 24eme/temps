@@ -1,29 +1,24 @@
-Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2020-05-04;24eme;intercampagne;2,5;24eme
-2020-05-04;Aurouze;Devis tel;1,5;Forfait
-2020-05-05;Aurouze;Devis tel;3,5;Forfait
-2020-05-05;CIVA;tma ;1;TMA
-2020-05-06;24eme;embauche et covid;2;24eme
-2020-05-06;Aurouze;migration;2,5;TMA
-2020-05-06;IVBD;tma ;1;TMA
-2020-05-07;VINSI;probleme de date DRM;1,5;TMA
-2020-05-07;VINSI;probleme DRM;0,5;TMA
-2020-05-11;ODGNantes;aide et questions;2;Forfait
-2020-05-11;VINSI;probleme DRM;0,5;TMA
-2020-05-12;CIVA;tma ;0,5;TMA
-2020-05-12;VINSI;probleme DRM;1;TMA
-2020-05-13;Aurouze;popup;1,5;Forfait
-2020-05-13;Aurouze;reglement;1,5;TMA
-2020-05-13;ODGNantes;aide et questions;2;Forfait
-2020-05-14;ODGNantes;debug Drev;1,5;Forfait
-2020-05-14;ODGNantes;export paiements;2;Forfait
-2020-05-15;VINSI;deblocage VR et cooperatives;2;TMA
-2020-05-18;ODGNantes;Drev et transfert;2,5;Forfait
-2020-05-18;VINSI;deblocage VR et cooperatives;1;TMA
-2020-05-19;ODGNantes;exports de facture;2,5;Forfait
-2020-05-26;IVSO;reecriture drm janvier a juin;3,5;TMA
-2020-05-27;Aurouze;tma paiements;1,5;TMA
-2020-05-27;CIVA;tma ;3;TMA
-2020-05-27;IVSO;facturation en rade;1;TMA
-2020-05-28;ODGNantes;aide et questions focntionnement;5;Forfait
-2020-05-29;ODGNantes;aide facturation;5;Forfait
+2020-06-02;ODGNantes;import mobiles;5;TMA
+2020-06-03;Aurouze;reparation stats;2,5;TMA
+2020-06-03;ODGNantes;debugage de facturation et reimport documents;5;TMA
+2020-06-04;ODGNantes;doc explication facturation;5;TMA
+2020-06-05;Aurouze;saisie paiements;1,5;TMA
+2020-06-05;ODGNantes;debugage de facturation et export;5;TMA
+2020-06-08;Aurouze;devis en facture;5;Forfait Devis
+2020-06-09;Aurouze;debugage stats;2,5;TMA
+2020-06-09;ODGNantes;debugage compte;2;TMA
+2020-06-11;IVBD;statistiques pour la facturation;6;stats
+2020-06-15;IVBD;statistiques pour la facturation;4;stats
+2020-06-16;IVBD;statistiques pour la facturation;3;stats
+2020-06-18;IVBD;statistiques pour la facturation;5;stats
+2020-06-19;IVBD;statistiques pour la facturation;3;stats
+2020-06-22;VINSI;probleme relance DRA;4,5;TMA
+2020-06-23;IVBD;statistiques pour la facturation;5;stats
+2020-06-23;VINSI;probleme relance DRA;1;TMA
+2020-06-24;VINSI;probleme relance DRA;1;TMA
+2020-06-29;BIVC;debug stats et autres;4,5;TMA
+2020-06-29;OdgProvence;ouverture portail;0,5;TMA
+2020-06-30;Aurouze;debugage pour doc;1;TMA
+2020-06-30;IVBD;nouvelle statistique;5;stats
+2020-06-30;Outils de facturation;20;Prodimmo
+
