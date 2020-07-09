@@ -41,15 +41,15 @@ Date;Projet;Description;Temps (en heure);Tache (Optionnel)
 2020-06-30;DeclarVins;Dev pour metabase;28;BI
 2020-06-30;Aurouze;Assistance / Demande;7;TMA
 2020-06-30;VINSI;Assistance / Demande;3;TMA
-2020-06-02;ODGNantes;import mobiles;5;Forfait
+2020-06-02;ODGNantes;import mobiles;5;TMA
 2020-06-03;Aurouze;reparation stats;2,5;TMA
-2020-06-03;ODGNantes;debugage de facturation et reimport documents;5;Forfait
-2020-06-04;ODGNantes;doc explication facturation;5;Forfait
+2020-06-03;ODGNantes;debugage de facturation et reimport documents;5;TMA
+2020-06-04;ODGNantes;doc explication facturation;5;TMA
 2020-06-05;Aurouze;saisie paiements;1,5;TMA
-2020-06-05;ODGNantes;debugage de facturation et export;5;Forfait
+2020-06-05;ODGNantes;debugage de facturation et export;5;TMA
 2020-06-08;Aurouze;devis en facture;5;Forfait Devis
 2020-06-09;Aurouze;debugage stats;2,5;TMA
-2020-06-09;ODGNantes;debugage compte;2;Forfait
+2020-06-09;ODGNantes;debugage compte;2;TMA
 2020-06-11;IVBD;statistiques pour la facturation;6;stats
 2020-06-15;IVBD;statistiques pour la facturation;4;stats
 2020-06-16;IVBD;statistiques pour la facturation;3;stats
