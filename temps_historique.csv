@@ -1,4 +1,5 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2020-06-30;Prodimmo;Outils de test unitaire;Outils internes
 2020-06-30;VINSI;TMA;3,5;TMA
 2020-06-30;VINSI;Direction technique (Migration serveur);7;Vinsi AdminSys DT
 2020-06-30;VINSI;Direction technique;14;Vinsi TMA DT
@@ -7,8 +8,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-06-30;VinIGP;Direction technique;3,5;DT avant vente
 2020-06-30;Tuenet;Adaptation migration;3,5;TMA
 2020-06-30;Pythagore;Formation GIT;14;Formation
-2020-06-30;Prodimmo;Outils de facturation;24,5;
-2020-06-30;Prodimmo;Outils de facturation;20;
+2020-06-30;Prodimmo;Outils de facturation;24,5;Outils internes
+2020-06-30;Prodimmo;Outils de facturation;20;Outils internes
 2020-06-30;ODGRhone;Évolutions habilitation;7,0;Habilitation
 2020-06-30;ODGRhone;Direction technique;10,5;TMA DT
 2020-06-30;ODGProvence;Edition parcellaire irrigue;3;TMA
