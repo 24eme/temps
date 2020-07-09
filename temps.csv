@@ -34,6 +34,7 @@ Date;Projet;Description;Temps (en heure);Tache (Optionnel)
 2020-06-30;CommuneMesure;Tabs pour page données;0,5;Forfait
 2020-06-30;CommuneMesure;Event on change pour bar;0,5;Forfait
 2020-06-30;Prodimmo;Outils de facturation;24,5;
+2020-06-30;Prodimmo;Outils de facturation;20;
 2020-06-30;CIVA;Assistance / Demande;1;TMA
 2020-06-30;ODGProvence;Edition parcellaire irrigue;3;TMA
 2020-06-30;DeclarVins;Assistance / Demande;35;TMA
@@ -63,7 +64,7 @@ Date;Projet;Description;Temps (en heure);Tache (Optionnel)
 2020-06-30;Aurouze;debugage pour doc;1;TMA
 2020-06-30;IVBD;nouvelle statistique;5;stats
 2020-06-30;VINSI;debugage DRM;1;TMA
-2020-06-30;"Commune mesure";"Dev";21;"Sprint 1 Questionnaire/illustration"
+2020-06-30;Commune mesure;Dev;21;Sprint 1 Questionnaire/illustration
 2020-06-30;CNIV;Direction technique;7;TMA DT
 2020-06-30;VINSI;Direction technique;14;Vinsi TMA DT
 2020-06-30;VINSI;Direction technique (Migration serveur);7;Vinsi AdminSys DT
