@@ -1,4 +1,5 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2020-06-30;Prodimmo;Outils de test unitaire;3,5;Outils internes
 2020-06-30;VINSI;TMA;3,5;TMA
 2020-06-30;VINSI;Direction technique (Migration serveur);7;Vinsi AdminSys DT
 2020-06-30;VINSI;Direction technique;14;Vinsi TMA DT
@@ -7,8 +8,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-06-30;VinIGP;Direction technique;3,5;DT avant vente
 2020-06-30;Tuenet;Adaptation migration;3,5;TMA
 2020-06-30;Pythagore;Formation GIT;14;Formation
-2020-06-30;Prodimmo;Outils de facturation;24,5;
-2020-06-30;Prodimmo;Outils de facturation;20;
+2020-06-30;Prodimmo;Outils de facturation;24,5;Outils internes
+2020-06-30;Prodimmo;Outils de facturation;20;Outils internes
 2020-06-30;ODGRhone;Évolutions habilitation;7,0;Habilitation
 2020-06-30;ODGRhone;Direction technique;10,5;TMA DT
 2020-06-30;ODGProvence;Edition parcellaire irrigue;3;TMA
@@ -169,6 +170,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-05-05;Aurouze;Couleurs dans calendrier;1,5;Devis
 2020-05-04;Aurouze;Devis tel;1,5;Devis
 2020-05-04;24eme;intercampagne;2,5;24eme
+2020-04-30;Prodimmo;Generation facture;5;Outils internes
 2020-04-30;VINSI;TMA et Export BI;28,0;TMA
 2020-04-30;VINSI;Direction technique;21;Vinsi TMA DT
 2020-04-30;VINSI;Assistance / Demande;4,5;TMA
@@ -587,6 +589,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-01-03;CIVA;Mercuriale moyenne pondérée;3;TMA
 2020-01-02;VINSI;Maj contrat;1;TMA
 2020-01-02;IVBD;Maj contrat;1;TMA
+2019-12-31;Prodimmo;Generation facture;7;Outils internes
 2019-12-31;VINSI;TMA DRM;3,5;TMA
 2019-12-31;VINSI;TMA DREV;10,5;ODG
 2019-12-31;VINSI;Réunion;7,0;Réunion
@@ -678,6 +681,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-12-02;PlateauUrbain;Intégration dump PU;2;Web
 2019-12-02;DeclarVins;Assistance / Demande;3;TMA
 2019-12-02;24eme;Compta;;
+2019-11-30;Prodimmo;Generation facture;7;Outils internes
 2019-11-30;VINSI;TMA DRM;3,5;TMA
 2019-11-30;VINSI;TMA DREV;17,5;ODG
 2019-11-30;VINSI;Direction technique;14;ODG DT
@@ -843,6 +847,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-11-04;VINSI;Drev récupération prodouane;0,2;TMA
 2019-11-04;DeclarVins;Evolution Contrat;10;Egalim
 2019-11-04;AVA;Questions;0,2;TMA
+2019-10-31;Prodimmo;Generation facture;7;Outils internes
 2019-10-31;VINSI;TMA DRM;7,0;TMA
 2019-10-31;VINSI;TMA;21;ODG
 2019-10-31;VINSI;Fine tuning;7,0;ODG Finetuning
@@ -953,6 +958,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-10-01;VINSI;Fine Tuning;7;ODG Finetuning
 2019-10-01;VINSI;Fine tuning;7;ODG Finetuning
 2019-10-01;DeclarVins;Assistance / Demandes;0,5;TMA
+2019-09-30;Prodimmo;Generation facture;10,5;Outils internes
 2019-09-30;VINSI;TMA DRM;3,5;TMA
 2019-09-30;VINSI;Réunion DRev;3,5;ODG
 2019-09-30;VINSI;Fine Tuning;7;ODG
