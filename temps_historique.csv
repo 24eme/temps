@@ -1,8 +1,102 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2020-06-30;VINSI;TMA;3,5;TMA
+2020-06-30;VINSI;Direction technique (Migration serveur);7;Vinsi AdminSys DT
+2020-06-30;VINSI;Direction technique;14;Vinsi TMA DT
+2020-06-30;VINSI;debugage DRM;1;TMA
+2020-06-30;VINSI;Assistance / Demande;3;TMA
+2020-06-30;VinIGP;Direction technique;3,5;DT avant vente
+2020-06-30;Tuenet;Adaptation migration;3,5;TMA
+2020-06-30;Pythagore;Formation GIT;14;Formation
+2020-06-30;Prodimmo;Outils de facturation;24,5;
+2020-06-30;Prodimmo;Outils de facturation;20;
+2020-06-30;ODGRhone;Évolutions habilitation;7,0;Habilitation
+2020-06-30;ODGRhone;Direction technique;10,5;TMA DT
+2020-06-30;ODGProvence;Edition parcellaire irrigue;3;TMA
+2020-06-30;ODGProvence;Direction technique;3,5;TMA DT
+2020-06-30;ODGNantes;Permettre la saisie de remboursement;2,0;TMA
+2020-06-30;ODGNantes;Direction technique;3,5;DT TMA
+2020-06-30;IVSO;TMA et Bloc message;10,5;TMA
+2020-06-30;IVSO;Direction technique;3,5;TMA DT
+2020-06-30;IVSO;Direction technique;3,5;DT Subventions
+2020-06-30;IVSE;Direction technique;7;DT TMA
+2020-06-30;IVBD;nouvelle statistique;5;stats
+2020-06-30;IVBD;Direction technique;7;TMA DT
+2020-06-30;IVBD;Contrat et DRM;3,5;TMA
+2020-06-30;IR;Direction technique;3,5;DT TMA
+2020-06-30;IR;Direction technique;3,5;DT réunion
+2020-06-30;DeclarVins;Dev pour metabase;28;BI
+2020-06-30;DeclarVins;Assistance / Demande;35;TMA
+2020-06-30;CommuneMesure;Tabs pour page données;0,5;Forfait
+2020-06-30;CommuneMesure;Graph % H/F cote a cote;2;Forfait
+2020-06-30;CommuneMesure;Event on change pour bar;0,5;Forfait
+2020-06-30;Commune mesure;Dev;21;Sprint 1 Questionnaire/illustration
+2020-06-30;CNIV;Direction technique;7;TMA DT
+2020-06-30;CIVP;Direction technique;3,5;DT TMA
+2020-06-30;CIVA;TMA, Évol et correction et adaptation migration;42,0;TMA
+2020-06-30;CIVA;Direction technique;7;DT Hébergement
+2020-06-30;CIVA;Direction technique;10,5;TMA DT
+2020-06-30;CIVA;Assistance / Demande;1;TMA
+2020-06-30;BIVC;Direction technique;14;TMA DT
+2020-06-30;AVA;Exports annualisés et accès direct aux exports;3,5;TMA
+2020-06-30;Aurouze;debugage pour doc;1;TMA
+2020-06-30;Aurouze;Assistance / Demande;7;TMA
+2020-06-30;Aurouze;Adaptation migration et corrections;7,0;TMA
+2020-06-29;ODGProvence;ouverture portail;0,5;TMA
+2020-06-29;CommuneMesure;Tabs graphiques / données;2;Forfait
+2020-06-29;CommuneMesure;Multiples tabs possible;1;Forfait
+2020-06-29;BIVC;debug stats et autres;4,5;TMA
+2020-06-26;CommuneMesure;fontawesome + svg bodies + style;2;Forfait
+2020-06-25;CommuneMesure;Place en mode model php;1;Forfait
+2020-06-25;Aurouze;Reactivation passage;1;TMA
+2020-06-24;VINSI;probleme relance DRA;1;TMA
+2020-06-24;CommuneMesure;Chart svg % homme / femme;3;Forfait
+2020-06-23;VINSI;probleme relance DRA;1;TMA
+2020-06-23;IVBD;statistiques pour la facturation;5;stats
+2020-06-23;IVBD;Contrat non soldé;1,5;TMA
+2020-06-22;VINSI;probleme relance DRA;4,5;TMA
+2020-06-19;IVSO;Facturation libre suppr mouvement;1;TMA
+2020-06-19;IVBD;statistiques pour la facturation;3;stats
+2020-06-18;IVBD;statistiques pour la facturation;5;stats
+2020-06-18;DeclarVins;Mauvaise création DRM;2;TMA
+2020-06-18;CommuneMesure;Travail infobox;0,5;Forfait
+2020-06-18;CommuneMesure;Refacto home page;1;Forfait
+2020-06-18;CIVA;transmission prodouane;1;TMA
+2020-06-18;Aurouze;Id compte page de compte;0,5;TMA
+2020-06-17;CommuneMesure;Css adapté à l'autre site;3;Forfait
+2020-06-17;AVA;Parcelles inactives dans répartition;1,5;TMA
+2020-06-16;IVBD;statistiques pour la facturation;3;stats
+2020-06-16;CommuneMesure;Graph en mode objet php;2;Forfait
+2020-06-16;CIVA;Volume facturable mai;1;TMA
+2020-06-15;IVBD;statistiques pour la facturation;4;stats
+2020-06-15;CommuneMesure;couleurs charts;1;Forfait
+2020-06-15;AVA;Dévalidation DREV;0,5;TMA
+2020-06-12;CommuneMesure;webpack;1,5;Forfait
+2020-06-12;CommuneMesure;chartjs;2;Forfait
+2020-06-11;IVBD;statistiques pour la facturation;6;stats
+2020-06-11;CommuneMesure;Bulma scss npm;2;Forfait
+2020-06-09;ODGNantes;debugage compte;2;TMA
+2020-06-09;Aurouze;debugage stats;2,5;TMA
+2020-06-08;CommuneMesure;Infobox + badges;3;Forfait
+2020-06-08;Aurouze;devis en facture;5;Forfait Devis
+2020-06-05;ODGNantes;debugage de facturation et export;5;TMA
+2020-06-05;CommuneMesure;Mapjs pour créer des cartes;1,5;Forfait
+2020-06-05;CommuneMesure;Infobox coté lieux;2;Forfait
+2020-06-05;Aurouze;saisie paiements;1,5;TMA
+2020-06-04;ODGNantes;doc explication facturation;5;TMA
+2020-06-03;ODGNantes;debugage de facturation et reimport documents;5;TMA
+2020-06-03;CommuneMesure;Titre;0,5;Forfait
+2020-06-03;CommuneMesure;Scroll wheel zoom control;1;Forfait
+2020-06-03;CommuneMesure;popup carte;1;Forfait
+2020-06-03;CommuneMesure;animate chiffres;1;Forfait
+2020-06-03;Aurouze;reparation stats;2,5;TMA
+2020-06-02;ODGNantes;import mobiles;5;TMA
+2020-06-02;IVBD;Changement date;0,5;TMA
+2020-06-02;CommuneMesure;fix js;2;Forfait
 2020-05-31;VINSI;TMA et Export BI;7;TMA
 2020-05-31;VINSI;Direction technique (Migration serveur);7;Vinsi AdminSys DT
 2020-05-31;VINSI;Direction technique;7;Vinsi TMA DT
 2020-05-31;Prodimmo;Monactivité et interface téléphonique;7;Outils internes
+2020-05-31;PlateauUrbain;Sprint 1 affichage des lieux;18;CommuneMesure
 2020-05-31;ODGRhone;Évolutions habilitation;42,0;Habilitation
 2020-05-31;ODGRhone;Direction technique;3,5;TMA DT
 2020-05-31;ODGProvence;Developpement;18;PotentielProduction
@@ -17,20 +111,19 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-05-31;Hébergement;Direction technique - Ahjucaf;3,5;AdminSys DT
 2020-05-31;DeclarVins;BI;7;TMA
 2020-05-31;DeclarVins;Assistance / Demande;7;TMA
-2020-05-31;PlateauUrbain;Sprint 1 affichage des lieux;18;CommuneMesure
 2020-05-31;CNIV;Direction technique;3,5;TMA DT
 2020-05-31;CIVA;Direction technique;7;TMA DT
 2020-05-31;CIVA;Contrat, DRM, Tiers;10,5;TMA
 2020-05-31;AVA;Correction Parcellaire, VCI Bilan, Mutualisation;14,0;TMA
 2020-05-31;Aurouze;Activation compte téléphone;1,5;TMA
-2020-05-29;ODGNantes;aide facturation;5;Forfait
 2020-05-29;PlateauUrbain;Scrollspy submenu;1,5;CommuneMesure
 2020-05-29;PlateauUrbain;carte page lieu;1;CommuneMesure
-2020-05-28;ODGNantes;aide et questions focntionnement;5;Forfait
+2020-05-29;ODGNantes;aide facturation;5;Forfait
 2020-05-28;PlateauUrbain;submenu lieu;2;CommuneMesure
 2020-05-28;PlateauUrbain;rework page lieu;1;CommuneMesure
 2020-05-28;PlateauUrbain;rework controller;1,5;CommuneMesure
 2020-05-28;PlateauUrbain;Deplacement submenu dans section;1;CommuneMesure
+2020-05-28;ODGNantes;aide et questions focntionnement;5;Forfait
 2020-05-28;BIVC;filtre Export par catégorie;1,5;TMA
 2020-05-27;IVSO;facturation en rade;1;TMA
 2020-05-27;IVBD;Changement date contrat;1;TMA
@@ -42,17 +135,17 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-05-20;PlateauUrbain;Bulma.min;0,5;CommuneMesure
 2020-05-19;ODGNantes;exports de facture;2,5;Forfait
 2020-05-18;VINSI;deblocage VR et cooperatives;1;TMA
-2020-05-18;ODGNantes;Drev et transfert;2,5;Forfait
 2020-05-18;PlateauUrbain;Stylage lieu;2;CommuneMesure
 2020-05-18;PlateauUrbain;Map;0,5;CommuneMesure
 2020-05-18;PlateauUrbain;Bulma pour framework;1;CommuneMesure
+2020-05-18;ODGNantes;Drev et transfert;2,5;Forfait
 2020-05-15;VINSI;deblocage VR et cooperatives;2;TMA
 2020-05-15;PlateauUrbain;view page d'accueil;2;CommuneMesure
 2020-05-15;PlateauUrbain;popup carte pour info lieu;2;CommuneMesure
-2020-05-14;ODGNantes;export paiements;2;Forfait
-2020-05-14;ODGNantes;debug Drev;1,5;Forfait
 2020-05-14;PlateauUrbain;route/controller page d'accueil;2;CommuneMesure
 2020-05-14;PlateauUrbain;json exemple lieu;1;CommuneMesure
+2020-05-14;ODGNantes;export paiements;2;Forfait
+2020-05-14;ODGNantes;debug Drev;1,5;Forfait
 2020-05-14;CIVA;Bouton ignorer validation;1;TMA
 2020-05-13;VINSI;Envoi mail contrat;1;TMA
 2020-05-13;ODGNantes;aide et questions;2;Forfait
