@@ -1,36 +1,31 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2020-06-02;IVBD;Changement date;0,5;TMA
-2020-06-15;AVA;Dévalidation DREV;0,5;TMA
-2020-06-16;CIVA;Volume facturable mai;1;TMA
-2020-06-17;AVA;Parcelles inactives dans répartition;1,5;TMA
-2020-06-18;DeclarVins;Mauvaise création DRM;2;TMA
-2020-06-18;Aurouze;Id compte page de compte;0,5;TMA
-2020-06-18;CIVA;transmission prodouane;1;TMA
-2020-06-19;IVSO;Facturation libre suppr mouvement;1;TMA
-2020-06-23;IVBD;Contrat non soldé;1,5;TMA
-2020-06-25;Aurouze;Reactivation passage;1;TMA
-2020-06-02;CommuneMesure;fix js;2;Forfait
-2020-06-03;CommuneMesure;popup carte;1;Forfait
-2020-06-03;CommuneMesure;Scroll wheel zoom control;1;Forfait
-2020-06-03;CommuneMesure;Titre;0,5;Forfait
-2020-06-03;CommuneMesure;animate chiffres;1;Forfait
-2020-06-05;CommuneMesure;Mapjs pour créer des cartes;1,5;Forfait
-2020-06-05;CommuneMesure;Infobox coté lieux;2;Forfait
-2020-06-08;CommuneMesure;Infobox + badges;3;Forfait
-2020-06-11;CommuneMesure;Bulma scss npm;2;Forfait
-2020-06-12;CommuneMesure;webpack;1,5;Forfait
-2020-06-12;CommuneMesure;chartjs;2;Forfait
-2020-06-15;CommuneMesure;couleurs charts;1;Forfait
-2020-06-16;CommuneMesure;Graph en mode objet php;2;Forfait
-2020-06-17;CommuneMesure;Css adapté à l'autre site;3;Forfait
-2020-06-18;CommuneMesure;Refacto home page;1;Forfait
-2020-06-18;CommuneMesure;Travail infobox;0,5;Forfait
-2020-06-24;CommuneMesure;Chart svg % homme / femme;3;Forfait
-2020-06-25;CommuneMesure;Place en mode model php;1;Forfait
-2020-06-26;CommuneMesure;fontawesome + svg bodies + style;2;Forfait
-2020-06-29;CommuneMesure;Tabs graphiques / données;2;Forfait
-2020-06-29;CommuneMesure;Multiples tabs possible;1;Forfait
-2020-06-30;CommuneMesure;Graph % H/F cote a cote;2;Forfait
-2020-06-30;CommuneMesure;Tabs pour page données;0,5;Forfait
-2020-06-30;CommuneMesure;Event on change pour bar;0,5;Forfait
-2020-06-30;Prodimmo;Outils de facturation;24,5;
+2020-07-01;PlateauUrbain;exception json invalide;0,5;CommuneMesure
+2020-07-01;PlateauUrbain;changement chemin json;0,5;CommuneMesure
+2020-07-01;PlateauUrbain;Graphe waffle;1;CommuneMesure
+2020-07-02;PlateauUrbain;Fix graphe waffle;0,5;CommuneMesure
+2020-07-02;PlateauUrbain;Graphe financement donut;1;CommuneMesure
+2020-07-06;PlateauUrbain;Graphe double fleche;1;CommuneMesure
+2020-07-06;PlateauUrbain;Radio button graph double fleche chgmt img;1;CommuneMesure
+2020-07-06;Aurouze;Fix génération de facture;1;TMA
+2020-07-07;Aurouze;Chgmt societe mouvement lors transfert contrat;1;TMA
+2020-07-08;PlateauUrbain;Fix avant réunion fin de sprint;4;CommuneMesure
+2020-07-09;PlateauUrbain;Reunion;2;CommuneMesure
+2020-07-09;PlateauUrbain;Gestion du reverse proxy;1,5;CommuneMesure
+2020-07-09;PlateauUrbain;fix ansible commune mesure;0,5;CommuneMesure
+2020-07-13;Aurouze;Facture aurouze;0,5;TMA
+2020-07-13;VINSI;Suppression ligne grisée DRM;0,5;TMA
+2020-07-15;Aurouze;Breadcrumb devis;0,5;Devis
+2020-07-15;Aurouze;Status A Planifier;1,5;Devis
+2020-07-15;Aurouze;Fix modal brique;0,5;Devis
+2020-07-16;Aurouze;Devis dans liste planif;2;Devis
+2020-07-20;Aurouze;On ne supprime plus les devis;0,5;Devis
+2020-07-20;Aurouze;Total HT produit devis;1;Devis
+2020-07-20;Aurouze;fix retour arrière creation devis;0,5;Devis
+2020-07-20;Aurouze;Pas de visu pdf à l'écran de creation;0,5;Devis
+2020-07-21;Aurouze;Travail sur les différents types de commentaires;2;Devis
+2020-07-21;Aurouze;Rapport visite mobile;0,5;Devis
+2020-07-22;Aurouze;TMA devis;2;TMA
+2020-07-23;Aurouze;Maj date js template;0,5;TMA
+2020-07-23;Aurouze;fix quote en trop + suppr bouton ajouter produit mob;1;TMA
+2020-07-28;Aurouze;Description rendez vous mobile;1;TMA
+2020-07-28;Aurouze;Quote dans filtre twig;0,5;TMA
