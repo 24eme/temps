@@ -1,0 +1,52 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+AHJUCAF;DT TMA;10,5;1,5
+AHJUCAF;TMA;3,5;0,5
+AHJUCAF;TOTAL;14;2,0
+Aurouze;Devis;9,5;1,4
+Aurouze;TMA;17,5;2,5
+Aurouze;TMA Tuenet;1,5;0,2
+Aurouze;TOTAL;28,5;4,1
+AVA;TMA;7;1,0
+AVA;TOTAL;7;1,0
+BIVC;TMA DT;3,5;0,5
+BIVC;TOTAL;3,5;0,5
+CIVA;TMA;33;4,7
+CIVA;TMA DT;3,5;0,5
+CIVA;TOTAL;36,5;5,2
+CNIV;TMA;3,5;0,5
+CNIV;TMA DT;10,5;1,5
+CNIV;TOTAL;14;2,0
+"Commune mesure";"Sprint 2 transformation questions du questionnaire et leurs utilisations ";35;5,0
+"Commune mesure";TOTAL;35;5,0
+DeclarVins;BI;3,5;0,5
+DeclarVins;TMA;27,5;3,9
+DeclarVins;TOTAL;31;4,4
+IR;DT Subventions;2;0,3
+IR;Subventions;75,5;10,8
+IR;TOTAL;77,5;11,1
+IVBD;stats;17,5;2,5
+IVBD;TMA;3,5;0,5
+IVBD;TOTAL;21;3,0
+IVSE;BI;17,5;2,5
+IVSE;TOTAL;17,5;2,5
+IVSO;DT Subventions;2;0,3
+IVSO;Subventions;75,5;10,8
+IVSO;TMA;2;0,3
+IVSO;TOTAL;79,5;11,4
+ODGProvence;TMA;3,5;0,5
+ODGProvence;TOTAL;3,5;0,5
+ODGRhone;TMA;3,5;0,5
+ODGRhone;TOTAL;3,5;0,5
+PlateauUrbain;CommuneMesure;13,5;1,9
+PlateauUrbain;TOTAL;13,5;1,9
+PU;DT;3,5;0,5
+PU;TOTAL;3,5;0,5
+VINSI;FA DT;14;2,0
+VinsIGP;Forfait;16;2,3
+VinsIGP;Réunion;3,5;0,5
+VinsIGP;TMA DT;10,5;1,5
+VinsIGP;TOTAL;30;4,3
+VINSI;TMA;12,5;1,8
+VINSI;Vinsi TMA DT;3,5;0,5
+VINSI;TOTAL;30;4,3
+TOTAL;TOTAL;64,1

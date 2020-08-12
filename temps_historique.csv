@@ -1,5 +1,84 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
-2020-06-30;Prodimmo;Outils de test unitaire;3,5;Outils internes
+2020-07-31;VINSI;TMA DRM;3,5;TMA
+2020-07-31;VinsIGP;Priority River;3,5;Réunion
+2020-07-31;VinsIGP;Direction technique + avant vente;10,5;TMA DT
+2020-07-31;VinsIGP;Dev;16;Forfait
+2020-07-31;VINSI;Direction technique France Agrimer;14;FA DT
+2020-07-31;VINSI;Direction technique;3,5;Vinsi TMA DT
+2020-07-31;VINSI;Assistance / Demande;2;TMA
+2020-07-31;PU;Direction technique + réunion;3,5;DT
+2020-07-31;ODGRhone;Bug espace mon compte et correction statut suspendu;3,5;TMA
+2020-07-31;ODGProvence;Mise a jour Parcellaire;3,5;TMA
+2020-07-31;IVSO;Subvention Occitanie;30;Subventions
+2020-07-31;IVSO;Direction technique;2;DT Subventions
+2020-07-31;IVSO;Dev;28;Subventions
+2020-07-31;IVSO;Dev;17,5;Subventions
+2020-07-31;IVSO;Assistance / Demande;2;TMA
+2020-07-31;IVSE;BI Configuration et tableau de bord dans metabase;17,5;BI
+2020-07-31;IVBD;Assistance / Demande;2;TMA
+2020-07-31;IVBD;analyse stats;1,5;stats
+2020-07-31;IR;Subvention Occitanie;30;Subventions
+2020-07-31;IR;Direction technique;2;DT Subventions
+2020-07-31;IR;Dev;28;Subventions
+2020-07-31;IR;Dev;17,5;Subventions
+2020-07-31;DeclarVins;Evolution CFT autogénération DRM stocks epuises;14;TMA
+2020-07-31;DeclarVins;Dev pour metabase;3,5;BI
+2020-07-31;DeclarVins;Assistance / Demande;10;TMA
+2020-07-31;"Commune mesure";"Dev";35;"Sprint 2 transformation questions du questionnaire et leurs utilisations "
+2020-07-31;CNIV;Liaison douane down;3,5;TMA
+2020-07-31;CNIV;Direction technique;10,5;TMA DT
+2020-07-31;CIVA;DS 2019, Stats, Debug contrat, DRM;28;TMA
+2020-07-31;CIVA;Direction technique;3,5;TMA DT
+2020-07-31;CIVA;Assistance / Demande;2;TMA
+2020-07-31;BIVC;Direction technique;3,5;TMA DT
+2020-07-31;AVA;Facturation VCI et Stats DRev;7;TMA
+2020-07-31;Aurouze;TMA, Évol et correction et adaptation migration;1,5;TMA Tuenet
+2020-07-31;Aurouze;Mise en place des backup;3,5;TMA
+2020-07-31;AHJUCAF;Reunion et compte rendu;3,5;TMA
+2020-07-31;AHJUCAF;Direction technique + réunion;10,5;DT TMA
+2020-07-28;Aurouze;Quote dans filtre twig;0,5;TMA
+2020-07-28;Aurouze;Description rendez vous mobile;1;TMA
+2020-07-24;VINSI;suppression doublon vr et tma drm;5,5;TMA
+2020-07-24;IVBD;retour douane;1,5;TMA
+2020-07-24;DeclarVins;condition envoie oi et drm;2;TMA
+2020-07-23;Aurouze;Maj date js template;0,5;TMA
+2020-07-23;Aurouze;fix quote en trop + suppr bouton ajouter produit mob;1;TMA
+2020-07-22;Aurouze;TMA devis;2;TMA
+2020-07-21;Aurouze;Travail sur les différents types de commentaires;2;Devis
+2020-07-21;Aurouze;Rapport visite mobile;0,5;Devis
+2020-07-20;Aurouze;Total HT produit devis;1;Devis
+2020-07-20;Aurouze;Pas de visu pdf à l'écran de creation;0,5;Devis
+2020-07-20;Aurouze;On ne supprime plus les devis;0,5;Devis
+2020-07-20;Aurouze;fix retour arrière creation devis;0,5;Devis
+2020-07-17;DeclarVins;drm;0,5;TMA
+2020-07-17;Aurouze;debug reglement;1;TMA
+2020-07-16;Aurouze;Devis dans liste planif;2;Devis
+2020-07-15;Aurouze;Status A Planifier;1,5;Devis
+2020-07-15;Aurouze;Fix modal brique;0,5;Devis
+2020-07-15;Aurouze;Breadcrumb devis;0,5;Devis
+2020-07-13;VINSI;Suppression ligne grisée DRM;0,5;TMA
+2020-07-13;Aurouze;Facture aurouze;0,5;TMA
+2020-07-10;VINSI;debugage DRM;1;TMA
+2020-07-10;DeclarVins;compte test;1;TMA
+2020-07-10;CIVA;tma ;3;TMA
+2020-07-10;Aurouze;debug et ticket devis;4,5;TMA
+2020-07-09;PlateauUrbain;Reunion;2;CommuneMesure
+2020-07-09;PlateauUrbain;Gestion du reverse proxy;1,5;CommuneMesure
+2020-07-09;PlateauUrbain;fix ansible commune mesure;0,5;CommuneMesure
+2020-07-08;PlateauUrbain;Fix avant réunion fin de sprint;4;CommuneMesure
+2020-07-07;Aurouze;Chgmt societe mouvement lors transfert contrat;1;TMA
+2020-07-06;PlateauUrbain;Radio button graph double fleche chgmt img;1;CommuneMesure
+2020-07-06;PlateauUrbain;Graphe double fleche;1;CommuneMesure
+2020-07-06;IVBD;nouvelle statistique;5;stats
+2020-07-06;Aurouze;Fix génération de facture;1;TMA
+2020-07-03;IVBD;nouvelle statistique;6;stats
+2020-07-02;PlateauUrbain;Graphe financement donut;1;CommuneMesure
+2020-07-02;PlateauUrbain;Fix graphe waffle;0,5;CommuneMesure
+2020-07-01;PlateauUrbain;Graphe waffle;1;CommuneMesure
+2020-07-01;PlateauUrbain;exception json invalide;0,5;CommuneMesure
+2020-07-01;PlateauUrbain;changement chemin json;0,5;CommuneMesure
+2020-07-01;IVBD;nouvelle statistique;5;stats
+2020-07-01;Aurouze;debugage pour doc;1;TMA
 2020-06-30;VINSI;TMA;3,5;TMA
 2020-06-30;VINSI;Direction technique (Migration serveur);7;Vinsi AdminSys DT
 2020-06-30;VINSI;Direction technique;14;Vinsi TMA DT
@@ -8,8 +87,13 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-06-30;VinIGP;Direction technique;3,5;DT avant vente
 2020-06-30;Tuenet;Adaptation migration;3,5;TMA
 2020-06-30;Pythagore;Formation GIT;14;Formation
+2020-06-30;Prodimmo;Outils de test unitaire;3,5;Outils internes
 2020-06-30;Prodimmo;Outils de facturation;24,5;Outils internes
 2020-06-30;Prodimmo;Outils de facturation;20;Outils internes
+2020-06-30;PlateauUrbain;Tabs pour page données;0,5;CommuneMesure
+2020-06-30;PlateauUrbain;Graph % H/F cote a cote;2;CommuneMesure
+2020-06-30;PlateauUrbain;Event on change pour bar;0,5;CommuneMesure
+2020-06-30;PlateauUrbain;Dev;77;CommuneMesure
 2020-06-30;ODGRhone;Évolutions habilitation;7,0;Habilitation
 2020-06-30;ODGRhone;Direction technique;10,5;DRevCrus
 2020-06-30;ODGProvence;Edition parcellaire irrigue;3;TMA
@@ -27,10 +111,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-06-30;IR;Direction technique;3,5;DT réunion
 2020-06-30;DeclarVins;Dev pour metabase;28;BI
 2020-06-30;DeclarVins;Assistance / Demande;35;TMA
-2020-06-30;PlateauUrbain;Tabs pour page données;0,5;CommuneMesure
-2020-06-30;PlateauUrbain;Graph % H/F cote a cote;2;CommuneMesure
-2020-06-30;PlateauUrbain;Event on change pour bar;0,5;CommuneMesure
-2020-06-30;PlateauUrbain;Dev;77;CommuneMesure
 2020-06-30;CNIV;Direction technique;7;TMA DT
 2020-06-30;CIVP;Direction technique;3,5;DT TMA
 2020-06-30;CIVA;TMA, Évol et correction et adaptation migration;42,0;TMA
@@ -42,9 +122,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-06-30;Aurouze;debugage pour doc;1;TMA
 2020-06-30;Aurouze;Assistance / Demande;7;TMA
 2020-06-30;Aurouze;Adaptation migration et corrections;7,0;TMA
-2020-06-29;ODGProvence;ouverture portail;0,5;TMA
 2020-06-29;PlateauUrbain;Tabs graphiques / données;2;CommuneMesure
 2020-06-29;PlateauUrbain;Multiples tabs possible;1;CommuneMesure
+2020-06-29;ODGProvence;ouverture portail;0,5;TMA
 2020-06-29;BIVC;debug stats et autres;4,5;TMA
 2020-06-26;PlateauUrbain;fontawesome + svg bodies + style;2;CommuneMesure
 2020-06-25;PlateauUrbain;Place en mode model php;1;CommuneMesure
@@ -57,42 +137,42 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-06-22;VINSI;probleme relance DRA;4,5;TMA
 2020-06-19;IVSO;Facturation libre suppr mouvement;1;TMA
 2020-06-19;IVBD;statistiques pour la facturation;3;stats
-2020-06-18;IVBD;statistiques pour la facturation;5;stats
-2020-06-18;DeclarVins;Mauvaise création DRM;2;TMA
 2020-06-18;PlateauUrbain;Travail infobox;0,5;CommuneMesure
 2020-06-18;PlateauUrbain;Refacto home page;1;CommuneMesure
+2020-06-18;IVBD;statistiques pour la facturation;5;stats
+2020-06-18;DeclarVins;Mauvaise création DRM;2;TMA
 2020-06-18;CIVA;transmission prodouane;1;TMA
 2020-06-18;Aurouze;Id compte page de compte;0,5;TMA
 2020-06-17;PlateauUrbain;Css adapté à l'autre site;3;CommuneMesure
 2020-06-17;AVA;Parcelles inactives dans répartition;1,5;TMA
-2020-06-16;IVBD;statistiques pour la facturation;3;stats
 2020-06-16;PlateauUrbain;Graph en mode objet php;2;CommuneMesure
+2020-06-16;IVBD;statistiques pour la facturation;3;stats
 2020-06-16;CIVA;Volume facturable mai;1;TMA
-2020-06-15;IVBD;statistiques pour la facturation;4;stats
 2020-06-15;PlateauUrbain;couleurs charts;1;CommuneMesure
+2020-06-15;IVBD;statistiques pour la facturation;4;stats
 2020-06-15;AVA;Dévalidation DREV;0,5;TMA
 2020-06-12;PlateauUrbain;webpack;1,5;CommuneMesure
 2020-06-12;PlateauUrbain;chartjs;2;CommuneMesure
-2020-06-11;IVBD;statistiques pour la facturation;6;stats
 2020-06-11;PlateauUrbain;Bulma scss npm;2;CommuneMesure
+2020-06-11;IVBD;statistiques pour la facturation;6;stats
 2020-06-09;ODGNantes;debugage compte;2;TMA
 2020-06-09;Aurouze;debugage stats;2,5;TMA
 2020-06-08;PlateauUrbain;Infobox + badges;3;CommuneMesure
 2020-06-08;Aurouze;devis en facture;5;Forfait Devis
-2020-06-05;ODGNantes;debugage de facturation et export;5;TMA
 2020-06-05;PlateauUrbain;Mapjs pour créer des cartes;1,5;CommuneMesure
 2020-06-05;PlateauUrbain;Infobox coté lieux;2;CommuneMesure
+2020-06-05;ODGNantes;debugage de facturation et export;5;TMA
 2020-06-05;Aurouze;saisie paiements;1,5;TMA
 2020-06-04;ODGNantes;doc explication facturation;5;TMA
-2020-06-03;ODGNantes;debugage de facturation et reimport documents;5;TMA
 2020-06-03;PlateauUrbain;Titre;0,5;CommuneMesure
 2020-06-03;PlateauUrbain;Scroll wheel zoom control;1;CommuneMesure
 2020-06-03;PlateauUrbain;popup carte;1;CommuneMesure
 2020-06-03;PlateauUrbain;animate chiffres;1;CommuneMesure
+2020-06-03;ODGNantes;debugage de facturation et reimport documents;5;TMA
 2020-06-03;Aurouze;reparation stats;2,5;TMA
+2020-06-02;PlateauUrbain;fix js;2;CommuneMesure
 2020-06-02;ODGNantes;import mobiles;5;TMA
 2020-06-02;IVBD;Changement date;0,5;TMA
-2020-06-02;PlateauUrbain;fix js;2;CommuneMesure
 2020-05-31;VINSI;TMA et Export BI;7;TMA
 2020-05-31;VINSI;Direction technique (Migration serveur);7;Vinsi AdminSys DT
 2020-05-31;VINSI;Direction technique;7;Vinsi TMA DT
@@ -170,11 +250,11 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-05-05;Aurouze;Couleurs dans calendrier;1,5;Devis
 2020-05-04;Aurouze;Devis tel;1,5;Devis
 2020-05-04;24eme;intercampagne;2,5;24eme
-2020-04-30;Prodimmo;Generation facture;5;Outils internes
 2020-04-30;VINSI;TMA et Export BI;28,0;TMA
 2020-04-30;VINSI;Direction technique;21;Vinsi TMA DT
 2020-04-30;VINSI;Assistance / Demande;4,5;TMA
 2020-04-30;Prodimmo;Interfaces de visualisation téléphonique avec OVH pour le 24eme;14,0;Outils internes
+2020-04-30;Prodimmo;Generation facture;5;Outils internes
 2020-04-30;ODGProvence;Finalisation;10;DAP
 2020-04-30;ODGProvence;Developpement;25;PotentielProduction
 2020-04-30;ODGProvence;Assistance / Demande;2,5;TMA
@@ -589,7 +669,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-01-03;CIVA;Mercuriale moyenne pondérée;3;TMA
 2020-01-02;VINSI;Maj contrat;1;TMA
 2020-01-02;IVBD;Maj contrat;1;TMA
-2019-12-31;Prodimmo;Generation facture;7;Outils internes
 2019-12-31;VINSI;TMA DRM;3,5;TMA
 2019-12-31;VINSI;TMA DREV;10,5;ODG
 2019-12-31;VINSI;Réunion;7,0;Réunion
@@ -597,6 +676,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-12-31;VINSI;Direction technique;10,5;Réunion+préparation DT
 2019-12-31;Reunion;;7;Reunion Loire
 2019-12-31;Reunion;;3.5;Reunion Provence
+2019-12-31;Prodimmo;Generation facture;7;Outils internes
 2019-12-31;ODGProvence;Réunion;3,5;Réunion
 2019-12-31;ODGProvence;Direction technique;3,5;TMA DT
 2019-12-31;ODGProvence;Direction technique;3,5;Réunion DT
@@ -681,13 +761,13 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-12-02;PlateauUrbain;Intégration dump PU;2;Web
 2019-12-02;DeclarVins;Assistance / Demande;3;TMA
 2019-12-02;24eme;Compta;;
-2019-11-30;Prodimmo;Generation facture;7;Outils internes
 2019-11-30;VINSI;TMA DRM;3,5;TMA
 2019-11-30;VINSI;TMA DREV;17,5;ODG
 2019-11-30;VINSI;Direction technique;14;ODG DT
 2019-11-30;Sancerre;TMA DRM;3,5;TMA
 2019-11-30;Pythagore;Formation ansible;14,0;Formation
 2019-11-30;Prodimmo;Monactivité;3,5;Outils internes
+2019-11-30;Prodimmo;Generation facture;7;Outils internes
 2019-11-30;ODGRhone;TMA Direction technique;14;TMA DT
 2019-11-30;ODGRhone;Habilitation et divers;7,0;TMA
 2019-11-30;ODGProvence;Dev;35;Map parcellaires
@@ -847,7 +927,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-11-04;VINSI;Drev récupération prodouane;0,2;TMA
 2019-11-04;DeclarVins;Evolution Contrat;10;Egalim
 2019-11-04;AVA;Questions;0,2;TMA
-2019-10-31;Prodimmo;Generation facture;7;Outils internes
 2019-10-31;VINSI;TMA DRM;7,0;TMA
 2019-10-31;VINSI;TMA;21;ODG
 2019-10-31;VINSI;Fine tuning;7,0;ODG Finetuning
@@ -855,6 +934,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-10-31;VINSI;Direction technique;17,5;ODG DT
 2019-10-31;VINSI;Dév + ouverture;35,0;ODG
 2019-10-31;Sancerre;TMA DRM;7,0;TMA
+2019-10-31;Prodimmo;Generation facture;7;Outils internes
 2019-10-31;ODGRhone;TMA Direction technique;3,5;TMA DT
 2019-10-31;ODGRhone;API timpre et export société;21,0;TMA
 2019-10-31;ODGProvence;TMA Direction technique;7;TMA DT
@@ -958,7 +1038,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-10-01;VINSI;Fine Tuning;7;ODG Finetuning
 2019-10-01;VINSI;Fine tuning;7;ODG Finetuning
 2019-10-01;DeclarVins;Assistance / Demandes;0,5;TMA
-2019-09-30;Prodimmo;Generation facture;10,5;Outils internes
 2019-09-30;VINSI;TMA DRM;3,5;TMA
 2019-09-30;VINSI;Réunion DRev;3,5;ODG
 2019-09-30;VINSI;Fine Tuning;7;ODG
@@ -970,6 +1049,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-09-30;VINSI;Direction technique;10,5;ODG DT
 2019-09-30;VINSI;Dév;17,5;ODG
 2019-09-30;Sancerre;TMA;7,0;TMA
+2019-09-30;Prodimmo;Generation facture;10,5;Outils internes
 2019-09-30;ODGRhone;TMA Direction technique;3,5;TMA DT
 2019-09-30;ODGRhone;TMA;7,0;TMA
 2019-09-30;Juricaf;TMA Direction technique;3,5;TMA DT

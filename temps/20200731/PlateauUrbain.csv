@@ -1,0 +1,12 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-07-01;PlateauUrbain;changement chemin json;0,5;CommuneMesure
+2020-07-01;PlateauUrbain;exception json invalide;0,5;CommuneMesure
+2020-07-01;PlateauUrbain;Graphe waffle;1;CommuneMesure
+2020-07-02;PlateauUrbain;Fix graphe waffle;0,5;CommuneMesure
+2020-07-02;PlateauUrbain;Graphe financement donut;1;CommuneMesure
+2020-07-06;PlateauUrbain;Graphe double fleche;1;CommuneMesure
+2020-07-06;PlateauUrbain;Radio button graph double fleche chgmt img;1;CommuneMesure
+2020-07-08;PlateauUrbain;Fix avant réunion fin de sprint;4;CommuneMesure
+2020-07-09;PlateauUrbain;fix ansible commune mesure;0,5;CommuneMesure
+2020-07-09;PlateauUrbain;Gestion du reverse proxy;1,5;CommuneMesure
+2020-07-09;PlateauUrbain;Reunion;2;CommuneMesure

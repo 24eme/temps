@@ -1,0 +1,24 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-07-01;Aurouze;debugage pour doc;1;TMA
+2020-07-06;Aurouze;Fix génération de facture;1;TMA
+2020-07-07;Aurouze;Chgmt societe mouvement lors transfert contrat;1;TMA
+2020-07-10;Aurouze;debug et ticket devis;4,5;TMA
+2020-07-13;Aurouze;Facture aurouze;0,5;TMA
+2020-07-15;Aurouze;Breadcrumb devis;0,5;Devis
+2020-07-15;Aurouze;Fix modal brique;0,5;Devis
+2020-07-15;Aurouze;Status A Planifier;1,5;Devis
+2020-07-16;Aurouze;Devis dans liste planif;2;Devis
+2020-07-17;Aurouze;debug reglement;1;TMA
+2020-07-20;Aurouze;fix retour arrière creation devis;0,5;Devis
+2020-07-20;Aurouze;On ne supprime plus les devis;0,5;Devis
+2020-07-20;Aurouze;Pas de visu pdf à l'écran de creation;0,5;Devis
+2020-07-20;Aurouze;Total HT produit devis;1;Devis
+2020-07-21;Aurouze;Rapport visite mobile;0,5;Devis
+2020-07-21;Aurouze;Travail sur les différents types de commentaires;2;Devis
+2020-07-22;Aurouze;TMA devis;2;TMA
+2020-07-23;Aurouze;fix quote en trop + suppr bouton ajouter produit mob;1;TMA
+2020-07-23;Aurouze;Maj date js template;0,5;TMA
+2020-07-28;Aurouze;Description rendez vous mobile;1;TMA
+2020-07-28;Aurouze;Quote dans filtre twig;0,5;TMA
+2020-07-31;Aurouze;Mise en place des backup;3,5;TMA
+2020-07-31;Aurouze;TMA, Évol et correction et adaptation migration;1,5;TMA Tuenet
