@@ -1,31 +1,57 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2020-07-01;PlateauUrbain;exception json invalide;0,5;CommuneMesure
-2020-07-01;PlateauUrbain;changement chemin json;0,5;CommuneMesure
-2020-07-01;PlateauUrbain;Graphe waffle;1;CommuneMesure
-2020-07-02;PlateauUrbain;Fix graphe waffle;0,5;CommuneMesure
-2020-07-02;PlateauUrbain;Graphe financement donut;1;CommuneMesure
-2020-07-06;PlateauUrbain;Graphe double fleche;1;CommuneMesure
-2020-07-06;PlateauUrbain;Radio button graph double fleche chgmt img;1;CommuneMesure
-2020-07-06;Aurouze;Fix génération de facture;1;TMA
-2020-07-07;Aurouze;Chgmt societe mouvement lors transfert contrat;1;TMA
-2020-07-08;PlateauUrbain;Fix avant réunion fin de sprint;4;CommuneMesure
-2020-07-09;PlateauUrbain;Reunion;2;CommuneMesure
-2020-07-09;PlateauUrbain;Gestion du reverse proxy;1,5;CommuneMesure
-2020-07-09;PlateauUrbain;fix ansible commune mesure;0,5;CommuneMesure
-2020-07-13;Aurouze;Facture aurouze;0,5;TMA
-2020-07-13;VINSI;Suppression ligne grisée DRM;0,5;TMA
-2020-07-15;Aurouze;Breadcrumb devis;0,5;Devis
-2020-07-15;Aurouze;Status A Planifier;1,5;Devis
-2020-07-15;Aurouze;Fix modal brique;0,5;Devis
-2020-07-16;Aurouze;Devis dans liste planif;2;Devis
-2020-07-20;Aurouze;On ne supprime plus les devis;0,5;Devis
-2020-07-20;Aurouze;Total HT produit devis;1;Devis
-2020-07-20;Aurouze;fix retour arrière creation devis;0,5;Devis
-2020-07-20;Aurouze;Pas de visu pdf à l'écran de creation;0,5;Devis
-2020-07-21;Aurouze;Travail sur les différents types de commentaires;2;Devis
-2020-07-21;Aurouze;Rapport visite mobile;0,5;Devis
-2020-07-22;Aurouze;TMA devis;2;TMA
-2020-07-23;Aurouze;Maj date js template;0,5;TMA
-2020-07-23;Aurouze;fix quote en trop + suppr bouton ajouter produit mob;1;TMA
-2020-07-28;Aurouze;Description rendez vous mobile;1;TMA
-2020-07-28;Aurouze;Quote dans filtre twig;0,5;TMA
+2020-08-03;PlateauUrbain;Tri des resiliences;1;CommuneMesure
+2020-08-03;IVBD;Modif contrat;0,5;TMA
+2020-08-03;PlateauUrbain;Tri des chromosomes;2;CommuneMesure
+2020-08-03;IVBD;Ouverture DRM;0,5;TMA
+2020-08-03;DeclarVins;Maj message;0,5;TMA
+2020-08-03;PlateauUrbain;Affichage chromosome;1;CommuneMesure
+2020-08-04;CIVA;Liste DR crémant;2;TMA
+2020-08-04;ODGNantes;Cron Export Paiement;1;TMA
+2020-08-04;IVBD;Message transmission;0,5;TMA
+2020-08-05;CIVA;Reset CRD;2;TMA
+2020-08-05;Aurouze;Modif adresse;0,5;TMA
+2020-08-05;Aurouze;Identifiants tech;0,5;TMA
+2020-08-05;CIVA;Import csv;0,5;TMA
+2020-08-05;ODGRhone;Correction siret;0,5;TMA
+2020-08-05;VINSI;Check sortie moins strict;1;TMA
+2020-08-06;VINSI;Insee non obligatoire;0,5;TMA
+2020-08-06;IVSO;import CSV MAO;1;TMA
+2020-08-06;VINSI;On cherche les contrats sur la campagne préc si on est en aout;1;TMA
+2020-08-06;IVSO;Controle d'existence de champs validation;1,5;TMA
+2020-08-07;VINSI;fix integration contrat;0,5;TMA
+2020-08-07;CIVA;Maj TIER;1;TMA
+2020-08-07;DeclarVins;Contrat bloquant;0,5;TMA
+2020-08-10;IVSO;Import DARROZE;1;TMA
+2020-08-10;Aurouze;Modif contrat/facture;0,5;TMA
+2020-08-10;CIVA;Modif pdf retour à la ligne;0,5;TMA
+2020-08-11;VinIGP;Reunion;7;Reunion
+2020-08-12;Aurouze;Affichage commentaire;0,5;TMA
+2020-08-12;CIVA;Maj tier;0,5;TMA
+2020-08-12;IVBD;Modif Contrat d'achat;0,5;TMA
+2020-08-12;VINSI;Fix bug generation;0,5;TMA
+2020-08-12;CIVA;Recup histo DR;0,5;TMA
+2020-08-12;VINSI;Retour douane;0,5;TMA
+2020-08-13;Aurouze;Fix facturation anciens devis;0,5;TMA
+2020-08-13;Aurouze;Fix erreur js total devis;0,5;TMA
+2020-08-13;CIVA;Modif contrat;0,5;TMA
+2020-08-13;IVBD;Favoris;0,5;TMA
+2020-08-13;DeclarVins;Modif DRM;1;TMA
+2020-08-13;AVA;Facturation 2020;0,5;TMA
+2020-08-13;IVSO;Maj fichier excel;0,5;TMA
+2020-08-14;Aurouze;Date contrat;0,5;TMA
+2020-08-14;VINSI;Annulation génération facture;2;TMA
+2020-08-14;IVBD;Fix export;0,5;TMA
+2020-08-17;Aurouze;Migration contrat;1;TMA
+2020-08-18;DeclarVins;Typo dans encart;1;TMA
+2020-08-18;Aurouze;Avoir dans le nom du pdf;1;TMA
+2020-08-18;PlateauUrbain;Résilience finalisation;2;CommuneMesure
+2020-08-19;CIVA;Affichage vrai CRD;1;TMA
+2020-08-19;PlateauUrbain;Couleurs resiliences css;0,5;CommuneMesure
+2020-08-19;IVSO;Reset Mot de passe;0,5;TMA
+2020-08-20;CIVA;Suppression DRM;0,5;TMA
+2020-08-20;VinIGP;Wording;0,5;TMA
+2020-08-21;24eme;Vacances;;
+2020-08-31;Aurouze;Date reglement;0,5;TMA
+2020-08-31;PlateauUrbain;Tooltip;0,5;TMA
+2020-08-31;VINSI;Suppression DRM;0,5;TMA
+2020-08-31;IVBD;Bug disparition CRD si pas de mvmt;1;TMA
