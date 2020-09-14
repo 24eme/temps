@@ -1,13 +1,10 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2020-07-31;CIVA;Assistance / Demande;2;TMA
-2020-07-31;ODGProvence;Mise a jour Parcellaire;3,5;TMA
-2020-07-31;DeclarVins;Assistance / Demande;10;TMA
-2020-07-31;DeclarVins;Evolution CFT autogénération DRM stocks epuises;14;TMA
-2020-07-31;DeclarVins;Dev pour metabase;3,5;BI
-2020-07-31;IVSO;Assistance / Demande;2;TMA
-2020-07-31;VINSI;Assistance / Demande;2;TMA
-2020-07-31;IVBD;Assistance / Demande;2;TMA
-2020-07-31;IR;Subvention Occitanie;30;Subventions
-2020-07-31;IVSO;Subvention Occitanie;30;Subventions
-2020-07-31;VinsIGP;Dev;16;Forfait
-2020-07-31;AHJUCAF;Reunion et compte rendu;3,5;TMA
+2020-08-31;CIVA;Assistance / Demande;2,5;TMA
+2020-08-31;DeclarVins;Assistance / Demande;12;TMA
+2020-08-31;DeclarVins;Evolution configuration datée pour nouvelles campagnes;10;TMA
+2020-08-31;DeclarVins;Evolution produit generique pour import DRM EDI;7;TMA
+2020-08-31;IVBD;Assistance / Demande;0,5;TMA
+2020-08-31;IR;Evolution format import commercialisation;10;TMA
+2020-08-31;VinsIGP;Dev;42;Forfait
+2020-08-31;VinsIGP;Reunion;7;Forfait
+2020-08-31;AVA;Assistance / Demande;0,5;TMA
