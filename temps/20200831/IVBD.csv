@@ -1,0 +1,12 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-08-03;IVBD;Modif contrat;0,5;TMA
+2020-08-03;IVBD;Ouverture DRM;0,5;TMA
+2020-08-04;IVBD;Message transmission;0,5;TMA
+2020-08-12;IVBD;Modif Contrat d'achat;0,5;TMA
+2020-08-13;IVBD;Favoris;0,5;TMA
+2020-08-14;IVBD;Fix export;0,5;TMA
+2020-08-21;IVBD;analyse stats facturation;1,5;stats
+2020-08-21;IVBD;modification pdf contrat et autres bug;3;TMA
+2020-08-31;IVBD;Assistance / Demande;0,5;TMA
+2020-08-31;IVBD;Bug disparition CRD si pas de mvmt;1;TMA
+2020-08-31;IVBD;Direction technique + adminsys;4,5;TMA DT

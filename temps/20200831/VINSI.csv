@@ -1,0 +1,14 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-08-05;VINSI;Check sortie moins strict;1;TMA
+2020-08-06;VINSI;Insee non obligatoire;0,5;TMA
+2020-08-06;VINSI;On cherche les contrats sur la campagne préc si on est en aout;1;TMA
+2020-08-07;VINSI;fix integration contrat;0,5;TMA
+2020-08-12;VINSI;Fix bug generation;0,5;TMA
+2020-08-12;VINSI;Retour douane;0,5;TMA
+2020-08-14;VINSI;Annulation génération facture;2;TMA
+2020-08-21;VINSI;debugage DRM;2,5;TMA
+2020-08-28;VINSI;debugage DRM;1,5;TMA
+2020-08-31;VINSI;debugage DRM;4;TMA
+2020-08-31;VINSI;Direction technique;3,5;Vinsi TMA DT
+2020-08-31;VINSI;Direction technique France Agrimer;3,5;FA DT
+2020-08-31;VINSI;Suppression DRM;0,5;TMA

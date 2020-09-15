@@ -1,4 +1,97 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2020-08-31;VINSI;Suppression DRM;0,5;TMA
+2020-08-31;VinsIGP;Reunion;7;Forfait
+2020-08-31;VinsIGP;Direction technique;24,5;Forfait DT
+2020-08-31;VinsIGP;Dev;42;Forfait
+2020-08-31;VINSI;Direction technique France Agrimer;3,5;FA DT
+2020-08-31;VINSI;Direction technique;3,5;Vinsi TMA DT
+2020-08-31;VINSI;debugage DRM;4;TMA
+2020-08-31;Sancerre;hack statistique;3;TMA
+2020-08-31;PlateauUrbain;Tooltip;0,5;TMA
+2020-08-31;IVSO;Direction technique + adminsys;4,5;TMA DT
+2020-08-31;IVSO;Direction technique;2;DT Subventions
+2020-08-31;IVBD;Direction technique + adminsys;4,5;TMA DT
+2020-08-31;IVBD;Bug disparition CRD si pas de mvmt;1;TMA
+2020-08-31;IVBD;Assistance / Demande;0,5;TMA
+2020-08-31;IR;Evolution format import commercialisation;10;Indicateurs Économique
+2020-08-31;IR;Direction technique;2;DT Subventions
+2020-08-31;DeclarVins;Evolution produit generique pour import DRM EDI;7;TMA
+2020-08-31;DeclarVins;Evolution configuration datée pour nouvelles campagnes;10;TMA
+2020-08-31;DeclarVins;Assistance / Demande;12;TMA
+2020-08-31;CNIV;Direction technique;7;TMA DT
+2020-08-31;CIVA;Direction technique;3,5;TMA DT
+2020-08-31;CIVA;Assistance / Demande;2,5;TMA
+2020-08-31;AVA;Assistance / Demande;0,5;TMA
+2020-08-31;Aurouze;Date reglement;0,5;TMA
+2020-08-31;AHJUCAF;Direction technique;3,5;DT TMA
+2020-08-28;VINSI;debugage DRM;1,5;TMA
+2020-08-28;Sancerre;statistique et raparation contrat;5;TMA
+2020-08-28;ODGRhone;tma;1;TMA
+2020-08-28;ODGProvence;fermeture portail;0,5;TMA
+2020-08-28;DeclarVins;gestion tma;3,5;TMA
+2020-08-28;CIVA;tma ;5;TMA
+2020-08-28;AVA;debug constats;1;TMA
+2020-08-28;Aurouze;debugage aurouze;3;TMA
+2020-08-21;VINSI;debugage DRM;2,5;TMA
+2020-08-21;Sancerre;debug stats et autres;2,5;TMA
+2020-08-21;ODGRhone;debug tma;1;TMA
+2020-08-21;IVSO;tma;2,5;TMA
+2020-08-21;IVBD;modification pdf contrat et autres bug;3;TMA
+2020-08-21;IVBD;analyse stats facturation;1,5;stats
+2020-08-21;DeclarVins;gestion ds doc et tma;4,5;TMA
+2020-08-21;Aurouze;debugage aurouze;5;TMA
+2020-08-21;24eme;Vacances;;
+2020-08-20;VinsIGP;Wording;0,5;Forfait
+2020-08-20;CIVA;Suppression DRM;0,5;TMA
+2020-08-19;PlateauUrbain;Couleurs resiliences css;0,5;CommuneMesure
+2020-08-19;IVSO;Reset Mot de passe;0,5;TMA
+2020-08-19;CIVA;Affichage vrai CRD;1;TMA
+2020-08-18;PlateauUrbain;Résilience finalisation;2;CommuneMesure
+2020-08-18;DeclarVins;Typo dans encart;1;TMA
+2020-08-18;Aurouze;Avoir dans le nom du pdf;1;TMA
+2020-08-17;Aurouze;Migration contrat;1;TMA
+2020-08-14;VINSI;Annulation génération facture;2;TMA
+2020-08-14;IVBD;Fix export;0,5;TMA
+2020-08-14;Aurouze;Date contrat;0,5;TMA
+2020-08-13;IVSO;Maj fichier excel;0,5;TMA
+2020-08-13;IVBD;Favoris;0,5;TMA
+2020-08-13;DeclarVins;Modif DRM;1;TMA
+2020-08-13;CIVA;Modif contrat;0,5;TMA
+2020-08-13;AVA;Facturation 2020;0,5;TMA
+2020-08-13;Aurouze;Fix facturation anciens devis;0,5;TMA
+2020-08-13;Aurouze;Fix erreur js total devis;0,5;TMA
+2020-08-12;VINSI;Retour douane;0,5;TMA
+2020-08-12;VINSI;Fix bug generation;0,5;TMA
+2020-08-12;IVBD;Modif Contrat d'achat;0,5;TMA
+2020-08-12;CIVA;Recup histo DR;0,5;TMA
+2020-08-12;CIVA;Maj tier;0,5;TMA
+2020-08-12;Aurouze;Affichage commentaire;0,5;TMA
+2020-08-11;VinsIGP;Reunion;7;Reunion
+2020-08-10;IVSO;Import DARROZE;1;TMA
+2020-08-10;CIVA;Modif pdf retour à la ligne;0,5;TMA
+2020-08-10;Aurouze;Modif contrat/facture;0,5;TMA
+2020-08-07;VINSI;fix integration contrat;0,5;TMA
+2020-08-07;DeclarVins;Contrat bloquant;0,5;TMA
+2020-08-07;CIVA;Maj TIER;1;TMA
+2020-08-06;VINSI;On cherche les contrats sur la campagne préc si on est en aout;1;TMA
+2020-08-06;VINSI;Insee non obligatoire;0,5;TMA
+2020-08-06;IVSO;import CSV MAO;1;TMA
+2020-08-06;IVSO;Controle d'existence de champs validation;1,5;TMA
+2020-08-05;VINSI;Check sortie moins strict;1;TMA
+2020-08-05;ODGRhone;Correction siret;0,5;TMA
+2020-08-05;CIVA;Reset CRD;2;TMA
+2020-08-05;CIVA;Import csv;0,5;TMA
+2020-08-05;Aurouze;Modif adresse;0,5;TMA
+2020-08-05;Aurouze;Identifiants tech;0,5;TMA
+2020-08-04;ODGNantes;Cron Export Paiement;1;TMA
+2020-08-04;IVBD;Message transmission;0,5;TMA
+2020-08-04;CIVA;Liste DR crémant;2;TMA
+2020-08-03;PlateauUrbain;Tri des resiliences;1;CommuneMesure
+2020-08-03;PlateauUrbain;Tri des chromosomes;2;CommuneMesure
+2020-08-03;PlateauUrbain;Affichage chromosome;1;CommuneMesure
+2020-08-03;IVBD;Ouverture DRM;0,5;TMA
+2020-08-03;IVBD;Modif contrat;0,5;TMA
+2020-08-03;DeclarVins;Maj message;0,5;TMA
 2020-07-31;VINSI;TMA DRM;3,5;TMA
 2020-07-31;VinsIGP;Priority River;3,5;Réunion
 2020-07-31;VinsIGP;Direction technique + avant vente;10,5;TMA DT
