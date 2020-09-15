@@ -12,7 +12,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-08-05;Aurouze;Modif adresse;0,5;TMA
 2020-08-05;Aurouze;Identifiants tech;0,5;TMA
 2020-08-05;CIVA;Import csv;0,5;TMA
-2020-08-05;OdgRhone;Correction siret;0,5;TMA
+2020-08-05;ODGRhone;Correction siret;0,5;TMA
 2020-08-05;VINSI;Check sortie moins strict;1;TMA
 2020-08-06;VINSI;Insee non obligatoire;0,5;TMA
 2020-08-06;IVSO;import CSV MAO;1;TMA
@@ -24,7 +24,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-08-10;IVSO;Import DARROZE;1;TMA
 2020-08-10;Aurouze;Modif contrat/facture;0,5;TMA
 2020-08-10;CIVA;Modif pdf retour à la ligne;0,5;TMA
-2020-08-11;VinIGP;Reunion;7;Reunion
+2020-08-11;VinsIGP;Reunion;7;Reunion
 2020-08-12;Aurouze;Affichage commentaire;0,5;TMA
 2020-08-12;CIVA;Maj tier;0,5;TMA
 2020-08-12;IVBD;Modif Contrat d'achat;0,5;TMA
@@ -49,7 +49,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-08-19;PlateauUrbain;Couleurs resiliences css;0,5;CommuneMesure
 2020-08-19;IVSO;Reset Mot de passe;0,5;TMA
 2020-08-20;CIVA;Suppression DRM;0,5;TMA
-2020-08-20;VinIGP;Wording;0,5;TMA
+2020-08-20;VinsIGP;Wording;0,5;Forfait
 2020-08-21;24eme;Vacances;;
 2020-08-31;Aurouze;Date reglement;0,5;TMA
 2020-08-31;PlateauUrbain;Tooltip;0,5;TMA
@@ -60,7 +60,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-08-31;DeclarVins;Evolution configuration datée pour nouvelles campagnes;10;TMA
 2020-08-31;DeclarVins;Evolution produit generique pour import DRM EDI;7;TMA
 2020-08-31;IVBD;Assistance / Demande;0,5;TMA
-2020-08-31;IR;Evolution format import commercialisation;10;TMA
+2020-08-31;IR;Evolution format import commercialisation;10;Indicateurs Économique
 2020-08-31;VinsIGP;Dev;42;Forfait
 2020-08-31;VinsIGP;Reunion;7;Forfait
 2020-08-31;AVA;Assistance / Demande;0,5;TMA
@@ -70,14 +70,14 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-08-21;IVBD;analyse stats facturation;1,5;stats
 2020-08-21;IVBD;modification pdf contrat et autres bug;3;TMA
 2020-08-21;IVSO;tma;2,5;TMA
-2020-08-21;OdgRhone;debug tma;1;TMA
+2020-08-21;ODGRhone;debug tma;1;TMA
 2020-08-21;VINSI;debugage DRM;2,5;TMA
 2020-08-28;Aurouze;debugage aurouze;3;TMA
 2020-08-28;AVA;debug constats;1;TMA
 2020-08-28;CIVA;tma ;5;TMA
 2020-08-28;DeclarVins;gestion tma;3,5;TMA
-2020-08-28;OdgProvence;fermeture portail;0,5;TMA
-2020-08-28;OdgRhone;tma;1;TMA
+2020-08-28;ODGProvence;fermeture portail;0,5;TMA
+2020-08-28;ODGRhone;tma;1;TMA
 2020-08-28;Sancerre;statistique et raparation contrat;5;TMA
 2020-08-28;VINSI;debugage DRM;1,5;TMA
 2020-08-31;Sancerre;hack statistique;3;TMA
@@ -91,4 +91,4 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-08-31;VINSI;Direction technique;3,5;Vinsi TMA DT
 2020-08-31;VINSI;Direction technique France Agrimer;3,5;FA DT
 2020-08-31;CIVA;Direction technique;3,5;TMA DT
-2020-08-31;VinsIGP;Direction technique;24,5;TMA DT
+2020-08-31;VinsIGP;Direction technique;24,5;Forfait DT
