@@ -1,10 +1,7 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2020-08-31;CIVA;Assistance / Demande;2,5;TMA
-2020-08-31;DeclarVins;Assistance / Demande;12;TMA
-2020-08-31;DeclarVins;Evolution configuration datée pour nouvelles campagnes;10;TMA
-2020-08-31;DeclarVins;Evolution produit generique pour import DRM EDI;7;TMA
-2020-08-31;IVBD;Assistance / Demande;0,5;TMA
-2020-08-31;IR;Evolution format import commercialisation;10;TMA
-2020-08-31;VinsIGP;Dev;42;Forfait
-2020-08-31;VinsIGP;Reunion;7;Forfait
-2020-08-31;AVA;Assistance / Demande;0,5;TMA
+2020-09-30;CIVA;Assistance / Demande;1;TMA
+2020-09-30;DeclarVins;Assistance / Demande;33;TMA
+2020-09-30;DeclarVins;Evolution relance des contrats aux prix non definitif;5;TMA
+2020-09-30;IVBD;Assistance / Demande;1;TMA
+2020-09-30;IR;Indicateurs economique import et BI;23;TMA
+2020-09-30;VinsIGP;Dev habilitations;10;Forfait
