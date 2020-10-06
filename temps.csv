@@ -20,7 +20,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-10;VINSI;raz stock au mois de saisie;1;TMA
 2020-09-10;DeclarVins;Correction libelle mois de stock;1;TMA
 2020-09-10;DeclarVins;Match sous famille vendeur raisin;1,5;TMA
-2020-09-11;Aurouze;chgmt date contrat;1;TMA
+2020-09-11;Aurouze;chgmt date contrat;1;TMA Aurouze
 2020-09-11;PlateauUrbain;nettoyage code;1;CommuneMesure
 2020-09-11;Aurouze;Facture devis;1;TMA Aurouze
 2020-09-11;VINSI;Tache defacturation;2;TMA
@@ -84,7 +84,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-24;VINSI;debugage DRM et tma;2,5;TMA
 2020-09-25;IVBD;RI et stats réunion;1;TMA
 2020-09-25;VinsIGP;Degustation;6;Dégustation
-2020-09-28;Aurouze;factures libres et devis ;2;TMA
+2020-09-28;Aurouze;factures libres et devis ;2;TMA Aurouze
 2020-09-28;VinsIGP;Degustation;5;Degustation
 2020-09-29;IVBD;facturation;1;TMA
 2020-09-29;VinsIGP;Degustation;6;Degustation
@@ -92,7 +92,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-30;VinsIGP;Degustation;7;Réunion
 2020-09-30;VinsIGP;Dév;7;Degustation
 2020-09-30;ODGRhone;DRev cru et mutage;14;DRevCru
-2020-09-30;Aurouze;TMA;1,5;TMA TueNet
+2020-09-30;Aurouze;TMA;1,5;TMA Tuenet
 2020-09-30;AVA;Réunion;7;Réunion
 2020-09-30;AVA;Habilitation;3,5;TMA
 2020-09-30;Aurouze;TMA;1,5;TMA Aurouze
