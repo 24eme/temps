@@ -11,7 +11,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-04;IVSO;reprise crd si pas mois ouverture;1;TMA
 2020-09-04;IVSE;DRM ciel;2;TMA
 2020-09-07;IVSO;Reecriture DRMs;4;TMA
-2020-09-08;Aurouze;Recherche par produit;1;TMA
+2020-09-08;Aurouze;Recherche par produit;1;TMA Aurouze
 2020-09-08;DeclarVins;fix libellés avec lib complém;1,5;TMA
 2020-09-08;VINSI;Lies et bourbes DRM;0,5;TMA
 2020-09-08;VINSI;Transmission DRM;1;TMA
@@ -22,7 +22,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-10;DeclarVins;Match sous famille vendeur raisin;1,5;TMA
 2020-09-11;Aurouze;chgmt date contrat;1;TMA
 2020-09-11;PlateauUrbain;nettoyage code;1;CommuneMesure
-2020-09-11;Aurouze;Facture devis;1;TMA
+2020-09-11;Aurouze;Facture devis;1;TMA Aurouze
 2020-09-11;VINSI;Tache defacturation;2;TMA
 2020-09-16;VinsIGP;test unitaire;2;Degustation
 2020-09-17;VinsIGP;Test lots et dégust;3;Degustation
@@ -48,7 +48,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-29;VinsIGP;on trigger onblur sur le vol total;1;Degustation
 2020-09-29;VinsIGP;toggle modal si vol total readonly;1;Degustation
 2020-09-30;VinsIGP;Reunion;7;Reunion
-2020-09-25;AHJUCAF;Integration arrets;10;IA
+2020-09-25;AHJUCAF;Integration arrets monaco;10,5;TMA
 2020-09-30;CIVA;Assistance / Demande;1;TMA
 2020-09-30;DeclarVins;Assistance / Demande;33;TMA
 2020-09-30;DeclarVins;Evolution relance des contrats aux prix non definitif;5;TMA
@@ -62,7 +62,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-04;VinsIGP;Degustation;6;Degustation
 2020-09-04;VINSI;debugage DRM;1;TMA
 2020-09-07;VinsIGP;Degustation;4;Degustation
-2020-09-10;Aurouze;montant facture et devis;4;TMA
+2020-09-10;Aurouze;montant facture et devis;4;TMA Aurouze
 2020-09-10;CIVA;debugage DRM semaine declaration;2,5;TMA
 2020-09-10;DeclarVins; drm ivse;3;TMA
 2020-09-10;IVBD;debugage DRM semaine declaration;3,5;TMA
@@ -78,8 +78,8 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-17;VinsIGP;Degustation;7;Degustation
 2020-09-18;VinsIGP;Degustation;7;Degustation
 2020-09-23;24eme;bilan;2,5;24eme
-2020-09-24;Aurouze;factures libres et devis ;11;TMA TueNet
-2020-09-24;Aurouze;factures libres et devis ;12,5;TMA
+2020-09-24;Aurouze;factures libres et devis ;11;TMA Tuenet
+2020-09-24;Aurouze;factures libres et devis ;12,5;TMA Aurouze
 2020-09-24;IVBD;debugage DRM et stats;3,5;TMA
 2020-09-24;VINSI;debugage DRM et tma;2,5;TMA
 2020-09-25;IVBD;RI et stats réunion;1;TMA
