@@ -1,0 +1,42 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24eme;24eme;8,5;1,2
+24eme;TOTAL;8,5;1,2
+AHJUCAF;TMA;10,5;1,5
+AHJUCAF;TOTAL;10,5;1,5
+Aurouze;TMA Aurouze;23;3,3
+Aurouze;TMA Tuenet;12,5;1,8
+Aurouze;TOTAL;35,5;5,1
+AVA;Réunion;7;1,0
+AVA;TMA;3,5;0,5
+AVA;TOTAL;10,5;1,5
+CIVA;Réunion;7;1,0
+CIVA;TMA;28,5;4,1
+CIVA;TOTAL;35,5;5,1
+DeclarVins;TMA;55,5;7,9
+DeclarVins;TOTAL;55,5;7,9
+IR;Indicateurs Éco;23;3,3
+IR;TOTAL;23;3,3
+IVBD;TMA;17;2,4
+IVBD;TOTAL;17;2,4
+IVSE;BI;2;0,3
+IVSE;TOTAL;2;0,3
+IVSO;TMA;20;2,9
+IVSO;TOTAL;20;2,9
+ODGProvence;TMA;1,5;0,2
+ODGProvence;TOTAL;1,5;0,2
+ODGRhone;DRevCru;14;2,0
+ODGRhone;TOTAL;14;2,0
+PlateauUrbain;CommuneMesure;48,5;6,9
+PlateauUrbain;Reunion;2;0,3
+PlateauUrbain;TOTAL;50,5;7,2
+Sancerre;TMA;6;0,9
+Sancerre;TOTAL;6;0,9
+VinsIGP;Degustation;116,5;16,6
+VinsIGP;Dégustation;6;0,9
+VinsIGP;Habiliation;10;1,4
+VinsIGP;Reunion;7;1,0
+VinsIGP;Réunion;7;1,0
+VinsIGP;TOTAL;146,5;20,9
+VINSI;TMA;28,5;4,1
+VINSI;TOTAL;28,5;4,1
+TOTAL;TOTAL;66,4

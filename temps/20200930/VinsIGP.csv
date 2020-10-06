@@ -1,0 +1,39 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-09-01;VinsIGP;Degustation;7;Degustation
+2020-09-02;VinsIGP;Degustation;6;Degustation
+2020-09-03;VinsIGP;Degustation;6;Degustation
+2020-09-04;VinsIGP;Degustation;6;Degustation
+2020-09-07;VinsIGP;Degustation;4;Degustation
+2020-09-10;VinsIGP;Degustation;7;Degustation
+2020-09-14;VinsIGP;Degustation;2;Degustation
+2020-09-15;VinsIGP;Degustation;7;Degustation
+2020-09-16;VinsIGP;Degustation;6;Degustation
+2020-09-16;VinsIGP;test unitaire;2;Degustation
+2020-09-17;VinsIGP;Degustation;7;Degustation
+2020-09-17;VinsIGP;Test lots et dégust;3;Degustation
+2020-09-18;VinsIGP;Degustation;7;Degustation
+2020-09-18;VinsIGP;test plan de table;3;Degustation
+2020-09-21;VinsIGP;Bugfixe devalidation;0,5;Degustation
+2020-09-21;VinsIGP;Leurres;3;Degustation
+2020-09-21;VinsIGP;Test ajout tables;1;Degustation
+2020-09-21;VinsIGP;Tri par date DREV;1;Degustation
+2020-09-22;VinsIGP;fix lien vers comptes degust;1;Degustation
+2020-09-22;VinsIGP;Formulaire ajout leurre dans la table spécifique;2;Degustation
+2020-09-22;VinsIGP;Test ajout leurre;1;Degustation
+2020-09-23;VinsIGP;Date degust voulue;3;Degustation
+2020-09-24;VinsIGP;Volume lots maj le vol total;4;Degustation
+2020-09-25;VinsIGP;Degustation;6;Dégustation
+2020-09-28;VinsIGP;Date degust +1 mois par defaut;1;Degustation
+2020-09-28;VinsIGP;Date degust affichée dans visu;1,5;Degustation
+2020-09-28;VinsIGP;Degustation;5;Degustation
+2020-09-28;VinsIGP;lot non coché si date degust sup;1,5;Degustation
+2020-09-28;VinsIGP;Précision 4 decimales lot;1;Degustation
+2020-09-29;VinsIGP;Degustation;6;Degustation
+2020-09-29;VinsIGP;on trigger onblur sur le vol total;1;Degustation
+2020-09-29;VinsIGP;Point bloquant lot;1;Degustation
+2020-09-29;VinsIGP;toggle modal si vol total readonly;1;Degustation
+2020-09-29;VinsIGP;vol total readonly si volume lots;1;Degustation
+2020-09-30;VinsIGP;Degustation;7;Réunion
+2020-09-30;VinsIGP;Dév;7;Degustation
+2020-09-30;VinsIGP;Dev habilitations;10;Habiliation
+2020-09-30;VinsIGP;Reunion;7;Reunion
