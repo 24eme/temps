@@ -54,7 +54,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-30;DeclarVins;Evolution relance des contrats aux prix non definitif;5;TMA
 2020-09-30;IVBD;Assistance / Demande;1;TMA
 2020-09-30;IR;Indicateurs economique import et BI;23;TMA
-2020-09-30;VinsIGP;Dev habilitations;10;Forfait
+2020-09-30;VinsIGP;Dev habilitations;10;Habiliation
 2020-09-30;PlateauUrbain;"Développement,Front-End,Ajout de fonctionnalités,Intégration de librairie";44,0;CommuneMesure
 2020-09-01;VinsIGP;Degustation;7;Degustation
 2020-09-02;VinsIGP;Degustation;6;Degustation
@@ -90,7 +90,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2020-09-29;VinsIGP;Degustation;6;Degustation
 2020-09-29;VINSI;changement position nego;0,5;TMA
 2020-09-30;VinsIGP;Degustation;7;Réunion
-2020-09-30;VinsIGP;Dév;7;Forfait
+2020-09-30;VinsIGP;Dév;7;Degustation
 2020-09-30;ODGRhone;DRev cru et mutage;14;DRevCru
 2020-09-30;Aurouze;TMA;1,5;TMA TueNet
 2020-09-30;AVA;Réunion;7;Réunion
