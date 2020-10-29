@@ -1,0 +1,16 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-09-01;VINSI;Check noeuds valdidation;0,5;TMA
+2020-09-02;VINSI;Modif Douanes;1;TMA
+2020-09-03;VINSI;cansetstock sur mois ouverture;0,5;TMA
+2020-09-03;VINSI;Ouverture DRA;0,5;TMA
+2020-09-03;VINSI;Reprise stock si mois d'ouverture diff aout;2;TMA
+2020-09-04;VINSI;debugage DRM;1;TMA
+2020-09-08;VINSI;Lies et bourbes DRM;0,5;TMA
+2020-09-08;VINSI;Transmission DRM;1;TMA
+2020-09-09;VINSI;Lies et bourbes;0,5;TMA
+2020-09-10;VINSI;debugage DRM semaine declaration;8;TMA
+2020-09-10;VINSI;raz stock au mois de saisie;1;TMA
+2020-09-11;VINSI;Tache defacturation;2;TMA
+2020-09-24;VINSI;debugage DRM et tma;2,5;TMA
+2020-09-29;VINSI;changement position nego;0,5;TMA
+2020-09-30;VINSI;TMA DRM;7,0;TMA
