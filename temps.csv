@@ -6,7 +6,7 @@
 2020-10-05;IVSO;Facturation Lubiato;0,5;TMA
 2020-10-05;CIVA;Dé-suppression DRM;0,5;TMA
 2020-10-05;Aurouze;Exports;0,5;TMA
-2020-10-05;VinsIGP;Fix rajout de lot constant;1;Degustation
+2020-10-05;VinsIGP;Fix rajout de lot constant;1;Forfait
 2020-10-06;Aurouze;css print page passage en erreur;2;TMA
 2020-10-07;DeclarVins;Vue mouvement: si pas de nom ->raison sociale;1,5;TMA
 2020-10-07;VINSI;Déblocage saisie interne;0,5;TMA
@@ -31,12 +31,12 @@
 2020-10-22;VinsIGP;Fix test Degustation;1;Degustation
 2020-10-22;VinsIGP;wip test modification de lot;4;Degustation
 2020-10-23;Prodimmo;sprint RC1 MongoCrud;4;MongoPassion
-2020-10-26;VinsIGP;Test modification avec modificatrice drev;3;Degustation
-2020-10-27;VinsIGP;tests;2;Degustation
+2020-10-26;VinsIGP;Test modification avec modificatrice drev;3;Forfait
+2020-10-27;VinsIGP;tests;2;Forfait
 2020-10-27;Aurouze;Numéro contrat facture en retard;1;TMA
 2020-10-27;ODGRhone;Drev L15/L5;1,5;TMA
-2020-10-28;VinsIGP;Date degustation à la date du jour;1;Degustation
-2020-10-28;VinsIGP;modif formulaire drev;3;Degustation
+2020-10-28;VinsIGP;Date degustation à la date du jour;1;Forfait
+2020-10-28;VinsIGP;modif formulaire drev;3;Forfait
 2020-10-29;IVBD;mvmt vrac a jour;1;TMA
 2020-10-30;CIVA;Recupération DR;1;TMA
 2020-10-30;AVA;Modification Constat;0,5;TMA
@@ -91,7 +91,7 @@
 2020-10-26;24eme;Congès;7;Congès
 2020-10-27;24eme;Congès;7;Congès
 2020-10-28;24eme;Congès;7;Congès
-2020-10-06;PlateauUrbain;"Dev";7;"CommunesMesures : Sprint 4 Amélioration des interfaces"
+2020-10-06;PlateauUrbain;Dev;7;CommunesMesures
 2020-10-31;CNIV;Direction technique;3,5;TMA DT
 2020-10-31;IR;Direction technique;3,5;TMA + Indicateurs DT
 2020-10-31;Juricaf;Direction technique;7;DT TMA
