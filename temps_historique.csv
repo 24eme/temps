@@ -1,4 +1,111 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2020-09-30;VINSI;TMA DRM;7,0;TMA
+2020-09-30;VinsIGP;Reunion;7;Reunion
+2020-09-30;VinsIGP;Dev habilitations;10;Habiliation
+2020-09-30;VinsIGP;Dév;7;Degustation
+2020-09-30;VinsIGP;Degustation;7;Réunion
+2020-09-30;Sancerre;TMA DRM;3,5;TMA
+2020-09-30;PlateauUrbain;"Développement,Front-End,Ajout de fonctionnalités,Intégration de librairie";44,0;CommuneMesure
+2020-09-30;PlateauUrbain;Dév;2,0;CommuneMesure
+2020-09-30;ODGRhone;DRev cru et mutage;14;DRevCru
+2020-09-30;ODGProvence;TMA Parcellaire;1,5;TMA
+2020-09-30;IVSO;TMA DRM;7,0;TMA
+2020-09-30;IVSE;Visio Metabase;2,0;BI
+2020-09-30;IVBD;TMA DRM et Contrats;7,0;TMA
+2020-09-30;IVBD;Assistance / Demande;1;TMA
+2020-09-30;IR;Indicateurs economique import et BI;23;Indicateurs Éco
+2020-09-30;DeclarVins;TMA DRM et Contrats;7,0;TMA
+2020-09-30;DeclarVins;Evolution relance des contrats aux prix non definitif;5;TMA
+2020-09-30;DeclarVins;Assistance / Demande;33;TMA
+2020-09-30;CIVA;TMA DRM, DS et Évol DR;24,5;TMA
+2020-09-30;CIVA;Réunion;7,0;Réunion
+2020-09-30;CIVA;Assistance / Demande;1;TMA
+2020-09-30;AVA;Réunion;7;Réunion
+2020-09-30;AVA;Habilitation;3,5;TMA
+2020-09-30;Aurouze;TMA;1,5;TMA Tuenet
+2020-09-30;Aurouze;TMA;1,5;TMA Aurouze
+2020-09-29;VinsIGP;vol total readonly si volume lots;1;Degustation
+2020-09-29;VinsIGP;toggle modal si vol total readonly;1;Degustation
+2020-09-29;VinsIGP;Point bloquant lot;1;Degustation
+2020-09-29;VinsIGP;on trigger onblur sur le vol total;1;Degustation
+2020-09-29;VinsIGP;Degustation;6;Degustation
+2020-09-29;VINSI;changement position nego;0,5;TMA
+2020-09-29;PlateauUrbain;Carousel;0,5;CommuneMesure
+2020-09-29;IVBD;facturation;1;TMA
+2020-09-28;VinsIGP;Précision 4 decimales lot;1;Degustation
+2020-09-28;VinsIGP;lot non coché si date degust sup;1,5;Degustation
+2020-09-28;VinsIGP;Degustation;5;Degustation
+2020-09-28;VinsIGP;Date degust affichée dans visu;1,5;Degustation
+2020-09-28;VinsIGP;Date degust +1 mois par defaut;1;Degustation
+2020-09-28;PlateauUrbain;Reunion fin sprint;2;Reunion
+2020-09-28;Aurouze;factures libres et devis ;2;TMA Aurouze
+2020-09-25;VinsIGP;Degustation;6;Dégustation
+2020-09-25;PlateauUrbain;clean code;1;CommuneMesure
+2020-09-25;IVBD;RI et stats réunion;1;TMA
+2020-09-25;AHJUCAF;Integration arrets monaco;10,5;TMA
+2020-09-24;VinsIGP;Volume lots maj le vol total;4;Degustation
+2020-09-24;VINSI;debugage DRM et tma;2,5;TMA
+2020-09-24;IVBD;debugage DRM et stats;3,5;TMA
+2020-09-24;Aurouze;factures libres et devis ;12,5;TMA Aurouze
+2020-09-24;Aurouze;factures libres et devis ;11;TMA Tuenet
+2020-09-23;VinsIGP;Date degust voulue;3;Degustation
+2020-09-23;24eme;bilan;2,5;24eme
+2020-09-22;VinsIGP;Test ajout leurre;1;Degustation
+2020-09-22;VinsIGP;Formulaire ajout leurre dans la table spécifique;2;Degustation
+2020-09-22;VinsIGP;fix lien vers comptes degust;1;Degustation
+2020-09-21;VinsIGP;Tri par date DREV;1;Degustation
+2020-09-21;VinsIGP;Test ajout tables;1;Degustation
+2020-09-21;VinsIGP;Leurres;3;Degustation
+2020-09-21;VinsIGP;Bugfixe devalidation;0,5;Degustation
+2020-09-18;VinsIGP;test plan de table;3;Degustation
+2020-09-18;VinsIGP;Degustation;7;Degustation
+2020-09-17;VinsIGP;Test lots et dégust;3;Degustation
+2020-09-17;VinsIGP;Degustation;7;Degustation
+2020-09-16;VinsIGP;test unitaire;2;Degustation
+2020-09-16;VinsIGP;Degustation;6;Degustation
+2020-09-15;VinsIGP;Degustation;7;Degustation
+2020-09-14;VinsIGP;Degustation;2;Degustation
+2020-09-14;24eme;tactical;3,5;24eme
+2020-09-14;24eme;facturation;2,5;24eme
+2020-09-11;VINSI;Tache defacturation;2;TMA
+2020-09-11;PlateauUrbain;nettoyage code;1;CommuneMesure
+2020-09-11;Aurouze;Facture devis;1;TMA Aurouze
+2020-09-11;Aurouze;chgmt date contrat;1;TMA Aurouze
+2020-09-10;VINSI;raz stock au mois de saisie;1;TMA
+2020-09-10;VinsIGP;Degustation;7;Degustation
+2020-09-10;VINSI;debugage DRM semaine declaration;8;TMA
+2020-09-10;Sancerre;debugage DRM semaine declaration;2,5;TMA
+2020-09-10;IVSO;debugage DRM semaine declaration;3,5;TMA
+2020-09-10;IVBD;debugage DRM semaine declaration;3,5;TMA
+2020-09-10;DeclarVins;Match sous famille vendeur raisin;1,5;TMA
+2020-09-10;DeclarVins; drm ivse;3;TMA
+2020-09-10;DeclarVins;Correction libelle mois de stock;1;TMA
+2020-09-10;CIVA;debugage DRM semaine declaration;2,5;TMA
+2020-09-10;Aurouze;montant facture et devis;4;TMA Aurouze
+2020-09-09;VINSI;Lies et bourbes;0,5;TMA
+2020-09-09;IVSO;Corrections libellés drm;3;TMA
+2020-09-08;VINSI;Transmission DRM;1;TMA
+2020-09-08;VINSI;Lies et bourbes DRM;0,5;TMA
+2020-09-08;DeclarVins;fix libellés avec lib complém;1,5;TMA
+2020-09-08;Aurouze;Recherche par produit;1;TMA Aurouze
+2020-09-07;VinsIGP;Degustation;4;Degustation
+2020-09-07;IVSO;Reecriture DRMs;4;TMA
+2020-09-04;VinsIGP;Degustation;6;Degustation
+2020-09-04;VINSI;debugage DRM;1;TMA
+2020-09-04;IVSO;reprise crd si pas mois ouverture;1;TMA
+2020-09-04;IVSO;Libellés drm aout;1,5;TMA
+2020-09-04;DeclarVins;DRM ciel;2;TMA
+2020-09-03;VINSI;Reprise stock si mois d'ouverture diff aout;2;TMA
+2020-09-03;VINSI;Ouverture DRA;0,5;TMA
+2020-09-03;VinsIGP;Degustation;6;Degustation
+2020-09-03;VINSI;cansetstock sur mois ouverture;0,5;TMA
+2020-09-02;VINSI;Modif Douanes;1;TMA
+2020-09-02;VinsIGP;Degustation;6;Degustation
+2020-09-02;DeclarVins;Mois d'ouverture au lieu de campagne pre;1;TMA
+2020-09-01;VinsIGP;Degustation;7;Degustation
+2020-09-01;VINSI;Check noeuds valdidation;0,5;TMA
+2020-09-01;DeclarVins;Check n° d'accise;0,5;TMA
+2020-09-01;CIVA;Code création;0,5;TMA
 2020-08-31;VINSI;Suppression DRM;0,5;TMA
 2020-08-31;VinsIGP;Reunion;7;Forfait
 2020-08-31;VinsIGP;Direction technique;24,5;Forfait DT
