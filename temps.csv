@@ -60,7 +60,7 @@
 2020-10-31;ODGProvence;Assistance / Demande;3,5;TMA
 2020-10-31;ODGRhone;Assistance / Demande;3,5;TMA
 2020-10-31;Juricaf;Assistance / Demande;1;TMA
-2020-10-30;AVA;Développement DREV / Habilitations;35;TMA Mame
+2020-10-30;AVA;Développement DREV / Habilitations;10,5;TMA
 2020-10-30;ODGRhone;Evolution du Site Internet;10,5;TMA
 2020-10-01;24eme;temps;1;24eme
 2020-10-01;ODGProvence;tma;1;TMA
@@ -91,7 +91,6 @@
 2020-10-26;24eme;Congès;7;Congès
 2020-10-27;24eme;Congès;7;Congès
 2020-10-28;24eme;Congès;7;Congès
-2020-10-06;PlateauUrbain;Dev;7;CommunesMesures
 2020-10-31;CNIV;Direction technique;3,5;TMA DT
 2020-10-31;IR;Direction technique;3,5;TMA + Indicateurs DT
 2020-10-31;Juricaf;Direction technique;7;DT TMA
@@ -114,3 +113,7 @@
 2020-10-31;ODGProvence;Ouverture DRev;1,5;TMA
 2020-10-31;Prodimmo;Mini finetuning;7,0;MongoPassion
 2020-10-31;VinsIGP;Dév des imports;10,5;Forfait
+2020-10-31;AVA;DRev évolutions;7;TMA
+2020-10-06;PlateauUrbain;Sprint 4 Amélioration des interfaces;7;CommuneMesures
+2020-10-08;PlateauUrbain;Mise en valeur des Lieux;14;CommuneMesures
+2020-10-31;PlateauUrbain;Modification;12;CommuneMesures
