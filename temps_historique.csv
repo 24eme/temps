@@ -653,7 +653,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-03-02;ODGNantes;PDF facture;1;Forfait
 2020-03-02;DeclarVins;Controle et correctif migration serveur;3;TMA
 2020-03-02;DeclarVins;Assistance / Demande;2;TMA
-2020-02-O6;Aurouze;Mail quand contrat accepté / résilié;1;TMA
+2020-02-06;Aurouze;Mail quand contrat accepté / résilié;1;TMA
 2020-02-29;VINSI;Direction technique;3,5;ODG DT
 2020-02-29;VINSI;Direction technique;10,5;TMA DT
 2020-02-29;ODGRhone;Direction technique;3,5;TMA DT
@@ -3227,7 +3227,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-03-01;ODGRhone;Habilitation INAO;3;Forfait
 2018-03-01;ODGProvence;Réunion;7;Réunion
 2018-03-01;IVBD;Correction produit et contrat;1,5;TMA
-2018-03-01;EliteAuto;GP Bwat;Forfait;
 2018-02-28;VINSI;Direction Technique;3,5;TMA DT
 2018-02-28;Sancerre;Direction Technique;3,5;TMA DT
 2018-02-28;Sancerre;Corrections de bug de génération et notamment dans la Facturation;2,5;TMA
@@ -3260,7 +3259,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-02-22;ODGProvence;Tickets;3;Lot 1
 2018-02-22;ODGProvence;migration des comptes et import;7;Lot 1
 2018-02-22;ODGProvence;Design général de l'application;3,5;Lot 1
-2018-02-22;EliteAuto;GP Bwat;Forfait;
 2018-02-22;DeclarVins;Demandes TMA;3;TMA
 2018-02-22;Aurouze;Correction avoir et contrat;1;TMA
 2018-02-21;ODGProvence;migration des comptes et import;7;Lot 1
@@ -3271,7 +3269,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-02-20;Sancerre;Statistiques;4;TMA
 2018-02-20;ODGProvence;Réorganisation des fichiers du style css;3,5;Lot 1
 2018-02-20;ODGProvence;migration des comptes et import;7;Lot 1
-2018-02-20;EliteAuto;GP Bwat;Forfait;
 2018-02-20;DeclarVins;Demandes TMA;2;TMA
 2018-02-20;CIVA;Transfert de tiers;0,5;TMA
 2018-02-20;CIVA;Demande tiers / convention;1;TMA
@@ -3288,7 +3285,6 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-02-16;ODGRhone;Export DR;2,5;Forfait
 2018-02-16;IVSO;Suppression DRM;0,5;TMA
 2018-02-16;IVBD;gestion debug;1;TMA
-2018-02-16;EliteAuto;GP Bwat;Forfait;
 2018-02-16;DeclarVins;Filtre Nego/Vini;2,5;TMA
 2018-02-16;DeclarVins;Demandes TMA;0,5;TMA
 2018-02-16;Aurouze;upload de fichiers et visu ;4;Gestion Documentaire
@@ -3300,11 +3296,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2018-02-14;VINSI;Correction retour Douane;1,5;TMA
 2018-02-14;ODGRhone;Export DR;5;Forfait
 2018-02-14;ODGRhone;correction export des DREV DR;5,5;Forfait
-2018-02-14;EliteAuto;GP Bwat;Forfait;
 2018-02-14;DeclarVins;Demandes TMA;1;TMA
 2018-02-13;ODGRhone;Export DR;2;Forfait
 2018-02-13;ODGProvence;import de donnée et tickets;3;Lot 1
-2018-02-13;EliteAuto;GP Bwat;Forfait;
 2018-02-13;CIVA; Correction application DRM;1;TMA
 2018-02-13;CIVA;Convention Ciel;3;TMA
 2018-02-13;24eme;Tactical Meeting;3,5;Tactical Meeting
