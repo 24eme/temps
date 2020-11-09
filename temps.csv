@@ -14,22 +14,22 @@
 2020-10-08;CIVA;coupure ciel;0,5;TMA
 2020-10-08;DeclarVins;Import DTI+;0,5;TMA
 2020-10-08;VINSI;Fix probleme soustraction float;2;TMA
-2020-10-12;VinsIGP;Lot en élevage+destination;2;Degustation
-2020-10-13;VinsIGP;Approbation auto drev prec;1;Degustation
-2020-10-13;VinsIGP;Point engagement élevage;0,5;Degustation
+2020-10-12;VinsIGP;Lot en élevage+destination;2;Forfait
+2020-10-13;VinsIGP;Approbation auto drev prec;1;Forfait
+2020-10-13;VinsIGP;Point engagement élevage;0,5;Forfait
 2020-10-13;PlateauUrbain;sprint pre-présentation;4;CommuneMesures
 2020-10-14;PlateauUrbain;sprint pre-présentation;5;CommuneMesures
 2020-10-15;PlateauUrbain;Prez Voltaire;0;Reunion
 2020-10-15;PlateauUrbain;cleanage code;1;CommuneMesures
-2020-10-15;VinsIGP;wording + bug fix;1;Degustation
-2020-10-15;VinsIGP;Table 1 -> Table A;1;Degustation
-2020-10-16;VinsIGP;Tri + récap;1;Degustation
-2020-10-20;VinsIGP;Mise a jour logement Degustation;3;Degustation
-2020-10-21;VinsIGP;Hamza style degustateur;1,5;Degustation
-2020-10-21;VinsIGP;Total lot synthese;1;Degustation
-2020-10-21;VinsIGP;Page modif lot;2;Degustation
-2020-10-22;VinsIGP;Fix test Degustation;1;Degustation
-2020-10-22;VinsIGP;wip test modification de lot;4;Degustation
+2020-10-15;VinsIGP;wording + bug fix;1;Forfait
+2020-10-15;VinsIGP;Table 1 -> Table A;1;Forfait
+2020-10-16;VinsIGP;Tri + récap;1;Forfait
+2020-10-20;VinsIGP;Mise a jour logement Degustation;3;Forfait
+2020-10-21;VinsIGP;Hamza style degustateur;1,5;Forfait
+2020-10-21;VinsIGP;Total lot synthese;1;Forfait
+2020-10-21;VinsIGP;Page modif lot;2;Forfait
+2020-10-22;VinsIGP;Fix test Degustation;1;Forfait
+2020-10-22;VinsIGP;wip test modification de lot;4;Forfait
 2020-10-23;Prodimmo;sprint RC1 MongoCrud;4;MongoPassion
 2020-10-26;VinsIGP;Test modification avec modificatrice drev;3;Forfait
 2020-10-27;VinsIGP;tests;2;Forfait
