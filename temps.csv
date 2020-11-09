@@ -30,7 +30,7 @@
 2020-10-21;VinsIGP;Page modif lot;2;Degustation
 2020-10-22;VinsIGP;Fix test Degustation;1;Degustation
 2020-10-22;VinsIGP;wip test modification de lot;4;Degustation
-2020-10-23;Prodimmo;sprint RC1 MongoCrud;4;MongoCrud
+2020-10-23;Prodimmo;sprint RC1 MongoCrud;4;MongoPassion
 2020-10-26;VinsIGP;Test modification avec modificatrice drev;3;Degustation
 2020-10-27;VinsIGP;tests;2;Degustation
 2020-10-27;Aurouze;Numéro contrat facture en retard;1;TMA
@@ -112,5 +112,5 @@
 2020-10-31;IVSO;TMA DRM;5,0;TMA
 2020-10-31;PlateauUrbain;Mini finetuning;10,5;CommuneMesures
 2020-10-31;ODGProvence;Ouverture DRev;1,5;TMA
-2020-10-31;Prodimmo;Mini finetuning;7,0;Mongo
+2020-10-31;Prodimmo;Mini finetuning;7,0;MongoPassion
 2020-10-31;VinsIGP;Dév des imports;10,5;Forfait
