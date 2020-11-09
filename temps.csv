@@ -1,5 +1,5 @@
-2020-10-01;PlateauUrbain;getter / setter specifiques;2;CommuneMesure
-2020-10-05;PlateauUrbain;modif page home;0,5;CommuneMesure
+2020-10-01;PlateauUrbain;getter / setter specifiques;2;CommuneMesures
+2020-10-05;PlateauUrbain;modif page home;0,5;CommuneMesures
 2020-10-05;Aurouze;MdP nouveau technicien;0,5;TMA
 2020-10-05;VINSI;MaJ mémo octobre et decembre;0,5;TMA
 2020-10-05;DeclarVins;Check etab pour vendeur/acteur actif;1;TMA
@@ -17,10 +17,10 @@
 2020-10-12;VinsIGP;Lot en élevage+destination;2;Degustation
 2020-10-13;VinsIGP;Approbation auto drev prec;1;Degustation
 2020-10-13;VinsIGP;Point engagement élevage;0,5;Degustation
-2020-10-13;PlateauUrbain;sprint pre-présentation;4;CommuneMesure
-2020-10-14;PlateauUrbain;sprint pre-présentation;5;CommuneMesure
+2020-10-13;PlateauUrbain;sprint pre-présentation;4;CommuneMesures
+2020-10-14;PlateauUrbain;sprint pre-présentation;5;CommuneMesures
 2020-10-15;PlateauUrbain;Prez Voltaire;0;Reunion
-2020-10-15;PlateauUrbain;cleanage code;1;CommuneMesure
+2020-10-15;PlateauUrbain;cleanage code;1;CommuneMesures
 2020-10-15;VinsIGP;wording + bug fix;1;Degustation
 2020-10-15;VinsIGP;Table 1 -> Table A;1;Degustation
 2020-10-16;VinsIGP;Tri + récap;1;Degustation
@@ -42,11 +42,11 @@
 2020-10-30;AVA;Modification Constat;0,5;TMA
 2020-10-30;Aurouze;Recalcul debit / crédit export facture;2;TMA
 2020-10-14;AHJUCAF;Integration arrets;7;TMA
-2020-10-14;PU;Ajout données;2;AD
+2020-10-14;PlateauUrbain;Ajout données;2;CommuneMesures
 2020-10-20;CIVA;Suppression DRM;0;TMA
-2020-10-26;AUROUZE;Mailto Email de facturation;7;EF
+2020-10-26;Aurouze;Mailto Email de facturation;7;TMA
 2020-10-22;IVSO;Maj Champs Dégré;0;TMA
-2020-10-30;IGP;Scrapping Export;12;SE
+2020-10-30;VinsIGP;Scrapping Export;12;Forfait
 2020-10-31;CIVA;Assistance / Demande;3,5;TMA
 2020-10-31;DeclarVins;Assistance / Demande;35;TMA
 2020-10-31;IR;Espace documentaire / import SIG;21;TMA
@@ -63,24 +63,24 @@
 2020-10-30;AVA;Développement DREV / Habilitations;35;TMA Mame
 2020-10-30;ODGRhone;Evolution du Site Internet;24;TMA Mame
 2020-10-01;24eme;temps;1;24eme
-2020-10-01;OdgProvence;tma;1;TMA
+2020-10-01;ODGProvence;tma;1;TMA
 2020-10-01;Prodimmo;logiciel Factures;1,5;Facturation
 2020-10-01;VINSI;reserve interpro;1;Reunion
 2020-10-02;IVBD;tma contrat et contact;3,5;TMA
 2020-10-05;24eme;facturation des Igp;2;24eme
-2020-10-05;VinIGP;interface;3,5;Forfait
+2020-10-05;VinsIGP;interface;3,5;Forfait
 2020-10-06;24eme;facturation et temps;2;24eme
 2020-10-06;24eme;Tactical;3;24eme
 2020-10-07;24eme;facturation;2;24eme
-2020-10-07;VinIGP;interface;2,5;Forfait
-2020-10-08;VinIGP;Ticket et interfaces;7;Forfait
-2020-10-09;VinIGP;Gestion degustateur;6;Forfait
-2020-10-12;VinIGP;Gestion conformite;5,5;Forfait
+2020-10-07;VinsIGP;interface;2,5;Forfait
+2020-10-08;VinsIGP;Ticket et interfaces;7;Forfait
+2020-10-09;VinsIGP;Gestion degustateur;6;Forfait
+2020-10-12;VinsIGP;Gestion conformite;5,5;Forfait
 2020-10-13;24eme;Medecine du travail;1;Medecin
-2020-10-13;PlateauUrbain;Fine Tuning;5;CommuneMesure
-2020-10-13;VinIGP;Effervescent vins de base;1;Forfait
-2020-10-14;PlateauUrbain;Fine Tuning;2;CommuneMesure
-2020-10-14;VinIGP;Effervescent vins de base;2,5;Forfait
+2020-10-13;PlateauUrbain;Fine Tuning;5;CommuneMesures
+2020-10-13;VinsIGP;Effervescent vins de base;1;Forfait
+2020-10-14;PlateauUrbain;Fine Tuning;2;CommuneMesures
+2020-10-14;VinsIGP;Effervescent vins de base;2,5;Forfait
 2020-10-15;24eme;Congès;7;Congès
 2020-10-16;24eme;Congès;7;Congès
 2020-10-19;24eme;Congès;7;Congès
@@ -101,7 +101,7 @@
 2020-10-31;CIVA;Direction technique;7;TMA DT
 2020-10-31;AVA;Direction technique;3,5;TMA DT
 2020-10-31;ODGRhone;Direction technique;10,5;DRevCru DT
-2020-10-31;CommuneMesure;Direction technique;14;TMA DT
+2020-10-31;PlateauUrbain;Direction technique;14;CommuneMesures
 2020-10-31;ODGProvence;Direction technique;3,5;TMA DT
 2020-10-31;AVA;TMA et DREV 2020;7;TMA
 2020-10-31;CIVA;DR 2020 et TMA;63;TMA
@@ -110,7 +110,7 @@
 2020-10-31;DeclarVins;TMA DRM;3,5;TMA
 2020-10-31;VINSI;TMA DRM;2,0;TMA
 2020-10-31;IVSO;TMA DRM;5,0;TMA
-2020-10-31;PlateauUrbain;Mini finetuning;10,5;CommuneMesure
+2020-10-31;PlateauUrbain;Mini finetuning;10,5;CommuneMesures
 2020-10-31;ODGProvence;Ouverture DRev;1,5;TMA
 2020-10-31;Prodimmo;Mini finetuning;7,0;Mongo
 2020-10-31;VinsIGP;Dév des imports;10,5;Forfait
