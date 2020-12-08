@@ -1,11 +1,8 @@
-2020-10-31;AVA;TMA et DREV 2020;7;TMA
-2020-10-31;CIVA;DR 2020 et TMA;63;TMA
-2020-10-31;Aurouze;Solde client;3,5;TMA Tuenet
-2020-10-31;ODGRhone;DRev cru et droit de consultation;14;DRevCru
-2020-10-31;DeclarVins;TMA DRM;3,5;TMA
-2020-10-31;VINSI;TMA DRM;2,0;TMA
-2020-10-31;IVSO;TMA DRM;5,0;TMA
-2020-10-31;PlateauUrbain;Mini finetuning;10,5;CommuneMesure
-2020-10-31;ODGProvence;Ouverture DRev;1,5;TMA
-2020-10-31;Prodimmo;Mini finetuning;7,0;Mongo
-2020-10-31;VinsIGP;Dév des imports;10,5;Forfait
+2020-11-30;AVA;TMA;7;TMA
+2020-11-30;CIVA;TMA DR et DRM et EXPORT BI DR;24,5;TMA
+2020-11-30;ODGRhone;DRev Mutage SV11/SV12, engagement PDF, export mutage, et corrections;10,5;DRevCru
+2020-11-30;ODGRhone;Export csv code de création, recherche par siret;3,5;TMA
+2020-11-30;VINSI;TMA DRM;3,5;TMA
+2020-11-30;VINSI;TMA et améliorations;28;ODG
+2020-10-31;Prodimmo;Automatisation du script de tests unitaires;3,5;Outils internes
+2020-10-31;VinsIGP;Dév imports et corrections;3,5;Forfait
