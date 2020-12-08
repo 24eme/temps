@@ -1,0 +1,28 @@
+Date;Projet;Description;Temps (en heure);Tache
+2020-10-05;VinsIGP;Fix rajout de lot constant;1;Forfait
+2020-10-05;VinsIGP;interface;3,5;Forfait
+2020-10-07;VinsIGP;interface;2,5;Forfait
+2020-10-08;VinsIGP;Ticket et interfaces;7;Forfait
+2020-10-09;VinsIGP;Gestion degustateur;6;Forfait
+2020-10-12;VinsIGP;Gestion conformite;5,5;Forfait
+2020-10-12;VinsIGP;Lot en élevage+destination;2;Forfait
+2020-10-13;VinsIGP;Approbation auto drev prec;1;Forfait
+2020-10-13;VinsIGP;Effervescent vins de base;1;Forfait
+2020-10-13;VinsIGP;Point engagement élevage;0,5;Forfait
+2020-10-14;VinsIGP;Effervescent vins de base;2,5;Forfait
+2020-10-15;VinsIGP;Table 1 -> Table A;1;Forfait
+2020-10-15;VinsIGP;wording + bug fix;1;Forfait
+2020-10-16;VinsIGP;Tri + récap;1;Forfait
+2020-10-20;VinsIGP;Mise a jour logement Degustation;3;Forfait
+2020-10-21;VinsIGP;Hamza style degustateur;1,5;Forfait
+2020-10-21;VinsIGP;Page modif lot;2;Forfait
+2020-10-21;VinsIGP;Total lot synthese;1;Forfait
+2020-10-22;VinsIGP;Fix test Degustation;1;Forfait
+2020-10-22;VinsIGP;wip test modification de lot;4;Forfait
+2020-10-26;VinsIGP;Test modification avec modificatrice drev;3;Forfait
+2020-10-27;VinsIGP;tests;2;Forfait
+2020-10-28;VinsIGP;Date degustation à la date du jour;1;Forfait
+2020-10-28;VinsIGP;modif formulaire drev;3;Forfait
+2020-10-30;VinsIGP;Scrapping Export;12;Forfait
+2020-10-31;VinsIGP;Dev chgt denom / import lots;35;Forfait
+2020-10-31;VinsIGP;Dév des imports;10,5;Forfait
