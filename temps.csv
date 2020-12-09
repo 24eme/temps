@@ -10,7 +10,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-11-03;VinsIGP;Reunion;3,5;Reunion$
 2020-11-03;VinsIGP;Changement volume degust;1;Forfait
 2020-11-03;VinsIGP;Validation drev modificatrice;1;Forfait
-2020-11-04;Aurouze;Fix export facture;1,5;TMA
+2020-11-04;Aurouze;Fix export facture;1,5;TMA Aurouze
 2020-11-04;VinsIGP;Validation odg modificatrice;0,5;Forfait
 2020-11-09;CIVA;DRM bloquée;0,5;TMA
 2020-11-09;VINSI;Contrat DRM;1,5;TMA
@@ -42,7 +42,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-11-02;VinsIGP;gestion degustation;4,5;Forfait
 2020-11-03;VinsIGP;gestion degustation;3,5;Forfait
 2020-11-03;VinsIGP;reunion;3,5;Reunion
-2020-11-04;Aurouze;devis relance ;3;TMA
+2020-11-04;Aurouze;devis relance ;3;TMA Aurouze
 2020-11-04;IVSO;probleme synchro nextcloud;1,5;TMA
 2020-11-05;DeclarVins;probleme import edi;2;TMA
 2020-11-05;IVBD; stats contrats et autre probleme;5;TMA
@@ -68,7 +68,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-11-23;VinsIGP;facturation et pdf;3,5;Forfait
 2020-11-24;CIVA;recap VCI DRM et Délégation;3;TMA
 2020-11-25;VINSI;ajout pays negoce;1;TMA
-2020-11-26;Aurouze;facture ;1;TMA TueNet
+2020-11-26;Aurouze;facture ;1;TMA Tuenet
 2020-11-26;CIVA;maj tiers;1;TMA
 2020-11-26;IVSO;libelle cepage dans les vracs;1,5;TMA
 2020-11-26;VinsIGP;facturation des chgdenom;1,5;Forfait
@@ -90,7 +90,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2020-11-30;VinsIGP;Developpements;38,5;Forfait
 2020-11-30;VINSI;Assistance / Demande;3,5;TMA
 2020-11-30;VINSI;Assistance / Demande Syndicats;10,5;TMA
-2020-11-30;Aurouze;Assistance / Demande;7;TMA
+2020-11-30;Aurouze;Assistance / Demande;7;TMA Aurouze
 2020-11-30;Aurouze;Assistance / Demande;7;TMA Tuenet
 2020-11-30;Sancerre;Assistance / Demande;3,5;TMA
 2020-11-30;ODGRhone;Assistance / Demande;7;TMA
