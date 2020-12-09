@@ -1,44 +1,29 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2020-10-01;PlateauUrbain;getter / setter specifiques;2;CommuneMesure
-2020-10-05;PlateauUrbain;modif page home;0,5;CommuneMesure
-2020-10-05;Aurouze;MdP nouveau technicien;0,5;TMA
-2020-10-05;VINSI;MaJ mémo octobre et decembre;0,5;TMA
-2020-10-05;DeclarVins;Check etab pour vendeur/acteur actif;1;TMA
-2020-10-05;IVSO;Facturation Lubiato;0,5;TMA
-2020-10-05;CIVA;Dé-suppression DRM;0,5;TMA
-2020-10-05;Aurouze;Exports;0,5;TMA
-2020-10-05;VinsIGP;Fix rajout de lot constant;1;Degustation
-2020-10-06;Aurouze;css print page passage en erreur;2;TMA
-2020-10-07;DeclarVins;Vue mouvement: si pas de nom ->raison sociale;1,5;TMA
-2020-10-07;VINSI;Déblocage saisie interne;0,5;TMA
-2020-10-07;CIVA;Déblocage DRM;0,5;TMA
-2020-10-08;CIVA;coupure ciel;0,5;TMA
-2020-10-08;DeclarVins;Import DTI+;0,5;TMA
-2020-10-08;VINSI;Fix probleme soustraction float;2;TMA
-2020-10-12;VinsIGP;Lot en élevage+destination;2;Degustation
-2020-10-13;VinsIGP;Approbation auto drev prec;1;Degustation
-2020-10-13;VinsIGP;Point engagement élevage;0,5;Degustation
-2020-10-13;PlateauUrbain;sprint pre-présentation;4;CommuneMesure
-2020-10-14;PlateauUrbain;sprint pre-présentation;5;CommuneMesure
-2020-10-15;PlateauUrbain;Prez Voltaire;0;Reunion
-2020-10-15;PlateauUrbain;cleanage code;1;CommuneMesure
-2020-10-15;VinsIGP;wording + bug fix;1;Degustation
-2020-10-15;VinsIGP;Table 1 -> Table A;1;Degustation
-2020-10-16;VinsIGP;Tri + récap;1;Degustation
-2020-10-20;VinsIGP;Mise a jour logement Degustation;3;Degustation
-2020-10-21;VinsIGP;Hamza style degustateur;1,5;Degustation
-2020-10-21;VinsIGP;Total lot synthese;1;Degustation
-2020-10-21;VinsIGP;Page modif lot;2;Degustation
-2020-10-22;VinsIGP;Fix test Degustation;1;Degustation
-2020-10-22;VinsIGP;wip test modification de lot;4;Degustation
-2020-10-23;Prodimmo;sprint RC1 MongoCrud;4;MongoCrud
-2020-10-26;VinsIGP;Test modification avec modificatrice drev;3;Degustation
-2020-10-27;VinsIGP;tests;2;Degustation
-2020-10-27;Aurouze;Numéro contrat facture en retard;1;TMA
-2020-10-27;ODGRhone;Drev L15/L5;1,5;TMA
-2020-10-28;VinsIGP;Date degustation à la date du jour;1;Degustation
-2020-10-28;VinsIGP;modif formulaire drev;3;Degustation
-2020-10-29;IVBD;mvmt vrac a jour;1;TMA
-2020-10-30;CIVA;Recupération DR;1;TMA
-2020-10-30;AVA;Modification Constat;0,5;TMA
-2020-10-30;Aurouze;Recalcul debit / crédit export facture;2;TMA
+2020-11-02;VinsIGP;chgmt dégustation prélèvement;1,5;Degustation
+2020-11-02;VinsIGP;changement volume degust;2;Degustation
+2020-11-03;VinsIGP;Réunion;3,5;Réunion
+2020-11-03;VinsIGP;Changement volume degust;1;Degustation
+2020-11-03;VinsIGP;Validation drev modificatrice;1;Degustation
+2020-11-04;Aurouze;Fix export facture;1,5;TMA
+2020-11-04;VinsIGP;Validation odg modificatrice;0,5;Degustation
+2020-11-09;CIVA;DRM bloquée;0,5;TMA
+2020-11-09;VINSI;Contrat DRM;1,5;TMA
+2020-11-09;IVBD;Date contrat;0,5;TMA
+2020-11-09;ODGNantes;export DR;1,5;TMA
+2020-11-10;Aurouze;Passages fantomes;2;TMA Tuenet
+2020-11-10;IVBD;Date contrat;0,5;TMA
+2020-11-12;CIVA;pdf orga marché;1;TMA
+2020-11-12;CIVA;Date DR civa;0,5;TMA
+2020-11-12;AVA;Constat;0,5;TMA
+2020-11-12;VinsIGP;travaux degust;1,5;Degustation
+2020-11-13;IVSO;DRM vinovalie;1,5;TMA
+2020-11-13;VINSI;Multicompte lacheteau;2;TMA
+2020-11-16;AVA;DPAP;1;TMA
+2020-11-16;AVA;Label;0,5;TMA
+2020-11-16;CIVA;Volume contrat;0,5;TMA
+2020-11-17;AVA;Multiple acheteurs fix;1;TMA
+2020-11-17;IVBD;DRM vircoulon / chevallier;2;TMA
+2020-11-18;VINSI;Modif contrat;0,5;TMA
+2020-11-19;CIVA;Maj tier;0,5;TMA
+2020-11-19;AVA;export registre VCI;1,5;TMA
+2020-11-20;CIVA;DRM bloquée;0,5;TMA
