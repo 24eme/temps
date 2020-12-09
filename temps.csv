@@ -1,1 +1,102 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2020-11-30;AVA;TMA;7;TMA
+2020-11-30;CIVA;TMA DR et DRM et EXPORT BI DR;24,5;TMA
+2020-11-30;ODGRhone;DRev Mutage SV11/SV12, engagement PDF, export mutage, et corrections;10,5;DRevCru
+2020-11-30;ODGRhone;Export csv code de création, recherche par siret;3,5;TMA
+2020-11-30;VINSI;TMA DRM;3,5;TMA
+2020-11-30;VINSI;TMA et améliorations;28;ODG
+2020-11-02;VinsIGP;chgmt dégustation prélèvement;1,5;Degustation
+2020-11-02;VinsIGP;changement volume degust;2;Degustation
+2020-11-03;VinsIGP;Réunion;3,5;Réunion
+2020-11-03;VinsIGP;Changement volume degust;1;Degustation
+2020-11-03;VinsIGP;Validation drev modificatrice;1;Degustation
+2020-11-04;Aurouze;Fix export facture;1,5;TMA
+2020-11-04;VinsIGP;Validation odg modificatrice;0,5;Degustation
+2020-11-09;CIVA;DRM bloquée;0,5;TMA
+2020-11-09;VINSI;Contrat DRM;1,5;TMA
+2020-11-09;IVBD;Date contrat;0,5;TMA
+2020-11-09;ODGNantes;export DR;1,5;TMA
+2020-11-10;Aurouze;Passages fantomes;2;TMA Tuenet
+2020-11-10;IVBD;Date contrat;0,5;TMA
+2020-11-12;CIVA;pdf orga marché;1;TMA
+2020-11-12;CIVA;Date DR civa;0,5;TMA
+2020-11-12;AVA;Constat;0,5;TMA
+2020-11-12;VinsIGP;travaux degust;1,5;Degustation
+2020-11-13;IVSO;DRM vinovalie;1,5;TMA
+2020-11-13;VINSI;Multicompte lacheteau;2;TMA
+2020-11-16;AVA;DPAP;1;TMA
+2020-11-16;AVA;Label;0,5;TMA
+2020-11-16;CIVA;Volume contrat;0,5;TMA
+2020-11-17;AVA;Multiple acheteurs fix;1;TMA
+2020-11-17;IVBD;DRM vircoulon / chevallier;2;TMA
+2020-11-18;VINSI;Modif contrat;0,5;TMA
+2020-11-19;CIVA;Maj tier;0,5;TMA
+2020-11-19;AVA;export registre VCI;1,5;TMA
+2020-11-20;CIVA;DRM bloquée;0,5;TMA
+2020-11-12;IGP;Export;3;Forfait
+2020-11-12;IGP;Import;3;Forfait
+2020-11-13;IGP;Ajout Produit;0,5;Forfait
+2020-11-13;IGP;Interface;1,5;Forfait
+2020-11-17;IGP;PDF;6;Forfait
+2020-11-02;AVA;registre VCI;2;TMA
+2020-11-02;VinIGP;gestion degustation;4,5;Forfait
+2020-11-03;VinIGP;gestion degustation;3,5;Forfait
+2020-11-03;VinIGP;reunion;3,5;Reunion
+2020-11-04;Aurouze;devis relance ;3;TMA
+2020-11-04;IVSO;probleme synchro nextcloud;1,5;TMA
+2020-11-05;DeclarVins;probleme import edi;2;TMA
+2020-11-05;IVBD; stats contrats et autre probleme;5;TMA
+2020-11-06;CIVA;debugage DRM semaine declaration;0,5;TMA
+2020-11-06;DeclarVins;probleme import edi;0,5;TMA
+2020-11-06;IVBD; stats contrats et autre probleme;3;TMA
+2020-11-09;CIVA;contrat mercurial et autre contrat a modifier;1,5;TMA
+2020-11-09;DeclarVins;probleme import edi et drm;1,5;TMA
+2020-11-10;24eme;tm;3,5;tm
+2020-11-10;CIVA;rapport douane;2;TMA
+2020-11-10;IVBD; problemes de DRM;1;TMA
+2020-11-12;CIVA;mercurial et vrac;2;TMA
+2020-11-12;DeclarVins;probleme drm et ciel;2;TMA
+2020-11-12;IVSO;changement visu de DRM negoce;2;TMA
+2020-11-13;DeclarVins; tma;1;TMA
+2020-11-13;VINSI;pb vitifly;1,5;TMA
+2020-11-16;IVBD; stats et resynchro;1,5;TMA
+2020-11-16;VinIGP;gestion etiquette;5;Forfait
+2020-11-17;VinIGP;pdf et degustation;4,5;Forfait
+2020-11-18;VinIGP;import de donnée et drev;5,5;Forfait
+2020-11-19;VinIGP;template facturation;3,5;Forfait
+2020-11-23;CIVA;mis a jour notice VCI et DR;3;TMA
+2020-11-23;VinIGP;facturation et pdf;3,5;Forfait
+2020-11-24;CIVA;recap VCI DRM et Délégation;3;TMA
+2020-11-24;VINSI;pb Drev;2,5;ODG non facturable
+2020-11-25;VINSI;ajout pays negoce;1;TMA
+2020-11-25;VINSI;pb Drev;4,5;ODG non facturable
+2020-11-26;Aurouze;facture ;1;TMA TueNet
+2020-11-26;CIVA;maj tiers;1;TMA
+2020-11-26;IVSO;libelle cepage dans les vracs;1,5;TMA
+2020-11-26;VinIGP;facturation des chgdenom;1,5;Forfait
+2020-11-26;VINSI;pb Drev;2,5;ODG non facturable
+2020-11-27;VinIGP;test et lots dans drev;6;Forfait
+2020-11-30;VinIGP;gestion des specificite;1,5;Forfait
+2020-11-30;VINSI;pb Drev;1,5;ODG non facturable
+2020-11-30;CNIV;Direction technique;3,5;TMA DT
+2020-11-30;AHJUCAF;Direction technique;3,5;DT TMA
+2020-11-30;VinsIGP;Direction technique;7;Forfait
+2020-11-30;VINSI;Direction technique;3,5;Vinsi TMA DT
+2020-11-30;VINSI;Direction technique;3,5;Vinsi FA TMA DT
+2020-11-30;VINSI;Direction technique;10,5;ODG DT
+2020-11-30;VINSI;Direction technique;3,5;ODG Reserve Interpro DT
+2020-11-30;IVBD;Direction technique;3,5;TMA DT
+2020-11-30;AVA;Direction technique;10,5;TMA DT
+2020-11-30;CIVA;Assistance / Demande;7;TMA
+2020-11-30;DeclarVins;Assistance / Demande;21;TMA
+2020-11-30;IVBD;Assistance / Demande;3,5;TMA
+2020-11-30;IVSO;Assistance / Demande;7;TMA
+2020-11-30;VinsIGP;Developpements;38,5;Forfait
+2020-11-30;VINSI;Assistance / Demande;3,5;TMA
+2020-11-30;VINSI;Assistance / Demande Syndicats;10,5;TMA
+2020-11-30;Aurouze;Assistance / Demande;7;TMA
+2020-11-30;Aurouze;Assistance / Demande;7;TMA Tuenet
+2020-11-30;Sancerre;Assistance / Demande;3,5;TMA
+2020-11-30;ODGRhone;Assistance / Demande;7;TMA
+2020-11-30;AVA;Developpement Facturation / Degustation;14;
+2020-11-30;IGP13;Developpement Degustation / PDF;20;
