@@ -1,29 +1,41 @@
-2020-10-01;24eme;temps;1;24eme
-2020-10-01;ODGProvence;tma;1;TMA
-2020-10-01;Prodimmo;logiciel Factures;1,5;Facturation
-2020-10-01;VINSI;reserve interpro;1;Reunion
-2020-10-02;IVBD;tma contrat et contact;3,5;TMA
-2020-10-05;24eme;facturation des Igp;2;24eme
-2020-10-05;VinsIGP;interface;3,5;Forfait
-2020-10-06;24eme;facturation et temps;2;24eme
-2020-10-06;24eme;Tactical;3;24eme
-2020-10-07;24eme;facturation;2;24eme
-2020-10-07;VinsIGP;interface;2,5;Forfait
-2020-10-08;VinsIGP;Ticket et interfaces;7;Forfait
-2020-10-09;VinsIGP;Gestion degustateur;6;Forfait
-2020-10-12;VinsIGP;Gestion conformite;5,5;Forfait
-2020-10-13;24eme;Medecine du travail;1;Medecin
-2020-10-13;PlateauUrbain;Fine Tuning;5;CommuneMesure
-2020-10-13;VinsIGP;Effervescent vins de base;1;Forfait
-2020-10-14;PlateauUrbain;Fine Tuning;2;CommuneMesure
-2020-10-14;VinsIGP;Effervescent vins de base;2,5;Forfait
-2020-10-15;24eme;Congès;7;Congès
-2020-10-16;24eme;Congès;7;Congès
-2020-10-19;24eme;Congès;7;Congès
-2020-10-20;24eme;Congès;7;Congès
-2020-10-21;24eme;Congès;7;Congès
-2020-10-22;24eme;Congès;7;Congès
-2020-10-23;24eme;Congès;7;Congès
-2020-10-26;24eme;Congès;7;Congès
-2020-10-27;24eme;Congès;7;Congès
-2020-10-28;24eme;Congès;7;Congès
+2020-10-30;VinIGP;ouverture Facturation;3,5;Forfait
+2020-11-02;AVA;registre VCI;2;TMA
+2020-11-02;VinIGP;gestion degustation;4,5;Forfait
+2020-11-03;VinIGP;gestion degustation;3,5;Forfait
+2020-11-03;VinIGP;reunion;3,5;Reunion
+2020-11-04;Aurouze;devis relance ;3;TMA
+2020-11-04;IVSO;probleme synchro nextcloud;1,5;TMA
+2020-11-05;DeclarVins;probleme import edi;2;TMA
+2020-11-05;IVBD; stats contrats et autre probleme;5;TMA
+2020-11-06;CIVA;debugage DRM semaine declaration;0,5;TMA
+2020-11-06;DeclarVins;probleme import edi;0,5;TMA
+2020-11-06;IVBD; stats contrats et autre probleme;3;TMA
+2020-11-09;CIVA;contrat mercurial et autre contrat a modifier;1,5;TMA
+2020-11-09;DeclarVins;probleme import edi et drm;1,5;TMA
+2020-11-10;24eme;tm;3,5;tm
+2020-11-10;CIVA;rapport douane;2;TMA
+2020-11-10;IVBD; problemes de DRM;1;TMA
+2020-11-12;CIVA;mercurial et vrac;2;TMA
+2020-11-12;DeclarVins;probleme drm et ciel;2;TMA
+2020-11-12;IVSO;changement visu de DRM negoce;2;TMA
+2020-11-13;DeclarVins; tma;1;TMA
+2020-11-13;VINSI;pb vitifly;1,5;TMA
+2020-11-16;IVBD; stats et resynchro;1,5;TMA
+2020-11-16;VinIGP;gestion etiquette;5;Forfait
+2020-11-17;VinIGP;pdf et degustation;4,5;Forfait
+2020-11-18;VinIGP;import de donnée et drev;5,5;Forfait
+2020-11-19;VinIGP;template facturation;3,5;Forfait
+2020-11-23;CIVA;mis a jour notice VCI et DR;3;TMA
+2020-11-23;VinIGP;facturation et pdf;3,5;Forfait
+2020-11-24;CIVA;recap VCI DRM et Délégation;3;TMA
+2020-11-24;VINSI;pb Drev;2,5;ODG non facturable
+2020-11-25;VINSI;ajout pays negoce;1;TMA
+2020-11-25;VINSI;pb Drev;4,5;ODG non facturable
+2020-11-26;Aurouze;facture ;1;TMA TueNet
+2020-11-26;CIVA;maj tiers;1;TMA
+2020-11-26;IVSO;libelle cepage dans les vracs;1,5;TMA
+2020-11-26;VinIGP;facturation des chgdenom;1,5;Forfait
+2020-11-26;VINSI;pb Drev;2,5;ODG non facturable
+2020-11-27;VinIGP;test et lots dans drev;6;Forfait
+2020-11-30;VinIGP;gestion des specificite;1,5;Forfait
+2020-11-30;VINSI;pb Drev;1,5;ODG non facturable
