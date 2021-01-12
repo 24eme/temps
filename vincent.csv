@@ -1,8 +1,7 @@
-2020-11-30;AVA;TMA;7;TMA
-2020-11-30;CIVA;TMA DR et DRM et EXPORT BI DR;24,5;TMA
-2020-11-30;ODGRhone;DRev Mutage SV11/SV12, engagement PDF, export mutage, et corrections;10,5;DRevCru
-2020-11-30;ODGRhone;Export csv code de création, recherche par siret;3,5;TMA
-2020-11-30;VINSI;TMA DRM;3,5;TMA
-2020-11-30;VINSI;TMA et améliorations;28;ODG
-2020-10-31;Prodimmo;Automatisation du script de tests unitaires;3,5;Outils internes
-2020-10-31;VinsIGP;Dév imports et corrections;3,5;Forfait
+2020-12-31;AVA;TMA;3,5;TMA
+2020-12-31;CIVA;TMA DR et DRM, EXPORT BI DR;63;TMA
+2020-12-31;VINSI;TMA DREV;3,5;ODG
+2020-12-31;Prodimmo;Mon activité import depuis un CSV;14,0;Outils internes
+2020-12-31;ODGRhone;Mise à jour des DR et désactivation du logement;3,5;TMA
+2020-12-31;NathanMode;Stat par commercial et ajout d'un champs type de pièce;14;Dev
+2020-12-31;VinsIGP;Dév;10,5;Forfait
