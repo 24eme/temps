@@ -1,0 +1,44 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+24eme;;0;0,0
+24eme;TOTAL;0;0,0
+AHJUCAF;DT TMA;3,5;0,5
+AHJUCAF;TOTAL;3,5;0,5
+Aurouze;TMA;11;1,6
+Aurouze;TOTAL;11;1,6
+AVA;TMA;14,5;2,1
+AVA;TMA DT;7;1,0
+AVA;TOTAL;21,5;3,1
+CIVA;TMA;84;12,0
+CIVA;TOTAL;84;12,0
+CNIV;TMA DT;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+DeclarVins;TMA;18;2,6
+DeclarVins;TOTAL;18;2,6
+IVBD;RI DT;7;1,0
+IVBD;TMA;17;2,4
+IVBD;TOTAL;24;3,4
+IVSO;TMA;9;1,3
+IVSO;TMA DT;7;1,0
+IVSO;TOTAL;16;2,3
+NathanMode;Dev;14;2,0
+NathanMode;TOTAL;14;2,0
+ODGProvence;TMA;0,5;0,1
+ODGProvence;TOTAL;0,5;0,1
+ODGRhone;TMA;8;1,1
+ODGRhone;TMA DT;3,5;0,5
+ODGRhone;TOTAL;11,5;1,6
+PlateauUrbain;CommuneMesure;19;2,7
+PlateauUrbain;TOTAL;19;2,7
+Prodimmo;Outils internes;14;2,0
+Prodimmo;TOTAL;14;2,0
+Sancerre;TMA;0,5;0,1
+Sancerre;TOTAL;0,5;0,1
+VinIGP;Forfait;133,5;19,1
+VinIGP;Reunion;3;0,4
+VinIGP;TOTAL;136,5;19,5
+VINSI;ODG;20;2,9
+VINSI;ODG DT;10,5;1,5
+VINSI;ODG Reserve Interpro DT;3,5;0,5
+VINSI;TMA;12;1,7
+VINSI;TOTAL;46;6,6
+TOTAL;TOTAL;60,5

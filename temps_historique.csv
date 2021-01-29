@@ -1,4 +1,99 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2020-12-31;VINSI;TMA DREV;14;ODG
+2020-12-31;VINSI;Direction technique;3,5;ODG Reserve Interpro DT
+2020-12-31;VINSI;Direction technique;10,5;ODG DT
+2020-12-31;VinIGP;PDF;14;Forfait
+2020-12-31;VinIGP;Direction technique;14;Forfait
+2020-12-31;VinIGP;Developpements;28;Forfait
+2020-12-31;VinIGP;Developpement;5;Forfait
+2020-12-31;VinIGP;"Dev:Drev suppression lots, synthèse igp";14;Forfait
+2020-12-31;VinIGP;Dév;10,5;Forfait
+2020-12-31;Prodimmo;Mon activité import depuis un CSV;14,0;Outils internes
+2020-12-31;ODGRhone;Mise à jour des DR et désactivation du logement;3,5;TMA
+2020-12-31;ODGRhone;Direction technique;3,5;TMA DT
+2020-12-31;ODGRhone;Assistance / Demande;1;TMA
+2020-12-31;NathanMode;Stat par commercial et ajout d'un champs type de pièce;14;Dev
+2020-12-31;IVSO;Direction technique;7;TMA DT
+2020-12-31;IVSO;Assistance / Demande;3,5;TMA
+2020-12-31;IVBD;Format date calendrier;0,5;TMA
+2020-12-31;IVBD;Direction technique;7;RI DT
+2020-12-31;IVBD;Assistance / Demande;3,5;TMA
+2020-12-31;DeclarVins;Assistance / Demande;14;TMA
+2020-12-31;CNIV;Direction technique;3,5;TMA DT
+2020-12-31;CIVA;TMA DR et DRM, EXPORT BI DR;63;TMA
+2020-12-31;CIVA;Assistance / Demande;3,5;TMA
+2020-12-31;AVA;TMA;3,5;TMA
+2020-12-31;AVA;Direction technique;7;TMA DT
+2020-12-31;Aurouze;Assistance / Demande;7;TMA
+2020-12-31;AHJUCAF;Direction technique;3,5;DT TMA
+2020-12-30;VINSI;tma drev et contrat;2;TMA
+2020-12-30;VinIGP;prise en compte de la campagne dans la visu lots;2;Forfait
+2020-12-30;CIVA;Export XML;1,5;TMA
+2020-12-30;AVA;tma;0,5;TMA
+2020-12-30;Aurouze;tma ;1;TMA
+2020-12-29;VinIGP;coherence dégustateurs;1,5;Forfait
+2020-12-29;PlateauUrbain;Page edition lieu protégé;4,5;CommuneMesure
+2020-12-29;Aurouze;Page facture vide;1;TMA
+2020-12-28;VinIGP;remonte et gestion validation chgdenom;3,5;Forfait
+2020-12-24;Aurouze;Changement de technicien;1;TMA
+2020-12-23;VINSI;tma probleme mail;1,5;ODG
+2020-12-23;IVSO;tma;1;TMA
+2020-12-23;IVBD;tma contratrs;2;TMA
+2020-12-23;CIVA;tma;2;TMA
+2020-12-22;AVA;Export VCI 2019;1;TMA
+2020-12-21;AVA;Export VCI 2019;1;TMA
+2020-12-18;VINSI;rectification drev;2,5;TMA
+2020-12-18;Sancerre;tma;0,5;TMA
+2020-12-18;ODGRhone;debug tma Drev;1;TMA
+2020-12-18;ODGProvence;gestion fermeture DR;0,5;TMA
+2020-12-18;IVSO;tma;2;TMA
+2020-12-18;IVBD;tma DRM contrat contact;6,5;TMA
+2020-12-18;DeclarVins;tma;1;TMA
+2020-12-18;CIVA;tma contrat drm;2;TMA
+2020-12-18;AVA;tma;2,5;TMA
+2020-12-18;AVA;Export VCI 2019;1;TMA
+2020-12-17;PlateauUrbain;Passage en sqlite;2,5;CommuneMesure
+2020-12-16;PlateauUrbain;Passage en sqlite;4;CommuneMesure
+2020-12-15;PlateauUrbain;Passage en sqlite;4;CommuneMesure
+2020-12-14;VINSI;tma DRM;5;TMA
+2020-12-14;VINSI;rectification drev et factures;1,5;ODG
+2020-12-14;VINSI;pb Drev et import Dr;3;ODG
+2020-12-14;VinIGP;Import;10;Forfait
+2020-12-14;PlateauUrbain;Passage en sqlite;4;CommuneMesure
+2020-12-14;ODGRhone;debug tma SV12 commune et blocage Drev;1,5;TMA
+2020-12-14;IVSO;tma;1,5;TMA
+2020-12-14;IVBD;tma DRM stats et contrat;4,5;TMA
+2020-12-14;DeclarVins;probleme drm et import edi;1;TMA
+2020-12-14;DeclarVins;Ajout produit;1;TMA
+2020-12-14;CIVA;tma retrait repli automatique AE délégation gestion DRM et gestion DR;7;TMA
+2020-12-14;AVA;probleme de registre et registre 2020;2;TMA
+2020-12-14;Aurouze;tma facturation ;1;TMA
+2020-12-11;ODGRhone;Habilitation;1;TMA
+2020-12-11;DeclarVins;Import DRM;1;TMA
+2020-12-11;CIVA;Creation acheteur;0,5;TMA
+2020-12-11;AVA;Pts bloquant DRev;1;TMA
+2020-12-10;VINSI;Transmission DRM;0,5;TMA
+2020-12-10;VINSI;Accès calendrier;0,5;TMA
+2020-12-10;IVSO;Transmission DRM;0,5;TMA
+2020-12-10;CIVA;Ajout acheteur;1;TMA
+2020-12-09;AVA;Import DR;1;TMA
+2020-12-08;VINSI;Import DRM;1;TMA
+2020-12-08;VinIGP;sprint4;3;Reunion
+2020-12-08;CIVA;Changement contrat;1,5;TMA
+2020-12-08;AVA;Import DR;1;TMA
+2020-12-07;VINSI;Transmission DRM;0,5;TMA
+2020-12-07;VinIGP;historique lots;6;Forfait
+2020-12-07;IVSO;Modification contrat;0,5;TMA
+2020-12-07;CIVA;Modification de contrat;1,5;TMA
+2020-12-07;CIVA;Maj Tier + acheteur;0,5;TMA
+2020-12-04;VinIGP;refonte visu drev lots;7;Forfait
+2020-12-04;24eme;Gabriel Off;;
+2020-12-03;VinIGP;refonte visu drev lots;7;Forfait
+2020-12-03;24eme;Gabriel Off;;
+2020-12-02;VinIGP;interfaces et tests;5,5;Forfait
+2020-12-02;24eme;Gabriel Off;;
+2020-12-01;VinIGP;gestion des specificite et dev degustateur;5,5;Forfait
+2020-12-01;24eme;Gabriel Off;;
 2020-11-30;VINSI;TMA et améliorations;28;ODG
 2020-11-30;VINSI;TMA DRM;3,5;TMA
 2020-11-30;VinsIGP;gestion des specificite;1,5;Forfait
