@@ -6,7 +6,7 @@ Date;Projet;Description;Temps (en heure);Tache (Optionnel)
 2021-01-05;CIVA;Code douane ED dans l'export;0,5;TMA
 2021-01-05;VinsIGP;Check à déguster par défaut;1;Forfait
 2021-01-06;IVBD;Tarifs douanes;1;TMA
-2021-01-06;BIVC;Tarifs douanes;1;TMA
+2021-01-06;Sancerre;Tarifs douanes;1;TMA
 2021-01-06;ODGNantes;Import déclaration dr;2;TMA
 2021-01-07;IVBD;Maj contrats;0,5;TMA
 2021-01-07;VINSI;négociants purs dans liste acheteur;1;TMA
@@ -21,7 +21,7 @@ Date;Projet;Description;Temps (en heure);Tache (Optionnel)
 2021-01-12;PlateauUrbain;Page admin liste;2,5;CommuneMesure
 2021-01-13;PlateauUrbain;Refacto controller admin;1;CommuneMesure
 2021-01-13;VINSI;Email validation non passés;2,5;TMA
-2021-01-14;BIVC;Facturation par mail;38,5;Facture
+2021-01-14;Sancerre;Facturation par mail;38,5;Facture
 2021-01-15;Aurouze;Date;0,5;TMA
 2021-01-18;Aurouze;Facture + date;0,5;TMA
 2021-01-21;Aurouze;Facture;1;TMA
