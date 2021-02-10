@@ -51,7 +51,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2021-01-31;CIVP;Developpement/Initialisation du projet ;41;
 2021-01-31;VinsIGP;Centilisation, provenance de Lot de Dégustation;35;Forfait
 2021-01-31;VinsIGP;Direction technique;17,5;Forfait
-2021-01-31;VINSI;Direction technique;7;ODG DT
+2021-01-31;VINSI;Direction technique;7;TMA ODG DT
 2021-01-31;VINSI;Direction technique;3,5;Vinsi TMA DT
 2021-01-31;IVBD;Direction technique;3,5;RI DT
 2021-01-31;AVA;Direction technique;3,5;TMA DT
@@ -60,7 +60,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2021-01-31;CIVP;Réunion Calendrier;3,5;DT Réunion
 2021-01-31;AVA;TMA;3,5;TMA
 2021-01-31;CIVA;TMA DR et DRM, EXPORT XML DR;49;TMA
-2021-01-31;VINSI;TMA DREV;2,0;ODG
+2021-01-31;VINSI;TMA DREV;3,5;TMA ODG
 2021-01-31;VINSI;TMA DRM;2,0;TMA
 2021-01-31;ODGRhone;DRev et export sv11 sv12;2,0;TMA
 2021-01-31;VinsIGP;Dév;21;Forfait
