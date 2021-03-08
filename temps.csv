@@ -58,12 +58,12 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2021-02-12;CIVA;tma classique;4,5;TMA
 2021-02-12;IVBD;tma contrats;4,5;TMA
 2021-02-12;VINSI;drm import edi et config;8,5;TMA
-2021-02-15;VinIGP;reorga etapes de saisie;7;Forfait
-2021-02-16;VinIGP;etape notification;3,5;Forfait
-2021-02-16;VinIGP;reu;3,5;Forfait reunion
-2021-02-17;VinIGP;Notification mails;5,5;Forfait
-2021-02-18;VinIGP;refonte send mails notif;6,5;Forfait
-2021-02-19;VinIGP;mis en place test et liens;6;Forfait
+2021-02-15;VinsIGP;reorga etapes de saisie;7;Forfait
+2021-02-16;VinsIGP;etape notification;3,5;Forfait
+2021-02-16;VinsIGP;reu;3,5;Forfait reunion
+2021-02-17;VinsIGP;Notification mails;5,5;Forfait
+2021-02-18;VinsIGP;refonte send mails notif;6,5;Forfait
+2021-02-19;VinsIGP;mis en place test et liens;6;Forfait
 2021-02-25;Aurouze;tma ;1,5;TMA Tuenet
 2021-02-25;Aurouze;tma ;5;TMA
 2021-02-25;DeclarVins;import edi intersud;4;TMA IR
