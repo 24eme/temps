@@ -15,12 +15,13 @@
 2020-05-31;PlateauUrbain;Dev;18;CommunesMesures : Sprint 1 affichage des lieux
 2020-05-31;Giilda IVBD;TMA;0.125;DRM points de controles
 2020-06-30;PlateauUrbain;Dev;21;CommunesMesures : Sprint 1 Questionnaire/illustration
-2020-07-31;PlateauUrbain;Dev;35;CommunesMesures : Sprint 2 transformation questions du questionnaire et leurs utilisations 
-2020-08-31;PlateauUrbain;Dev;35;CommunesMesures : Sprint 3 utilisations des données 
+2020-07-31;PlateauUrbain;Dev;35;CommunesMesures : Sprint 2 transformation questions du questionnaire et leurs utilisations
+2020-08-31;PlateauUrbain;Dev;35;CommunesMesures : Sprint 3 utilisations des données
 2020-10-31;PlateauUrbain;Dev;7;CommunesMesures : Sprint 4 Amélioration des interfaces
 2020-10-31;PlateauUrbain;Dev;14;CommunesMesures : Mise en valeur des Lieux
 2020-10-31;AVA;Dev;7;AVA : DRev
 2020-11-30;AVA;Dev : Liste parcelles ceages acheteurs;3,5;TMA
-2020-11-30;VinIGP;Dev:Drev spécificité, Déclassement, Dégustation pdf;42;Forfait
-2020-12-31;VinIGP;Dev:Drev suppression lots, synthèse igp;14;Forfait
-2021-01-31;VinIGP;Centilisation, provenance de Lot de Dégustation;35;Forfait
+2020-11-30;VinsIGP;Dev:Drev spécificité, Déclassement, Dégustation pdf;42;Forfait
+2020-12-31;VinsIGP;Dev:Drev suppression lots, synthèse igp;14;Forfait
+2021-01-31;VinsIGP;Centilisation, provenance de Lot de Dégustation;35;Forfait
+2021-02-28;VinsIGP;Pt bloquant Lot(pas de produits), Lot degustable;35;Forfait
