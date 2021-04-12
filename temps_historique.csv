@@ -70,12 +70,12 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-12-31;VINSI;TMA DREV;14;ODG
 2020-12-31;VINSI;Direction technique;3,5;ODG Reserve Interpro DT
 2020-12-31;VINSI;Direction technique;10,5;ODG DT
-2020-12-31;VinIGP;PDF;14;Forfait
-2020-12-31;VinIGP;Direction technique;14;Forfait
-2020-12-31;VinIGP;Developpements;28;Forfait
-2020-12-31;VinIGP;Developpement;5;Forfait
-2020-12-31;VinIGP;"Dev:Drev suppression lots, synthèse igp";14;Forfait
-2020-12-31;VinIGP;Dév;10,5;Forfait
+2020-12-31;VinsIGP;PDF;14;Forfait
+2020-12-31;VinsIGP;Direction technique;14;Forfait
+2020-12-31;VinsIGP;Developpements;28;Forfait
+2020-12-31;VinsIGP;Developpement;5;Forfait
+2020-12-31;VinsIGP;"Dev:Drev suppression lots, synthèse igp";14;Forfait
+2020-12-31;VinsIGP;Dév;10,5;Forfait
 2020-12-31;Prodimmo;Mon activité import depuis un CSV;14,0;Outils internes
 2020-12-31;ODGRhone;Mise à jour des DR et désactivation du logement;3,5;TMA
 2020-12-31;ODGRhone;Direction technique;3,5;TMA DT
@@ -95,14 +95,14 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-12-31;Aurouze;Assistance / Demande;7;TMA
 2020-12-31;AHJUCAF;Direction technique;3,5;DT TMA
 2020-12-30;VINSI;tma drev et contrat;2;TMA
-2020-12-30;VinIGP;prise en compte de la campagne dans la visu lots;2;Forfait
+2020-12-30;VinsIGP;prise en compte de la campagne dans la visu lots;2;Forfait
 2020-12-30;CIVA;Export XML;1,5;TMA
 2020-12-30;AVA;tma;0,5;TMA
 2020-12-30;Aurouze;tma ;1;TMA
-2020-12-29;VinIGP;coherence dégustateurs;1,5;Forfait
+2020-12-29;VinsIGP;coherence dégustateurs;1,5;Forfait
 2020-12-29;PlateauUrbain;Page edition lieu protégé;4,5;CommuneMesure
 2020-12-29;Aurouze;Page facture vide;1;TMA
-2020-12-28;VinIGP;remonte et gestion validation chgdenom;3,5;Forfait
+2020-12-28;VinsIGP;remonte et gestion validation chgdenom;3,5;Forfait
 2020-12-24;Aurouze;Changement de technicien;1;TMA
 2020-12-23;VINSI;tma probleme mail;1,5;ODG
 2020-12-23;IVSO;tma;1;TMA
@@ -126,7 +126,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-12-14;VINSI;tma DRM;5;TMA
 2020-12-14;VINSI;rectification drev et factures;1,5;ODG
 2020-12-14;VINSI;pb Drev et import Dr;3;ODG
-2020-12-14;VinIGP;Import;10;Forfait
+2020-12-14;VinsIGP;Import;10;Forfait
 2020-12-14;PlateauUrbain;Passage en sqlite;4;CommuneMesure
 2020-12-14;ODGRhone;debug tma SV12 commune et blocage Drev;1,5;TMA
 2020-12-14;IVSO;tma;1,5;TMA
@@ -146,21 +146,21 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-12-10;CIVA;Ajout acheteur;1;TMA
 2020-12-09;AVA;Import DR;1;TMA
 2020-12-08;VINSI;Import DRM;1;TMA
-2020-12-08;VinIGP;sprint4;3;Reunion
+2020-12-08;VinsIGP;sprint4;3;Reunion
 2020-12-08;CIVA;Changement contrat;1,5;TMA
 2020-12-08;AVA;Import DR;1;TMA
 2020-12-07;VINSI;Transmission DRM;0,5;TMA
-2020-12-07;VinIGP;historique lots;6;Forfait
+2020-12-07;VinsIGP;historique lots;6;Forfait
 2020-12-07;IVSO;Modification contrat;0,5;TMA
 2020-12-07;CIVA;Modification de contrat;1,5;TMA
 2020-12-07;CIVA;Maj Tier + acheteur;0,5;TMA
-2020-12-04;VinIGP;refonte visu drev lots;7;Forfait
+2020-12-04;VinsIGP;refonte visu drev lots;7;Forfait
 2020-12-04;24eme;Gabriel Off;;
-2020-12-03;VinIGP;refonte visu drev lots;7;Forfait
+2020-12-03;VinsIGP;refonte visu drev lots;7;Forfait
 2020-12-03;24eme;Gabriel Off;;
-2020-12-02;VinIGP;interfaces et tests;5,5;Forfait
+2020-12-02;VinsIGP;interfaces et tests;5,5;Forfait
 2020-12-02;24eme;Gabriel Off;;
-2020-12-01;VinIGP;gestion des specificite et dev degustateur;5,5;Forfait
+2020-12-01;VinsIGP;gestion des specificite et dev degustateur;5,5;Forfait
 2020-12-01;24eme;Gabriel Off;;
 2020-11-30;VINSI;TMA et améliorations;28;ODG
 2020-11-30;VINSI;TMA DRM;3,5;TMA
@@ -267,9 +267,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-10-31;VINSI;Direction technique;10,5;Vinsi TMA DT
 2020-10-31;VINSI;Assistance / Demande;3,5;TMA
 2020-10-31;Prodimmo;Mini finetuning;7,0;MongoPassion
-2020-10-31;PlateauUrbain;Modification;12;CommuneMesures
-2020-10-31;PlateauUrbain;Mini finetuning;10,5;CommuneMesures
-2020-10-31;PlateauUrbain;Direction technique;14;CommuneMesures
+2020-10-31;PlateauUrbain;Modification;12;CommuneMesure
+2020-10-31;PlateauUrbain;Mini finetuning;10,5;CommuneMesure
+2020-10-31;PlateauUrbain;Direction technique;14;CommuneMesure
 2020-10-31;ODGRhone;DRev cru et droit de consultation;14;DRevCru
 2020-10-31;ODGRhone;Direction technique;10,5;DRevCru DT
 2020-10-31;ODGRhone;Assistance / Demande;3,5;TMA
@@ -333,25 +333,25 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-10-15;VinsIGP;wording + bug fix;1;Forfait
 2020-10-15;VinsIGP;Table 1 -> Table A;1;Forfait
 2020-10-15;PlateauUrbain;Prez Voltaire;0;Reunion
-2020-10-15;PlateauUrbain;cleanage code;1;CommuneMesures
+2020-10-15;PlateauUrbain;cleanage code;1;CommuneMesure
 2020-10-15;24eme;Congès;7;Congès
 2020-10-14;VinsIGP;Effervescent vins de base;2,5;Forfait
-2020-10-14;PlateauUrbain;sprint pre-présentation;5;CommuneMesures
-2020-10-14;PlateauUrbain;Fine Tuning;2;CommuneMesures
-2020-10-14;PlateauUrbain;Ajout données;2;CommuneMesures
+2020-10-14;PlateauUrbain;sprint pre-présentation;5;CommuneMesure
+2020-10-14;PlateauUrbain;Fine Tuning;2;CommuneMesure
+2020-10-14;PlateauUrbain;Ajout données;2;CommuneMesure
 2020-10-14;Juricaf;Integration arrets;7;TMA
 2020-10-13;VinsIGP;Point engagement élevage;0,5;Forfait
 2020-10-13;VinsIGP;Effervescent vins de base;1;Forfait
 2020-10-13;VinsIGP;Approbation auto drev prec;1;Forfait
-2020-10-13;PlateauUrbain;sprint pre-présentation;4;CommuneMesures
-2020-10-13;PlateauUrbain;Fine Tuning;5;CommuneMesures
+2020-10-13;PlateauUrbain;sprint pre-présentation;4;CommuneMesure
+2020-10-13;PlateauUrbain;Fine Tuning;5;CommuneMesure
 2020-10-13;24eme;Medecine du travail;1;Medecin
 2020-10-12;VinsIGP;Lot en élevage+destination;2;Forfait
 2020-10-12;VinsIGP;Gestion conformite;5,5;Forfait
 2020-10-09;VinsIGP;Gestion degustateur;6;Forfait
 2020-10-08;VinsIGP;Ticket et interfaces;7;Forfait
 2020-10-08;VINSI;Fix probleme soustraction float;2;TMA
-2020-10-08;PlateauUrbain;Mise en valeur des Lieux;14;CommuneMesures
+2020-10-08;PlateauUrbain;Mise en valeur des Lieux;14;CommuneMesure
 2020-10-08;DeclarVins;Import DTI+;0,5;TMA
 2020-10-08;CIVA;coupure ciel;0,5;TMA
 2020-10-07;VinsIGP;interface;2,5;Forfait
@@ -359,14 +359,14 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-10-07;DeclarVins;Vue mouvement: si pas de nom ->raison sociale;1,5;TMA
 2020-10-07;CIVA;Déblocage DRM;0,5;TMA
 2020-10-07;24eme;facturation;2;24eme
-2020-10-06;PlateauUrbain;Sprint 4 Amélioration des interfaces;7;CommuneMesures
+2020-10-06;PlateauUrbain;Sprint 4 Amélioration des interfaces;7;CommuneMesure
 2020-10-06;Aurouze;css print page passage en erreur;2;TMA Aurouze
 2020-10-06;24eme;Tactical;3;24eme
 2020-10-06;24eme;facturation et temps;2;24eme
 2020-10-05;VINSI;MaJ mémo octobre et decembre;0,5;TMA
 2020-10-05;VinsIGP;interface;3,5;Forfait
 2020-10-05;VinsIGP;Fix rajout de lot constant;1;Forfait
-2020-10-05;PlateauUrbain;modif page home;0,5;CommuneMesures
+2020-10-05;PlateauUrbain;modif page home;0,5;CommuneMesure
 2020-10-05;IVSO;Facturation Lubiato;0,5;TMA
 2020-10-05;DeclarVins;Check etab pour vendeur/acteur actif;1;TMA
 2020-10-05;CIVA;Dé-suppression DRM;0,5;TMA
@@ -376,7 +376,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-10-02;IVBD;tma contrat et contact;3,5;TMA
 2020-10-01;VINSI;reserve interpro;1;Reunion
 2020-10-01;Prodimmo;logiciel Factures;1,5;Facturation
-2020-10-01;PlateauUrbain;getter / setter specifiques;2;CommuneMesures
+2020-10-01;PlateauUrbain;getter / setter specifiques;2;CommuneMesure
 2020-10-01;ODGProvence;tma;1;TMA
 2020-10-01;24eme;temps;1;24eme
 2020-09-30;VINSI;TMA DRM;7,0;TMA
@@ -664,7 +664,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-06-30;VINSI;Direction technique;14;Vinsi TMA DT
 2020-06-30;VINSI;debugage DRM;1;TMA
 2020-06-30;VINSI;Assistance / Demande;3;TMA
-2020-06-30;VinIGP;Direction technique;3,5;DT avant vente
+2020-06-30;VinsIGP;Direction technique;3,5;DT avant vente
 2020-06-30;Tuenet;Adaptation migration;3,5;TMA
 2020-06-30;Sancerre;Direction technique;14;TMA DT
 2020-06-30;Pythagore;Formation GIT;14;Formation
@@ -2192,7 +2192,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-04-30;VINSI;Direction technique + réunion;14;TMA DT
 2019-04-30;VINSI;Direction technique + réunion;10,5;ODG DT
 2019-04-30;VINSI;Assistance DRM;3,5;TMA
-2019-04-30;VinIGP;Avant vente;7;AvantVente
+2019-04-30;VinsIGP;Avant vente;7;AvantVente
 2019-04-30;Sancerre;Ajout de produits dans la conf;2;TMA
 2019-04-30;ODGRhone;DI;7;DI
 2019-04-30;ODGProvence;import parcellaire 2019;6;Parcellaire
@@ -2264,7 +2264,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-04-01;IVBD;export bi;1,5;TMA
 2019-04-01;24eme;Off;;
 2019-03-31;VINSI;TMA Direction technique;7;TMA DT
-2019-03-31;VinIGP;Avant vente;10,5;AvantVente
+2019-03-31;VinsIGP;Avant vente;10,5;AvantVente
 2019-03-31;Sancerre;TMA Direction technique;3,5;TMA DT
 2019-03-31;ODGRhone;TMA Direction technique;3,5;TMA DT
 2019-03-31;ODGProvence;Extraction parcellaire depuis les douanes;28;Parcellaire
@@ -2306,7 +2306,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-03-22;24eme;Congès;7;interne
 2019-03-21;DeclarVins;DRM Negoce;7;DrmNegoce
 2019-03-21;24eme;Congès;7;interne
-2019-03-20;VinIGP;Réunion commercial;7;AvantVente
+2019-03-20;VinsIGP;Réunion commercial;7;AvantVente
 2019-03-20;24eme;Congès;7;interne
 2019-03-19;DeclarVins;Développement interfaces / XML / catalogue produit;7;DrmNegoce
 2019-03-19;24eme;Congès;7;interne

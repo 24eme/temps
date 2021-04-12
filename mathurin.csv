@@ -1,10 +1,21 @@
-2021-01-05;Aurouze;tma ;0,5;TMA
-2021-01-05;IVBD;tma contrats;1;TMA
-2021-01-05;ODGNantes;rectification factures;1;TMA
-2021-01-05;VINSI;pb Drev;2,5;ODG non facturable
-2021-01-05;VINSI;tma relance et drm;4,5;TMA
-2021-01-21;VinIGP;test pour la facturation;6,5;Forfait
-2021-01-22;VinIGP;test pour la facturation;7;Forfait
-2021-01-29;AVA;tma;1,5;TMA
-2021-01-29;IVSO;tma;2;TMA
-2021-01-29;VINSI;pb Drev;1,5;ODG non facturable
+2021-02-05;Aurouze;tma ;2;TMA
+2021-02-05;CIVA;tma classique;1;TMA
+2021-02-05;IVBD;tma contrats;1;TMA
+2021-02-05;IVSO;tma;2;TMA
+2021-02-05;VINSI;modif catalogue produit et contrat;2,5;TMA
+2021-02-05;VINSI;pb VCI;2;ODG
+2021-02-12;Aurouze;tma ;2;TMA
+2021-02-12;CIVA;tma classique;4,5;TMA
+2021-02-12;IVBD;tma contrats;4,5;TMA
+2021-02-12;VINSI;drm import edi et config;8,5;TMA
+2021-02-15;VinsIGP;reorga etapes de saisie;7;Forfait
+2021-02-16;VinsIGP;etape notification;3,5;Forfait
+2021-02-16;VinsIGP;reu;3,5;Forfait reunion
+2021-02-17;VinsIGP;Notification mails;5,5;Forfait
+2021-02-18;VinsIGP;refonte send mails notif;6,5;Forfait
+2021-02-19;VinsIGP;mis en place test et liens;6;Forfait
+2021-02-25;Aurouze;tma ;1,5;TMA Tuenet
+2021-02-25;Aurouze;tma ;5;TMA
+2021-02-25;DeclarVins;import edi intersud;4;TMA IR
+2021-02-25;IVBD;retour douane affichage;2;TMA Non facturable
+2021-02-25;ODGNantes;export specifique avec les cotisations covid;4;TMA
