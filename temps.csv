@@ -10,7 +10,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2021-03-31;Aurouze;Assistance / Demande;3,5;TMA
 2021-03-31;Tuenet;Assistance / Demande;1;TMA
 2021-03-31;ODGRhone;Assistance / Demande;1;TMA
-2021-03-31;CIVP;Developpements;17,5;Forfait
+2021-03-31;CIVP;Developpements;17,5;Calendrier
 2021-03-31;VINSI;Assistance / Demande;3,5;TMA
 2021-03-31;VINSI ODG;Assistance / Demande;0,5;TMA
 2021-03-31;AVA;Assistance / Demande;1,5;TMA
@@ -46,8 +46,8 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2021-03-31;VinsIGP;Fine tuning, Lot affectable(Drev, Cond, Vrac), Devalidation ChgtDenom;60;Forfait
 2021-03-31;VinsIGP;Dév;161;Forfait
 2021-03-31;AVA;Facturation, Stats, Envoi par mail;14;TMA
-2021-03-31;CIVA;Export BI et Export XML DR;10,5;TMA
-2021-03-31;CIVP;Developpement;32;
+2021-03-31;CIVA;Export BI et Export XML DR;12,5;TMA
+2021-03-31;CIVP;Developpement;32;Calendrier
 2021-03-31;VinsIGP;Direction technique;98;Forfait
 2021-03-31;VINSI;Direction technique;10,5;Vinsi TMA DT
 2021-03-31;ODGRhone;Direction technique;3,5;TMA DT
