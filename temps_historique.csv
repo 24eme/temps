@@ -77,8 +77,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2021-02-28;IVBD;Direction technique;9;RI DT
 2021-02-28;IVBD;Assistance / Demande;3,5;TMA
 2021-02-28;DeclarVins;Assistance / Demande;14;TMA
-2021-02-28;CIVP;Developpement/SPRINT ;43;
-2021-02-28;CIVP;Developpements;14;Forfait
+2021-02-28;CIVP;Developpement/SPRINT;43;Calendrier
+2021-02-28;CIVP;Developpements;14;Calendrier
 2021-02-28;CIVA;TMA et Export BI;14,0;TMA
 2021-02-28;CIVA;Assistance / Demande;8;TMA
 2021-02-28;BIVC;Direction technique;3,5;TMA DT
@@ -160,9 +160,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2021-01-31;IVBD;Direction technique;3,5;RI DT
 2021-01-31;IVBD;Assistance / Demande;7;TMA
 2021-01-31;DeclarVins;Assistance / Demande;24,5;TMA
-2021-01-31;CIVP;Réunion Calendrier;7;Forfait
-2021-01-31;CIVP;Réunion Calendrier;3,5;DT Réunion
-2021-01-31;CIVP;Developpement/Initialisation du projet ;41;
+2021-01-31;CIVP;Réunion Calendrier;7;Calendrier
+2021-01-31;CIVP;Réunion Calendrier;3,5;Calendrier
+2021-01-31;CIVP;Developpement/Initialisation du projet;41;Calendrier
 2021-01-31;CIVA;TMA DR et DRM, EXPORT XML DR;49;TMA
 2021-01-31;CIVA;Assistance / Demande;10,5;TMA
 2021-01-31;AVA;TMA;3,5;TMA
