@@ -1,0 +1,56 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2021-03-31;VinsIGP;Developpements;126;Forfait
+2021-03-31;BIVC;Ajout produit;0,5;TMA
+2021-03-01;PlateauUrbain;Model/Admin;25;CommuneMesure
+2021-03-31;CIVA;Assistance / Demande;2;TMA
+2021-03-31;DeclarVins;Assistance / Demande;17,5;TMA
+2021-03-31;IVBD;Assistance / Demande;1,5;TMA
+2021-03-31;IVSO;Assistance / Demande;1,5;TMA
+2021-03-31;VinsIGP;Developpements;59,5;Forfait
+2021-03-31;Aurouze;Assistance / Demande;3,5;TMA
+2021-03-31;Tuenet;Assistance / Demande;1;TMA
+2021-03-31;ODGRhone;Assistance / Demande;1;TMA
+2021-03-31;CIVP;Developpements;17,5;Calendrier
+2021-03-31;VINSI;Assistance / Demande;3,5;TMA
+2021-03-31;VINSI ODG;Assistance / Demande;0,5;TMA
+2021-03-31;AVA;Assistance / Demande;1,5;TMA
+2021-03-31;ODGNantes;Assistance / Demande;5;TMA
+2021-03-31;IR;SIG;3,5;TMA
+2021-03-01;VinsIGP;mail notification;5,5;Forfait
+2021-03-01;VINSI;tma contrat;0,5;TMA
+2021-03-02;VinsIGP;page resultats et notification;7;Forfait
+2021-03-09;VinsIGP;modificatrice drev et tests;7;Forfait
+2021-03-10;VinsIGP;degustation anonymat;7;Forfait
+2021-03-11;IVBD;tma contrats et stats;2;TMA
+2021-03-11;VinsIGP;refonte des etapes;4,5;Forfait
+2021-03-12;IVBD;tma contrats et stats;2;TMA
+2021-03-12;VinsIGP;refonte des etapes;5,5;Forfait
+2021-03-15;IVBD;tma pdf et stats;0,5;TMA
+2021-03-15;VinsIGP;recours oc et manquements;5,5;Forfait
+2021-03-16;VinsIGP;tri page table tests liberation anonymat;7;Forfait
+2021-03-17;VinsIGP;changement vue lot historique;7;Forfait
+2021-03-18;VinsIGP;enrichissement des mouvements pour lot historique;7;Forfait
+2021-03-19;VinsIGP;facturation template et docs associes;7;Forfait
+2021-03-20;VinsIGP;facturation template et second passage;2,5;Forfait
+2021-03-21;VinsIGP;ecriture de template de facture;3,5;Forfait
+2021-03-22;VinsIGP;finetuning;10;reunion
+2021-03-23;VinsIGP;finetuning;9;reunion
+2021-03-24;VinsIGP;facturation sur lots gascognes;7;Forfait
+2021-03-25;VinsIGP;facturation sur vue et template;6;Forfait
+2021-03-26;VinsIGP;facturation sur vue et template;11;Forfait
+2021-03-29;IVBD;tma modif de contrat;1;TMA
+2021-03-29;VinsIGP;ajout lieu de prelevement chai avec import;3,5;Forfait
+2021-03-29;VinsIGP;facturation sur vue et template;5;Forfait
+2021-03-30;VinsIGP;lieu de prelevement chai et interface;8;Forfait
+2021-03-31;VinsIGP;mis en prod;10;Forfait
+2021-03-31;VinsIGP;Fine tuning, Lot affectable(Drev, Cond, Vrac), Devalidation ChgtDenom;60;Forfait
+2021-03-31;VinsIGP;Dév;161;Forfait
+2021-03-31;AVA;Facturation, Stats, Envoi par mail;14;TMA
+2021-03-31;CIVA;Export BI et Export XML DR;12,5;TMA
+2021-03-31;CIVP;Developpement;32;Calendrier
+2021-03-31;VinsIGP;Direction technique;98;Forfait
+2021-03-31;VINSI;Direction technique;10,5;Vinsi TMA DT
+2021-03-31;ODGRhone;Direction technique;3,5;TMA DT
+2021-03-31;Admin Sys;Direction technique;3,5;TMA AdminSys
+2021-03-31;ODGNantes;Direction technique;7;TMA DT
+2021-03-31;PlateauUrbain;Admin/Front;15;CommuneMesure

@@ -1,21 +1,27 @@
-2021-02-05;Aurouze;tma ;2;TMA
-2021-02-05;CIVA;tma classique;1;TMA
-2021-02-05;IVBD;tma contrats;1;TMA
-2021-02-05;IVSO;tma;2;TMA
-2021-02-05;VINSI;modif catalogue produit et contrat;2,5;TMA
-2021-02-05;VINSI;pb VCI;2;ODG
-2021-02-12;Aurouze;tma ;2;TMA
-2021-02-12;CIVA;tma classique;4,5;TMA
-2021-02-12;IVBD;tma contrats;4,5;TMA
-2021-02-12;VINSI;drm import edi et config;8,5;TMA
-2021-02-15;VinsIGP;reorga etapes de saisie;7;Forfait
-2021-02-16;VinsIGP;etape notification;3,5;Forfait
-2021-02-16;VinsIGP;reu;3,5;Forfait reunion
-2021-02-17;VinsIGP;Notification mails;5,5;Forfait
-2021-02-18;VinsIGP;refonte send mails notif;6,5;Forfait
-2021-02-19;VinsIGP;mis en place test et liens;6;Forfait
-2021-02-25;Aurouze;tma ;1,5;TMA Tuenet
-2021-02-25;Aurouze;tma ;5;TMA
-2021-02-25;DeclarVins;import edi intersud;4;TMA IR
-2021-02-25;IVBD;retour douane affichage;2;TMA Non facturable
-2021-02-25;ODGNantes;export specifique avec les cotisations covid;4;TMA
+2021-03-01;VinIGP;mail notification;5,5;Forfait
+2021-03-01;VINSI;tma contrat;0,5;TMA
+2021-03-02;VinIGP;page resultats et notification;7;Forfait
+2021-03-09;VinIGP;modificatrice drev et tests;7;Forfait
+2021-03-10;VinIGP;degustation anonymat;7;Forfait
+2021-03-11;IVBD;tma contrats et stats;2;TMA
+2021-03-11;VinIGP;refonte des etapes;4,5;Forfait
+2021-03-12;IVBD;tma contrats et stats;2;TMA
+2021-03-12;VinIGP;refonte des etapes;5,5;Forfait
+2021-03-15;IVBD;tma pdf et stats;0,5;TMA
+2021-03-15;VinIGP;recours oc et manquements;5,5;Forfait
+2021-03-16;VinIGP;tri page table tests liberation anonymat;7;Forfait
+2021-03-17;VinIGP;changement vue lot historique;7;Forfait
+2021-03-18;VinIGP;enrichissement des mouvements pour lot historique;7;Forfait
+2021-03-19;VinIGP;facturation template et docs associes;7;Forfait
+2021-03-20;VinIGP;facturation template et second passage;2,5;Forfait
+2021-03-21;VinIGP;ecriture de template de facture;3,5;Forfait
+2021-03-22;VinIGP;finetuning;10;reunion
+2021-03-23;VinIGP;finetuning;9;reunion
+2021-03-24;VinIGP;facturation sur lots gascognes;7;Forfait
+2021-03-25;VinIGP;facturation sur vue et template;6;Forfait
+2021-03-26;VinIGP;facturation sur vue et template;11;Forfait
+2021-03-29;IVBD;tma modif de contrat;1;TMA
+2021-03-29;VinIGP;ajout lieu de prelevement chai avec import;3,5;Forfait
+2021-03-29;VinIGP;facturation sur vue et template;5;Forfait
+2021-03-30;VinIGP;lieu de prelevement chai et interface;8;Forfait
+2021-03-31;VinIGP;mis en prod;10;Forfait

@@ -1,0 +1,28 @@
+Date;Projet;Description;Temps (en heure);Tache
+2021-03-01;VinsIGP;mail notification;5,5;Forfait
+2021-03-02;VinsIGP;page resultats et notification;7;Forfait
+2021-03-09;VinsIGP;modificatrice drev et tests;7;Forfait
+2021-03-10;VinsIGP;degustation anonymat;7;Forfait
+2021-03-11;VinsIGP;refonte des etapes;4,5;Forfait
+2021-03-12;VinsIGP;refonte des etapes;5,5;Forfait
+2021-03-15;VinsIGP;recours oc et manquements;5,5;Forfait
+2021-03-16;VinsIGP;tri page table tests liberation anonymat;7;Forfait
+2021-03-17;VinsIGP;changement vue lot historique;7;Forfait
+2021-03-18;VinsIGP;enrichissement des mouvements pour lot historique;7;Forfait
+2021-03-19;VinsIGP;facturation template et docs associes;7;Forfait
+2021-03-20;VinsIGP;facturation template et second passage;2,5;Forfait
+2021-03-21;VinsIGP;ecriture de template de facture;3,5;Forfait
+2021-03-22;VinsIGP;finetuning;10;reunion
+2021-03-23;VinsIGP;finetuning;9;reunion
+2021-03-24;VinsIGP;facturation sur lots gascognes;7;Forfait
+2021-03-25;VinsIGP;facturation sur vue et template;6;Forfait
+2021-03-26;VinsIGP;facturation sur vue et template;11;Forfait
+2021-03-29;VinsIGP;ajout lieu de prelevement chai avec import;3,5;Forfait
+2021-03-29;VinsIGP;facturation sur vue et template;5;Forfait
+2021-03-30;VinsIGP;lieu de prelevement chai et interface;8;Forfait
+2021-03-31;VinsIGP;Dév;161;Forfait
+2021-03-31;VinsIGP;Developpements;126;Forfait
+2021-03-31;VinsIGP;Developpements;59,5;Forfait
+2021-03-31;VinsIGP;Direction technique;98;Forfait
+2021-03-31;VinsIGP;Fine tuning, Lot affectable(Drev, Cond, Vrac), Devalidation ChgtDenom;60;Forfait
+2021-03-31;VinsIGP;mis en prod;10;Forfait
