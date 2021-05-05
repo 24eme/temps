@@ -1,0 +1,88 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2021-02-01;BIVC;Finitions facturation;4;Facture
+2021-02-01;PlateauUrbain;Hash admin;1;CommuneMesure
+2021-02-02;PlateauUrbain;sections;4,5;CommuneMesure
+2021-02-03;PlateauUrbain;sections;4;CommuneMesure
+2021-02-04;PlateauUrbain;refacto dossiers;1;CommuneMesure
+2021-02-04;PlateauUrbain;sections avec composant;2,5;CommuneMesure
+2021-02-04;PlateauUrbain;inté icone du pool;1;CommuneMesure
+2021-02-05;PlateauUrbain;refacto dossiers;1,5;CommuneMesure
+2021-02-05;PlateauUrbain;fix insee;1;CommuneMesure
+2021-02-08;IVSO;export avec tav;0,5;TMA
+2021-02-08;IVSO;import csv gelas;1;TMA
+2021-02-09;PlateauUrbain;slug et auth composant section;2;CommuneMesure
+2021-02-09;PlateauUrbain;Réunion;1;Reunion
+2021-02-09;ODGProvence;facturation / avoir drev;1,5;TMA
+2021-02-11;IVSO;Modification DRM;0,5;TMA
+2021-02-11;VINSI;Modification DRM;1;TMA
+2021-02-11;VINSI;Modification csv drm;1;TMA
+2021-02-12;PlateauUrbain;Table pivot;1,5;CommuneMesure
+2021-02-16;VinsIGP;Réunion;3,5;Réunion
+2021-02-17;PlateauUrbain;Table pivot section;1;CommuneMesure
+2021-02-17;PlateauUrbain;Carousel + section + css;3,5;CommuneMesure
+2021-02-18;PlateauUrbain;Petits tickets;4;CommuneMesure
+2021-02-19;PlateauUrbain;Galerie;3;CommuneMesure
+2021-02-22;PlateauUrbain;icone C/C;0,5;CommuneMesure
+2021-02-22;Aurouze;Siret etab + societe;1,5;TMA
+2021-02-22;IVBD;Liste domaine sur 1 an;2;TMA
+2021-02-25;Aurouze;Adresse contrat;1;TMA
+2021-02-25;AVA;Stats factures grep;1,5;TMA
+2021-02-25;AVA;Carnets de pressoir;2,5;TMA
+2021-02-25;Aurouze;Fréquence de réglement;1;TMA
+2021-02-26;PlateauUrbain;Place Model;3;CommuneMesure
+2021-02-16;PlateauUrbain;Admin;35;CommuneMesure
+2021-02-28;CIVA;Assistance / Demande;8;TMA
+2021-02-28;DeclarVins;Assistance / Demande;14;TMA
+2021-02-28;IVBD;Assistance / Demande;3,5;TMA
+2021-02-28;IVSO;Assistance / Demande;3,5;TMA
+2021-02-28;BIVC;Assistance / Demande;1;TMA
+2021-02-28;VinsIGP;Developpements;7;Forfait
+2021-02-28;Aurouze;Assistance / Demande;3,5;TMA
+2021-02-28;Tuenet;Assistance / Demande;8;TMA
+2021-02-28;ODGRhone;Assistance / Demande;1,5;TMA
+2021-02-28;CIVP;Developpements;14;Forfait
+2021-02-28;ODGProvence;Assistance / Demande;1;TMA
+2021-02-28;VINSI;Assistance / Demande;3,5;TMA
+2021-02-28;VINSI ODG;Assistance / Demande;2;TMA
+2021-02-28;Juricaf;Assistance / Demande;3,5;TMA
+2021-02-28;AVA;Assistance / Demande;10,5;TMA
+2021-02-28;ODGNantes;Assistance / Demande;5;TMA
+2021-02-28;CIVP;Developpement/SPRINT ;43;
+2021-02-05;Aurouze;tma ;2;TMA
+2021-02-05;CIVA;tma classique;1;TMA
+2021-02-05;IVBD;tma contrats;1;TMA
+2021-02-05;IVSO;tma;2;TMA
+2021-02-05;VINSI;modif catalogue produit et contrat;2,5;TMA
+2021-02-05;VINSI;pb VCI;2;ODG
+2021-02-12;Aurouze;tma ;2;TMA
+2021-02-12;CIVA;tma classique;4,5;TMA
+2021-02-12;IVBD;tma contrats;4,5;TMA
+2021-02-12;VINSI;drm import edi et config;8,5;TMA
+2021-02-15;VinsIGP;reorga etapes de saisie;7;Forfait
+2021-02-16;VinsIGP;etape notification;3,5;Forfait
+2021-02-16;VinsIGP;reu;3,5;Forfait reunion
+2021-02-17;VinsIGP;Notification mails;5,5;Forfait
+2021-02-18;VinsIGP;refonte send mails notif;6,5;Forfait
+2021-02-19;VinsIGP;mis en place test et liens;6;Forfait
+2021-02-25;Aurouze;tma ;1,5;TMA Tuenet
+2021-02-25;Aurouze;tma ;5;TMA
+2021-02-25;DeclarVins;import edi intersud;4;TMA IR
+2021-02-25;IVBD;retour douane affichage;2;TMA Non facturable
+2021-02-25;ODGNantes;export specifique avec les cotisations covid;4;TMA
+2021-02-28;VinsIGP;Pt bloquant Lot(pas de produits), Lot degustable;35;Forfait
+2021-02-28;Juricaf;Direction technique;14;DT TMA
+2021-02-28;BIVC;Direction technique;3,5;TMA DT
+2021-02-28;VINSI;Direction technique;7;Vinsi TMA DT
+2021-02-28;PlateaUrbain;Direction technique;10,5;DT + Réunion
+2021-02-28;VinsIGP;Direction technique;7;Forfait
+2021-02-28;IVSO;Direction technique;5;TMA DT
+2021-02-28;IVBD;Direction technique;9;RI DT
+2021-02-28;AVA;Direction technique;3,5;TMA DT
+2021-02-28;Admin Sys;Direction technique;3,5;TMA AdminSys
+2021-02-28;CIVA;TMA et Export BI;14,0;TMA
+2021-02-28;VinsIGP;Dév;42;Forfait
+2021-02-28;Aurouze;TMA;2,0;TMA
+2021-02-28;IVSO;TMA;2,0;TMA
+2021-02-28;PlateauUrbain;Edition des champs en mode admin;7;CommuneMesure
+2021-02-28;ODGNantes;Template de facturation 2021;2,5;TMA
+2021-02-28;PlateauUrbain;Model/Admin;25;CommuneMesure
