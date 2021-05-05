@@ -1,27 +1,26 @@
-2021-03-01;VinIGP;mail notification;5,5;Forfait
-2021-03-01;VINSI;tma contrat;0,5;TMA
-2021-03-02;VinIGP;page resultats et notification;7;Forfait
-2021-03-09;VinIGP;modificatrice drev et tests;7;Forfait
-2021-03-10;VinIGP;degustation anonymat;7;Forfait
-2021-03-11;IVBD;tma contrats et stats;2;TMA
-2021-03-11;VinIGP;refonte des etapes;4,5;Forfait
-2021-03-12;IVBD;tma contrats et stats;2;TMA
-2021-03-12;VinIGP;refonte des etapes;5,5;Forfait
-2021-03-15;IVBD;tma pdf et stats;0,5;TMA
-2021-03-15;VinIGP;recours oc et manquements;5,5;Forfait
-2021-03-16;VinIGP;tri page table tests liberation anonymat;7;Forfait
-2021-03-17;VinIGP;changement vue lot historique;7;Forfait
-2021-03-18;VinIGP;enrichissement des mouvements pour lot historique;7;Forfait
-2021-03-19;VinIGP;facturation template et docs associes;7;Forfait
-2021-03-20;VinIGP;facturation template et second passage;2,5;Forfait
-2021-03-21;VinIGP;ecriture de template de facture;3,5;Forfait
-2021-03-22;VinIGP;finetuning;10;reunion
-2021-03-23;VinIGP;finetuning;9;reunion
-2021-03-24;VinIGP;facturation sur lots gascognes;7;Forfait
-2021-03-25;VinIGP;facturation sur vue et template;6;Forfait
-2021-03-26;VinIGP;facturation sur vue et template;11;Forfait
-2021-03-29;IVBD;tma modif de contrat;1;TMA
-2021-03-29;VinIGP;ajout lieu de prelevement chai avec import;3,5;Forfait
-2021-03-29;VinIGP;facturation sur vue et template;5;Forfait
-2021-03-30;VinIGP;lieu de prelevement chai et interface;8;Forfait
-2021-03-31;VinIGP;mis en prod;10;Forfait
+2021-04-01;VinIGP;verification donnees catalogue produit et tickets;9,5;Forfait
+2021-04-02;VinIGP;repasse sur tickets pdf;7,5;Forfait
+2021-04-05;VinIGP;etape des degustateurs a confirmer;6,5;Forfait
+2021-04-06;VinIGP;convocations des degustateurs par mail;8,5;Forfait
+2021-04-07;VinIGP;debug et preparation de degustation;4,5;Forfait
+2021-04-09;VinIGP;pdf dans la degust et donnees import;2,5;Forfait
+2021-04-12;VinIGP;facturation et verification donnees;8;Forfait
+2021-04-13;VinIGP;template de facturation et generation utilisation des mouvements;7;Forfait
+2021-04-14;VinIGP;parametrage facturation igp13;1;Forfait
+2021-04-15;Aurouze;tma ;0,5;TMA Tuenet
+2021-04-15;VinIGP;facturation et tests;6;Forfait
+2021-04-16;VinIGP;facturation code comptable et tests;7;Forfait
+2021-04-19;VinIGP;facturation templating de facture et pdf;6;Forfait
+2021-04-20;VinIGP;facturation templating de facture et pdf;6;Forfait
+2021-04-21;VinIGP;facturation templating de facture et pdf;7;Forfait
+2021-04-22;VinIGP;numero facture bug negociant drev et pdf;5,5;Forfait
+2021-04-23;Sancerre;export rapide vrac;1;TMA
+2021-04-23;VinIGP;ajout de test pour la facturation et aide pour vaucluse;4;Forfait
+2021-04-26;IVBD;prise en compte stats facturation pour annee prec;2;TMA
+2021-04-26;IVBD;tma modif de contrat;0,5;TMA
+2021-04-26;VinIGP;fouille et reconstruction de donnees pour igp13;3;Forfait
+2021-04-27;VinIGP;facturation et fil de saisie;6,5;Forfait
+2021-04-28;Aurouze;tma ;0,5;TMA Aurouze
+2021-04-28;VinIGP;fil de saisie import de facture innov et debug;5;Forfait
+2021-04-29;VinIGP;debug degutation et degustateur;3,5;Forfait
+2021-04-30;VinIGP;presentation lot de drev modificatrice et tri de lignes de factures;7;Forfait
