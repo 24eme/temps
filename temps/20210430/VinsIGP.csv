@@ -1,0 +1,28 @@
+Date;Projet;Description;Temps (en heure);Tache
+2021-04-01;VinsIGP;verification donnees catalogue produit et tickets;9,5;Forfait
+2021-04-02;VinsIGP;repasse sur tickets pdf;7,5;Forfait
+2021-04-05;VinsIGP;etape des degustateurs a confirmer;6,5;Forfait
+2021-04-06;VinsIGP;convocations des degustateurs par mail;8,5;Forfait
+2021-04-07;VinsIGP;debug et preparation de degustation;4,5;Forfait
+2021-04-09;VinsIGP;pdf dans la degust et donnees import;2,5;Forfait
+2021-04-12;VinsIGP;facturation et verification donnees;8;Forfait
+2021-04-13;VinsIGP;template de facturation et generation utilisation des mouvements;7;Forfait
+2021-04-14;VinsIGP;parametrage facturation igp13;1;Forfait
+2021-04-15;VinsIGP;facturation et tests;6;Forfait
+2021-04-16;VinsIGP;facturation code comptable et tests;7;Forfait
+2021-04-19;VinsIGP;facturation templating de facture et pdf;6;Forfait
+2021-04-20;VinsIGP;facturation templating de facture et pdf;6;Forfait
+2021-04-21;VinsIGP;facturation templating de facture et pdf;7;Forfait
+2021-04-22;VinsIGP;numero facture bug negociant drev et pdf;5,5;Forfait
+2021-04-23;VinsIGP;ajout de test pour la facturation et aide pour vaucluse;4;Forfait
+2021-04-26;VinsIGP;fouille et reconstruction de donnees pour igp13;3;Forfait
+2021-04-27;VinsIGP;Developpements;7;Forfait
+2021-04-27;VinsIGP;facturation et fil de saisie;6,5;Forfait
+2021-04-28;VinsIGP;fil de saisie import de facture innov et debug;5;Forfait
+2021-04-29;VinsIGP;debug degutation et degustateur;3,5;Forfait
+2021-04-30;VinsIGP;Dév, correction et assistance IGP Ardéche et IGP Arles;98;Forfait
+2021-04-30;VinsIGP;Developpements;24,5;Forfait
+2021-04-30;VinsIGP;Developpements;93,5;Forfait
+2021-04-30;VinsIGP;Direction technique;63;Forfait
+2021-04-30;VinsIGP;presentation lot de drev modificatrice et tri de lignes de factures;7;Forfait
+2021-04-30;VinsIGP;Supprimer leurre, affichage chais, Degustateur;21;Forfait
