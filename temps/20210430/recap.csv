@@ -1,0 +1,33 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Admin Sys;TMA AdminSys;3,5;0,5
+Admin Sys;TOTAL;3,5;0,5
+Aurouze;TMA;2;0,3
+Aurouze;TMA Tuenet;0,5;0,1
+Aurouze;TOTAL;2,5;0,4
+AVA;TMA;7,5;1,1
+AVA;TOTAL;7,5;1,1
+CIVA;TMA;9;1,3
+CIVA;TOTAL;9;1,3
+CIVP;Calendrier;47;6,7
+CIVP;TOTAL;47;6,7
+DeclarVins;TMA;14;2,0
+DeclarVins;TOTAL;14;2,0
+IVBD;TMA;2,5;0,4
+IVBD;TMA DT;3,5;0,5
+IVBD;TOTAL;6;0,9
+IVSO;TMA;3,5;0,5
+IVSO;TMA DT;3,5;0,5
+IVSO;TOTAL;7;1,0
+ODGNantes;TMA DT;10,5;1,5
+ODGNantes;TOTAL;10,5;1,5
+PlateauUrbain;CommuneMesure;37;5,3
+PlateauUrbain;TMA Commune Mesure;3,5;0,5
+PlateauUrbain;TOTAL;40,5;5,8
+Sancerre;TMA;1,5;0,2
+Sancerre;TOTAL;1,5;0,2
+VinsIGP;Forfait;428,5;61,2
+VinsIGP;TOTAL;428,5;61,2
+VINSI;TMA;3,5;0,5
+VINSI;Vinsi TMA DT;14;2,0
+VINSI;TOTAL;17,5;2,5
+TOTAL;TOTAL;85,0
