@@ -1,1 +1,59 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2021-05-03;VinsIGP;Developpements;10;Forfait
+2021-05-07;PlateauUrbain;Front;1;CommuneMesure
+2021-05-31;DeclarVins;Assistance / Demande;10,5;TMA
+2021-05-31;VinsIGP;Exports;14;Forfait
+2021-05-31;VinsIGP;Assistance / Demande;21;Forfait
+2021-05-31;CIVP;Developpements;35;Forfait
+2021-05-03;Aurouze;tma ;1;TMA Aurouze
+2021-05-03;VinIGP;facturation pour igp13;5;Forfait
+2021-05-04;IVBD;modification contrat;0,5;TMA
+2021-05-04;VinIGP;facturation et template pour igp13;5,5;Forfait
+2021-05-06;Aurouze;retrait technicien;0,5;TMA TueNet
+2021-05-06;IVBD;suppression DRM et changement de regime;1;TMA
+2021-05-07;Aurouze;retrait technicien;1;TMA TueNet
+2021-05-07;IVBD;analyse des stats;3,5;TMA
+2021-05-07;VinIGP;aide facturation igp13;1,5;Forfait
+2021-05-10;IVBD;correction elasticsearch;2,5;TMA
+2021-05-10;VinIGP;corrections de facturation igp13;2;Forfait
+2021-05-11;Aurouze;tma ;2;TMA Aurouze
+2021-05-11;CIVA;tma classique;1;TMA
+2021-05-11;IVBD;reparation stats;2;TMA
+2021-05-11;VinIGP;ajout de parametrage facturation avec clefs;2;Forfait
+2021-05-12;Aurouze;tma ;2;TMA Aurouze
+2021-05-12;IVBD;reparation stats;4;TMA
+2021-05-12;VinIGP;facturation et import igp13;1;Forfait
+2021-05-17;IVBD;reparation stats;4;TMA
+2021-05-17;IVSO;tma;1;TMA
+2021-05-17;VinIGP;facturation correction igp13;1;Forfait
+2021-05-18;IVBD;reparation stats;1,5;TMA
+2021-05-18;VinIGP;import drev vdp vers igp;2;Forfait
+2021-05-19;VinIGP;import drev vdp vers igp;5;Forfait
+2021-05-20;VinIGP;aide sur la facturation igp13;1;Forfait
+2021-05-21;IVBD;modif template de contrat vrac;5;TMA
+2021-05-25;OdgProvence;schema du doc et plugin;4,5;Parcellaire cave coop
+2021-05-26;OdgProvence;tickets;3,5;Parcellaire cave coop
+2021-05-27;OdgProvence;tickets;6,5;Parcellaire cave coop
+2021-05-28;OdgProvence;tickets;3,5;Parcellaire cave coop
+2021-05-31;OdgProvence;tickets;1,5;Parcellaire cave coop
+2021-05-31;VinsIGP;Direction technique;28;Forfait
+2021-05-31;VINSI;Direction technique;3,5;Vinsi TMA DT
+2021-05-31;ODGProvence;Direction technique;3,5;TMA DT
+2021-05-31;ODGRhone;Direction technique;3,5;TMA DT
+2021-05-31;AHJUCAF;Direction technique;3,5;TMA DT
+2021-05-31;BIVC;Direction technique;3,5;TMA
+2021-05-31;VinsIGP;Dév et ajustement;21;Forfait
+2021-05-31;AVA;VCI et TMA;28;TMA
+2021-05-31;CIVA;TMA;3,5;TMA
+2021-05-31;ODGRhone;Dév et mise en place;21;Metabase
+2021-05-31;ODGProvence;Dév;35;Affectation Parcellaire Cave Coop
+2021-05-31;ODGRhone;Reunion stat;2;Reunion
+2021-05-31;ODGRhone;Reunion certipac;2;Reunion
+2021-05-31;ODGRhone;Config metabase ansible;1;Stat
+2021-05-31;IVSO;Génération facture;2;TMA
+2021-05-31;IGPVins;Facturation + corrections;73,5;Forfait
+2021-05-31;VinsIGP;Export compte, éditer chais, coordonnées (Lat/Lon);21;Forfait
+2021-05-31;IGPVAUCLUSE;Developpement (Affectation des lots;7;
+2021-05-31;CIVP;Developpement ;10;
+2021-05-31;CIVA;TMA;0.5;
+2021-05-31;VALDELOIRE;TMA;0.5;
