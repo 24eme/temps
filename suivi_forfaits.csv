@@ -1,17 +1,18 @@
 Projet,Date Début,Date fin,Nb jours total,Nb jours consommés,Nb jours restants,Tarif HT
-Aurouze – TMA,2021-01-01,2021-12-31,12,3.5,8.5,550
-Tuenet TMA,2021-01-01,2021-12-31,12,2.5,9.5,550
-BIVC – TMA,2021-01-01,2021-12-31,18,2,16,570
-IVSO – TMA,2021-01-01,2021-12-31,34,5,29,570
-IVBD – TMA,2021-01-01,2021-12-31,34,8,26,570
-Declarvins – TMA,2021-01-01,2021-12-31,56,10.5,45.5,570
-AHJUCAF,2021-01-01,2021-12-31,12,3.5,8.5,710
+Aurouze – TMA,2021-01-01,2021-12-31,12,4.5,7.5,550
+Tuenet TMA,2021-01-01,2021-12-31,12,3,9,550
+BIVC – TMA,2021-01-01,2021-12-31,18,2.5,15.5,570
+IVSO – TMA,2021-01-01,2021-12-31,34,5.5,28.5,570
+IVBD – TMA,2021-01-01,2021-12-31,34,11.5,22.5,570
+Declarvins – TMA,2021-01-01,2021-12-31,56,12,44,570
+AHJUCAF,2021-01-01,2021-12-31,12,4,8,710
 Eurocontrol - D5 Support,2020-01-01,2021-12-31,10.5,0,0,650
-VinsIGP,2020-07-01,,154,282,0,600
+VinsIGP,2020-07-01,,154,313.5,0,600
 ODGNantes,2021-01-01,2021-12-31,7,5.5,1.5,570
-CIVP Calendrier,,,12.5,29,0,600
-ODGRhone,Metabase,,12.5,0,12.5,600
-ODGProvence,Délégation cave coop,,8.5,0,8.5,600
+CIVP Calendrier,,,12.5,35.5,0,600
+ODGRhone Metabase,,,12.5,3.5,9,600
+ODGProvence Délégation cave coop,,,8.5,8.5,0,600
+CIVP DS,,,10,0,10,600
+IVSE Facturation,,,21,0,21,600
 ,,,,,,
-,,,,,,
-"Coefficiant Tangui : 1.5",,,,,,
+Coefficiant Tangui : 1.5,,,,,,
