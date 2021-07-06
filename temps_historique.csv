@@ -85,6 +85,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2021-04-30;AVA;Assistance / Demande;0,5;TMA
 2021-04-30;Aurouze;Assistance / Demande;1,5;TMA
 2021-04-30;Admin Sys;Direction technique;3,5;TMA AdminSys
+2021-04-30;Prodimmo;POC outils de signature de PDF;10,5;Outils interne
 2021-04-29;VinsIGP;debug degutation et degustateur;3,5;Forfait
 2021-04-28;VinsIGP;fil de saisie import de facture innov et debug;5;Forfait
 2021-04-28;CIVP;Developpement ;5;Calendrier
@@ -142,6 +143,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2021-03-31;AVA;Assistance / Demande;1,5;TMA
 2021-03-31;Aurouze;Assistance / Demande;3,5;TMA
 2021-03-31;Admin Sys;Direction technique;3,5;TMA AdminSys
+2021-03-31;Prodimmo;Outils de facturation génération des factures plus simple a utiliser;3,5;Outils interne
 2021-03-30;VinsIGP;lieu de prelevement chai et interface;8;Forfait
 2021-03-29;VinsIGP;facturation sur vue et template;5;Forfait
 2021-03-29;VinsIGP;ajout lieu de prelevement chai avec import;3,5;Forfait
