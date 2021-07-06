@@ -13,22 +13,22 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2021-05-31;ODGRhone;Direction technique;3,5;TMA DT
 2021-05-31;ODGRhone;Dév et mise en place;21;Metabase
 2021-05-31;ODGRhone;Config metabase ansible;1;Stat
-2021-05-31;ODGProvence;tickets;1,5;Parcellaire cave coop
+2021-05-31;ODGProvence;tickets;1,5;Affectation Parcellaire Cave Coop
 2021-05-31;ODGProvence;Direction technique;3,5;TMA DT
 2021-05-31;ODGProvence;Dév;35;Affectation Parcellaire Cave Coop
 2021-05-31;IVSO;Génération facture;2;TMA
 2021-05-31;DeclarVins;Assistance / Demande;10,5;TMA
-2021-05-31;CIVP;Developpements;35;Forfait
-2021-05-31;CIVP;Developpement ;10;Forfait
+2021-05-31;CIVP;Developpements;35;Calendrier
+2021-05-31;CIVP;Developpement ;10;Calendrier
 2021-05-31;CIVA;TMA;3,5;TMA
 2021-05-31;CIVA;TMA;0.5;TMA
 2021-05-31;BIVC;Direction technique;3,5;TMA
 2021-05-31;AVA;VCI et TMA;28;TMA
 2021-05-31;AHJUCAF;Direction technique;3,5;TMA DT
-2021-05-28;ODGProvence;tickets;3,5;Parcellaire cave coop
-2021-05-27;ODGProvence;tickets;6,5;Parcellaire cave coop
-2021-05-26;ODGProvence;tickets;3,5;Parcellaire cave coop
-2021-05-25;ODGProvence;schema du doc et plugin;4,5;Parcellaire cave coop
+2021-05-28;ODGProvence;tickets;3,5;Affectation Parcellaire Cave Coop
+2021-05-27;ODGProvence;tickets;6,5;Affectation Parcellaire Cave Coop
+2021-05-26;ODGProvence;tickets;3,5;Affectation Parcellaire Cave Coop
+2021-05-25;ODGProvence;schema du doc et plugin;4,5;Affectation Parcellaire Cave Coop
 2021-05-21;IVBD;modif template de contrat vrac;5;TMA
 2021-05-20;VinsIGP;aide sur la facturation igp13;1;Forfait
 2021-05-19;VinsIGP;import drev vdp vers igp;5;Forfait
