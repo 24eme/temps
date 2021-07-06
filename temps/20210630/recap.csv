@@ -1,0 +1,37 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Aurouze;TMA;10,5;1,5
+Aurouze;TOTAL;10,5;1,5
+AVA;Parcellaire;27,5;3,9
+AVA;TMA;11;1,6
+AVA;TOTAL;38,5;5,5
+CIVA;TMA;3,5;0,5
+CIVA;TOTAL;3,5;0,5
+CIVP;Calendrier;14;2,0
+CIVP;DS;17,5;2,5
+CIVP;VracExport;3,5;0,5
+CIVP;TOTAL;35;5,0
+DeclarVins;TMA;3,5;0,5
+DeclarVins;TOTAL;3,5;0,5
+IR;TMA;3,5;0,5
+IR;TOTAL;3,5;0,5
+IVBD;TMA;18,5;2,6
+IVBD;TOTAL;18,5;2,6
+IVSE;Facturation;12;1,7
+IVSE;TOTAL;12;1,7
+IVSO;TMA;0,5;0,1
+IVSO;TOTAL;0,5;0,1
+ODGProvence;Affectation Parcellaire Cave Coop;7;1,0
+ODGProvence;TOTAL;7;1,0
+ODGRhone;Metabase;17,5;2,5
+ODGRhone;TMA DT;7;1,0
+ODGRhone;TOTAL;24,5;3,5
+PlateauUrbain;CommuneMesure;3;0,4
+PlateauUrbain;TMA DT;3,5;0,5
+PlateauUrbain;TOTAL;6,5;0,9
+VINSI;Conseil;3,5;0,5
+VinsIGP;Forfait;212,5;30,4
+VinsIGP;TOTAL;212,5;30,4
+VINSI;TMA;1,5;0,2
+VINSI;Vinsi TMA DT;10,5;1,5
+VINSI;TOTAL;15,5;2,2
+TOTAL;TOTAL;55,9
