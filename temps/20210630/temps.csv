@@ -1,0 +1,42 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2021-06-30;VinsIGP;Forfait;49;Forfait
+2021-06-30;VinsIGP;Réunion;2;Forfait
+2021-06-30;ODGRhone;Reunion stat;2;Metabase
+2021-06-30;AVA;Parcellaire;3;Parcellaire
+2021-06-07;PlateauUrbain;Front+demande Approche;3;CommuneMesure
+2021-06-14;VinsIGP;Developpements Prélèvement;16;Forfait
+2021-06-21;Aurouze;Assistance / Demande;7;TMA
+2021-06-23;IVSO;TMA;0,5;TMA
+2021-06-24;ODGRhone;Developpements + metabase;5;Metabase
+2021-06-30;DeclarVins;Assistance / Demande;3,5;TMA
+2021-06-30;VinsIGP;Exports;35;Forfait
+2021-06-30;VinsIGP;Assistance / Demande;14;Forfait
+2021-06-30;CIVP;Developpements Calendrier;14;Calendrier
+2021-06-30;CIVP;Mouvement vrac export;3,5;VracExport
+2021-06-30;CIVP;DS;17,5;DS
+2021-06-30;Aurouze;Assistance / Demande;3,5;TMA
+2021-06-30;IR;Assistance / Demande DAE;3,5;TMA
+2021-06-30;IVSE;Facturation;12;Facturation
+2021-06-11;IVBD;reecriture de document 2016 2017 pour stats et changement de mouture de contrat;6;TMA
+2021-06-11;VinsIGP;script import Lots depuis plateforme distante et correctifs de documents;12,5;Forfait
+2021-06-11;VINSI;tma classique;0,5;TMA
+2021-06-18;IVBD;changement contrats et autre tma;6,5;TMA
+2021-06-18;VinsIGP;perfectionnement de transfert des DRev;4,5;Forfait
+2021-06-25;IVBD;changement contrats et autre tma;6;TMA
+2021-06-25;VinsIGP;analyse donnees exports et tma;8;Forfait
+2021-06-25;VINSI;tma classique;1;TMA
+2021-06-28;VinsIGP;analyse donnees correction et correction docs;2;Forfait
+2021-06-29;AVA;tma;0,5;TMA
+2021-06-29;VinsIGP;réunion  igp;2,5;Forfait
+2021-06-30;VinsIGP;Recherche compte, étape bloquante degustateurs, popup Cepage(Maj volume);11;Forfait
+2021-06-30;VinsIGP;Direction technique;24,5;Forfait
+2021-06-30;VINSI;Direction technique;10,5;Vinsi TMA DT
+2021-06-30;VINSI;Direction technique;3,5;Conseil
+2021-06-30;PlateauUrbain;Direction technique;3,5;TMA DT
+2021-06-30;ODGRhone;Direction technique;7;TMA DT
+2021-06-30;VinsIGP;Export CSV, lot et changement de dénomination;31,5;Forfait
+2021-06-30;AVA;VCI et TMA;10,5;TMA
+2021-06-30;AVA;Mise en place de la récup du CVI;24,5;Parcellaire
+2021-06-30;CIVA;TMA;3,5;TMA
+2021-06-30;ODGRhone;Dév et mise en place;10,5;Metabase
+2021-06-30;ODGProvence;Dév;7;Affectation Parcellaire Cave Coop
