@@ -1,0 +1,49 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2021-07-31;Aurouze;TMA;2;TMA Aurouze
+2021-07-31;Aurouze;TMA;1;TMA Tuenet
+2021-07-01;Aurouze;Developpements + Demande;1;TMA
+2021-07-31;Aurouze;Assistance / Demande;1;TMA
+2021-07-31;AVA;Affectation Parcellaire;7;Parcellaire
+2021-07-31;AVA;Direction technique;7;TMA DT
+2021-07-31;AVA;Facturation et affectation parcellaire;7;TMA
+2021-07-31;CIVA;TMA;2,5;TMA
+2021-07-31;CIVA;Direction technique + Déplacement;7;TMA DT
+2021-07-31;CIVA;TMA DS;10,5;TMA
+2021-07-31;CIVA;Réunion en Alsace Facturation et Contact;7;Réunion
+2021-07-31;CIVA;Facturation et Contact;17,5;Facturation et Contact
+2021-07-31;CIVP;DS;31;DS
+2021-07-31;CIVP;DS Reunion;2;DS
+2021-07-31;CNIV;Direction technique;3,5;TMA DT
+2021-07-31;DeclarVins;TMA;1;TMA
+2021-07-31;DeclarVins;Assistance / Demande;5;TMA
+2021-07-31;DeclarVins;Reunion;7;TMA
+2021-07-01;IVBD;TMA;0,5;TMA
+2021-07-31;IVBD;Direction technique;3,5;TMA DT
+2021-07-31;IVSE;Facturation;39;Facturation
+2021-07-31;IVSE;Facturation Reunion;4;Facturation
+2021-07-31;IVSE;Facturation MyReport;1;Facturation
+2021-07-31;IVSE;Dév facturation;14;Facturation
+2021-07-31;IVSO;TMA;3;TMA
+2021-07-31;ODGProvence;TMA Parcellaire;7;TMA
+2021-07-31;ODGRhone;Certipaq;10,5;Certipaq
+2021-07-31;ODGRhone;Certipaq reunion;2;Certipaq
+2021-07-01;ODGRhone;Developpements + metabase;50;Metabase
+2021-07-31;ODGRhone;Developpement Metabase + Stats;7;Metabase
+2021-07-31;ODGRhone;Dév, organisation et réunion;7;Metabase
+2021-07-31;Perigord;Déplacement + bilan;7;Avant vente
+2021-07-31;Perigord;Déplacement + bilan;7;Avant vente
+2021-07-31;PlateauUrbain;Plateforme;2,5;Plateforme
+2021-07-31;PlateauUrbain;Commune Mesure avant dernier sprint;35;CommuneMesure
+2021-07-31;PlateauUrbain;Reunion fin de sprint;1;CommuneMesure
+2021-07-31;PlateauUrbain;Module map et chiffre, import des données typeform;2;CommuneMesure
+2021-07-31;PlateauUrbain;Participation à la rivière;3,5;Plateforme
+2021-07-31;VINSI;Direction technique;7;TMA DT
+2021-07-31;VINSI;Direction technique;5;Conseil
+2021-07-31;VINSI;Relecture de la reformulation et de la proposition;0,75;Conseil
+2021-07-31;VinsIGP;Facturation + chgtdenom;7;Forfait
+2021-07-01;VinsIGP;Developpements;7;Forfait
+2021-07-31;VinsIGP;Assistance / Demande;12;Forfait
+2021-07-31;VinsIGP;popup Cepage, Ajout de Leurre et fiche PV;6;Forfait
+2021-07-31;VinsIGP;Direction technique;21;Forfait
+2021-07-31;VinsIGP;Réécriture des changements de dénomination et lots;38,5;Forfait
+2021-07-31;VinsIGP;Divers;7;Forfait

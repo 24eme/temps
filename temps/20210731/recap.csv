@@ -1,0 +1,43 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Aurouze;TMA;2;0,3
+Aurouze;TMA Aurouze;2;0,3
+Aurouze;TMA Tuenet;1;0,1
+Aurouze;TOTAL;5;0,7
+AVA;Parcellaire;7;1,0
+AVA;TMA;7;1,0
+AVA;TMA DT;7;1,0
+AVA;TOTAL;21;3,0
+CIVA;Facturation et Contact;17,5;2,5
+CIVA;Réunion;7;1,0
+CIVA;TMA;13;1,9
+CIVA;TMA DT;7;1,0
+CIVA;TOTAL;44,5;6,4
+CIVP;DS;33;4,7
+CIVP;TOTAL;33;4,7
+CNIV;TMA DT;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+DeclarVins;TMA;13;1,9
+DeclarVins;TOTAL;13;1,9
+IVBD;TMA;0,5;0,1
+IVBD;TMA DT;3,5;0,5
+IVBD;TOTAL;4;0,6
+IVSE;Facturation;58;8,3
+IVSE;TOTAL;58;8,3
+IVSO;TMA;3;0,4
+IVSO;TOTAL;3;0,4
+ODGProvence;TMA;7;1,0
+ODGProvence;TOTAL;7;1,0
+ODGRhone;Certipaq;12,5;1,8
+ODGRhone;Metabase;64;9,1
+ODGRhone;TOTAL;76,5;10,9
+Perigord;Avant vente;14;2,0
+Perigord;TOTAL;14;2,0
+PlateauUrbain;CommuneMesure;38;5,4
+PlateauUrbain;Plateforme;6;0,9
+PlateauUrbain;TOTAL;44;6,3
+VINSI;Conseil;5,75;0,8
+VinsIGP;Forfait;98,5;14,1
+VinsIGP;TOTAL;98,5;14,1
+VINSI;TMA DT;7;1,0
+VINSI;TOTAL;12,75;1,8
+TOTAL;TOTAL;62,5
