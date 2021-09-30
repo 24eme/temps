@@ -1,10 +1,8 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2021-08-31;AVA;Affectation Parcellaire;18,5;Forfait
-2021-08-31;Aurouze;TMA;1;TMA
-2021-08-31;PlateauUrbain;Commune Mesure dernier sprint;22,5;CommuneMesure
-2021-08-31;Aurouze;TMA;2;TMA Tuenet
-2021-08-31;ENVA;Migration GLPI;14;Intervention
-2021-08-31;CIVA;TMA;2;TMA
-2021-08-31;PlateauUrbain;Plateforme web;16;Plateforme
-2021-08-31;VinsIGP;Facturation drome;3;Forfait
-2021-08-31;IVBD;TMA;1;TMA
+2021-09-30;PlateauUrbain;Mise en prod commune mesure;78,5;CommuneMesure
+2021-09-30;Aurouze;TMA;1;TMA
+2021-09-30;IVBD;Bouton chgt date saisie;4;TMA
+2021-09-30;CIVA;TMA;1,5;TMA
+2021-09-30;BIVC;Reunion riviere;3,5;Reunion
+2021-09-30;IVSO;Stats;4;TMA
+2021-09-30;AVA;TMA;1;TMA
