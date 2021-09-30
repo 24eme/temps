@@ -1,25 +1,26 @@
 Projet,Date Début,Date fin,Nb jours total,Nb jours consommés,Nb jours restants,Tarif HT
-Aurouze – TMA,2021-01-01,2021-12-31,12,6.5,5.5,500
+Aurouze – TMA,2021-01-01,2021-12-31,12,6.9,5.1,500
 Tuenet TMA,2021-01-01,2021-12-31,12,3.5,8.5,500
-BIVC – TMA,2021-01-01,2021-12-31,18,3,15,570
-IVSO – TMA,2021-01-01,2021-12-31,34,6,28,570
-IVBD – TMA,2021-01-01,2021-12-31,34,15,19,570
-Declarvins – TMA,2021-01-01,2021-12-31,56,17,39,570
-AHJUCAF,2021-01-01,2021-12-31,12,5.5,6.5,710
+BIVC – TMA,2021-01-01,2021-12-31,18,5,13,570
+IVSO – TMA,2021-01-01,2021-12-31,34,9.6,24.4,570
+IVBD – TMA,2021-01-01,2021-12-31,34,16.1,17.9,570
+Declarvins – TMA,2021-01-01,2021-12-31,56,20,36,570
+AHJUCAF,2021-01-01,2021-12-31,12,6.5,5.5,710
 Eurocontrol - D5 Support,2020-01-01,2021-12-31,10.5,0,0,650
-VinsIGP,2020-07-01,,154,358,0,600
-ODGNantes,2021-01-01,2021-12-31,7,5.5,1.5,570
+VinsIGP,2020-07-01,,154,368,0,600
+ODGNantes,2021-01-01,2021-12-31,7,6.25,0.75,570
 CIVP Calendrier,,,12.5,38.5,0,600
-ODGRhone Certipaq,,,,2,,
-ODGRhone Metabase,,,12.5,14.5,0,600
+ODGRhone Certipaq,,,,4,,
+ODGRhone Metabase,,,12.5,15.5,0,600
 ODGProvence Délégation cave coop,,,8.5,8.5,0,600
 CIVP VracExport,,,1,2.5,0,600
 CIVP DS,,,10,8.5,1.5,600
-IVSE Facturation,,,21,10,11,600
-AVA Parcellaire,,,,7.75,,600
+IVSE Facturation,,,21,17.5,3.5,600
+AVA Degustation Cremant,2021-09-01,,,2,,600
 Perigord Avant Vente,,,,3,,770
-PlateauUrbain Commune Mesure,,,,11.25,,
+PlateauUrbain Commune Mesure,,,,24,,
 PlateauUrbain Plateforme,,,,2.5,,
-VINSI – TMA,2021-07-01,2021-12-31,18,3,15,570
+VINSI – TMA,2021-07-01,2021-12-31,18,8.75,9.25,570
+BIVC Autodiagnostique,2021-09-01,,,1.5,,600
 ,,,,,,
 Coefficiant Tangui : 1.5,,,,,,
