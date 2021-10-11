@@ -1,0 +1,41 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Aurouze;TMA;3;0,4
+Aurouze;TOTAL;3;0,4
+AVA;Dégustation crémant;14;2,0
+AVA;TMA;4,5;0,6
+AVA;TMA DT;3,5;0,5
+AVA;TOTAL;22;3,1
+BIVC;Autodiagnostique;10,5;1,5
+BIVC;TMA;7;1,0
+BIVC;TMA DT;3,5;0,5
+BIVC;TOTAL;21;3,0
+CIVA;TMA;33,5;4,8
+CIVA;TOTAL;33,5;4,8
+DeclarVins;TMA;21;3,0
+DeclarVins;TOTAL;21;3,0
+IR;TMA;10,5;1,5
+IR;TOTAL;10,5;1,5
+IVBD;TMA;7,5;1,1
+IVBD;TOTAL;7,5;1,1
+IVSE;Facturation;52,5;7,5
+IVSE;TOTAL;52,5;7,5
+IVSO;TMA;25;3,6
+IVSO;TOTAL;25;3,6
+Juricaf;TMA;7;1,0
+Juricaf;TOTAL;7;1,0
+ODGNantes;TMA DT;3,5;0,5
+ODGNantes;TOTAL;3,5;0,5
+ODGProvence;TMA;7;1,0
+ODGProvence;TOTAL;7;1,0
+ODGRhone;Certipaq;14;2,0
+ODGRhone;Métabase;7;1,0
+ODGRhone;TMA;7;1,0
+ODGRhone;TOTAL;28;4,0
+PlateauUrbain;CommuneMesure;89;12,7
+PlateauUrbain;TOTAL;89;12,7
+VinsIGP;Forfait;73,5;10,5
+VinsIGP;TOTAL;73,5;10,5
+VINSI;TMA;14;2,0
+VINSI;Vinsi TMA DT;17,5;2,5
+VINSI;TOTAL;31,5;4,5
+TOTAL;TOTAL;62,2
