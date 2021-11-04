@@ -1,0 +1,50 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Aurouze;TMA;24;3,4
+Aurouze;TOTAL;24;3,4
+AVA;Dégustation crémant;21;3,0
+AVA;Réunion;1;0,1
+AVA;TMA;26,5;3,8
+AVA;TMA DT;3,5;0,5
+AVA;TOTAL;52;7,4
+BIVC;Autodiagnostic;21;3,0
+BIVC;TMA;26;3,7
+BIVC;TOTAL;47;6,7
+CIVA;TMA;38;5,4
+CIVA;TMA DT;7;1,0
+CIVA;TOTAL;45;6,4
+DeclarVins;TMA;14;2,0
+DeclarVins;TOTAL;14;2,0
+IGPAlpes;TMA DT;3,5;0,5
+IGPAlpes;TOTAL;3,5;0,5
+IGPMed;Forfait;28;4,0
+IGPMed;TOTAL;28;4,0
+IVBD;TMA;1,5;0,2
+IVBD;TMA DT;3,5;0,5
+IVBD;TOTAL;5;0,7
+IVSE;Facturation;7;1,0
+IVSE;TOTAL;7;1,0
+IVSO;TMA;3,5;0,5
+IVSO;TOTAL;3,5;0,5
+Juricaf;Forfait;7;1,0
+Juricaf;TMA;3,5;0,5
+Juricaf;TOTAL;10,5;1,5
+ODGProvence;TMA;2,5;0,4
+ODGProvence;TMA DT;7;1,0
+ODGProvence;TOTAL;9,5;1,4
+ODGRhone;Certipaq;10,5;1,5
+ODGRhone;TOTAL;10,5;1,5
+PlateauUrbain;CommuneMesure;3;0,4
+PlateauUrbain;TOTAL;3;0,4
+Prodimmo;Outils interne;31,5;4,5
+Prodimmo;TOTAL;31,5;4,5
+VINSI;Conseil;3;0,4
+VinsIGP;Forfait;45,5;6,5
+VinsIGP;Reunion;3;0,4
+VinsIGP;Réunion;3,5;0,5
+VinsIGP;TMA;52,5;7,5
+VinsIGP;TOTAL;104,5;14,9
+VINSI;TMA;7;1,0
+VINSI;Vinsi Conseil DT;3,5;0,5
+VINSI;Vinsi TMA DT;10,5;1,5
+VINSI;TOTAL;24;3,4
+TOTAL;TOTAL;60,4
