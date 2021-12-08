@@ -1,4 +1,49 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2021-11-31;VINSI;TMA;6,5;TMA
+2021-11-31;VinsIGP;Developpement;30,5;Forfait
+2021-11-31;VINSI;Conseil;1;Conseil
+2021-11-31;PlateauUrbain;Dev commune mesure;4;CommuneMesure
+2021-11-31;ODGProvence;TMA;3;TMA
+2021-11-31;Juricaf;Dev judilibre;14;Judilibre
+2021-11-31;IVBD;TMA;1;TMA
+2021-11-31;BIVC;réunion fin de sprint autodiagnostic;2;Reunion
+2021-11-31;BIVC;Dev autodiagnostic;16;Autodiagnostic
+2021-11-31;AVA;TMA;1;TMA
+2021-11-30;VINSI;TMA;3,5;TMA
+2021-11-30;VinsIGP;Direction technique;17,5;Forfait
+2021-11-30;VinsIGP;Developpement;21;Forfait
+2021-11-30;VinsIGP;Assistance / Demande et validation DR;7;TMA
+2021-11-30;VinsIGP;Assistance / Demande et validation DR;28;TMA
+2021-11-30;VinsIGP;Assistance / Demande;17,5;Forfait
+2021-11-30;VINSI;Direction technique;3,5;Vinsi TMA DT
+2021-11-30;VINSI;Direction technique;3,5;Vinsi Conseil DT
+2021-11-30;VINSI;Conseil DRev;7;TMA Conseil
+2021-11-30;VINSI;Assistance / Demande;1,5;TMA
+2021-11-30;Prodimmo;Signature de PDF;21;Outils interne
+2021-11-30;ODGRhone;Direction technique;3,5;TMA DT
+2021-11-30;ODGRhone;Adaptation DRev et TMA;7;TMA
+2021-11-30;ODGProvence;Direction technique;10,5;Projet FranceAgriMer
+2021-11-30;IVSO;Petites corrections, TMA;1,5;TMA
+2021-11-30;IVSO;Assistance / Demande;0,5;TMA
+2021-11-30;IVSE;Facturation;7;Facturation
+2021-11-30;IVBD;Assistance / Demande;1;TMA
+2021-11-30;DeclarVins;Optimisation couchdb;3,5;TMA
+2021-11-30;DeclarVins;Assistance / Demande;31,5;TMA
+2021-11-30;CNIV;Direction technique;3,5;TMA DT
+2021-11-30;CIVP;Projet;7;Calendrier
+2021-11-30;CIVA;Facturation;17,5;Facturation
+2021-11-30;CIVA;Facturation;14;Facturation
+2021-11-30;CIVA;Évolutions DR et TMA;28;TMA
+2021-11-30;CIVA;Assistance / Demande;3,5;TMA
+2021-11-30;BIVC;TMA;7;TMA
+2021-11-30;BIVC;Projet;7;Autodiagnostic
+2021-11-30;BIVC;Projet;17,5;Autodiagnostic
+2021-11-30;BIVC;Direction technique;3,5;TMA DT
+2021-11-30;Aurouze;Réunion, petitesévolutions, TMA;3,5;TMA
+2021-11-30;Aurouze;Assistance / Demande;14;TMA
+2021-11-18;PlateauUrbain;Barre de Menu;0,5;CommuneMesure
+2021-11-18;Juricaf;Développement et Correction BDD;2;Forfait
+2021-11-16;Aurouze;Développement;15;TMA
 2021-10-31;VINSI;TMA;3,5;TMA
 2021-10-31;VINSI;Réponses demandes;3;Conseil
 2021-10-31;VinsIGP;Stats, et corrections;31,5;Forfait

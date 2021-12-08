@@ -1,0 +1,48 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Aurouze;TMA;32,5;4,6
+Aurouze;TOTAL;32,5;4,6
+AVA;TMA;1;0,1
+AVA;TOTAL;1;0,1
+BIVC;Autodiagnostic;40,5;5,8
+BIVC;Reunion;2;0,3
+BIVC;TMA;7;1,0
+BIVC;TMA DT;3,5;0,5
+BIVC;TOTAL;53;7,6
+CIVA;Facturation;31,5;4,5
+CIVA;TMA;31,5;4,5
+CIVA;TOTAL;63;9,0
+CIVP;Calendrier;7;1,0
+CIVP;TOTAL;7;1,0
+CNIV;TMA DT;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+DeclarVins;TMA;35;5,0
+DeclarVins;TOTAL;35;5,0
+IVBD;TMA;2;0,3
+IVBD;TOTAL;2;0,3
+IVSE;Facturation;7;1,0
+IVSE;TOTAL;7;1,0
+IVSO;TMA;2;0,3
+IVSO;TOTAL;2;0,3
+Juricaf;Forfait;2;0,3
+Juricaf;Judilibre;14;2,0
+Juricaf;TOTAL;16;2,3
+ODGProvence;Projet FranceAgriMer;10,5;1,5
+ODGProvence;TMA;3;0,4
+ODGProvence;TOTAL;13,5;1,9
+ODGRhone;TMA;7;1,0
+ODGRhone;TMA DT;3,5;0,5
+ODGRhone;TOTAL;10,5;1,5
+PlateauUrbain;CommuneMesure;4,5;0,6
+PlateauUrbain;TOTAL;4,5;0,6
+Prodimmo;Outils interne;21;3,0
+Prodimmo;TOTAL;21;3,0
+VINSI;Conseil;1;0,1
+VinsIGP;Forfait;86,5;12,4
+VinsIGP;TMA;35;5,0
+VinsIGP;TOTAL;121,5;17,4
+VINSI;TMA;11,5;1,6
+VINSI;TMA Conseil;7;1,0
+VINSI;Vinsi Conseil DT;3,5;0,5
+VINSI;Vinsi TMA DT;3,5;0,5
+VINSI;TOTAL;26,5;3,8
+TOTAL;TOTAL;59,9
