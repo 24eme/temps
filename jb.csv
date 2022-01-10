@@ -1,13 +1,11 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2021-11-30;DeclarVins;Assistance / Demande;31,5;TMA
-2021-11-30;VinsIGP;Developpement;17,5;Forfait
-2021-11-30;VinsIGP;Assistance / Demande et validation DR;7;TMA
-2021-11-30;IVSE;Facturation;7;Facturation
-2021-11-30;VINSI;Assistance / Demande;1,5;TMA
-2021-11-30;CIVA;Assistance / Demande;3,5;TMA
-2021-11-30;CIVA;Facturation;14;Facturation
-2021-11-30;IVSO;Assistance / Demande;0,5;TMA
-2021-11-30;IVBD;Assistance / Demande;1;TMA
-2021-11-30;Aurouze;Assistance / Demande;14;TMA
-2021-11-30;BIVC;Projet;17,5;Autodiagnostic
-2021-11-30;CIVP;Projet;7;Calendrier
+2021-12-31;DeclarVins;Assistance / Demande;21;TMA
+2021-12-31;VinsIGP;Assistance / Demande;10,5;TMA
+2021-12-31;VINSI;Assistance / Demande;3,5;TMA
+2021-12-31;CIVA;Assistance / Demande;3,5;TMA
+2021-12-31;CIVA;Facturation;7;Facturation
+2021-12-31;IVBD;Assistance / Demande;3,5;TMA
+2021-12-31;Aurouze;Assistance / Demande;3,5;TMA
+2021-12-31;Tuenet;Assistance / Demande;3,5;TMA
+2021-12-31;BIVC;Projet;28;Autodiagnostic
+2021-12-31;NathanMode;Evolutions;3,5;Calendrier
