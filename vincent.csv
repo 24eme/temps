@@ -1,13 +1,8 @@
-2021-11-30;Prodimmo;Signature de PDF;21;Outils interne
-2021-11-30;CIVA;Évolutions DR et TMA;28;TMA
-2021-11-30;CIVA;Facturation;17,5;Facturation
-2021-11-30;VinsIGP;Corrections, Améliorations et maintenance;28;TMA
-2021-11-30;BIVC;Projet;7;Autodiagnostic
-2021-11-30;BIVC;TMA;7;TMA
-2021-11-30;VINSI;TMA;3,5;TMA
+2021-11-30;CIVA;DR, Contrats;17,5;TMA
+2021-11-30;CIVA;Facturation;3,5;Facturation
+2021-11-30;VinsIGP;Corrections, Améliorations et maintenance;21;TMA
+2021-11-30;VinsIGP;Developpement;38,5;Forfait
 2021-11-30;VINSI;Conseil DRev;7;TMA Conseil
-2021-11-30;ODGRhone;Adaptation DRev et TMA;7;TMA
-2021-11-30;DeclarVins;Optimisation couchdb;3,5;TMA
-2021-11-30;Aurouze;Réunion, petitesévolutions, TMA;3,5;TMA
-2021-11-30;IVSO;Petites corrections, TMA;1,5;TMA
-2021-11-30;VinsIGP;Developpement;21;Forfait
+2021-11-30;Aurouze;Reprise de données AHRB;21;AHRB Import
+2021-11-30;IVSO;Petites corrections;1,5;TMA
+2021-11-30;AVA;TMA;3,5;TMA
