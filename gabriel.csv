@@ -1,13 +1,11 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2021-12-31;BIVC;Autodiagnostic;44;Forfait
-2021-12-31;BIVC;Réunion;2;Réunion
-2021-12-31;PlateauUrbain;Mise en prod;7;Plateforme
-2021-12-31;PlateauUrbain;TMA CM;11;CommuneMesure
-2021-12-31;Aurouze;TMA;3;TMA
-2021-12-31;Tuenet;TMA;1;TMA
-2021-12-31;CIVA;TMA;3,5;TMA
-2021-12-31;ODGRhone;TMA;3;TMA
-2021-12-31;AVA;TMA;2;TMA
-2021-12-31;InterRhone;TMA;1;TMA
-2021-12-31;VinsIGP;TMA facturation / drev;13;TMA
-2021-12-31;VinsIGP;Validation DR;32,5;Forfait
+2022-01-31;PlateauUrbain;Bugfixes page inscription + edition aac;14;Plateforme
+2022-01-31;PlateauUrbain;corrections mineures;2;CommuneMesure
+2022-01-31;BIVC;sprint autodiagnostique;7;Forfait
+2022-01-31;Aurouze;tma;3;TMA
+2022-01-31;VinsIGP;import drev + correction;5;TMA
+2022-01-31;VINSI;TMA DRM;2,5;TMA
+2022-01-31;Tuenet;tma contrat;1;TMA
+2022-01-31;CIVA;TMA contrat / DRM;3;TMA
+2022-01-31;IVSO;Reunion;2;Reunion
+2022-01-31;ODGNantes;DRev;3;TMA

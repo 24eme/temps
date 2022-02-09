@@ -1,0 +1,43 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Aurouze;AHRB Import;21;3,0
+Aurouze;TMA;20,5;2,9
+Aurouze;TOTAL;41,5;5,9
+AVA;TMA;7;1,0
+AVA;TOTAL;7;1,0
+BIVC;Autodiagnostic;74;10,6
+BIVC;TMA;3,5;0,5
+BIVC;TOTAL;77,5;11,1
+CIVA;Facturation;10,5;1,5
+CIVA;TMA;28;4,0
+CIVA;TOTAL;38,5;5,5
+CNIV;TMA;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+DeclarVins;TMA;22;3,1
+DeclarVins;TOTAL;22;3,1
+IVBD;TMA;7;1,0
+IVBD;TOTAL;7;1,0
+IVSO;TMA;1,5;0,2
+IVSO;TOTAL;1,5;0,2
+NathanMode;Calendrier;3,5;0,5
+NathanMode;TOTAL;3,5;0,5
+ODGNantes;TMA;3,5;0,5
+ODGNantes;TOTAL;3,5;0,5
+ODGProvence;TMA;3,5;0,5
+ODGProvence;TOTAL;3,5;0,5
+ODGRhone;TMA;7;1,0
+ODGRhone;TOTAL;7;1,0
+PlateauUrbain;CommuneMesure;11;1,6
+PlateauUrbain;Plateforme;14;2,0
+PlateauUrbain;TOTAL;25;3,6
+Prodimmo;Outils interne;2;0,3
+Prodimmo;TOTAL;2;0,3
+Tuenet;TMA;4,5;0,6
+Tuenet;TOTAL;4,5;0,6
+VinsIGP;Forfait;99;14,1
+VinsIGP;TMA;37,5;5,4
+VinsIGP;TOTAL;136,5;19,5
+VINSI;TMA;3,5;0,5
+VINSI;TMA Conseil;7;1,0
+VINSI;Vinsi TMA DT;7;1,0
+VINSI;TOTAL;17,5;2,5
+TOTAL;TOTAL;57,4
