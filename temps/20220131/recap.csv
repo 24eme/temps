@@ -1,0 +1,53 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+AMVM;Avant vente;7;1,0
+AMVM;TOTAL;7;1,0
+Aurouze;AHRB Import;16,5;2,4
+Aurouze;TMA;21;3,0
+Aurouze;TOTAL;37,5;5,4
+AVA;TMA;5;0,7
+AVA;TOTAL;5;0,7
+BIVC;Autodiagnostic;12,5;1,8
+BIVC;Forfait;7;1,0
+BIVC;TOTAL;19,5;2,8
+CIVA;Facturation;28,5;4,1
+CIVA;TMA;25,5;3,6
+CIVA;TOTAL;54;7,7
+CIVP;Calendrier;7;1,0
+CIVP;TOTAL;7;1,0
+CNIV;TMA;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+DeclarVins;TMA;21;3,0
+DeclarVins;TOTAL;21;3,0
+IR;Viticonnect;3,5;0,5
+IR;TOTAL;3,5;0,5
+IVBD;TMA;0,5;0,1
+IVBD;TOTAL;0,5;0,1
+IVSE;Facturation;14;2,0
+IVSE;TOTAL;14;2,0
+IVSO;Reunion;2;0,3
+IVSO;TMA;3,5;0,5
+IVSO;TOTAL;5,5;0,8
+Juricaf;TMA;3,5;0,5
+Juricaf;TOTAL;3,5;0,5
+NathanMode;Evolutions;17,5;2,5
+NathanMode;TOTAL;17,5;2,5
+ODGNantes;TMA;7;1,0
+ODGNantes;TOTAL;7;1,0
+ODGProvence;TMA;7;1,0
+ODGProvence;TOTAL;7;1,0
+ODGRhone;TMA;7;1,0
+ODGRhone;TOTAL;7;1,0
+PlateauUrbain;CommuneMesure;5,5;0,8
+PlateauUrbain;Plateforme;14;2,0
+PlateauUrbain;TOTAL;19,5;2,8
+Prodimmo;Outils interne;32;4,6
+Prodimmo;TOTAL;32;4,6
+Tuenet;TMA;1;0,1
+Tuenet;TOTAL;1;0,1
+VinsIGP;Forfait;24,5;3,5
+VinsIGP;TMA;28;4,0
+VinsIGP;TOTAL;52,5;7,5
+VINSI;TMA;2,5;0,4
+VINSI;Vinsi TMA DT;3,5;0,5
+VINSI;TOTAL;6;0,9
+TOTAL;TOTAL;47,3
