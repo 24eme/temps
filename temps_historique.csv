@@ -1199,7 +1199,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-07-31;IVSO;Dev;28;Subventions
 2020-07-31;IVSO;Dev;17,5;Subventions
 2020-07-31;IVSO;Assistance / Demande;2;TMA
-2020-07-31;IVSE;BI Configuration et tableau de bord dans metabase;17,5;BI
+2020-07-31;IVSE;BI Configuration et tableau de bord dans metabase;24,5;BI
 2020-07-31;IVBD;Assistance / Demande;2;TMA
 2020-07-31;IVBD;analyse stats;1,5;stats
 2020-07-31;IR;Subvention Occitanie;30;Subventions
@@ -1373,7 +1373,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2020-05-31;IVBD;Direction technique;7;TMA DT
 2020-05-31;IVBD;Assistance / Demande;1,5;TMA
 2020-05-31;Hébergement;Direction technique - Ahjucaf;3,5;AdminSys DT
-2020-05-31;DeclarVins;BI;7;TMA
+2020-05-31;DeclarVins;BI;7;BI
 2020-05-31;DeclarVins;Assistance / Demande;7;TMA
 2020-05-31;CNIV;Direction technique;3,5;TMA DT
 2020-05-31;CIVA;Direction technique;7;TMA DT
