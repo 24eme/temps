@@ -1,12 +1,12 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2022-01-31;PlateauUrbain;Bugfixes page inscription + edition aac;14;Plateforme
-2022-01-31;PlateauUrbain;corrections mineures;2;CommuneMesure
-2022-01-31;BIVC;sprint autodiagnostique;7;Forfait
-2022-01-31;Aurouze;tma;3;TMA
-2022-01-31;VinsIGP;import drev + correction;5;TMA
-2022-01-31;VINSI;TMA DRM;2,5;TMA
-2022-01-31;Tuenet;tma contrat;1;TMA
-2022-01-31;CIVA;TMA contrat / DRM;3;TMA
-2022-01-31;IVSO;Reunion;2;Reunion
-2022-01-31;ODGNantes;DRev;3;TMA
-2022-01-31;Prodimmo;Carte de voeux;0,5;Prodimmo
+2022-02-28;Aurouze;TMA;2,5;TMA
+2022-02-28;CIVA;TMA;3;TMA
+2022-02-28;BIVC;TMA;7;TMA
+2022-02-28;ENVA;TMA GLPI_CONF;3,5;TMA
+2022-02-28;VinsIGP;TMA + DR évol;14;TMA
+2022-02-28;PlateauUrbain;evol plateforme;1;Plateforme
+2022-02-28;PlateauUrbain;Sprint 2 Commune Mesure;48;CommuneMesure
+2022-02-28;AVA;TMA;1,5;TMA
+2022-02-28;ODGProvence;Parcellaire;1,5;TMA
+2022-02-28;IVSO;DRM fantome;2,5;TMA
+2022-02-28;IVBD;TMA contrat;0,5;TMA
