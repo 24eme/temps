@@ -1,4 +1,45 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2022-02-28;VINSI;TMA;2,0;TMA
+2022-02-28;VinsIGP;TMA + DR évol;14;TMA
+2022-02-28;VinsIGP;Direction technique;7;Forfait
+2022-02-28;VinsIGP;Corrections, Améliorations et maintenance;21;TMA
+2022-02-28;VinsIGP;Assistance / Demande;3,5;TMA
+2022-02-28;VINSI;Direction technique;14;Vinsi TMA DT
+2022-02-28;VINSI;Conseil;3,5;Conseil
+2022-02-28;VINSI;Assistance / Demande;3,5;TMA
+2022-02-28;PlateauUrbain;Sprint 2 Commune Mesure;48;CommuneMesure
+2022-02-28;PlateauUrbain;evol plateforme;1;Plateforme
+2022-02-28;PlateauUrbain;Direction technique;3,5;CommuneMesure
+2022-02-28;ODGRhone;Direction technique - Certipaq;17,5;Certipaq
+2022-02-28;ODGProvence;Parcellaire;1,5;TMA
+2022-02-28;ODGProvence;Adminsys;3,5;Forfait
+2022-02-28;NathanMode;Developpement;28;Evolutions
+2022-02-28;Nantes;TMA;2,0;TMA
+2022-02-28;Juricaf;Direction technique;7;TMA
+2022-02-28;IVSO;DRM Fantôme;3,5;TMA
+2022-02-28;IVSO;DRM fantome;3,5;TMA
+2022-02-28;IVSO;Direction technique;10,5;TMA
+2022-02-28;IVSE;Export France Agrimer;10,5;Facturation
+2022-02-28;IVSE;Developpement;7;Facturation
+2022-02-28;IVBD;TMA contrat;0,5;TMA
+2022-02-28;ENVA;TMA GLPI_CONF;3,5;TMA
+2022-02-28;DeclarVins;Assistance / Demande;31,5;TMA
+2022-02-28;CIVA;TMA;3,5;TMA
+2022-02-28;CIVA;Facturation;21;Facturation
+2022-02-28;CIVA;Facturation;14;Facturation
+2022-02-28;CIVA;Exports comptable;24,5;Facturation
+2022-02-28;CIVA;Direction technique;7;TMA
+2022-02-28;CIVA;Assistance / Demande;3,5;TMA
+2022-02-28;BIVC;TMA;7;TMA
+2022-02-28;BIVC;TMA;3,5;TMA
+2022-02-28;BIVC;Adminsys;10,5;Forfait
+2022-02-28;AVA;TMA;2,5;TMA
+2022-02-28;AVA;TMA;1,5;TMA
+2022-02-28;Aurouze;TMA;7,0;TMA
+2022-02-28;Aurouze;TMA;3,5;TMA
+2022-02-28;Aurouze;Assistance / Demande;3,5;TMA
+2022-02-08;Juricaf;Refonte/Responsive;14,0;RefonteResponsive
+2022-02-04;Aurouze;Développement;7,0;TMA
 2022-01-31;VINSI;TMA DRM;2,5;TMA
 2022-01-31;VinsIGP;import drev + correction;5;TMA
 2022-01-31;VinsIGP;Direction technique;7;Forfait
