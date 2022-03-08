@@ -1,18 +1,11 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2022-01-31;DeclarVins;Assistance / Demande;21;TMA
-2022-01-31;VinsIGP;Assistance / Demande;7;TMA
-2022-01-31;IVSE;Export France Agrimer;14;Facturation
-2022-01-31;CIVA;Assistance / Demande;1,5;TMA
-2022-01-31;CIVA;Facturation;10,5;Facturation
-2022-01-31;CIVA;Réunion;2;Facturation
-2022-01-31;IVBD;Assistance / Demande;0,5;TMA
-2022-01-31;Aurouze;Assistance / Demande;0,5;TMA
-2022-01-31;Aurouze;Assistance / Demande;2,5;AHRB
-2022-01-31;BIVC;Projet;7;Autodiagnostic
-2022-01-31;BIVC;Réunion;2;Autodiagnostic
-2022-01-31;NathanMode;Migration Serveur;14;Evolutions
-2022-01-31;AVA;Assistance / Demande;1,5;TMA
-2022-01-31;ODGProvence;Assistance / Demande;1,5;TMA
-2022-01-31;AMVM;Contrats;7;Avant vente
-2022-01-31;CIVP;Assistance / Demande;4;Calendrier
-2022-01-31;CIVP;Réunion;2;Calendrier
+2022-02-28;DeclarVins;Assistance / Demande;31,5;TMA
+2022-02-28;VinsIGP;Assistance / Demande;3,5;TMA
+2022-02-28;IVSE;Developpement;7;Facturation
+2022-02-28;IVSE;Export France Agrimer;10,5;Facturation
+2022-02-28;CIVA;Assistance / Demande;3,5;TMA
+2022-02-28;CIVA;Facturation;14;Facturation
+2022-02-28;CIVA;Exports comptable;24,5;Facturation
+2022-02-28;Aurouze;Assistance / Demande;3,5;TMA
+2022-02-28;NathanMode;Developpement;28;Evolutions
+2022-02-28;VINSI;Assistance / Demande;3,5;TMA
