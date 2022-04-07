@@ -1,23 +1,24 @@
 Projet,Date Début,Date fin,Nb jours total,Nb jours consommés,Nb jours restants,Tarif HT
-Aurouze – TMA,2022-01-01,2022-12-31,12,6,3,550
+Aurouze – TMA,2022-01-01,2022-12-31,12,7,2,550
 Tuenet TMA,2022-01-01,2022-12-31,12,0,12,550
 BIVC – TMA,2022-01-01,2022-12-31,15,1.5,13.5,650
-IVBD – TMA,2022-01-01,2022-12-31,30,0,34,650
+IVBD – TMA,2022-01-01,2022-12-31,30,1,29,650
 Declarvins – TMA Restante 2021,2021-01-01,2022-12-31,26,0,26,650
-Declarvins – TMA,2022-01-01,2022-12-31,50,7.5,42.5,650
-AHJUCAF,2022-01-01,2022-12-31,12,1.5,10.5,710
-AHJUCAF Refonte / Responsive,2022-01-01,2022-12-31,,2,,
-VinsIGP,2020-07-01,,154,403.5,0,600
-VinsIGP TMA,2022-01-01,2022-12-31,28,9.5,18.5,570
+Declarvins – TMA,2022-01-01,2022-12-31,50,14,36,650
+AHJUCAF,2022-01-01,2022-12-31,12,3,9,710
+AHJUCAF Refonte / Responsive,2022-01-01,2022-12-31,,37.5,,
+VinsIGP,2020-07-01,,154,408,0,600
+VinsIGP TMA,2022-01-01,2022-12-31,28,13,15,570
 AMVM TMA,2022-01-01,2022-12-31,4,0,4,650
 AMVM Forfait,2022-01-01,,19,,19,650
-VINSI – TMA,2021-07-01,2021-12-31,15,4,11,650
-ODGRhone Certipaq,,,,5.5,,
+VINSI – TMA,2021-07-01,2021-12-31,15,5,10,650
+ODGRhone Certipaq,,,,6,,
 ODGRhone Metabase,,,12.5,15.5,0,600
-IVSE Facturation,,,21,19.5,1.5,600
+IVSE Facturation,,,21,24,0,600
 Perigord Avant Vente,,,,3,,770
-PlateauUrbain Commune Mesure,,,,35,,
+PlateauUrbain Commune Mesure,,,,37.5,,
 PlateauUrbain Plateforme,,,,6.5,,
-BIVC Autodiagnostique,2021-09-01,,73.5,24,49.5,600
+BIVC Autodiagnostique,2021-09-01,,73.5,36,37.5,600
 IGPMed – Stats,,,4,4,0,
-Nathanmode Évolutions,2022-01-01,,,6.5,,
+Nathanmode Évolutions,2022-01-01,,,8.5,,
+ODGProvence,,,,4,,
