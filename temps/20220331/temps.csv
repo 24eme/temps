@@ -1,0 +1,50 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2022-03-31;IR;Assistance / Demande;21;TMA
+2022-03-31;CIVP;Assistance / Demande;14;TMA
+2022-03-31;CIVP;Modification calendrier;3,5;TMA
+2022-03-31;IVSE;Developpement;17,5;Facturation
+2022-03-31;IVSE;Export France Agrimer;3,5;Facturation
+2022-03-31;IVSE;SV12;10,5;Facturation
+2022-03-31;IVSE;Assistance / Demande;7;TMA
+2022-03-31;CIVA;Assistance / Demande;2;TMA
+2022-03-31;CIVA;Facturation;7;TMA
+2022-03-31;Aurouze;Assistance / Demande;1;TMA
+2022-03-31;NathanMode;Developpement;14;Evolutions
+2022-03-31;IVBD;Assistance / Demande;2;TMA
+2022-03-31;Logilab;Evolution signature PDF;7;PDFSignature
+2022-03-31;BIVC;Developpement;28;Autodiagnostic
+2022-03-31;BIVC;Assistance / Demande;1;TMA
+2022-03-31;PlateauUrbain;Dev commune mesure;10;CommuneMesure
+2022-03-31;PlateauUrbain;Dev commune mesure;2;Reunion
+2022-03-31;BIVC;Dev autodiagnostic;52;Forfait
+2022-03-31;VINSI;TMA;2;TMA
+2022-03-31;AVA;TMA;7;TMA
+2022-03-31;Aurouze;TMA;5;TMA
+2022-03-31;CIVA;TMA;4;TMA
+2022-03-31;VinsIGP;TMA;8;TMA
+2022-03-31;CIVP;TMA DRM;0,5;TMA
+2022-03-31;IVBD;DRM modificatrice;3,5;TMA
+2022-03-31;ODGProvence;Parcellaire;1,5;TMA
+2022-03-31;ODGNantes;DRev;1;TMA
+2022-03-31;Tuenet;TMA contrat;1;TMA
+2022-03-31;CIVA;Direction technique;7;TMA
+2022-03-31;BIVC;Adminsys;3,5;Forfait
+2022-03-31;VINSI;Direction technique;3,5;TMA
+2022-03-31;VinsIGP;Direction technique;17,5;Forfait
+2022-03-31;ODGRhone;Direction technique - Certipaq;3,5;Certipaq
+2022-03-31;PlateauUrbain;Direction technique;7;CommuneMesure
+2022-03-31;ODGProvence;Direction technique;10,5;Parcellaire
+2022-03-31;Juricaf;Direction technique;10,5;TMA
+2022-03-31;InstitutRhodanien;Direction technique;21;Viticonnect
+2022-03-31;CNIV;Direction technique;3,5;TMA
+2022-03-31;AVA;TMA essentiellement facturation;28;TMA
+2022-03-31;CIVA;TMA DRM et Facturation;28;TMA
+2022-03-31;VinsIGP;Corrections, Améliorations et maintenance;17,5;TMA
+2022-03-31;VinsIGP;Date de commission;14;Forfait
+2022-03-31;Nantes;Facturation 2022;7;TMA
+2022-03-31;VINSI;TMA;1;TMA
+2022-03-31;ODGProvence;Évolutions parcellaires et affectations;17,5;Parcellaire
+2022-03-31;ODGRhone;Statut suspension Certipaq;1;TMA
+2022-03-31;Logilab;Signature partagé;7;PDFSignature
+2022-03-31;Juricaf;Réunion et conception;3,5;Responsive
+2022-03-31;Juricaf;Refonte/Responsive;35;Responsive
