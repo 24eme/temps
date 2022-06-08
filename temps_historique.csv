@@ -1,4 +1,54 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2022-04-30;VINSI;TMA;3,5;TMA
+2022-04-30;VINSI;TMA;1;TMA
+2022-04-30;VinsIGP;TMA + template conformité;7;TMA
+2022-04-30;VinsIGP;Direction technique;10,5;Forfait
+2022-04-30;VinsIGP;Date de commission;14;Forfait
+2022-04-30;VinsIGP;Corrections, Améliorations et maintenance;14;TMA
+2022-04-30;VinsIGP;Assistance / Demande;0,5;TMA
+2022-04-30;VINSI;Direction technique;3,5;Vinsi TMA DT
+2022-04-30;VINSI;Assistance / Demande;1;TMA
+2022-04-30;Prodimmo;Factures + PSA;2;Outils internes
+2022-04-30;Prodimmo;Evolution signature PDF;7;PDF
+2022-04-30;PlateauUrbain;TMA;7,5;Plateforme
+2022-04-30;PlateauUrbain;petite TMA;16;CommuneMesure
+2022-04-30;PlateauUrbain;Direction technique;3,5;CommuneMesure
+2022-04-30;ODGProvence;Évolutions parcellaires et affectations;14;Parcellaire
+2022-04-30;ODGProvence;Direction technique;7;Parcellaire
+2022-04-30;ODGProvence;Direction technique;10,5;Projet FranceAgriMer
+2022-04-30;ODGProvence;Admin Sys;10,5;Adminsys
+2022-04-30;NathanMode;Interface des coupes;10,5;EvolutionsCoupes
+2022-04-30;NathanMode;Developpement;17,5;EvolutionsCoupes
+2022-04-30;NathanMode;Ajustement de facturation;3,5,0;NathanMode
+2022-04-30;Logilab;Signature partagé;7,0;PDFSignature
+2022-04-30;Juricaf;Réunion;1,5;Responsive
+2022-04-30;Juricaf;Direction technique;3,5;TMA
+2022-04-30;IVSO;Assistance / Demande;0,5;TMA
+2022-04-30;IVSE;Export France Agrimer;2;Facturation
+2022-04-30;IVSE;Developpement;6;Facturation
+2022-04-30;IVSE;Assistance / Demande;1;TMA
+2022-04-30;IVBD;Assistance / Demande;1;TMA
+2022-04-30;IR;Assistance / Demande;3,5;TMA
+2022-04-30;InstitutRhodanien;Direction technique;3,5;Viticonnect
+2022-04-30;CIVP;Direction technique;3,5;Calendrier
+2022-04-30;CIVP;Assistance / Demande;3,5;TMA
+2022-04-30;CIVA;TMA;7;TMA
+2022-04-30;CIVA;TMA;1;TMA
+2022-04-30;CIVA;Direction technique;3,5;TMA
+2022-04-30;CIVA;Assistance / Demande;1;TMA
+2022-04-30;BIVC;TMA;1,5;TMA
+2022-04-30;BIVC;Facture;2;TMA
+2022-04-30;BIVC;Developpement;17,5;Autodiagnostic
+2022-04-30;BIVC;Autodiagnostic sprint;33,5;Autodiagnostic
+2022-04-30;AVA;TMA;7;TMA
+2022-04-30;Aurouze;TMA;3,5;TMA
+2022-04-30;Aurouze;Assistance / Demande;7;TMA
+2022-04-30;AMVM;Réunion;3,5;Forfait
+2022-04-30;AMVM;Direction technique;10,5;Forfait
+2022-04-30;AMVM;Déploiement, libération du code dans GIT et Réunion;10,5;Forfait
+2022-04-30;Adminsys;Adminsys;10,5;Forfait
+2022-04-28;Aurouze;TMA;1,0;TMA
+2022-04-01;Juricaf;Refonte/Responsive;14,0;TMA
 2022-03-31;VINSI;TMA;2;TMA
 2022-03-31;VINSI;TMA;1;TMA
 2022-03-31;VinsIGP;TMA;8;TMA
@@ -41,7 +91,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2022-03-31;CIVA;Direction technique;7;TMA
 2022-03-31;CIVA;Assistance / Demande;2;TMA
 2022-03-31;BIVC;Developpement;28;Autodiagnostic
-2022-03-31;BIVC;Dev autodiagnostic;52;Forfait
+2022-03-31;BIVC;Dev autodiagnostic;52;Autodiagnostic
 2022-03-31;BIVC;Assistance / Demande;1;TMA
 2022-03-31;BIVC;Adminsys;3,5;Forfait
 2022-03-31;AVA;TMA essentiellement facturation;28;TMA
@@ -126,7 +176,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2022-01-31;CIVA;Facturation;14;Facturation
 2022-01-31;CIVA;Facturation;12,5;Facturation
 2022-01-31;CIVA;Assistance / Demande;1,5;TMA
-2022-01-31;BIVC;sprint autodiagnostique;7;Forfait
+2022-01-31;BIVC;sprint autodiagnostique;7;Autodiagnostic
 2022-01-31;BIVC;Réunion;2;Autodiagnostic
 2022-01-31;BIVC;Projet;7;Autodiagnostic
 2022-01-31;BIVC;Autodiag réunion + adminsys;3,5;Autodiagnostic
@@ -189,7 +239,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2021-11-31;ODGProvence;TMA;3;TMA
 2021-11-31;Juricaf;Dev judilibre;14;Judilibre
 2021-11-31;IVBD;TMA;1;TMA
-2021-11-31;BIVC;réunion fin de sprint autodiagnostic;2;Reunion
+2021-11-31;BIVC;réunion fin de sprint autodiagnostic;2;Autodiagnostic
 2021-11-31;BIVC;Dev autodiagnostic;16;Autodiagnostic
 2021-11-31;AVA;TMA;1;TMA
 2021-11-30;VINSI;TMA;3,5;TMA
@@ -298,9 +348,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2021-09-30;CIVA;TMA;1,5;TMA
 2021-09-30;CIVA;Assistance / Demande;0,5;TMA
 2021-09-30;BIVC;TMA;3,5;TMA
-2021-09-30;BIVC;Reunion riviere;3,5;Autodiagnostique
+2021-09-30;BIVC;Reunion riviere;3,5;Autodiagnostic
 2021-09-30;BIVC;Proposition nouveau design;3,5;TMA
-2021-09-30;BIVC;Direction technique Réunion et Compte rendu;7;Autodiagnostique
+2021-09-30;BIVC;Direction technique Réunion et Compte rendu;7;Autodiagnostic
 2021-09-30;BIVC;Direction technique;3,5;TMA DT
 2021-09-30;AVA;TMA;1;TMA
 2021-09-30;AVA;Direction technique;3,5;TMA DT
