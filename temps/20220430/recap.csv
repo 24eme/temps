@@ -1,0 +1,53 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Adminsys;Forfait;10,5;1,5
+Adminsys;TOTAL;10,5;1,5
+AMVM;Forfait;24,5;3,5
+AMVM;TOTAL;24,5;3,5
+Aurouze;TMA;11,5;1,6
+Aurouze;TOTAL;11,5;1,6
+AVA;TMA;7;1,0
+AVA;TOTAL;7;1,0
+BIVC;Autodiagnostic;51;7,3
+BIVC;TMA;3,5;0,5
+BIVC;TOTAL;54,5;7,8
+CIVA;TMA;12,5;1,8
+CIVA;TOTAL;12,5;1,8
+CIVP;Calendrier;3,5;0,5
+CIVP;TMA;3,5;0,5
+CIVP;TOTAL;7;1,0
+InstitutRhodanien;Viticonnect;3,5;0,5
+InstitutRhodanien;TOTAL;3,5;0,5
+IR;TMA;3,5;0,5
+IR;TOTAL;3,5;0,5
+IVBD;TMA;1;0,1
+IVBD;TOTAL;1;0,1
+IVSE;Facturation;8;1,1
+IVSE;TMA;1;0,1
+IVSE;TOTAL;9;1,3
+IVSO;TMA;0,5;0,1
+IVSO;TOTAL;0,5;0,1
+Juricaf;Responsive;1,5;0,2
+Juricaf;TMA;17,5;2,5
+Juricaf;TOTAL;19;2,7
+Logilab;PDFSignature;7;1,0
+Logilab;TOTAL;7;1,0
+NathanMode;EvolutionsCoupes;28;4,0
+NathanMode;NathanMode;3,5;0,5
+NathanMode;TOTAL;31,5;4,5
+ODGProvence;Adminsys;10,5;1,5
+ODGProvence;Parcellaire;21;3,0
+ODGProvence;Projet FranceAgriMer;10,5;1,5
+ODGProvence;TOTAL;42;6,0
+PlateauUrbain;CommuneMesure;19,5;2,8
+PlateauUrbain;Plateforme;7,5;1,1
+PlateauUrbain;TOTAL;27;3,9
+Prodimmo;Outils internes;2;0,3
+Prodimmo;PDF;7;1,0
+Prodimmo;TOTAL;9;1,3
+VinsIGP;Forfait;24,5;3,5
+VinsIGP;TMA;21,5;3,1
+VinsIGP;TOTAL;46;6,6
+VINSI;TMA;5,5;0,8
+VINSI;Vinsi TMA DT;3,5;0,5
+VINSI;TOTAL;9;1,3
+TOTAL;TOTAL;47,9
