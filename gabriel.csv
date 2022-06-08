@@ -1,11 +1,10 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2022-04-30;VinsIGP;TMA + template conformité;7;TMA
-2022-04-30;BIVC;Facture;2;TMA
-2022-04-30;BIVC;Autodiagnostic sprint;33,5;Autodiagnostic
-2022-04-30;PlateauUrbain;petite TMA;16;CommuneMesure
-2022-04-30;PlateauUrbain;TMA;7,5;Plateforme
-2022-04-30;AMVM;Réunion;7;Forfait
-2022-04-30;VINSI;TMA;1;TMA
-2022-04-30;ODGProvence;Admin Sys;10,5;Adminsys
-2022-04-30;CIVA;TMA;1;TMA
-2022-04-30;Prodimmo;Factures + PSA;2;Outils internes
+2022-05-31;BIVC;Autodiagnostic;42;Autodiagnostic
+2022-05-31;BIVC;TMA;1;TMA
+2022-05-31;ENVA;Résolution bug pbox;3,5;TMA
+2022-05-31;Aurouze;TMA;2;TMA
+2022-05-31;PlateauUrbain;Sprint experimentation graph;32;CommuneMesure
+2022-05-31;CIVA;TMA;3,5;TMA
+2022-05-31;Prodimmo;Tableau Voeux;2;Outils interne
+2022-05-31;Provence;TMA;3,5;TMA
+2022-05-31;PlateauUrbain;TMA;1,5;Plateforme
