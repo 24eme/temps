@@ -3,7 +3,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2022-05-31;VinsIGP;Corrections, Améliorations et maintenance;7;TMA
 2022-05-31;VINSI;Direction technique;1;COnseil
 2022-05-31;VINSI;Direction technique;14;Vinsi TMA DT
-2022-05-31;Provence;TMA;3,5;TMA
+2022-05-31;ODGProvence;TMA;3,5;TMA
 2022-05-31;Prodimmo;Tableau Voeux;2;Outils interne
 2022-05-31;Prodimmo;Signature partagé;14,0;Outils Interne
 2022-05-31;PlateauUrbain;TMA;1,5;Plateforme
@@ -2792,7 +2792,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2019-06-30;VINSI;DRM;4;TMA
 2019-06-30;VINSI;Direction technique;7;TMA DT
 2019-06-30;VINSI;CRD;4;TMA
-2019-06-30;Provence;TMA Direction technique;3,5;TMA DT
+2019-06-30;ODGProvence;TMA Direction technique;3,5;TMA DT
 2019-06-30;Prodimmo;Dev;36;PSA
 2019-06-30;ODGRhone;TMA Direction technique;7;TMA DT
 2019-06-30;ODGRhone;Réunion DI, Divers (DRev, Parcellaire, Irrigation, ...), Metabase;7;Réunion
