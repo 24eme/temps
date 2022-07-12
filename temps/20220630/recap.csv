@@ -1,0 +1,55 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+AdminSys;AdminSys;3,5;0,5
+AdminSys;TOTAL;3,5;0,5
+AMVM;Forfait;14;2,0
+AMVM;TOTAL;14;2,0
+Aurouze;TMA;29;4,1
+Aurouze;Touraine;7;1,0
+Aurouze;TOTAL;36;5,1
+AVA;TMA;6,5;0,9
+AVA;TOTAL;6,5;0,9
+BIVC;Autodiagnostic;11,5;1,6
+BIVC;TOTAL;11,5;1,6
+CIVA;TMA;18,5;2,6
+CIVA;TOTAL;18,5;2,6
+CIVP;TMA;3,5;0,5
+CIVP;TOTAL;3,5;0,5
+CNIV;TMA;14;2,0
+CNIV;TOTAL;14;2,0
+IR;Pluriannuel;10,5;1,5
+IR;TMA;10,5;1,5
+IR;TOTAL;21;3,0
+IVBD;TMA;5,5;0,8
+IVBD;TOTAL;5,5;0,8
+IVSE;Facturation;6;0,9
+IVSE;Relances;7;1,0
+IVSE;TMA;7;1,0
+IVSE;TOTAL;20;2,9
+IVSO;TMA;10;1,4
+IVSO;TOTAL;10;1,4
+Juricaf;RefonteResponsive;9;1,3
+Juricaf;Responsive;17,5;2,5
+Juricaf;TMA;45,5;6,5
+Juricaf;TOTAL;72;10,3
+NathanMode;EvolutionsCoupes;31,5;4,5
+NathanMode;TOTAL;31,5;4,5
+ODGNantes;TMA;1;0,1
+ODGNantes;TOTAL;1;0,1
+ODGProvence;TMA;11;1,6
+ODGProvence;TOTAL;11;1,6
+ODGRhone;Formation métabase;3,5;0,5
+ODGRhone;Réunion;7;1,0
+ODGRhone;Réunion + TMA;7;1,0
+ODGRhone;TOTAL;17,5;2,5
+PlateauUrbain;CommuneMesure;13;1,9
+PlateauUrbain;TOTAL;13;1,9
+VINSI;Conseil;6;0,9
+VinsIGP;Forfait;3,5;0,5
+VinsIGP;TMA;20,5;2,9
+VinsIGP;TOTAL;24;3,4
+VINSI;TMA;2,5;0,4
+VINSI;Vinsi TMA DT;3,5;0,5
+VINSI;TOTAL;12;1,7
+Viticonnect;TMA;3,5;0,5
+Viticonnect;TOTAL;3,5;0,5
+TOTAL;TOTAL;49,9
