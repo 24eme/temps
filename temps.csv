@@ -2,15 +2,15 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2022-07-31;CIVA;TMA et Ouverture DS;17,5;TMA
 2022-07-31;CIVA;Évolutions Tiers;28;Évolutions Tiers
 2022-07-31;CIVA;Réunion SV11/SV12;7;Réunion
-2022-07-31;VinsIGP;Corrections, Améliorations, Métabase et maintenance;s10,5;TMA
+2022-07-31;VinsIGP;Corrections, Améliorations, Métabase et maintenance;10,5;TMA
 2022-07-31;AVA;TMA;3,5;TMA
 2022-07-31;BIVC;Dévelopement;14;Autodiagnostic
 2022-07-31;BIVC;TMA;2,0;TMA
 2022-07-31;IVBD;TMA;3,5;TMA
-2022-07-31;PlateaUrbain;Sticky;2,0;CommuneMesure
+2022-07-31;PlateauUrbain;Sticky;2,0;CommuneMesure
 2022-07-31;ODGRhone;DRev, Merge et BIO;24,5;DRev
 2022-07-31;IVSO;TMA;2,0;TMA
-2022-07-31;NathanMode;Bug factures coupes;2,0;EvolutionsCoupesDate;Projet;Description;Temps (en heure);Tache (Optionnel)
+2022-07-31;NathanMode;Bug factures coupes;2,0;EvolutionsCoupes
 2022-07-31;BIVC;Sprint final autodiag;43,5;Autodiagnostic
 2022-07-31;AVA;TMA DRev/VCI;8;TMA
 2022-07-31;Aurouze;TMA;0,5;TMA
@@ -18,13 +18,13 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2022-07-31;PlateauUrbain;Reunion fin de sprint;2;Reunion
 2022-07-31;CIVA;TMA;1;TMA
 2022-07-31;IVBD;TMA;4;TMA
-2022-07-31;IVSO;TMA;0,5;TMA
+2022-07-31;IVSO;TMA;1,5;TMA
 2022-07-31;ODGProvence;TMA parcellaire;6;TMA
-2022-07-31;VINSI;
-2022-07-31;VinsIGP;TMA;2,5;TMA
+2022-07-31;VinsIGP;TMA;3,5;TMA
 2022-07-31;DeclarVins;TMA;0,5;TMA
 2022-07-31;ODGRhone;Evol DRev;1;DRev
-2022-07-31;prodimmo;annonce + readme;1;Prodimmo
+2022-07-31;Prodimmo;annonce + readme;1;Outils Internes
+2022-07-31;Prodimmo;Stockages des emails clients dans report 24;3,5;Outils Internes
 2022-07-31;CIVP;TMA Calendrier;1;TMA
 2022-07-31;BIVC;CVO;0,5;TMA
 2022-07-31;IR;Developpement;21;Pluriannuel
@@ -37,10 +37,10 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2022-07-31;NathanMode;Developpement;2;EvolutionsCoupes
 2022-07-31;BIVC;Tickets;7;Autodiagnostic
 2022-07-31;Aurouze;Assistance / Demande;7;TMA
-2022-07-31;ODGRhone;Direction technique;10,5;Réunion + Dev Sprint
-2022-07-31;ODGRhone;Direction technique;3,5;Revert habilitation sites
+2022-07-31;ODGRhone;Direction technique et réunion;10,5;DRev
+2022-07-31;ODGRhone;Direction technique Revert habilitation sites;3,5;Certipaq
 2022-07-31;CNIV;Direction technique;3,5;TMA
-2022-07-31;CIVA;Direction technique;3,5;TMA
-2022-07-31;BIVC;Direction technique;3,5;Autodiag viticonnect
-2022-07-31;PlateaUrbain;Direction technique;7;CommuneMesure
-2022-07-31;VinsIGP;Direction technique;14;TMA + SAGE2022-06-02;Juricaf;Fine-tunning;7,0;TMA
+2022-07-31;CIVA;Direction technique;7,0;Évolutions Tiers
+2022-07-31;BIVC;Direction technique;3,5;Autodiagnostic
+2022-07-31;PlateauUrbain;Direction technique;7;CommuneMesure
+2022-07-31;VinsIGP;Direction technique;14;TMA
