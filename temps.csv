@@ -23,7 +23,7 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2022-08-31;CNIV;Direction technique;3,5;TMA
 2022-08-31;CIVA;Direction technique;10,5;TMA
 2022-08-31;VinsIGP;Direction technique;14;TMA
-2022-08-31;InterRhone;Direction technique;3,5;TMA Duplication de comptes
+2022-08-31;IR;Direction technique;3,5;TMA Duplication de comptes
 2022-08-31;VINSI;Direction technique;3,5;TMA
 2022-08-31;Viticonnect;Direction technique;7;Docker
 2022-08-31;Juricaf;Direction technique;3,5;TMA + Import CAPP
@@ -34,4 +34,6 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2022-08-31;VinsIGP;Facturation Juliette;10,5;Forfait
 2022-08-31;AVA;Stats comptable;1,5;TMA
 2022-08-31;IVSE;Bug Facturation;1,5;TMA
-2022-08-31;DeclarVins;Monté de version de métabase et lien dans la nav;3,5;Métabase
+2022-08-31;IR;Monté de version de métabase et lien dans la nav;1;Métabase
+2022-08-31;IVSE;Monté de version de métabase et lien dans la nav;1;Métabase
+2022-08-31;CIVP;Monté de version de métabase et lien dans la nav;1;Métabase
