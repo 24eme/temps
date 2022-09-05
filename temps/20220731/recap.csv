@@ -1,0 +1,44 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Aurouze;TMA;7,5;1,1
+Aurouze;TOTAL;7,5;1,1
+AVA;TMA;11,5;1,6
+AVA;TOTAL;11,5;1,6
+BIVC;Autodiagnostic;68;9,7
+BIVC;TMA;2,5;0,4
+BIVC;TOTAL;70,5;10,1
+CIVA;Évolutions Tiers;35;5,0
+CIVA;Réunion;7;1,0
+CIVA;TMA;18,5;2,6
+CIVA;TOTAL;60,5;8,6
+CIVP;Metabase;14;2,0
+CIVP;TMA;9;1,3
+CIVP;TOTAL;23;3,3
+CNIV;TMA;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+DeclarVins;TMA;0,5;0,1
+DeclarVins;TOTAL;0,5;0,1
+IR;TMA;7;1,0
+IR;TMA Pluriannuel;21;3,0
+IR;TOTAL;28;4,0
+IVBD;TMA;7,5;1,1
+IVBD;TOTAL;7,5;1,1
+IVSE;Relances;28;4,0
+IVSE;VIP2C;3,5;0,5
+IVSE;TOTAL;31,5;4,5
+IVSO;TMA;3,5;0,5
+IVSO;TOTAL;3,5;0,5
+NathanMode;EvolutionsCoupes;4;0,6
+NathanMode;TOTAL;4;0,6
+ODGProvence;TMA;6;0,9
+ODGProvence;TOTAL;6;0,9
+ODGRhone;Certipaq;3,5;0,5
+ODGRhone;DRev;36;5,1
+ODGRhone;TOTAL;39,5;5,6
+PlateauUrbain;CommuneMesure;26;3,7
+PlateauUrbain;Reunion;2;0,3
+PlateauUrbain;TOTAL;28;4,0
+Prodimmo;Outils Internes;4,5;0,6
+Prodimmo;TOTAL;4,5;0,6
+VinsIGP;TMA;28;4,0
+VinsIGP;TOTAL;28;4,0
+TOTAL;TOTAL;51,1
