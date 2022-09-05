@@ -1,0 +1,50 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+AMVM;Forfait;28;4,0
+AMVM;TOTAL;28;4,0
+Aurouze;TMA;0,5;0,1
+Aurouze;TOTAL;0,5;0,1
+AVA;Parcellaire;3,5;0,5
+AVA;TMA;1,5;0,2
+AVA;TOTAL;5;0,7
+BIVC;Autodiagnostic;23;3,3
+BIVC;Liaison interne;4;0,6
+BIVC;TOTAL;27;3,9
+CIVA;Évolutions Tiers;10,5;1,5
+CIVA;TMA;18;2,6
+CIVA;TOTAL;28,5;4,1
+CIVP;Formation Metabase;1,5;0,2
+CIVP;TMA;3;0,4
+CIVP;TOTAL;4,5;0,6
+CNIV;TMA;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+DeclarVins;TMA;4,5;0,6
+DeclarVins;TOTAL;4,5;0,6
+IR;Formation Metabase;1,5;0,2
+IR;Pluriannuel;10,5;1,5
+IR;TMA;1;0,1
+IR;TMA Duplication de comptes;3,5;0,5
+IR;TOTAL;16,5;2,4
+IVBD;TMA;0,5;0,1
+IVBD;TOTAL;0,5;0,1
+IVSE;Formation Metabase;1,5;0,2
+IVSE;TMA;9,5;1,4
+IVSE;TOTAL;11;1,6
+Juricaf;TMA;0,5;0,1
+Juricaf;TMA + Import CAPP;3,5;0,5
+Juricaf;TOTAL;4;0,6
+ODGProvence;TMA;2;0,3
+ODGProvence;TOTAL;2;0,3
+PlateauUrbain;CommuneMesure;30;4,3
+PlateauUrbain;TOTAL;30;4,3
+Prodimmo;Outils Interne;1;0,1
+Prodimmo;TOTAL;1;0,1
+VINSI;Conseil;5;0,7
+VinsIGP;AdminSys;7;1,0
+VinsIGP;Forfait;10,5;1,5
+VinsIGP;TMA;23;3,3
+VinsIGP;TOTAL;40,5;5,8
+VINSI;TMA;4;0,6
+VINSI;TOTAL;9;1,3
+Viticonnect;Docker;7;1,0
+Viticonnect;TOTAL;7;1,0
+TOTAL;TOTAL;31,9
