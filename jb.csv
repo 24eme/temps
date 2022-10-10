@@ -1,16 +1,11 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2022-07-31;IR;Developpement;21;Pluriannuel
-2022-07-31;IR;Assistance / Demande;7;TMA
-2022-07-31;CIVP;Assistance / Demande;1;TMA
-2022-07-31;CIVP;Exports csv;14;Metabase
-2022-07-31;CIVP;Enquete Stock;7;TMA
-2022-07-31;IVSE;Conception;3,5;VIP2C
-2022-07-31;IVSE;Facturation;28;Relances
-2022-07-31;NathanMode;Developpement;2;EvolutionsCoupes
-2022-07-31;BIVC;Tickets;7;Autodiagnostic
-2022-07-31;Aurouze;Assistance / Demande;7;TMA
-2022-08-31;AMVM;Réunion avec Alain;7;Forfait
-2022-08-31;CIVP;Assistance / Demande;2;TMA
-2022-08-31;CIVP;Formation;2;Metabase
-2022-08-31;IVSE;Assistance / Demande;7;TMA
-2022-08-31;IR;Developpement;10,5;Pluriannuel
+2022-09-30;IR;Facturation;28;Pluriannuel
+2022-09-30;IR;Assistance / Demande;7;TMA
+2022-09-30;CIVP;Assistance / Demande;7;TMA
+2022-09-30;IVSE;Mise en prod;5;VIP2C
+2022-09-30;IVSE;SV12 et Metabase;21;TMA
+2022-09-30;IVSE;Assistance / Demande;10,5;TMA
+2022-09-30;NathanMode;Assistance / Demande;7;EvolutionsCoupes
+2022-09-30;AVA;Assistance / Demande;1;TMA
+2022-09-30;VinsIGP;Assistance / Demande;7;TMA
+2022-09-30;CIVA;Developpement;17,5;Contrat pluriannuel
