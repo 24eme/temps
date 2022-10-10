@@ -1,0 +1,50 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2022-09-30;AMVM;Debug Python 3;7;TMA
+2022-09-30;PlateauUrbain;Sprint final CM;38,5;CommuneMesure
+2022-09-30;PlateauUrbain;Réunion;1,5;CommuneMesure
+2022-09-30;BIVC;Peaufinage Autodiag;5;Autodiagnostic
+2022-09-30;IVBD;TMA diverse;7;TMA
+2022-09-30;CIVA;TMA diverse;4,5;TMA
+2022-09-30;VINSI;Conseil;1;Conseil
+2022-09-30;VinsIGP;TMA diverse;13;TMA
+2022-09-30;Provence;TMA;1;TMA
+2022-09-30;IVSE;Certificat;1;TMA
+2022-09-30;Prodimmo;Logout;1;Viticonnect
+2022-09-30;DeclarVin;TMA Civp;0,5;TMA
+2022-09-01;IVSE;VIP2C;21,0;VIP2C
+2022-09-20;BIVC;Liaison Interne;7,0;Liaison interne
+2022-09-30;AMVM;Direction technique;3,5;Dev
+2022-09-30;CNIV;Direction technique;3,5;TMA
+2022-09-30;VinsIGP;Direction technique;14;TMA
+2022-09-30;Ahjucaf;Direction technique;7;TMA
+2022-09-30;Loire;Direction technique;7;TMA
+2022-09-30;ODGRhone;Direction technique;28;Certipaq + DRev
+2022-09-30;ODGProvence;Direction technique;3,5;TMA
+2022-09-30;IVBD;Direction technique;3,5;TMA
+2022-09-30;BIVC;Direction technique;3,5;TMA
+2022-09-30;IVSE;Direction technique;7;VIP2C
+2022-09-30;IR;Facturation;28;Pluriannuel
+2022-09-30;IR;Assistance / Demande;7;TMA
+2022-09-30;CIVP;Assistance / Demande;7;TMA
+2022-09-30;IVSE;Mise en prod;5;VIP2C
+2022-09-30;IVSE;SV12 et Metabase;21;TMA
+2022-09-30;IVSE;Assistance / Demande;10,5;TMA
+2022-09-30;NathanMode;Assistance / Demande;7;EvolutionsCoupes
+2022-09-30;AVA;Assistance / Demande;1;TMA
+2022-09-30;VinsIGP;Assistance / Demande;7;TMA
+2022-09-30;CIVA;Developpement;17,5;Contrat pluriannuel
+2022-09-30;ODGRhone;Évol DRev;24,5;DRev
+2022-09-30;CIVA;Évolutions Tiers;7,0;Évolutions Tiers
+2022-09-30;CIVA;TMA;10,5;TMA
+2022-09-30;CIVA;Contrat pluriannuel;10,5;Contrat pluriannuel
+2022-09-30;CIVA;SV11 et SV12;21;SV11/SV12
+2022-09-30;VinsIGP;Corrections et stats;24,5;TMA
+2022-09-30;AVA;TMA;3,5;TMA
+2022-09-30;ODGNantes;Corrections facturation;2,5;TMA
+2022-09-30;IVBD;TMA;2,0;TMA
+2022-09-30;IVSO;TMA;3,5;TMA
+2022-09-30;NathanMode;EvolutionsCoupes;7,0;TMA
+2022-09-30;Aurouze;TMA;3,5;TMA
+2022-09-30;ODGProvence;TMA;3,5;TMA
+2022-09-30;VINSI;TMA;3,5;TMA
+2022-09-30;BIVC;Autodiag;3,5;Autodiagnostic

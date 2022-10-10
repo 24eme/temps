@@ -1,0 +1,59 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+Ahjucaf;TMA;7;1,0
+Ahjucaf;TOTAL;7;1,0
+AMVM;Dev;3,5;0,5
+AMVM;TMA;7;1,0
+AMVM;TOTAL;10,5;1,5
+Aurouze;TMA;3,5;0,5
+Aurouze;TOTAL;3,5;0,5
+AVA;TMA;4,5;0,6
+AVA;TOTAL;4,5;0,6
+BIVC;Autodiagnostic;8,5;1,2
+BIVC;Liaison interne;7;1,0
+BIVC;TMA;3,5;0,5
+BIVC;TOTAL;19;2,7
+CIVA;Contrat pluriannuel;28;4,0
+CIVA;Évolutions Tiers;7;1,0
+CIVA;SV11/SV12;21;3,0
+CIVA;TMA;15;2,1
+CIVA;TOTAL;71;10,1
+CIVP;TMA;7;1,0
+CIVP;TOTAL;7;1,0
+CNIV;TMA;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+DeclarVin;TMA;0,5;0,1
+DeclarVin;TOTAL;0,5;0,1
+IR;Pluriannuel;28;4,0
+IR;TMA;7;1,0
+IR;TOTAL;35;5,0
+IVBD;TMA;12,5;1,8
+IVBD;TOTAL;12,5;1,8
+IVSE;TMA;32,5;4,6
+IVSE;VIP2C;33;4,7
+IVSE;TOTAL;65,5;9,4
+IVSO;TMA;3,5;0,5
+IVSO;TOTAL;3,5;0,5
+Loire;TMA;7;1,0
+Loire;TOTAL;7;1,0
+NathanMode;EvolutionsCoupes;7;1,0
+NathanMode;TMA;7;1,0
+NathanMode;TOTAL;14;2,0
+ODGNantes;TMA;2,5;0,4
+ODGNantes;TOTAL;2,5;0,4
+ODGProvence;TMA;7;1,0
+ODGProvence;TOTAL;7;1,0
+ODGRhone;Certipaq + DRev;28;4,0
+ODGRhone;DRev;24,5;3,5
+ODGRhone;TOTAL;52,5;7,5
+PlateauUrbain;CommuneMesure;40;5,7
+PlateauUrbain;TOTAL;40;5,7
+Prodimmo;Viticonnect;1;0,1
+Prodimmo;TOTAL;1;0,1
+Provence;TMA;1;0,1
+Provence;TOTAL;1;0,1
+VINSI;Conseil;1;0,1
+VinsIGP;TMA;58,5;8,4
+VinsIGP;TOTAL;58,5;8,4
+VINSI;TMA;3,5;0,5
+VINSI;TOTAL;4,5;0,6
+TOTAL;TOTAL;61,6
