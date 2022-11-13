@@ -1,11 +1,8 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2022-09-30;IR;Facturation;28;Pluriannuel
-2022-09-30;IR;Assistance / Demande;7;TMA
-2022-09-30;CIVP;Assistance / Demande;7;TMA
-2022-09-30;IVSE;Mise en prod;5;VIP2C
-2022-09-30;IVSE;SV12 et Metabase;21;TMA
-2022-09-30;IVSE;Assistance / Demande;10,5;TMA
-2022-09-30;NathanMode;Assistance / Demande;7;EvolutionsCoupes
-2022-09-30;AVA;Assistance / Demande;1;TMA
-2022-09-30;VinsIGP;Assistance / Demande;7;TMA
-2022-09-30;CIVA;Developpement;17,5;Contrat pluriannuel
+2022-10-31;IR;Facturation;24,5;Facturation
+2022-10-31;IR;Evolution contrat;24,5;Pluriannuel
+2022-10-31;IR;Assistance / Demande;3,5;TMA
+2022-10-31;CIVP;Assistance / Demande;3,5;TMA
+2022-10-31;IVSE;Assistance / Demande;3,5;TMA
+2022-10-31;CIVA;Developpement;24,5;Contrat pluriannuel
+2022-10-31;Aurouze;Assistance / Demande;2;TMA
