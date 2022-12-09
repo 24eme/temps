@@ -11,12 +11,11 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2022-11-30;NathanMode;Assistance / Demande;7;Forfait
 2022-11-30;IVBD;Assistance / Demande;1;TMA
 2022-11-30;VinsIGP;Assistance / Demande;3,5;TMA
-2022-11-30;ODGRhone;Assistance / Demande;1;TMA
+2022-11-30;ODGRhone;TMA DRev;1;DRev
 2022-11-30;AVA;Assistance / Demande;0,5;TMA
 2022-11-30;PlateauUrbain;Préparation fine tuning + fine tuning;30;CommuneMesure
-2022-11-30;CIVA;Déclaration SV11/12;35;Forfait
-2022-11-30;CIVA;Déclaration SV11/12;2;Réunion
-2022-11-30;ODGRhone;TMA;0,5;TMA
+2022-11-30;CIVA;Déclaration SV11/12;37;SV11/SV12
+2022-11-30;ODGRhone;TMA DRev;0,5;DRev
 2022-11-30;CIVA;TMA;1;TMA
 2022-11-30;Prodimmo;Déploiement uptime kuma;2;Outils interne
 2022-11-30;ODGProvence;TMA;1,5;TMA
@@ -26,16 +25,17 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2022-11-30;IVBD;TMA;1;TMA
 2022-11-30;Aurouze;TMA;4;TMA
 2022-11-30;AMVM;TMA;1;TMA
-2022-11-30;ODGRhone;Direction technique;3,5;TMA
+2022-11-30;ODGRhone;Direction technique;3,5;Certipaq
 2022-11-30;VinsIGP;Direction technique;10,5;TMA
 2022-11-30;CNIV;Direction technique;3,5;Dev
 2022-11-30;AdminSys;Direction technique;21;TMA
-2022-11-30;PlateauUrbain;Commune mesure integration svgs;9;CommuneMesureDate;Projet;Description;Temps (en heure);Tache (Optionnel)
+2022-11-30;PlateauUrbain;Commune mesure integration svgs;9,5;CommuneMesure
 2022-11-02;VinsIGP;Parcellaire;0,5;TMA
 2022-11-02;ODGProvence;Parcellaire;,0,5;TMA
 2022-11-02;AVA;Parcellaire;0,5;TMA
 2022-11-02;IVSE;VIP2C;12,0;VIP2C
-2022-11-18;PlateauUrbain;Commune mesure integration;20,0;CommuneMesure2022-11-30;VinsIGP;TMA et Métabase;38,5;TMA
+2022-11-18;PlateauUrbain;Commune mesure integration;20,0;CommuneMesure
+2022-11-30;VinsIGP;TMA et Métabase;38,5;TMA
 2022-11-30;AVA;TMA;3,5;TMA
 2022-11-30;AVA;Affectation Parcellaire CVI;7,0;AffectationParcellaireCVI
 2022-11-30;ODGRhone;DRev et nouveau format SV11/SV12 ;14,0;DRev
@@ -44,4 +44,4 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2022-11-30;CIVA;Contrat pluriannuel;7,0;Contrat pluriannuel
 2022-11-30;CIVA;SV11/SV12;28,0;SV11/SV12
 2022-11-30;IVBD;TMA;2,0;TMA
-2022-11-30;PlateauUrbain;Intégration et fine tuning;17,5;Commune Mesure
+2022-11-30;PlateauUrbain;Intégration et fine tuning;17,5;CommuneMesure
