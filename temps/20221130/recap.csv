@@ -1,0 +1,44 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+AdminSys;TMA;21;3,0
+AdminSys;TOTAL;21;3,0
+AMVM;TMA;1;0,1
+AMVM;TOTAL;1;0,1
+Aurouze;TMA;7,5;1,1
+Aurouze;TOTAL;7,5;1,1
+AVA;AffectationParcellaireCVI;7;1,0
+AVA;TMA;4,5;0,6
+AVA;TOTAL;11,5;1,6
+BIVC;TMA;0,5;0,1
+BIVC;TOTAL;0,5;0,1
+CIVA;Contrat pluriannuel;38,5;5,5
+CIVA;SV11/SV12;65;9,3
+CIVA;TMA;25,5;3,6
+CIVA;TOTAL;129;18,4
+CIVP;TMA;10;1,4
+CIVP;TOTAL;10;1,4
+CNIV;Dev;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+IR;Facturation;7;1,0
+IR;Pluriannuel;3,5;0,5
+IR;Reserve;3,5;0,5
+IR;TMA;10,5;1,5
+IR;TOTAL;24,5;3,5
+IVBD;TMA;4;0,6
+IVBD;TOTAL;4;0,6
+IVSE;TMA;7;1,0
+IVSE;VIP2C;12;1,7
+IVSE;TOTAL;19;2,7
+NathanMode;Forfait;7;1,0
+NathanMode;TOTAL;7;1,0
+ODGProvence;TMA;8,5;1,2
+ODGProvence;TOTAL;8,5;1,2
+ODGRhone;Certipaq;3,5;0,5
+ODGRhone;DRev;15,5;2,2
+ODGRhone;TOTAL;19;2,7
+PlateauUrbain;CommuneMesure;77;11,0
+PlateauUrbain;TOTAL;77;11,0
+Prodimmo;Outils interne;2;0,3
+Prodimmo;TOTAL;2;0,3
+VinsIGP;TMA;61;8,7
+VinsIGP;TOTAL;61;8,7
+TOTAL;TOTAL;58,0

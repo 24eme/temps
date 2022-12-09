@@ -1,4 +1,50 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2022-11-30;VinsIGP;TMA et Métabase;38,5;TMA
+2022-11-30;VinsIGP;TMA;8;TMA
+2022-11-30;VinsIGP;Direction technique;10,5;TMA
+2022-11-30;VinsIGP;Assistance / Demande;3,5;TMA
+2022-11-30;Prodimmo;Déploiement uptime kuma;2;Outils interne
+2022-11-30;PlateauUrbain;Préparation fine tuning + fine tuning;30;CommuneMesure
+2022-11-30;PlateauUrbain;Intégration et fine tuning;17,5;CommuneMesure
+2022-11-30;PlateauUrbain;Commune mesure integration svgs;9,5;CommuneMesure
+2022-11-30;ODGRhone;TMA DRev;1;DRev
+2022-11-30;ODGRhone;TMA DRev;0,5;DRev
+2022-11-30;ODGRhone;DRev et nouveau format SV11/SV12 ;14,0;DRev
+2022-11-30;ODGRhone;Direction technique;3,5;Certipaq
+2022-11-30;ODGProvence;TMA et nouveau format SV11/SV12 ;7,0;TMA
+2022-11-30;ODGProvence;TMA;1,5;TMA
+2022-11-30;NathanMode;Assistance / Demande;7;Forfait
+2022-11-30;IVSE;Assistance / Demande;7;TMA
+2022-11-30;IVBD;TMA;2,0;TMA
+2022-11-30;IVBD;TMA;1;TMA
+2022-11-30;IVBD;Assistance / Demande;1;TMA
+2022-11-30;IR;Reserve Interpro;3,5;Reserve
+2022-11-30;IR;Facturation;7;Facturation
+2022-11-30;IR;Evolution contrat;3,5;Pluriannuel
+2022-11-30;IR;Assistance / Demande;10,5;TMA
+2022-11-30;CNIV;Direction technique;3,5;Dev
+2022-11-30;CIVP;TMA;3;TMA
+2022-11-30;CIVP;Assistance / Demande;7;TMA
+2022-11-30;CIVA;TMA;21,0;TMA
+2022-11-30;CIVA;TMA;1;TMA
+2022-11-30;CIVA;SV11/SV12;28,0;SV11/SV12
+2022-11-30;CIVA;Developpement;31,5;Contrat pluriannuel
+2022-11-30;CIVA;Déclaration SV11/12;37;SV11/SV12
+2022-11-30;CIVA;Contrat pluriannuel;7,0;Contrat pluriannuel
+2022-11-30;CIVA;Assistance / Demande;3,5;TMA
+2022-11-30;BIVC;TMA;0,5;TMA
+2022-11-30;AVA;TMA;3,5;TMA
+2022-11-30;AVA;Assistance / Demande;0,5;TMA
+2022-11-30;AVA;Affectation Parcellaire CVI;7,0;AffectationParcellaireCVI
+2022-11-30;Aurouze;TMA;4;TMA
+2022-11-30;Aurouze;Assistance / Demande;3,5;TMA
+2022-11-30;AMVM;TMA;1;TMA
+2022-11-30;AdminSys;Direction technique;21;TMA
+2022-11-18;PlateauUrbain;Commune mesure integration;20,0;CommuneMesure
+2022-11-02;VinsIGP;Parcellaire;0,5;TMA
+2022-11-02;ODGProvence;Parcellaire;,0,5;TMA
+2022-11-02;IVSE;VIP2C;12,0;VIP2C
+2022-11-02;AVA;Parcellaire;0,5;TMA
 2022-10-31;VINSI;TMA;3,5;TMA
 2022-10-31;VinsIGP;TMA;1,5;TMA
 2022-10-31;VinsIGP;Direction technique;3,5;TMA
@@ -56,8 +102,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2022-09-30;PlateauUrbain;Sprint final CM;38,5;CommuneMesure
 2022-09-30;PlateauUrbain;Réunion;1,5;CommuneMesure
 2022-09-30;ODGRhone;Évol DRev;24,5;DRev
-2022-09-30;ODGRhone;Direction technique;14;Certipaq
 2022-09-30;ODGRhone;Direction technique;14;DRev
+2022-09-30;ODGRhone;Direction technique;14;Certipaq
 2022-09-30;ODGProvence;TMA;3,5;TMA
 2022-09-30;ODGProvence;Direction technique;3,5;TMA
 2022-09-30;ODGNantes;Corrections facturation;2,5;TMA
