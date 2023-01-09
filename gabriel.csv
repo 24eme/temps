@@ -1,10 +1,10 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2022-12-31;CIVA;Déclaration SV11/SV12;63,5;Forfait
+2022-12-31;CIVA;Déclaration SV11/SV12;63,5;SV11/SV12
 2022-12-31;VinsIGP;TMA;5;TMA
 2022-12-31;ODGRhone;TMA;4;TMA
 2022-12-31;AVA;TMA;0,5;TMA
 2022-12-31;IVBD;TMA;1,5;TMA
 2022-12-31;Aurouze;TMA;2;TMA
 2022-12-31;BIVC;Métabase;2;NonFacturable
-2022-12-31;DeclarVins;Contrats pluriannuel;10,5;Forfait
-2022-12-31;DeclarVins;TMA;1;TMA
+2022-12-31;IR;Contrats pluriannuel;10,5;Pluriannuel
+2022-12-31;IR;TMA;1;TMA
