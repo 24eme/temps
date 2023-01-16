@@ -1,0 +1,41 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+AHJUCAF;TMA + réunion;3,5;0,5
+AHJUCAF;TOTAL;3,5;0,5
+Aurouze;TMA;6;0,9
+Aurouze;TOTAL;6;0,9
+AVA;AffectationParcellaireCVI;3,5;0,5
+AVA;TMA;4,5;0,6
+AVA;TOTAL;8;1,1
+BIVC;NonFacturable;2;0,3
+BIVC;TMA;4,5;0,6
+BIVC;TOTAL;6,5;0,9
+CIVA;Contrat pluriannuel;49;7,0
+CIVA;SV11/SV12;105,5;15,1
+CIVA;TMA;10,5;1,5
+CIVA;TMA - SV12;10,5;1,5
+CIVA;Viticonnect;7;1,0
+CIVA;TOTAL;182,5;26,1
+CIVP;TMA - Stats metabase;3,5;0,5
+CIVP;TOTAL;3,5;0,5
+CNIV;Dev;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+IR;Facturation;2;0,3
+IR;Pluriannuel;21;3,0
+IR;TMA;15;2,1
+IR;TOTAL;38;5,4
+IVBD;TMA;12;1,7
+IVBD;TOTAL;12;1,7
+IVSE;TMA;17,5;2,5
+IVSE;TOTAL;17,5;2,5
+Juricaf;TMA DT;21;3,0
+Juricaf;TOTAL;21;3,0
+ODGProvence;scrapping DS;10,5;1,5
+ODGProvence;TOTAL;10,5;1,5
+ODGRhone;TMA;8,5;1,2
+ODGRhone;TMA + Vendange;7;1,0
+ODGRhone;TOTAL;15,5;2,2
+PlateauUrbain;CommuneMesure;1;0,1
+PlateauUrbain;TOTAL;1;0,1
+VinsIGP;TMA;30,5;4,4
+VinsIGP;TOTAL;30,5;4,4
+TOTAL;TOTAL;51,4
