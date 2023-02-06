@@ -37,7 +37,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2022-12-31;AVA;Affectation parcellaire crémant;3,5;AffectationParcellaireCVI
 2022-12-31;Aurouze;TMA;3,5;TMA
 2022-12-31;Aurouze;TMA;2;TMA
-2022-12-31;AHJUCAF;Direction technique;3,5;TMA + réunion
+2022-12-31;Juricaf;Direction technique;3,5;TMA + réunion
 2022-12-22;ODGProvence;Scrapping;7,0;scrapping DS
 2022-12-22;Aurouze;TMA;0,5;TMA
 2022-12-02;Juricaf;Scrapping Belgique,Canada,Monaco;21,0;TMA DT
@@ -181,7 +181,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2022-09-30;Aurouze;TMA;3,5;TMA
 2022-09-30;AMVM;Direction technique;3,5;Dev
 2022-09-30;AMVM;Debug Python 3;7;TMA
-2022-09-30;Ahjucaf;Direction technique;7;TMA
+2022-09-30;Juricaf;Direction technique;7;TMA
 2022-09-20;BIVC;Liaison Interne;7,0;Liaison interne
 2022-09-01;IVSE;VIP2C;21,0;VIP2C
 2022-08-31;Viticonnect;Direction technique;7;Docker
