@@ -21,15 +21,22 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2023-02-28;ODGProvence;Merge et Facturation par mail;21,0;Facturation
 2023-02-28;BIVC;Tags sur 2 campagnes;2;TMA
 2023-02-28;Prodimmo;TMA;7,0;Outils Internes
-2023-02-28;CIVA;TMA;3;TMA
+2023-02-28;CIVA;TMA;3,5;TMA
 2023-02-28;IR;TMA;0,5;TMA
 2023-02-28;AVA;TMA;4;TMA
 2023-02-28;IVSE;VIP2C;34,5;VIP2C
 2023-02-28;VinsIGP;TMA;3,75;TMA
 2023-02-28;IVSO;TMA;2,5;TMA
 2023-02-28;IVBD;TMA;1;TMA
-2023-02-28;ODGRhone;Réunion certipaq;0,5;Réunion
+2023-02-28;ODGRhone;Réunion certipaq;0,5;Certipaq
 2023-02-28;ODGRhone;TMA DRev;3,5;TMA
 2023-02-28;IR;Winetracker;3;Statistiques
 2023-02-28;ODGNantes;PDF de facture;2;Facturation
 2023-02-28;Juricaf;TMA;0,5;TMA
+2023-02-31;IR;Facturation;63;Facturation
+2023-02-31;IR;Assistance / Demande;3,5;TMA
+2023-02-31;IVSE;Assistance / Demande;3,5;TMA
+2023-02-31;CIVP;Assistance / Demande;7;TMA
+2023-02-31;CIVA;Developpement;14;Contrat pluriannuel
+2023-02-31;CIVA;Assistance / Demande;3,5;TMA
+2023-02-31;NathanMode;Assistance / Demande;1;TMA
