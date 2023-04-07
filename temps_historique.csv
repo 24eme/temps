@@ -1,12 +1,54 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
-2023-02-28;ODGProvence;Sprint 1;17;Contrôle
-2023-02-28;NathanMode;Assistance / Demande;1;TMA
-2023-02-28;IVSE;Assistance / Demande;3,5;TMA
-2023-02-28;IR;Facturation;63;Facturation
-2023-02-28;IR;Assistance / Demande;3,5;TMA
-2023-02-28;CIVP;Assistance / Demande;7;TMA
-2023-02-28;CIVA;Developpement;14;Contrat pluriannuel
-2023-02-28;CIVA;Assistance / Demande;3,5;TMA
+2023-03-31;VinsIGP;TMA;3,5;TMA
+2023-03-31;VinsIGP;TMA;12;TMA
+2023-03-31;VinsIGP;Direction technique;3,5;TMA
+2023-03-31;Sancerre;TMA;0,5;TMA
+2023-03-31;Prodimmo;TMA;21,0;Outils Internes
+2023-03-31;ODGProvence;Sprint 2;6;Contrôle
+2023-03-31;ODGProvence;Export parcellaire;1,5;Contrôle
+2023-03-31;ODGProvence;Direction technique;3,5;Contrôle
+2023-03-31;ODGNantes;TMA;1;TMA
+2023-03-31;ODGNantes;Corrections liés au merge et à la facturation par mail;7,0;Facturation
+2023-03-31;IVSO;TMA;2;TMA
+2023-03-31;IVSO;Direction technique;3,5;TMA
+2023-03-31;IVSE;VIP2C;2;VIP2C
+2023-03-31;IVSE;TMA;0,5;TMA
+2023-03-31;IVSE;Assistance / Demande;21;TMA
+2023-03-31;IVBD;TMA;1;TMA
+2023-03-31;IVBD;Direction technique;7;TMA
+2023-03-31;IR;Winetracker;19,5;Statistiques
+2023-03-31;IR;SV12;21;SV12
+2023-03-31;IR;ReserveInterpro;10,5;ReserveInterpro
+2023-03-31;IR;Direction technique WineTracker;3,5;Statistiques
+2023-03-31;IR;Direction technique;3,5;TMA
+2023-03-31;IR;Assistance / Demande;17,5;TMA
+2023-03-31;CNIV;Direction technique;17,5;TMA
+2023-03-31;CIVP;Assistance / Demande;7;TMA
+2023-03-31;CIVA;TMA;5,5;TMA
+2023-03-31;CIVA;TMA;3,5;TMA
+2023-03-31;CIVA;Developpement;38,5;Contrat pluriannuel
+2023-03-31;CIVA;Contrat pluriannuel;14,0;Contrat pluriannuel
+2023-03-31;Certipaq;Direction technique;3,5;TMA
+2023-03-31;Certipaq;Certipaq;1;TMA
+2023-03-31;AVA;TMA et Facturation;38,5;TMA
+2023-03-31;AVA;TMA;3;TMA
+2023-03-31;AVA;Direction technique;7;TMA
+2023-03-31;Aurouze;Sprint amélioration;31,5;TMA
+2023-03-31;Aurouze;Évolutions dans le cadre du sprint;14,0;TMA
+2023-03-31;ASSVAS;Direction technique;17,5;Forfait
+2023-03-31;ASSVAS;Développeur;21,0;Forfait
+2023-03-31;ASSVAS;Déploiement;7;Forfait
+2023-03-31;ASSVAS;Création du site;9;Forfait
+2023-03-31;AMVM;Direction technique;3,5;TMA
+2023-03-31;AHJUCAF;Direction technique;7;TMA
+2023-03-31;ADM;Support et corrections;4;TMA
+2023-03-31;AdminSys;Direction technique;10,5;Install machines
+2023-03-30;VinsIGP;mails;1;TMA
+2023-03-23;IVBD;mails;0,5;TMA
+2023-03-14;ODGNantes;mails;0,5;TMA
+2023-03-09;ODGProvence;Sprint 1;6;Contrôle
+2023-03-01;IR;Stats Inter-Rhone;63,0;Statistiques
+2023-03-01;Aurouze;Developpement Soldes;4,0;TMA
 2023-02-28;VinsIGP;TMA;7,0;TMA
 2023-02-28;VinsIGP;TMA;3,75;TMA
 2023-02-28;VinsIGP;Direction technique;3,5;TMA
@@ -14,22 +56,30 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2023-02-28;ODGRhone;TMA DRev;3,5;TMA
 2023-02-28;ODGRhone;Réunion certipaq;0,5;Certipaq
 2023-02-28;ODGRhone;Direction technique;3,5;TMA
+2023-02-28;ODGProvence;Sprint 1;17;Contrôle
 2023-02-28;ODGProvence;Merge et Facturation par mail;21,0;Facturation
 2023-02-28;ODGNantes;PDF de facture;2;Facturation
 2023-02-28;ODGNantes;Merge et Facturation par mail;19,0;Facturation
 2023-02-28;ODGNantes;Direction technique;3,5;TMA
+2023-02-28;NathanMode;Assistance / Demande;1;TMA
 2023-02-28;Juricaf;TMA;0,5;TMA
 2023-02-28;IVSO;TMA;2,5;TMA
 2023-02-28;IVSE;VIP2C;34,5;VIP2C
+2023-02-28;IVSE;Assistance / Demande;3,5;TMA
 2023-02-28;IVBD;TMA;1;TMA
 2023-02-28;IR;Winetracker;3;Statistiques
 2023-02-28;IR;TMA;0,5;TMA
+2023-02-28;IR;Facturation;63;Facturation
 2023-02-28;IR;Direction technique;3,5;TMA
+2023-02-28;IR;Assistance / Demande;3,5;TMA
 2023-02-28;DeclarVins;Direction technique Stats CIVP;10,5;Metabase
 2023-02-28;DeclarVins;Direction technique Export;10,5;Metabase
+2023-02-28;CIVP;Assistance / Demande;7;TMA
 2023-02-28;CIVA;TMA;7,0;TMA
 2023-02-28;CIVA;TMA;3,5;TMA
+2023-02-28;CIVA;Developpement;14;Contrat pluriannuel
 2023-02-28;CIVA;Contrat pluriannuel;17,5;Contrat pluriannuel
+2023-02-28;CIVA;Assistance / Demande;3,5;TMA
 2023-02-28;Certipaq;Direction technique;3,5;TMA
 2023-02-28;BIVC;Tags sur 2 campagnes;2;TMA
 2023-02-28;AVA;TMA;4;TMA
