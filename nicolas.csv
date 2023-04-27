@@ -1,8 +1,11 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2023-03-09;ODGProvence;Sprint 1;6;Contrôle
-2023-03-31;ODGProvence;Sprint 2;6;Contrôle
-2023-03-31;ADM;Support et corrections;4;TMA
-2023-03-14;ODGNantes;mails;0,5;TMA
-2023-03-31;ASSVAS;Création du site;9;Forfait
-2023-03-30;VinsIGP;mails;1;TMA
-2023-03-23;IVBD;mails;0,5;TMA
+2023-04-03;ODGProvence;Sprint 2;4;Potentiel de production (suite)
+2023-04-04;ODGProvence;Sprint 2;4;KML et geojson
+2023-04-04;ADM;TMA;2;Corrections pour validation adh + mdp marie-ange
+2023-04-04;IGPVin;TMA;1;changement de numéro de cuve
+2023-04-06;ODGProvence;Sprint 2;6;Doc de Contrôle (suite)
+2023-04-11;AVA;TMA;1;Suppr d'un report
+2023-04-18;BIVC;TMA;7;statistiques pour les Volumes facturés
+2023-04-25;ahjucaf;TMA;4;Corrige le lien RSS + track dans matomo
+2023-04-25;ODGProvence;TMA;1;PDF + mauvais chemin doc contrôle
+2023-04-25;SancerreODG;Sprint;2;Crée l'app
