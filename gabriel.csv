@@ -1,14 +1,16 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2023-03-31;IR;Winetracker;19,5;Statistiques
-2023-03-31;IVSO;TMA;2;TMA
-2023-03-31;IVSE;VIP2C;2;VIP2C
-2023-03-31;IVSE;TMA;0,5;TMA
-2023-03-31;Aurouze;Sprint amélioration;31,5;TMA
-2023-03-31;Sancerre;TMA;0,5;TMA
-2023-03-31;CIVA;TMA;5,5;TMA
-2023-03-31;ODGNantes;TMA;1;TMA
-2023-03-31;VinsIGP;TMA;12;TMA
-2023-03-31;AVA;TMA;3;TMA
-2023-03-31;Certipaq;Certipaq;1;TMA
-2023-03-31;IVBD;TMA;1;TMA
-2023-03-31;ASSVAS;Déploiement;7;Forfait
+2023-04-30;VinsIGP;TMA;2;TMA
+2023-04-30;CentreLoire;Riviere;7;Réunion
+2023-04-30;CentreLoire;Mise en place PMC;2;Forfait
+2023-04-30;Aurouze;Sprint;2;Réunion
+2023-04-30;Aurouze;Sprint;7,5;TMA
+2023-04-30;IVSE;TMA;2,5;TMA
+2023-04-30;IVSO;TMA;2;TMA
+2023-04-30;IVBD;TMA;1;TMA
+2023-04-30;ODGNantes;TMA;1,5;TMA
+2023-04-30;CIVA;Export SV Json;39;SV11/SV12
+2023-04-30;BIVC;TMA;0,5;TMA
+2023-04-30;Juricaf;AHJUCAF;0,5;TMA
+2023-04-30;ENVA;Mise à jour Paybox;11;Forfait
+2023-04-30;Logilab;Metadonnées;7;PDFSignature
+2023-04-30;ODGProvence;TMA;0,5;TMA
