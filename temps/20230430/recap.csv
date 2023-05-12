@@ -1,0 +1,51 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+ADM;TMA;2;0,3
+ADM;TOTAL;2;0,3
+Armagnac;TMA;14;2,0
+Armagnac;TOTAL;14;2,0
+ASSVAS;Forfait;1,5;0,2
+ASSVAS;TOTAL;1,5;0,2
+Aurouze;Réunion;2;0,3
+Aurouze;TMA;25;3,6
+Aurouze;TOTAL;27;3,9
+AVA;TMA;14;2,0
+AVA;TOTAL;14;2,0
+BIVC;TMA;14,5;2,1
+BIVC;TOTAL;14,5;2,1
+CentreLoire;Forfait;21;3,0
+CentreLoire;Réunion;7;1,0
+CentreLoire;TOTAL;28;4,0
+CIVA;Contrat pluriannuel;52,5;7,5
+CIVA;SV11/SV12;39;5,6
+CIVA;TMA;14;2,0
+CIVA;TOTAL;105,5;15,1
+CIVP;Metabase;10,5;1,5
+CIVP;TMA;3,5;0,5
+CIVP;TOTAL;14;2,0
+CNIV;TMA;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+ENVA;Forfait;11;1,6
+ENVA;TOTAL;11;1,6
+IR;Facturation SV12;28;4,0
+IR;Statistiques;24;3,4
+IR;TMA;7;1,0
+IR;TOTAL;59;8,4
+IVBD;TMA;1;0,1
+IVBD;TOTAL;1;0,1
+IVSE;TMA;6;0,9
+IVSE;TOTAL;6;0,9
+IVSO;TMA;3,5;0,5
+IVSO;TOTAL;3,5;0,5
+Juricaf;TMA;4,5;0,6
+Juricaf;TMA + réunion;7;1,0
+Juricaf;TOTAL;11,5;1,6
+Logilab;PDFSignature;21;3,0
+Logilab;TOTAL;21;3,0
+ODGNantes;TMA;5;0,7
+ODGNantes;TOTAL;5;0,7
+ODGProvence;Contrôle;21;3,0
+ODGProvence;TMA;1,5;0,2
+ODGProvence;TOTAL;22,5;3,2
+VinsIGP;TMA;12;1,7
+VinsIGP;TOTAL;12;1,7
+TOTAL;TOTAL;53,8
