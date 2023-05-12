@@ -1,1 +1,57 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2023-04-30;VinsIGP;TMA;2;TMA
+2023-04-30;CentreLoire;Riviere;7;Réunion
+2023-04-30;CentreLoire;Mise en place PMC;2;Forfait
+2023-04-30;Aurouze;Sprint;2;Réunion
+2023-04-30;Aurouze;Sprint;7,5;TMA
+2023-04-30;IVSE;TMA;2,5;TMA
+2023-04-30;IVSO;TMA;2;TMA
+2023-04-30;IVBD;TMA;1;TMA
+2023-04-30;ODGNantes;TMA;1,5;TMA
+2023-04-30;CIVA;Export SV Json;39;SV11/SV12
+2023-04-30;BIVC;TMA;0,5;TMA
+2023-04-30;Juricaf;AHJUCAF;0,5;TMA
+2023-04-30;ENVA;Mise à jour Paybox;11;Forfait
+2023-04-30;Logilab;Metadonnées;7;PDFSignature
+2023-04-30;ODGProvence;TMA;0,5;TMA
+2023-04-30;IR;Facturation SV12;28;Facturation SV12
+2023-04-30;IR;Assistance / Demande;7;TMA
+2023-04-30;IVSE;Assistance / Demande;3,5;TMA
+2023-04-30;CIVP;Assistance / Demande;3,5;TMA
+2023-04-30;CIVP;Metabase;10,5;Metabase
+2023-04-30;CIVA;Developpement;28;Contrat pluriannuel
+2023-04-30;VinsIGP;Assistance / Demande;2;TMA
+2023-04-30;AVA;Assistance / Demande;1,5;TMA
+2023-04-30;BIVC;Assistance / Demande;3,5;TMA
+2023-04-30;Aurouze;Assistance / Demande;7;TMA
+2023-04-30;VinsIGP;TMA;3,5;TMA
+2023-04-30;CIVA;Contrat pluriannuel;24,5;Contrat pluriannuel
+2023-04-30;CIVA;TMA;14;TMA
+2023-04-30;AVA;TMA;7,0;TMA
+2023-04-30;IVSO;TMA;1,5;TMA
+2023-04-30;Aurouze;Évolutions dans le cadre du sprint;10,5;TMA
+2023-04-30;Logilab;Développement de l'édition de métadonnées;14,0;PDFSignature
+2023-04-30;ASSVAS;Développement et mise en prod;1,5;Forfait
+2023-04-30;CentreLoire;Rivière et compte rendu;7,0;Forfait
+2023-04-30;VinsIGP;Direction technique;3,5;TMA
+2023-04-30;IR;Direction technique WineTracker;14;Statistiques
+2023-04-30;AVA;Direction technique;3,5;TMA
+2023-04-30;AHJUCAF;Direction technique;7;TMA + réunion
+2023-04-30;ODGProvence;Direction technique;7;Contrôle
+2023-04-30;CNIV;Direction technique;3,5;TMA
+2023-04-30;Armagnac;Direction technique;14;TMA
+2023-04-30;BIVC;Direction technique;3,5;TMA
+2023-04-30;Nantes;Direction technique;3,5;TMA
+2023-04-30;CentreLoire;Direction technique;7;Forfait
+2023-04-10;IR;Stats Inter-Rhone;10,0;StatistiquesDate;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2023-04-03;ODGProvence;Sprint 2;4;Potentiel de production (suite)
+2023-04-04;ODGProvence;Sprint 2;4;KML et geojson
+2023-04-04;ADM;TMA;2;Corrections pour validation adh + mdp marie-ange
+2023-04-04;IGPVin;TMA;1;changement de numéro de cuve
+2023-04-06;ODGProvence;Sprint 2;6;Doc de Contrôle (suite)
+2023-04-11;AVA;TMA;1;Suppr d'un report
+2023-04-18;BIVC;TMA;7;statistiques pour les Volumes facturés
+2023-04-25;ahjucaf;TMA;4;Corrige le lien RSS + track dans matomo
+2023-04-25;ODGProvence;TMA;1;PDF + mauvais chemin doc contrôle
+2023-04-25;SancerreODG;Sprint;2;Crée l'app
+2023-04-27;SancerreODG;Sprint;3;Déploiement de l'app en binome
