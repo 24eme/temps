@@ -1,12 +1,10 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2023-04-03;ODGProvence;Sprint 2;4;Potentiel de production (suite)
-2023-04-04;ODGProvence;Sprint 2;4;KML et geojson
-2023-04-04;ADM;TMA;2;Corrections pour validation adh + mdp marie-ange
-2023-04-04;IGPVin;TMA;1;changement de numéro de cuve
-2023-04-06;ODGProvence;Sprint 2;6;Doc de Contrôle (suite)
-2023-04-11;AVA;TMA;1;Suppr d'un report
-2023-04-18;BIVC;TMA;7;statistiques pour les Volumes facturés
-2023-04-25;ahjucaf;TMA;4;Corrige le lien RSS + track dans matomo
-2023-04-25;ODGProvence;TMA;1;PDF + mauvais chemin doc contrôle
-2023-04-25;SancerreODG;Sprint;2;Crée l'app
-2023-04-27;SancerreODG;Sprint;3;Déploiement de l'app en binome
+2023-05-02;SancerreODG;Sprint;4;Renommage sancerre en centre et deploiement en prod
+2023-05-03;SancerreODG;Sprint;4;Mise en place 1ere mise en circulation en binome
+2023-05-04;SancerreODG;Sprint;6;Mise en place 1ere mise en circulation
+2023-05-11;SancerreODG;Sprint 2;1.5;1ere mise en circulation - ticketage
+2023-05-11;SancerreODG;Sprint 2;2;1ere mise en circulation - tickets
+2023-05-16;SancerreODG;TMA;0.5;Correction PMC
+2023-05-22;SancerreODG;Sprint 2;4;Nvl écran pour les tournées FUVC
+2023-05-25;SancerreODG;Sprint 2;5;Nvl écran pour les tournées FUVC
+2023-05-30;SancerreODG;Sprint 2;5;Nvl écran pour les tournées FUVC
