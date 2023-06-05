@@ -1,16 +1,14 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2023-04-30;VinsIGP;TMA;2;TMA
-2023-04-30;CentreLoire;Riviere;7;Réunion
-2023-04-30;CentreLoire;Mise en place PMC;2;Forfait
-2023-04-30;Aurouze;Sprint;2;Réunion
-2023-04-30;Aurouze;Sprint;7,5;TMA
-2023-04-30;IVSE;TMA;2,5;TMA
-2023-04-30;IVSO;TMA;2;TMA
-2023-04-30;IVBD;TMA;1;TMA
-2023-04-30;ODGNantes;TMA;1,5;TMA
-2023-04-30;CIVA;Export SV Json;39;SV11/SV12
-2023-04-30;BIVC;TMA;0,5;TMA
-2023-04-30;Juricaf;AHJUCAF;0,5;TMA
-2023-04-30;ENVA;Mise à jour Paybox;11;Forfait
-2023-04-30;Logilab;Metadonnées;7;PDFSignature
-2023-04-30;ODGProvence;TMA;0,5;TMA
+2023-05-31;CentreLoire;Dev sprint2;55;Forfait
+2023-05-31;CentreLoire;Réunion;2;Forfait
+2023-05-31;ENVA;Finalisation doc;2;Forfait
+2023-05-31;CIVA;JSON SV11/12;12;SV11/SV12
+2023-05-31;CIVA;TMA;3;TMA
+2023-05-31;Aurouze;TMA;1,5;TMA
+2023-05-31;InterRhone;TMA;1;TMA
+2023-05-31;InterRhone;Optimisation Export Metabase;2;TMA
+2023-05-31;VinsIGP;TMA;1,5;TMA
+2023-05-31;ODGNantes;Certificat;1;TMA
+2023-05-31;Prodimmo;Doc;0,5;TMA
+2023-05-31;AVA;TMA;0,5;TMA
+2023-05-31;IVBD;TMA;1;TMA
