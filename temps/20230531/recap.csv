@@ -1,0 +1,44 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+AHJUCAF;TMA;3,5;0,5
+AHJUCAF;TOTAL;3,5;0,5
+Armagnac;Stats;10,5;1,5
+Armagnac;TOTAL;10,5;1,5
+Aurouze;TMA;5;0,7
+Aurouze;TOTAL;5;0,7
+AVA;Consultation habilitations;21;3,0
+AVA;TMA;11;1,6
+AVA;TOTAL;32;4,6
+CentreLoire;Forfait;99,5;14,2
+CentreLoire;TOTAL;99,5;14,2
+CIVA;Contrat pluriannuel;7;1,0
+CIVA;SV11/SV12;12;1,7
+CIVA;TMA;14;2,0
+CIVA;TOTAL;33;4,7
+CIVP;Metabase;3,5;0,5
+CIVP;TMA;3,5;0,5
+CIVP;TOTAL;7;1,0
+ENVA;Forfait;2;0,3
+ENVA;TOTAL;2;0,3
+IR;Import Export SV12;21;3,0
+IR;Statistiques;77;11,0
+IR;TMA;15,5;2,2
+IR;TOTAL;113,5;16,2
+IVBD;TMA;1;0,1
+IVBD;TOTAL;1;0,1
+IVSE;TMA;7;1,0
+IVSE;TOTAL;7;1,0
+IVSO;TMA;3,5;0,5
+IVSO;TOTAL;3,5;0,5
+Logilab;PDFSignature;3,5;0,5
+Logilab;TOTAL;3,5;0,5
+ODGNantes;TMA;1;0,1
+ODGNantes;TOTAL;1;0,1
+ODGProvence;TMA;10,5;1,5
+ODGProvence;TOTAL;10,5;1,5
+ODGRhone;TMA;5,5;0,8
+ODGRhone;TOTAL;5,5;0,8
+Prodimmo;Outils Interne;1,5;0,2
+Prodimmo;TOTAL;1,5;0,2
+VinsIGP;TMA;7;1,0
+VinsIGP;TOTAL;7;1,0
+TOTAL;TOTAL;49,5
