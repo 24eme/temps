@@ -1,8 +1,12 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2023-05-31;IR;Import Export SV12;21;Import Export SV12
-2023-05-31;IR;Assistance / Demande;10,5;TMA
-2023-05-31;IVSE;Assistance / Demande;7;TMA
-2023-05-31;CIVP;Assistance / Demande;3,5;TMA
-2023-05-31;CIVP;Metabase;3,5;Metabase
-2023-05-31;CIVA;Annexe;3,5;Contrat pluriannuel
-2023-05-31;ODGRhone;Ajout date export compte;2;TMA
+2023-06-30;IR;SV12;7;SV12
+2023-06-30;IR;Facturation;3,5;TMA
+2023-06-30;IR;Eaux de vie;10,5;Eaux de vie
+2023-06-30;IR;Assistance / Demande;24,5;TMA
+2023-06-30;IVSE;Assistance / Demande;1;TMA
+2023-06-30;IVSE;Import SV12;3,5;Import SV12
+2023-06-30;CIVP;Assistance / Demande;7;TMA
+2023-06-30;CIVP;Metabase;7;Metabase
+2023-06-30;CIVA;Annexe;21;Contrat pluriannuel
+2023-06-30;CIVA;Mise en preprod et prod;7;Contrat pluriannuel
+2023-06-30;PlateauUrbain;Evolutions plateforme;10;Plateforme
