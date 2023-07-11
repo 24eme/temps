@@ -1,10 +1,6 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2023-06-30;IR;SV12;7;SV12
-2023-06-30;IR;Facturation;3,5;TMA
-2023-06-30;IR;Eaux de vie;10,5;Eaux de vie
-2023-06-30;IR;Assistance / Demande;24,5;TMA
-2023-06-30;IVSE;Assistance / Demande;1;TMA
-2023-06-30;IVSE;Import SV12;3,5;Import SV12
+2023-06-30;IR;Assistance / Demande;45,5;TMA
+2023-06-30;IVSE;Assistance / Demande;7;TMA
 2023-06-30;CIVP;Assistance / Demande;7;TMA
 2023-06-30;CIVP;Metabase;7;Metabase
 2023-06-30;CIVA;Annexe;21;Contrat pluriannuel
