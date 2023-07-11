@@ -1,0 +1,50 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+ADM;Forfait;1,5;0,2
+AdminSys;TMA;3,5;0,5
+AdminSys;TOTAL;3,5;0,5
+ADM;TOTAL;1,5;0,2
+AHJUCAF;TMA;3,5;0,5
+AHJUCAF;TOTAL;3,5;0,5
+AMVM;Réunion + clean mayline et henri;7;1,0
+AMVM;TOTAL;7;1,0
+Armagnac;Stats;24,5;3,5
+Armagnac;TOTAL;24,5;3,5
+Aurouze;TMA;71,5;10,2
+Aurouze;TOTAL;71,5;10,2
+AVA;TMA;31,5;4,5
+AVA;TOTAL;31,5;4,5
+BIVC;Autodiagnostic;7;1,0
+BIVC;TMA;3,5;0,5
+BIVC;TOTAL;10,5;1,5
+CentreLoire;Forfait;38;5,4
+CentreLoire;TOTAL;38;5,4
+CIVA;Contrat pluriannuel;59,5;8,5
+CIVA;TMA;5,5;0,8
+CIVA;TOTAL;65;9,3
+CIVP;Metabase;7;1,0
+CIVP;TMA;10;1,4
+CIVP;TOTAL;17;2,4
+ENVA;Forfait;7;1,0
+ENVA;TOTAL;7;1,0
+Interloire;TMA;3,5;0,5
+Interloire;TOTAL;3,5;0,5
+IR;Statistiques;11;1,6
+IR;TMA;49;7,0
+IR;TOTAL;60;8,6
+IVSE;TMA;7;1,0
+IVSE;TOTAL;7;1,0
+IVSO;TMA;7;1,0
+IVSO;TOTAL;7;1,0
+ODGProvence;Contrôle;16;2,3
+ODGProvence;Export Franceagrimer + DS;3,5;0,5
+ODGProvence;TMA;8,5;1,2
+ODGProvence;TOTAL;28;4,0
+ODGRhone;Forfait Certipaq;3,5;0,5
+ODGRhone;TMA;3,5;0,5
+ODGRhone;TOTAL;7;1,0
+PlateauUrbain;Plateforme;18;2,6
+PlateauUrbain;TOTAL;18;2,6
+VinsIGP;Réunion;7;1,0
+VinsIGP;TMA;28;4,0
+VinsIGP;TOTAL;35;5,0
+TOTAL;TOTAL;63,7
