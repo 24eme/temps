@@ -1,15 +1,12 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2023-06-30;BIVC;Réunion;3,5;Autodiagnostic
-2023-06-30;CentreLoire;Dev sprint 3;22;Forfait
-2023-06-30;IVSO;TMA;3,5;TMA
-2023-06-30;VinsIGP;TMA;14;TMA
-2023-06-30;Aurouze;TMA;1,5;TMA
-2023-06-30;AVA;TMA;2,5;TMA
-2023-06-30;IR;TMA;3,5;TMA
-2023-06-30;CIVA;TMA;2;TMA
-2023-06-30;ENVA;Dev Paybox;7;Forfait
-2023-06-30;VinsIGP;Réunion;7;Réunion
-2023-06-30;Armagnac;Réunion;7;Stats
-2023-06-30;PlateauUrbain;Dev plateforme;3,5;Plateforme
-2023-06-30;CIVP;Calendrier;3;TMA
-2023-06-30;ODGProvence;TMA;1,5;TMA
+2023-07-31;AVA;TMA;1,5;TMA
+2023-07-31;ENVA;Correction vues sql;3,5;Forfait (déjà facturé)
+2023-07-31;VinsIGP;TMA;7;TMA
+2023-07-31;CentreLoire;Dev sprint 4;48,5;Forfait
+2023-07-31;CentreLoire;Reunions;9;Forfait
+2023-07-31;CIVA;TMA;3;TMA
+2023-07-31;CIVA;Reunion;3;CIVA
+2023-07-31;PlateauUrbain;Dev plateforme;2;Plateforme
+2023-07-31;IVBD;TMA;0,5;TMA
+2023-07-31;BIVC;Reunion autodiagnostic;3;Autodiagnostic
+2023-07-31;BIVC;TMA;2;TMA
