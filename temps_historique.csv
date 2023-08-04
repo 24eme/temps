@@ -1,4 +1,45 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2023-07-31;VinsIGP;TMA;7;TMA
+2023-07-31;VinsIGP;TMA;7,0;TMA
+2023-07-31;VinsIGP;Direction technique;14;TMA
+2023-07-31;PlateauUrbain;Dev plateforme;2;Plateforme
+2023-07-31;ODGRhone;TMA;2,0;TMA
+2023-07-31;ODGRhone;Direction technique;3,5;TMA
+2023-07-31;ODGProvence;TMA;7,0;TMA
+2023-07-31;ODGProvence;Assistance / Demande;1;TMA
+2023-07-31;IVSO;Direction technique;3,5;TMA
+2023-07-31;IVSE;Assistance / Demande;14;TMA
+2023-07-31;IVBD;TMA;0,5;TMA
+2023-07-31;IVBD;Direction technique;3,5;TMA
+2023-07-31;IVBD;Assistance / Demande;1;TMA
+2023-07-31;IR;Evolutions facturation;14;TMA
+2023-07-31;IR;Direction technique WineTracker;3,5;Deploiement
+2023-07-31;IR;Assistance / Demande;10,5;TMA
+2023-07-31;ENVA;Correction vues sql;3,5;Forfait (déjà facturé)
+2023-07-31;CIVP;Assistance / Demande;10,5;TMA
+2023-07-31;CIVA;TMA principalement pour la DS;14,0;TMA
+2023-07-31;CIVA;TMA;3;TMA
+2023-07-31;CIVA;Réunion;7,0;Réunion
+2023-07-31;CIVA;Évolutions Tiers;14,0;Évolutions Tiers
+2023-07-31;CIVA;Assistance / Demande;5;TMA
+2023-07-31;CentreLoire;Reunions;9;Forfait
+2023-07-31;CentreLoire;Dev sprint 4;48,5;Forfait
+2023-07-31;CentreLoire;Développement et réunion;42,0;Forfait
+2023-07-31;CentreLoire;Developpement;14;Forfait
+2023-07-31;BIVC;TMA;3,5;TMA
+2023-07-31;BIVC;Reunion autodiagnostic;3,5;Autodiagnostic
+2023-07-31;BIVC;Direction technique;3,5;TMA
+2023-07-31;BIVC;Dév + Réunion;7,0;Autodiagnostic
+2023-07-31;AVA;TMA;1,5;TMA
+2023-07-31;Aurouze;Dév et réunion de sprint;7,0;TMA
+2023-07-31;Aurouze;Assistance / Demande;2;TMA
+2023-07-31;Aurouze;Assistance / Demande;1,5;TMA
+2023-07-31;Armagnac;Direction technique;3,5;Stats
+2023-07-31;AHJUCAF;Direction technique;28;TMA
+2023-07-31;ADM;Direction technique;3,5;Avant-vente
+2023-07-05;IR;Stats Inter-Rhone;1;Statistiques
+2023-07-05;Aurouze;TMA;28;TMA
+2023-07-03;BIVC;Autodiag 2023;42;Autodiagnostic
 2023-06-30;VinsIGP;TMA;3,5;TMA
 2023-06-30;VinsIGP;TMA;14;TMA
 2023-06-30;VinsIGP;Réunion;7;Réunion
@@ -15,9 +56,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2023-06-30;IVSO;Direction technique;3,5;TMA
 2023-06-30;IVSE;Assistance / Demande;7;TMA
 2023-06-30;IR;TMA;3,5;TMA
+2023-06-30;IR;Evolutions facturation;28;TMA
 2023-06-30;IR;Direction technique WineTracker;7;Statistiques
 2023-06-30;IR;Assistance / Demande;14,5;TMA
-2023-06-30;IR;Evolutions facturation;28;TMA
 2023-06-30;Interloire;Direction technique;3,5;TMA
 2023-06-30;ENVA;Dev Paybox;7;Forfait
 2023-06-30;CIVP;Metabase;7;Metabase
