@@ -1,0 +1,44 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+ADM;déploiement;10,5;1,5
+ADM;TOTAL;10,5;1,5
+AlmaCersius;AvantVente;7;1,0
+AlmaCersius;TOTAL;7;1,0
+ASSVAS;TMA;3,5;0,5
+ASSVAS;TOTAL;3,5;0,5
+Aurouze;TMA;43;6,1
+Aurouze;TOTAL;43;6,1
+AVA;TMA;3;0,4
+AVA;TOTAL;3;0,4
+BIVC;Autodiagnostic;9;1,3
+BIVC;TMA;9,5;1,4
+BIVC;TOTAL;18,5;2,6
+CentreLoire;Forfait;32,5;4,6
+CentreLoire;TOTAL;32,5;4,6
+CIVA;Évolutions Tiers;42;6,0
+CIVA;TMA;14;2,0
+CIVA;TOTAL;56;8,0
+CIVP;TMA;1,5;0,2
+CIVP;TOTAL;1,5;0,2
+CNIV;TMA;7;1,0
+CNIV;TOTAL;7;1,0
+Hébergement;Migration serveurs;14;2,0
+Hébergement;TOTAL;14;2,0
+IR;TMA;16;2,3
+IR;TOTAL;16;2,3
+IVBD;TMA;1,5;0,2
+IVBD;TOTAL;1,5;0,2
+IVSE;TMA;1,5;0,2
+IVSE;VIP2C;10,5;1,5
+IVSE;TOTAL;12;1,7
+IVSO;TMA;7;1,0
+IVSO;TOTAL;7;1,0
+Juricaf;Formulaire saisie xml;14;2,0
+Juricaf;TMA;10,5;1,5
+Juricaf;TOTAL;24,5;3,5
+ODGProvence;TMA;18,5;2,6
+ODGProvence;TOTAL;18,5;2,6
+ODGRhone;TMA;3,5;0,5
+ODGRhone;TOTAL;3,5;0,5
+VinsIGP;TMA;15,5;2,2
+VinsIGP;TOTAL;15,5;2,2
+TOTAL;TOTAL;42,1
