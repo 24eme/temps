@@ -1,1 +1,46 @@
-Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+Date;Projet;Description;Temps (en heure);Tache (Optionnel)
+2023-09-30;IR;Assistance / Demande;10,5;TMA
+2023-09-30;IR;DS negoce;2;TMA
+2023-09-30;IR;Doublon facturation;3;TMA
+2023-09-30;IR;Reserve interpro;3;TMA
+2023-09-30;IVSE;Assistance / Demande;6;TMA
+2023-09-30;IVSE;SV12;8;TMA
+2023-09-30;CIVA;Reserve interpro;4,5;TMA
+2023-09-30;CIVA;Assistance / Demande;3,0;TMA
+2023-09-30;CentreLoire;Facturation Libre;7;Forfait
+2023-09-30;CentreLoire;Vrac export;5;Forfait
+2023-09-30;BIVC;Assistance / Demande;3,5;TMA
+2023-09-30;NM;Assistance / Demande;3,5;TMA
+2023-09-30;CIVP;Assistance / Demande;14;TMA
+2023-09-30;CIVP;Facturation;14;Facturation
+2023-09-30;CentreLoire;Sprint 5;55;Forfait
+2023-09-30;ODGRhone;TMA;1;TMA
+2023-09-30;CIVA;TMA;10;TMA
+2023-09-30;VinsIGP;TMA;1,5;TMA
+2023-09-30;BIVC;TMA;1;TMA
+2023-09-30;ASSVAS;TMA;0,5;TMA
+2023-09-30;PlateauUrbain;Sprint plateforme;10,5;Plateforme
+2023-09-30;Prodimmo;Signature PDF Docker;1;SignaturePDF
+2023-09-30;VinsIGP;TMA;10,5;TMA
+2023-09-30;IVSO;TMA;3,5;TMA adminsys
+2023-09-30;IVSO;TMA;3,5;TMA adminsys
+2023-09-30;IVSE;Developpement;3,5;VIP2C
+2023-09-30;ASSVAS;TMA;3,5;TMA
+2023-09-30;ODGProvence;TMA;3,5;TMA
+2023-09-30;ODGRhone;TMA;14;TMA
+2023-09-30;AVA;DREV SV11/SV12;14;DREV SV11/SV12
+2023-09-30;CIVA;TMA;10,5;TMA
+2023-09-30;ADM;Dev + adminsys;3,5;déploiement
+2023-09-30;SignaturePDF;Dev;2;Dev + relation client
+2023-09-30;AT86;Developpement;30;Developpement
+2023-09-30;NLNet;Traduction Signature PDF;14;Traduction Signature PDF
+2023-09-30;NLNet;Compression Signature PDF;14;Compression Signature PDF
+2023-09-30;CIVA;TMA, Tiers, DS, Export;49;TMA
+2023-09-30;VinsIGP;TMA;7,0;TMA
+2023-09-30;CentreLoire;TMA;31,5;TMA
+2023-09-30;BIVC;TMA;2,0;TMA
+2023-09-30;IVSO;TMA;2,0;TMA
+2023-09-30;AVA;DREV SV11/SV12;10,5;DREV SV11/SV12
+2023-09-30;AVA;TMA;3,5;TMA
+2023-09-30;ODGProvence;TMA;2,0;TMA
+2023-09-30;NLNet;Traduction PDF Signature;3,5;Traduction
