@@ -1,0 +1,49 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+ADM;déploiement;3,5;0,5
+ADM;TOTAL;3,5;0,5
+ASSVAS;TMA;4;0,6
+ASSVAS;TOTAL;4;0,6
+AT86;Developpement;30;4,3
+AT86;TOTAL;30;4,3
+AVA;DREV SV11/SV12;24,5;3,5
+AVA;TMA;3,5;0,5
+AVA;TOTAL;28;4,0
+BIVC;TMA;6,5;0,9
+BIVC;TOTAL;6,5;0,9
+CentreLoire;Forfait;67;9,6
+CentreLoire;TMA;31,5;4,5
+CentreLoire;TOTAL;98,5;14,1
+CIVA;TMA;77;11,0
+CIVA;TOTAL;77;11,0
+CIVP;Facturation;14;2,0
+CIVP;TMA;14;2,0
+CIVP;TOTAL;28;4,0
+IR;TMA;18,5;2,6
+IR;TOTAL;18,5;2,6
+IVBD;TMA adminsys;3,5;0,5
+IVBD;TOTAL;3,5;0,5
+IVSE;TMA;14;2,0
+IVSE;VIP2C;3,5;0,5
+IVSE;TOTAL;17,5;2,5
+IVSO;TMA;2;0,3
+IVSO;TMA adminsys;3,5;0,5
+IVSO;TOTAL;5,5;0,8
+NLNet;Compression Signature PDF;14;2,0
+NLNet;Traduction;3,5;0,5
+NLNet;Traduction Signature PDF;14;2,0
+NLNet;TOTAL;31,5;4,5
+NM;TMA;3,5;0,5
+NM;TOTAL;3,5;0,5
+ODGProvence;TMA;5,5;0,8
+ODGProvence;TOTAL;5,5;0,8
+ODGRhone;TMA;15;2,1
+ODGRhone;TOTAL;15;2,1
+PlateauUrbain;Plateforme;10,5;1,5
+PlateauUrbain;TOTAL;10,5;1,5
+Prodimmo;SignaturePDF;1;0,1
+Prodimmo;TOTAL;1;0,1
+SignaturePDF;Dev + relation client;2;0,3
+SignaturePDF;TOTAL;2;0,3
+VinsIGP;TMA;19;2,7
+VinsIGP;TOTAL;19;2,7
+TOTAL;TOTAL;58,4
