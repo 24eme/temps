@@ -1,0 +1,38 @@
+Projet;Tâche;Temps (en heure);Temps (en jours)
+ADM;déploiement + TMA;7;1,0
+ADM;TOTAL;7;1,0
+AT86;Developpement;3;0,4
+AT86;TOTAL;3;0,4
+Aurouze;TMA;8;1,1
+Aurouze;TOTAL;8;1,1
+AVA;TMA;1;0,1
+AVA;TOTAL;1;0,1
+BIVC;TMA;4,5;0,6
+BIVC;TOTAL;4,5;0,6
+CentreLoire;Forfait;308;44,0
+CentreLoire;TOTAL;308;44,0
+CIVA;SV11/SV12;10,5;1,5
+CIVA;TMA;8;1,1
+CIVA;TOTAL;18,5;2,6
+CIVP;TMA;9;1,3
+CIVP;TOTAL;9;1,3
+IR;Adelphe;2;0,3
+IR;TMA;21;3,0
+IR;TOTAL;23;3,3
+IVSE;TMA;28;4,0
+IVSE;VIP2C;3,5;0,5
+IVSE;TOTAL;31,5;4,5
+NLNet;Traduction Signature PDF;1;0,1
+NLNet;TOTAL;1;0,1
+ODGNantes;TMA;0,5;0,1
+ODGNantes;TOTAL;0,5;0,1
+ODGProvence;TMA;5,5;0,8
+ODGProvence;TOTAL;5,5;0,8
+ODGRhone;TMA;7;1,0
+ODGRhone;TOTAL;7;1,0
+PlateauUrbain;Plateforme;21,5;3,1
+PlateauUrbain;TMA;3,5;0,5
+PlateauUrbain;TOTAL;25;3,6
+VinsIGP;TMA;17,5;2,5
+VinsIGP;TOTAL;17,5;2,5
+TOTAL;TOTAL;67,1
