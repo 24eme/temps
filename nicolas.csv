@@ -1,7 +1,9 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2023-11-23;ADM;Maintenance;1;Débloquage mercanet
-2023-11-23;ADM;Maintenance;2;Reconfiguration des crons de relance d'adhésion pour que ça marche.
-2023-11-13;ADM;Assistance;0.5;Support mail à Evelyne
-2023-10-30;ADM;Assistance;2;Gestion de la désactivation du compte Brevo
-2023-10-30;ADM;Maintenance;3;Migration sur le serveur du 24eme
-2023-10-20;ADM;Developpement;3;Préparation migration serveur, nettoyage du code
+2023-12-4;ADM;Libération;2;Nettoyage du code inutile
+2023-12-4;ADM;Sécurisation;1.5;Sécurisation du code
+2023-11-23;ADM;TMA;1;Débloquage mercanet
+2023-11-23;ADM;TMA;2;Reconfiguration des crons de relance d'adhésion pour que ça marche.
+2023-11-13;ADM;TMA;0.5;Support mail à Evelyne
+2023-10-30;ADM;TMA;2;Gestion de la désactivation du compte Brevo
+2023-10-30;ADM;TMA;3;Migration sur le serveur du 24eme
+2023-10-20;ADM;Libération;3;Préparation migration serveur, nettoyage du code
