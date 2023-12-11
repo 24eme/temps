@@ -1,15 +1,9 @@
-Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2023-10-31;IR;Assistance / Demande;10,5;TMA
-2023-10-31;IR;Reunion;2;Adelphe
-2023-10-31;IR;Creation compte producteur de raisin;10,5;TMA
-2023-10-31;IVSE;Assistance / Demande;10,5;TMA
-2023-10-31;IVSE;Evolutions VIP2C;10,5;TMA
-2023-10-31;IVSE;Facturation email;7;TMA
-2023-10-31;CIVA;Developpement;4;SV11/SV12
-2023-10-31;CIVA;Assistance / Demande;1;TMA
-2023-10-31;CentreLoire;Fine tuning;14;Forfait
-2023-10-31;CentreLoire;Developpement;24,5;Forfait
-2023-10-31;BIVC;Assistance / Demande;2;TMA
-2023-10-31;AVA;Assistance / Demande;1;TMA
-2023-10-31;CIVP;Assistance / Demande;7;TMA
-2023-10-31;CIVP;Reserve interpro;2;TMA
+"Date";"Projet";"Description";"Temps (en heure)";"Tache (pas obligatoire)"
+2023-11-30;"IR";"Assistance / Demande";14;"TMA"
+2023-11-30;"IVSE";"Assistance / Demande";"10,5";"TMA"
+2023-11-30;"CIVA";"Assistance / Demande";"3,5";"TMA"
+2023-11-30;"CentreLoire";"Developpement";21;"Forfait"
+2023-11-30;"IVBD";"Assistance / Demande";1;"TMA"
+2023-11-30;"AVA";"Assistance / Demande";1;"TMA"
+2023-11-30;"CIVP";"Assistance / Demande";"10,5";"TMA"
+2023-11-30;"VinsIGP";"Assistance / Demande";7;"TMA"
