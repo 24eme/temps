@@ -1,5 +1,5 @@
-Date,Projet,Description,Temps (en heure),Tache (pas obligatoire)
-2023-12-31,CIVA,Remplacement des PDF dans les documents d'aide pour 2023-2024,2,
-2023-12-31,Vins IGP,"Retirer ce lot ANONYMISÉ de la dégustation"" dans ""Traiter/Modifier""",2,
-2023-12-31,Vins IGP,"Suppression occurrences ""export"" vrac ",4,
-2023-12-31,AMVM,Recherche fix bug envoi de requêtes,10,Non facturable
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2023-12-31;CIVA;Remplacement des PDF dans les documents d'aide pour 2023-2024;2;TMA
+2023-12-31;VinsIGP;Retirer ce lot ANONYMISÉ de la dégustation dans Traiter/Modifier;2;TMA
+2023-12-31;VinsIGP;Suppression occurrences export vrac;4;TMA
+2023-12-31;AMVM;Recherche fix bug envoi de requêtes;10;Non facturable
