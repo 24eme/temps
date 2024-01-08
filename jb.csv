@@ -1,9 +1,12 @@
-Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2023-11-30;IR;Assistance / Demande;14;TMA
-2023-11-30;IVSE;Assistance / Demande;10,5;TMA
-2023-11-30;CIVA;Assistance / Demande;3,5;TMA
-2023-11-30;CentreLoire;Developpement;22;Forfait
-2023-11-30;IVBD;Assistance / Demande;1;TMA
-2023-11-30;AVA;Assistance / Demande;2,5;TMA
-2023-11-30;CIVP;Assistance / Demande;12;TMA
-2023-11-30;VinsIGP;Assistance / Demande;9;TMA
+"Date";"Projet";"Description";"Temps (en heure)";"Tache (pas obligatoire)"
+2023-12-31;"IR";"Assistance / Demande";14;"TMA"
+2023-12-31;"CIVP";"Adaptation réserve interpro";"10,5";"TMA"
+2023-12-31;"CIVA";"Assistance / Demande";7;"TMA"
+2023-12-31;"CentreLoire";"Assistance / Demande";7;"TMA"
+2023-12-31;"CNIV";"Echanges SFTP";3,5;"TMA"
+2023-12-31;"Aurouze";"Assistance / Demande";7;"TMA"
+2023-12-31;"CIVP";"Assistance / Demande";7;"TMA"
+2023-12-31;"VinsIGP";"Assistance / Demande";3,5;"TMA"
+2023-12-31;"ODGRhone";"Assistance / Demande";1;"TMA"
+2023-12-31;"ODGProvence";"Assistance / Demande";1;"TMA"
+2023-12-31;"ASSVAS";"Assistance / Demande";2;"TMA"
