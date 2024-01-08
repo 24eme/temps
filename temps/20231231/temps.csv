@@ -1,0 +1,62 @@
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2023-12-31;CIVA;TMA;42;TMA
+2023-12-31;AVA;TMA;7,0;TMA
+2023-12-31;VinsIGP;TMA;3,5;TMA
+2023-12-31;CentreLoire;TMA;42;Forfait
+2023-12-31;BIVC;TMA;2,0;TMA
+2023-12-31;ODGProvence;TMA;1,5;TMA
+2023-12-31;Aurouze;TMA;3,5;TMA
+2023-12-31;Juricaf;Bug recherche;1,0;TMA
+2023-12-31;CNIV;Suivi CFT;2,0;TMA
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2023-12-31;IR;Assistance / Demande;14;TMA
+2023-12-31;CIVP;Adaptation réserve interpro;10,5;TMA
+2023-12-31;CIVA;Assistance / Demande;7;TMA
+2023-12-31;CentreLoire;Assistance / Demande;7;Forfait
+2023-12-31;CNIV;Echanges SFTP;3,5;TMA
+2023-12-31;Aurouze;Assistance / Demande;7;TMA
+2023-12-31;CIVP;Assistance / Demande;7;TMA
+2023-12-31;VinsIGP;Assistance / Demande;3,5;TMA
+2023-12-31;ODGRhone;Assistance / Demande;1;TMA
+2023-12-31;ODGProvence;Assistance / Demande;1;TMA
+2023-12-31;ASSVAS;Assistance / Demande;3,5;TMA
+Date;Projet;Description;Temps (en heure);Tache (Optionnel)
+2023-12-31;Aurouze;Tuenet TMA;7;Tuenet
+2023-12-31;Aurouze;Aurouze TMA;1;TMA
+2023-12-31;CentreLoire;TMA;2,5;Forfait
+2023-12-31;VinsIGP;TMA;3,5;TMA
+2023-12-31;ODGProvence;TMA;2,5;TMA
+2023-12-31;PlateauUrbain;Finitions Plateforme;17,5;Plateforme
+2023-12-31;CIVA;Finitions SV;22;SV11/SV12
+2023-12-31;IVSO;TMA;3;TMA
+2023-12-31;VinsIGP;TMA;7;TMA
+2023-12-31;CentreLoire;TMA;14;Forfait
+2023-12-31;BIVC;TMA;3,5;TMA
+2023-12-31;AMVM;TMA;7;TMA
+2023-12-31;CIVA;TMA;3,5;TMA
+2023-12-31;IVBD;TMA;3,5;TMA
+2023-12-31;Juricaf;TMA;10,5;TMA
+2023-12-31;ODGProvence;TMA;3,5;TMA
+2023-12-31;ODGRhone;TMA;14;TMA
+2023-12-31;IVSO;TMA;3,5;TMA
+2023-12-31;CNIV;TMA;3,5;TMA
+Date;Projet;Description;Temps (en heure);Tache (Optionnel)
+2023-12-31;CentreLoire;TMA;20;Forfait
+2023-12-31;BIVC;TMA;2;TMA
+2023-12-31;IVBD;TMA;5;TMA
+2023-12-31;CIVA;TMA;4;TMA
+2023-12-31;IR;Déplacement Aix;7;Forfait
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2023-12-31;CIVA;Remplacement des PDF dans les documents d'aide pour 2023-2024;2;TMA
+2023-12-31;VinsIGP;Retirer ce lot ANONYMISÉ de la dégustation dans Traiter/Modifier;2;TMA
+2023-12-31;VinsIGP;Suppression occurrences export vrac;4;TMA
+2023-12-31;AMVM;Recherche fix bug envoi de requêtes;10;Non facturable
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2023-12-04;ADM;Nettoyage du code inutile;2;TMA
+2023-12-04;ADM;Sécurisation du code;1,5;TMA
+2023-11-23;ADM;Débloquage mercanet;1;TMA
+2023-11-23;ADM;Reconfiguration des crons de relance d'adhésion pour que ça marche;2;TMA
+2023-11-13;ADM;Support mail à Evelyne;0,5;TMA
+2023-10-30;ADM;Gestion de la désactivation du compte Brevo;2;TMA
+2023-10-30;ADM;Migration sur le serveur du 24eme;3;TMA
+2023-10-20;ADM;Préparation migration serveur et nettoyage du code;3;Libération
