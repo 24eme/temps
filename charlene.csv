@@ -1,5 +1,6 @@
-Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2023-12-31;CIVA;Remplacement des PDF dans les documents d'aide pour 2023-2024;2;TMA
-2023-12-31;VinsIGP;Retirer ce lot ANONYMISÉ de la dégustation dans Traiter/Modifier;2;TMA
-2023-12-31;VinsIGP;Suppression occurrences export vrac;4;TMA
-2023-12-31;AMVM;Recherche fix bug envoi de requêtes;10;Non facturable
+Date,Projet,Description,Temps (en heure),Tache (pas obligatoire)
+2024-01-31,Aurouze,Problème saisie automatique,"1,5",
+2024-01-31,Aurouze,Mise à jour code comptable en alpha,"1,5",
+2024-01-31,Rhone ODG,Ecart CVI Prodouane et base,1,
+2024-01-31,VinsIGP,Problème décalage facture pdf,"1,5",
+2024-01-31,Aurouze,Problème de règlement avoir,2,TMA
