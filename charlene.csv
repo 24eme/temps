@@ -1,6 +1,6 @@
-Date,Projet,Description,Temps (en heure),Tache (pas obligatoire)
-2024-01-31,Aurouze,Problème saisie automatique,"1,5",
-2024-01-31,Aurouze,Mise à jour code comptable en alpha,"1,5",
-2024-01-31,Rhone ODG,Ecart CVI Prodouane et base,1,
-2024-01-31,VinsIGP,Problème décalage facture pdf,"1,5",
-2024-01-31,Aurouze,Problème de règlement avoir,2,TMA
+Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2024-01-31;Aurouze;Problème saisie automatique;1,5;TMA
+2024-01-31;Aurouze;Mise à jour code comptable en alpha;1,5;TMA
+2024-01-31;ODGRhone;Ecart CVI Prodouane et base;1;TMA
+2024-01-31;VinsIGP;Problème décalage facture pdf;1,5;TMA
+2024-01-31;Aurouze;Problème de règlement avoir;2;TMA
