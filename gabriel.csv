@@ -1,13 +1,9 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2024-01-31;VinsIGP;TMA;14;TMA
-2024-01-31;IR;TMA;3,5;TMA
-2024-01-31;CentreLoire;TMA;7,5;Forfait
-2024-01-31;CIVA;TMA + SV + réserve;27,5;TMA
-2024-01-31;IVBD;TMA;1;TMA
-2024-01-31;AVA;TMA;3,5;TMA
-2024-01-31;BIVC;TMA;0,5;TMA
-2024-01-31;ODGProvence;TMA Facturation + Generation;4;TMA
-2024-01-31;Aurouze;TMA;3,5;TMA
-2024-01-31;IVSO;TMA;1,5;TMA
-2024-01-31;CIVP;TMA;4,5;TMA
-2024-01-31;IVSE;TMA;1;TMA
+2024-02-29;VinsIGP;TMA;4;TMA
+2024-02-29;CIVA;Évolution tiers + TMA;58;TMA
+2024-02-29;AVA;TMA;0,75;TMA
+2024-02-29;Provence;Génération shell;4,5;Génération
+2024-02-29;Aurouze;Optimisations;12;TMA
+2024-02-29;Tuenet;TMA;0,25;TMA
+2024-02-29;CentreLoire;TMA;0,5;TMA
+2024-02-29;PlateauUrbain;Éditeur + Captcha;7;TMA
