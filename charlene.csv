@@ -1,4 +1,5 @@
-Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+Date;Client;Description;Temps (en heure);Categorie (Projet)
 2024-04-04;Aurouze;Ajout cookie Paris/Seine et Marne__Libellé facture avec date complète__Création établissement coché par défaut;2;TMA
-2024-04-30;Aurouze;Ajout établissement crèche; 0.5;TMA
-2024-04-30;Aurouze; Optimisation recherche téléphone;3;TMA
+2024-04-30;Aurouze;Ajout établissement crèche;0.5;TMA
+2024-04-30;Aurouze;Optimisation recherche téléphone;3;TMA
+2024-04-30;IVSO;Dev général;2;NutriVin
