@@ -1,6 +1,8 @@
 Date;Client;Description;Temps (en heure);Categorie (projet)
-2024-06-30;Ventoux;Dev;16;Dev
-2024-06-30;IVSE;Dev;2;Dev
-2024-06-30;IR;Dev;2;TMA
-2024-06-30;CIVP;Dev;2;TMA
-2024-06-30;Centreloire;TMA;1;TMA
+2024-07-31;NLNet;Finalisation fonctionnalité de chiffrement;3,5;chiffrement
+2024-07-31;NLNet;Ajout fonctionnalité administration;2;administration
+2024-07-31;CIVP;Declarvin;2;TMA
+2024-07-31;IVSE;Declarvin;2;TMA
+2024-07-31;IR;Declarvin;2;TMA
+2024-07-31;Dev;Ventoux;1,5;Dev
+2024-07-31;TMA;IGPVins;0,5;TMA
