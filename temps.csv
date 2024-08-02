@@ -10,21 +10,21 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-07-31;Prodimmo;mon activité;1,5;Outils Internes
 2024-07-31;Ventoux;Sprint;2,5;Forfait
 2024-07-31;Ventoux;Réunion;14;Réunion
-2024-07-31;CIVA;TMA;3;TMA
+2024-07-31;CIVA;TMA;3,5;TMA
 2024-07-31;AVA;TMA;0,5;TMA
 2024-07-31;BIVC;TMA;1;TMA
 2024-07-31;VinsIGP;TMA;0,5;TMA
-2024-07-31;NLNet;[Ne pas facturer] Signature .deb;10;Forfait
+2024-07-31;NLNet;[Ne pas facturer] Signature .deb;10;Debian Package
 2024-07-31;IR;Assistance / Demande;7;TMA
 2024-07-31;CIVP;Assistance / Demande;17,5;TMA
 2024-07-31;IVSE;Assistance / Demande;3,5;TMA
 2024-07-31;IVSE;SV12;28;SV12
-2024-07-31;NathanMode;Developpement;2;Forfait
+2024-07-31;NathanMode;Developpement;3,5;TMA
 2024-07-31;IVSO;Assistance / Demande;3,5;TMA
 2024-07-31;Aurouze;Assistance / Demande;6;TMA
-2024-07-31;Tuenet;Assistance / Demande;1;TMA
+2024-07-31;Aurouze;Assistance / Demande;1;Tuenet
 2024-07-31;IVBD;Assistance / Demande;0,5;TMA
-2024-07-31;VinIGP;Assistance / Demande;1;TMA
+2024-07-31;VinsIGP;Assistance / Demande;1;TMA
 2024-07-31;CIVP;Evolutions Calendrier;7;Calendrier
 2024-07-31;ODGRhone;Evolutions Calendrier;7;Calendrier
 2024-07-31;Ventoux;Dev;52,5;Dev
@@ -33,19 +33,19 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-07-31;Aurouze;TMA;3,5;TMA
 2024-07-31;ODGProvence;TMA;7,0;TMA
 2024-07-31;CIVA;TMA;7,0;TMA
-2024-07-31;NLNet;chiffrement + refacto;14,0;chiffrement
+2024-07-31;NLNet;chiffrement + refacto;14,0;Encryption
 2024-07-31;CIVP;Evolutions Calendrier;3,5;Calendrier
 2024-07-31;ODGRhone;Evolutions Calendrier;3,5;Calendrier
 2024-07-31;Juricaf;TMA;3,5;TMA
 2024-07-31;Ventoux;Forfait;42;Forfait
 2024-07-31;CNIV;TMA;14;TMA
-2024-07-31;NLNet;SignaturePDF: Digital signature;14;Dev
-2024-07-31;Centreloire;TMA;3,5;TMA
+2024-07-31;NLNet;SignaturePDF: Digital signature;14;Digital signature
+2024-07-31;CentreLoire;TMA;3,5;TMA
 2024-07-31;VinsIGP;TMA;3,5;TMA
-2024-07-31;NLNet;Finalisation fonctionnalité de chiffrement;3,5;chiffrement
-2024-07-31;NLNet;Ajout fonctionnalité administration;2;administration
+2024-07-31;NLNet;Finalisation fonctionnalité de chiffrement;3,5;Encryption
+2024-07-31;NLNet;Ajout fonctionnalité administration;2;Encryption
 2024-07-31;CIVP;Declarvin;2;TMA
 2024-07-31;IVSE;Declarvin;2;TMA
 2024-07-31;IR;Declarvin;2;TMA
-2024-07-31;Dev;Ventoux;1,5;Dev
-2024-07-31;TMA;IGPVins;0,5;TMA
+2024-07-31;Ventoux;Dev;1,5;Dev
+2024-07-31;VinsIGP;TMA;0,5;TMA
