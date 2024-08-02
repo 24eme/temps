@@ -14,7 +14,8 @@ Suivi temps prévus et consommés sur les forfaits convenus : [Voir le tableau](
 
 Description des indicateurs suivis :
 
-* Facturé : Montant facturé ce mois
+* Facturé : Montant facturé HT ce mois
+* Jours réalisés : Nombre de jours réalisés dans le mois
 * Jours restants : Nombre de jours restant connus de développement
 * Charges n-1 : Toutes les dépenses du mois en excluant celle relative à la TVA (PRLV SEPA DGFIP TVA)
 * Trésorie NET : Solde du compte déduit du capital, des parts bloqués et de la réserve
