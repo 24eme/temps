@@ -1,9 +1,6 @@
-2024-06-30;Ventoux;Dev;14,0;Dev
-2024-06-30;CentreLoire;TMA;1;TMA
-2024-06-30;BIVC;TMA;3,5;TMA
-2024-06-30;IGP;TMA;3,5;TMA
-2024-06-30;ODGProvence;TMA;3,5;TMA
-2024-06-30;ODGRhone;Dev + réunion;7,0;Manquant
-2024-06-30;CIVA;TMA;7,0;TMA
-2024-06-30;IVSO;NutriVin;7,0;NutriVin
-2024-06-30;Juricaf;Réinstallation du Serveur;3,5;AdminSys
+2024-08-30;Ventoux;Dev;2,5;Dev
+2024-08-30;BIVC;TMA;3,5;TMA
+2024-08-30;CIVA;TMA;1,5;TMA
+2024-08-30;AVA;TMA + Merge;14,0;TMA
+2024-08-30;VinsIGP;TMA;3,5;TMA
+2024-08-30;NLNet;chiffrement + refacto;7,0;chiffrement
