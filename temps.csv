@@ -15,11 +15,9 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-08-31;ODGRhone;Calendrier;3,5;Dev
 2024-08-31;CIVP;Calendrier;3,5;Dev
 2024-08-31;IR;TMA;7;TMA
-Date;Client;Description;Temps (en heure);Categorie (projet)
 2024-08-31;NLNet;Ajustements sur la fonctionnalité de chiffrement;2;chiffrement
 2024-08-31;CIVP;Travail sur le calendrier;1;calendrier
-2024-08-31;odgrhone;Travail sur le calendrier;1;calendrier
-Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
+2024-08-31;ODGRhone;Travail sur le calendrier;1;calendrier
 2024-08-31;IR;Assistance / Demande;3,5;TMA
 2024-08-31;CIVP;Assistance / Demande;10,5;TMA
 2024-08-31;IVSE;Assistance / Demande;1,5;TMA
@@ -28,7 +26,6 @@ Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
 2024-08-31;VinIGP;Assistance / Demande;1;TMA
 2024-08-31;CIVP;Evolutions Calendrier;8,5;Calendrier
 2024-08-31;ODGRhone;Evolutions Calendrier;9;Calendrier
-Date;Client;Description;Temps (en heure);Categorie (Projet)
 2024-08-31;IVBD;TMA;3;TMA
 2024-08-31;CIVA;TMA;2,5;TMA
 2024-08-31;AVA;TMA;0,5;TMADate;Projet;Description;Temps (en heure);Tache (Optionnel)
