@@ -1,4 +1,49 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2024-08-31;VinsIGP;TMA;17,5;TMA
+2024-08-31;VinsIGP;TMA;10,5;TMA
+2024-08-31;VinsIGP;Assistance / Demande;1;TMA
+2024-08-31;Ventoux;Sprint;4;Forfait
+2024-08-31;Ventoux;Forfait;7;Forfait
+2024-08-31;ODGRhone;Travail sur le calendrier;1;Calendrier
+2024-08-31;ODGRhone;TMA;7;TMA
+2024-08-31;ODGRhone;Evolutions Calendrier;9;Calendrier
+2024-08-31;ODGRhone;Dev;3,5;Calendrier
+2024-08-31;ODGRhone;Calendrier;7;Calendrier
+2024-08-31;NLNet;SignaturePDF: Digital signature;3,5;Dev
+2024-08-31;NLNet;Signature .deb finalisation;5.5;Forfait
+2024-08-31;NLNet;Ajustements sur la fonctionnalité de chiffrement;2;chiffrement
+2024-08-31;Juricaf;TMA;3,5;TMA
+2024-08-31;IVSO;TMA;17,5;TMA
+2024-08-31;IVSE;VIP2C;3,5;TMA
+2024-08-31;IVSE;SV12;2;SV12
+2024-08-31;IVSE;Assistance / Demande;1,5;TMA
+2024-08-31;IVBD;TMA;3;TMA
+2024-08-31;IVBD;TMA;14;TMA
+2024-08-31;IR;TMA;7;TMA
+2024-08-31;IR;TMA;1;TMA
+2024-08-31;IR;Assistance / Demande;3,5;TMA
+2024-08-31;CIVP;Travail sur le calendrier;1;Calendrier
+2024-08-31;CIVP;TMA Déclaration Stock;1;TMA
+2024-08-31;CIVP;TMA;7;TMA
+2024-08-31;CIVP;Evolutions Calendrier;8,5;Calendrier
+2024-08-31;CIVP;Dev;3,5;Calendrier
+2024-08-31;CIVP;Calendrier;7;Calendrier
+2024-08-31;CIVP;Assistance / Demande;10,5;TMA
+2024-08-31;CIVA;TMA;3,5;TMA
+2024-08-31;CIVA;TMA;3,5;TMA
+2024-08-31;CIVA;TMA;1;TMA
+2024-08-31;CentreLoire;TMA;7;TMA
+2024-08-31;CentreLoire;TMA;1;TMA
+2024-08-31;BIVC;TMA;14;TMA
+2024-08-31;AVA;TMA;0,5;TMA
+2024-08-31;Aurouze;TMA;1;TMA
+2024-08-31;Aurouze;Assistance / Demande;2;TMA
+2024-08-30;VinsIGP;TMA;3,5;TMA
+2024-08-30;Ventoux;Dev;2,5;Dev
+2024-08-30;NLNet;chiffrement + refacto;7,0;chiffrement
+2024-08-30;CIVA;TMA;2,5;TMA
+2024-08-30;BIVC;TMA;3,5;TMA
+2024-08-30;AVA;TMA + Merge;14,0;TMA
 2024-07-31;VinsIGP;TMA;3,5;TMA
 2024-07-31;VinsIGP;TMA;0,5;TMA
 2024-07-31;VinsIGP;TMA;0,5;TMA

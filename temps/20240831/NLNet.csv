@@ -1,0 +1,5 @@
+Date;Client;Description;Temps (en heure);Catégorie
+2024-08-30;NLNet;chiffrement + refacto;7,0;chiffrement
+2024-08-31;NLNet;Ajustements sur la fonctionnalité de chiffrement;2;chiffrement
+2024-08-31;NLNet;Signature .deb finalisation;5.5;Forfait
+2024-08-31;NLNet;SignaturePDF: Digital signature;3,5;Dev
