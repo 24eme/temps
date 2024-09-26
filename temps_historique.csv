@@ -193,7 +193,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-03-31;CIVA;Évolutions tiers sprint final;29;Évolutions Tiers
 2024-03-31;CIVA;Assistance / Demande;1;TMA
 2024-03-31;CentreLoire;TMA;7;TMA
-2024-03-31;CentreLoire;TMA;7,0;Forfait
+2024-03-31;CentreLoire;TMA;7,0;TMA
 2024-03-31;CentreLoire;TMA;3,5;TMA
 2024-03-31;BIVC;TMA;3,5;TMA
 2024-03-31;AVA;TMA VCI;10,5;TMA
@@ -204,7 +204,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-03-31;Aurouze;Assistance / Demande;1;TMA
 2024-03-31;AlmaCersius;Metabase;21;Forfait
 2024-03-31;AlmaCersius;Export des données;7;Forfait
-2024-03-29;CentreLoire;Evolution DR bailleur;10,5;TMA
+2024-03-29;CentreLoire;Evolution DR bailleur;10,5;Forfait
 2024-02-29;VinsIGP;TMA;4;TMA
 2024-02-29;VinsIGP;TMA;3,5;TMA
 2024-02-29;VinsIGP;TMA;3,5;TMA
@@ -231,9 +231,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-02-29;CIVA;Tiers;14,0;Évolutions Tiers
 2024-02-29;CIVA;Évolution tiers;42;Évolutions Tiers
 2024-02-29;CentreLoire;TMA;7;Forfait
-2024-02-29;CentreLoire;TMA;14;TMA
+2024-02-29;CentreLoire;TMA;14;Forfait
 2024-02-29;CentreLoire;TMA;10,5;Forfait
-2024-02-29;CentreLoire;TMA;0,5;TMA
+2024-02-29;CentreLoire;TMA;0,5;Forfait
 2024-02-29;AVA;TMA;10,5;TMA
 2024-02-29;AVA;TMA;0,75;TMA
 2024-02-29;Aurouze;TMA;17,5;TMA
@@ -379,10 +379,10 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2023-11-30;CIVA;Sprint SV;42,5;SV11/SV12
 2023-11-30;CIVA;Assistance / Demande;3,5;TMA
 2023-11-30;CIVA;adminsys;3,5;adminsys
-2023-11-30;CentreLoire;TMA;8;TMA
-2023-11-30;CentreLoire;TMA;63;Forfait
-2023-11-30;CentreLoire;TMA;5;TMA
-2023-11-30;CentreLoire;TMA;28;Forfait
+2023-11-30;CentreLoire;Forfait;8;Forfait
+2023-11-30;CentreLoire;Forfait;63;Forfait
+2023-11-30;CentreLoire;Forfait;5;Forfait
+2023-11-30;CentreLoire;Forfait;28;Forfait
 2023-11-30;CentreLoire;Developpement;22;Forfait
 2023-11-30;BIVC;TMA;5;TMA
 2023-11-30;BIVC;TMA;3,5;TMA
@@ -422,8 +422,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2023-10-31;CIVA;Sprint SV;5,5;SV11/SV12
 2023-10-31;CIVA;Developpement;5,0;SV11/SV12
 2023-10-31;CIVA;Assistance / Demande;1;TMA
-2023-10-31;CentreLoire;TMA;94,5;Forfait
-2023-10-31;CentreLoire;TMA;49;Forfait
+2023-10-31;CentreLoire;Forfait;94,5;Forfait
+2023-10-31;CentreLoire;Forfait;49;Forfait
 2023-10-31;CentreLoire;Mise en prod;75;Forfait
 2023-10-31;CentreLoire;Mise en prod;51;Forfait
 2023-10-31;CentreLoire;Fine tuning;14;Forfait
@@ -471,7 +471,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2023-09-30;CIVA;Reserve interpro;4,5;TMA
 2023-09-30;CIVA;Assistance / Demande;3,0;TMA
 2023-09-30;CentreLoire;Vrac export;5;Forfait
-2023-09-30;CentreLoire;TMA;31,5;TMA
+2023-09-30;CentreLoire;Forfait;31,5;Forfait
 2023-09-30;CentreLoire;Sprint 5;55;Forfait
 2023-09-30;CentreLoire;Facturation Libre;7;Forfait
 2023-09-30;BIVC;TMA;2,0;TMA
