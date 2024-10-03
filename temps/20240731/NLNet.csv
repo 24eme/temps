@@ -1,0 +1,6 @@
+Date;Client;Description;Temps (en heure);Catégorie
+2024-07-31;NLNet;Ajout fonctionnalité administration;2;Encryption
+2024-07-31;NLNet;chiffrement + refacto;14,0;Encryption
+2024-07-31;NLNet;Finalisation fonctionnalité de chiffrement;3,5;Encryption
+2024-07-31;NLNet;[Ne pas facturer] Signature .deb;10;Debian Package
+2024-07-31;NLNet;SignaturePDF: Digital signature;14;Digital signature

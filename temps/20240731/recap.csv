@@ -1,0 +1,49 @@
+Client;Catégorie;Temps (en heure);Temps (en jours)
+Aurouze;TMA;30,5;4,4
+Aurouze;Tuenet;1;0,1
+Aurouze;TOTAL;31,5;4,5
+AVA;TMA;0,5;0,1
+AVA;TOTAL;0,5;0,1
+BIVC;Métabase;7;1,0
+BIVC;TMA;1;0,1
+BIVC;TOTAL;8;1,1
+CentreLoire;TMA;8;1,1
+CentreLoire;TOTAL;8;1,1
+CIVA;TMA;10,5;1,5
+CIVA;TOTAL;10,5;1,5
+CIVP;Calendrier;25,5;3,6
+CIVP;TMA;19,5;2,8
+CIVP;TOTAL;45;6,4
+CNIV;TMA;14;2,0
+CNIV;TOTAL;14;2,0
+IR;TMA;9;1,3
+IR;TOTAL;9;1,3
+IVBD;TMA;2;0,3
+IVBD;TOTAL;2;0,3
+IVSE;SV12;28;4,0
+IVSE;TMA;5,5;0,8
+IVSE;TOTAL;33,5;4,8
+IVSO;TMA;3,5;0,5
+IVSO;TOTAL;3,5;0,5
+Juricaf;TMA;3,5;0,5
+Juricaf;TOTAL;3,5;0,5
+NathanMode;TMA;3,5;0,5
+NathanMode;TOTAL;3,5;0,5
+NLNet;Debian Package;10;1,4
+NLNet;Digital signature;14;2,0
+NLNet;Encryption;19,5;2,8
+NLNet;TOTAL;43,5;6,2
+ODGProvence;TMA;7;1,0
+ODGProvence;TOTAL;7;1,0
+ODGRhone;Calendrier;25;3,6
+ODGRhone;TMA;1,5;0,2
+ODGRhone;TOTAL;26,5;3,8
+Prodimmo;Outils Internes;1,5;0,2
+Prodimmo;TOTAL;1,5;0,2
+Ventoux;Dev;63,5;9,1
+Ventoux;Forfait;44,5;6,4
+Ventoux;Réunion;14;2,0
+Ventoux;TOTAL;122;17,4
+VinsIGP;TMA;5,5;0,8
+VinsIGP;TOTAL;5,5;0,8
+TOTAL;TOTAL;54,1
