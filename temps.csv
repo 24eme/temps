@@ -6,10 +6,10 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-09-30;CIVA;TMA;1,5;TMA
 2024-09-30;VinsIGP;TMA;3;TMA
 2024-09-30;AVA;TMA;0,5;TMA
-2024-09-30;IVBD;TMA;2;TMA
-2024-09-30;Aurouze;7,5;TMA
-2024-09-30;ODGRhone;6,5;Calendrier
-2024-09-30;CIVP;6,5;Calendrier
+2024-09-30;IVBD;TMA;3,5;TMA
+2024-09-30;Aurouze;TMA;7,5;TMA
+2024-09-30;ODGRhone;TMA;6,5;Calendrier
+2024-09-30;CIVP;TMA;6,5;Calendrier
 2024-09-30;Ventoux;Forfait;3,5;Forfait
 2024-09-30;VinsIGP;TMA;10,5;TMA
 2024-09-30;IVSO;TMA;10,5;TMA
@@ -21,7 +21,7 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-09-30;AMVM;AdminSys;7;Forfait
 2024-09-30;CNIV;TMA;3,5;Forfait
 2024-09-30;ODGProvence;TMA (sept + aout);21;TMA
-2024-09-30;Ventoux;Dev et mise en prod;10,5;Dev
+2024-09-30;Ventoux;Dev et mise en prod;10,5;Forfait
 2024-09-30;NLNet;bug fix;7,0;Encryption
 2024-09-30;BIVC;TMA;3,5;TMA
 2024-09-30;CIVA;TMA;10,5;TMA
@@ -41,5 +41,5 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-09-30;CIVP;Evolutions Calendrier;21;Calendrier
 2024-09-30;ODGRhone;Evolutions Calendrier;21;Calendrier
 2024-09-30;CIVP;Dev calendrier;6;Calendrier
-2024-09-30;Rhone;Dev calendrier;6;Calendrier
-2024-09-30;ADM;TMA;3;
+2024-09-30;ODGRhone;Dev calendrier;6;Calendrier
+2024-09-30;ADM;TMA;3,5;TMA
