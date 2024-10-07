@@ -42,3 +42,6 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-09-30;CIVP;Dev calendrier;6;Calendrier
 2024-09-30;ODGRhone;Dev calendrier;6;Calendrier
 2024-09-30;ADM;TMA;3,5;TMA
+2024-09-27;ADM;Correction du bug qui rejette au lieu de valilder;2,5;TMA
+2024-09-26;ADM;Sécurisation des pages d'admin du site;1,5;TMA
+2024-09-01;ADM;Support mail et téléphonique;1;TMA
