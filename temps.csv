@@ -10,11 +10,11 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-11-30;IVSE;Evolutions identification produit;7;VIP2C
 2024-11-30;IVSE;Dev. Évolutions;3,5;Sécurité
 2024-11-30;NathanMode;Assistance / Demande;2;TMA
-2024-11-30;CIVA;Assistance / Demande;1;TMA
-2024-11-30;AVA;Assistance / Demande;1;TMA
+2024-11-30;CIVA;Assistance / Demande;1,5;TMA
+2024-11-30;AVA;Assistance / Demande;2,0;TMA
 2024-11-30;VinsIGP;Assistance / Demande;2;TMA
-2024-11-30;IVSO;Traductions 3 langues;3,5;Nutrivin
-2024-11-30;ODGProvence;TMA;7,0;TMA
+2024-11-30;IVSO;Traductions 3 langues;3,5;NutriVin
+2024-11-30;ODGProvence;TMA;7,0;CAPCVP
 2024-11-30;AVA;TMA;3,5;TMA
 2024-11-30;CIVA;TMA;24,5;TMA
 2024-11-30;VinsIGP;TMA;14,0;TMA
@@ -25,18 +25,20 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-11-30;CIVP;TMA;3,5;TMA
 2024-11-30;IVBD;TMA;1,5;TMA
 2024-11-30;Ventoux;TMA;1,0;TMA
-2024-11-30;RhoneODG;TMA;2;TMA
-2024-11-30;CIVA;TMA;7;TMA
+2024-11-30;ODGRhone;TMA;2;TMA
+2024-11-30;CIVA;Partage de données;7;TMA
 2024-11-30;Aurouze;TMA;3;TMA
 2024-11-30;CentreLoire;TMA;19;TMA
 2024-11-30;VinsIGP;TMA;11,5;TMA
-2024-11-30;IVSO;Développement NutriVin;5,5;Forfait
+2024-11-30;IVSO;Développement NutriVin;5,5;NutriVin
 2024-11-30;Aurouze;TMA;2,5;TMA
 2024-11-30;ODGRhone;TMA;1,5;TMA
-2024-11-30;Declarvin;Débug xml DRM;7;TMA
+2024-11-30;CIVP;Débug xml DRM;2,5;TMA
+2024-11-30;IR;Débug xml DRM;2,5;TMA
+2024-11-30;IVSE;Débug xml DRM;2;TMA
 2024-11-30;CIVA;TMA;7;TMA
 2024-11-30;CIVP;TMA;2;TMA
-2024-11-30;AVA;TMA;1;TMA
+2024-11-30;AVA;TMA;1,5;TMA
 2024-11-30;BIVC;TMA;0,5;TMA
 2024-11-30;IVSE;Dev VIP2C;14;Forfait
 2024-11-30;VinsIGP;TMA;3,5;TMA
@@ -45,11 +47,11 @@ Date;Client;Description;Temps (en heure);Catégorie
 2024-11-30;CNIV;Migration;21;Forfait
 2024-11-30;ODGProvence;Développement;14;CAPCVP
 2024-11-30;CentreLoire;TMA;3,5;TMA
-2024-11-30;IVSO;TMA;3,5;QRSo
+2024-11-30;IVSO;TMA;3,5;NutriVin
 2024-11-30;IVSO;TMA;3,5;TMA
 2024-11-30;IVBD;TMA;3,5;TMA
 2024-11-30;BIVC;TMA;3,5;TMA
 2024-11-30;ODGRhone;TMA;3,5;TMA
 2024-11-30;CentreLoire;TMA;0,5;TMA
-2024-11-30;IVSO;Developpement fiche accompagnement, évol EAN-13 et changements mineurs;22;Nutrivin
-2024-11-30;CIVA;TMA;1;TMA
+2024-11-30;IVSO;Developpement fiche accompagnement, évol EAN-13 et changements mineurs;23;NutriVin
+2024-11-30;CIVA;TMA;2;TMA
