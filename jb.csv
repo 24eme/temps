@@ -1,9 +1,16 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2024-12-31;IR;Assistance / Demande;24.5;TMA
-2024-12-31;IR;Dev. Évolutions;17.5;RéserveInterpro
-2024-12-31;CIVP;Assistance / Demande;14;TMA
-2024-12-31;CIVP;Dev;10.5;SuiviReserve
-2024-12-31;IVSE;TMA évolutive;3.5;VIP2C
-2024-12-31;CNIV;Gestion down des douanes;3,5;TMA
-2024-12-31;CentreLoire;Assistance / Demande;1;TMA
-2024-12-31;VinsIGP;VIP2C;7;TMA
+2025-01-31;IR;Assistance / Demande;14;TMA
+2025-01-31;IR;Import RéserveInterpro;10.5;TMA
+2025-01-31;CIVP;Assistance / Demande;14;TMA
+2025-01-31;CIVP;Dev;14;SuiviReserve
+2025-01-31;CIVP;Import RéserveInterpro;10.5;TMA
+2025-01-31;CIVP;Facturation SV12;7;SV12
+2025-01-31;IVSE;Assistance / Demande;3.5;TMA
+2025-01-31;CentreLoire;Assistance / Demande;1;TMA
+2025-01-31;IVBD;Assistance / Demande;3.5;TMA
+2025-01-31;CIVA;Assistance / Demande;3.5;TMA
+2025-01-31;ODGRhone;Nouvelle campagne Adelphe;7;TMA
+2025-01-31;BIVC;Assistance / Demande;1;TMA
+2025-01-31;NM;Assistance / Demande;1;TMA
+2025-01-31;IVSO;Assistance / Demande;1;TMA
+2025-01-31;Aurouze;Assistance / Demande;2;TMA
