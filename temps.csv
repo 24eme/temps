@@ -20,29 +20,28 @@ Date;Client;Description;Temps (en heure);Catégorie
 2025-02-28;CIVP;TMA;1,0;TMA
 2025-02-28;Aurouze;Réunion;2,5;TMA
 2025-02-28;CIVA;TMA + Réserve;15;TMA
-2025-02-28;AVA;TMA;2,5;TMA
+2025-02-28;AVA;TMA;3,5;TMA
 2025-02-28;IVSO;TMA;8,5;NutriVin
 2025-02-28;IVSO;TMA;0,5;TMA
-2025-02-28;ADM;Sécurisation;5;TMA
+2025-02-28;ADM;Sécurisation;7;TMA
 2025-02-28;CIVP;Sprint cravate-pdf;28,5;CravatePDF
-2025-02-28;CIVP;Réunion cravate;1;Réunion
+2025-02-28;CIVP;Réunion cravate;1;CravatePDF
 2025-02-28;VinsIGP;TMA;1;TMA
-2025-02-28;ahjucaf;changement machine spare;8;admin sys
-2025-02-28;centreloire;metabase;1;metabase
-2025-02-28;adm;TMA;4;TMA
+2025-02-28;Juricaf;remplacement de la machine spare;8;AdminSys
+2025-02-28;CentreLoire;metabase;1;TMA
+2025-02-28;ADM;TMA;4;TMA
 2025-02-28;IVSO;TMA;4;TMA
 2025-02-28;CIVA;TMA;10;TMA
-2025-02-28;prodimmo;zeroinbox dans report24;10;report24
+2025-02-28;Prodimmo;zeroinbox dans report24;10;Report24
 2025-02-28;VinsIGP;TMA;14;TMA
 2025-02-28;CIVA;TMA;3,5;TMA
 2025-02-28;CentreLoire;TMA;3,5;TMA
 2025-02-28;CNIV;TMA;3,5;TMA
 2025-02-28;IR;TMA;7;TMA + WineTracker
-2025-02-28;ODGRhone;TMA;3,5;TMA
 2025-02-28;ODGProvence;TMA;7;TMA
 2025-02-28;IVBD;TMA;10,5;TMA
 2025-02-28;Juricaf;TMA;3,5;TMA
-2025-02-28;ADM;TMA;7;ADM
+2025-02-28;ADM;TMA;7;TMA
 2025-02-28;ODGNantes;TMA;3,5;TMA
 2025-02-28;Ventoux;TMA;3,5;TMA
 2025-02-28;ASSVAS;TMA;7;TMA
