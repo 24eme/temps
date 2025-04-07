@@ -1,4 +1,54 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2025-03-31;VinsIGP;TMA;7;TMA
+2025-03-31;VinsIGP;TMA;5;TMA
+2025-03-31;VinsIGP;TMA;3,5;TMA
+2025-03-31;VinsIGP;TMA;1;TMA
+2025-03-31;Ventoux;TMA;3;TMA
+2025-03-31;ODGRhone;TMA;3,5;TMA
+2025-03-31;ODGRhone;ajout colonne duplicata dans l'export comptes;3,5;TMA
+2025-03-31;ODGProvence;TMA;1,5;TMA
+2025-03-31;ODGProvence;Sprint;3,5;TMA
+2025-03-31;ODGProvence;Sprint;17,5;SprintEvolution
+2025-03-31;ODGProvence;Sprint;10,5;SprintEvolution
+2025-03-31;ODGNantes;TMA;3,5;TMA
+2025-03-31;NathanMode;Assistance / Demande;7;TMA
+2025-03-31;Juricaf;TMA;10,5;TMA
+2025-03-31;Juricaf;Réunion+TMA;3,5;TMA
+2025-03-31;IVSO;TMA;3,5;TMA
+2025-03-31;IVSO;TMA;1;TMA
+2025-03-31;IVSE;TMA;1;TMA
+2025-03-31;IVSE;Assistance / Demande;3,5;TMA
+2025-03-31;IVBD;Changement contrats vrac;10,5;TMA
+2025-03-31;IR;TMA;7;TMA
+2025-03-31;IR;TMA;1;TMA
+2025-03-31;IR;Assistance / Demande;21;TMA
+2025-03-31;Gaillac;TMA;10,5;Forfait
+2025-03-31;CIVP;Sprint cravate pdf;31,5;CravatePDF
+2025-03-31;CIVP;Dev;31,5;CravatePDF
+2025-03-31;CIVP;CravatePDF;28,0;CravatePDF
+2025-03-31;CIVP;Assistance / Demande;14;TMA
+2025-03-31;CIVA;Vrac;3,5;SprintEvolution
+2025-03-31;CIVA;TMA;3,5;TMA
+2025-03-31;CIVA;TMA;3,5;TMA
+2025-03-31;CIVA;TMA;3,5;TMA
+2025-03-31;CIVA;Sprint évolutions des contrats;21;SprintEvolution
+2025-03-31;CIVA;Réunion Vrac;2;SprintEvolution
+2025-03-31;CIVA;Import Vrac;19;SprintEvolution
+2025-03-31;CIVA;Ajout réserve interpro;5;TMA
+2025-03-31;CentreLoire;TMA;3,5;TMA
+2025-03-31;CentreLoire;TMA;3,5;TMA
+2025-03-31;CentreLoire;TMA;3,5;TMA
+2025-03-31;AVA;TMA;3,5;TMA
+2025-03-31;AVA;Sprint;5;SprintEvolution
+2025-03-31;AVA;Réunion;2,5;SprintEvolution
+2025-03-31;AVA;Facturation 2025 et Réimport des registres VCI;31,5;TMA
+2025-03-31;AVA;Dév Sprint;1;SprintEvolution
+2025-03-31;Aurouze;TMA;5;TMA
+2025-03-31;Aurouze;TMA;2;TMA
+2025-03-31;Aurouze;Sprint;18;TMA
+2025-03-31;Aurouze;Réunion;2,5;TMA
+2025-03-31;AMVM;TMA;7;TMA
+2025-03-31;ADM;TMA;7;ADM
 2025-02-28;VinsIGP;TMA;3;TMA
 2025-02-28;VinsIGP;TMA;3,5;TMA
 2025-02-28;VinsIGP;TMA;1;TMA
