@@ -1,7 +1,5 @@
 Date;Client;Description;Temps (en heure);Categorie (projet)
-2025-03-31;CIVA;TMA (ajout reserve interpro);5;giilda
-2025-03-31;IVBD;TMA (changement contrats vrac);10;giilda
-2025-03-31;AVA;TMA;1;openODG
-2025-03-31;IR;TMA (ajout colonne duplicata dans l'export comptes);10;openODG
-
-
+2025-03-31;CIVA;Ajout réserve interpro;5;TMA
+2025-03-31;IVBD;Changement contrats vrac;10,5;TMA
+2025-03-31;AVA;Dév Sprint;1;SprintEvolution
+2025-03-31;ODGRhone;ajout colonne duplicata dans l'export comptes;3,5;TMA
