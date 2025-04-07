@@ -1,7 +1,7 @@
 Date;Client;Description;Temps (en heure);Categorie (projet)
-2025-02-28;ahjucaf;changement machine spare;8;admin sys
-2025-02-28;centreloire;metabase;1;metabase
-2025-02-28;adm;TMA;4;TMA
-2025-02-28;IVSO;TMA;4;TMA
-2025-02-28;CIVA;TMA;10;TMA
-2025-02-28;prodimmo;zeroinbox dans report24;10;report24
+2025-03-31;CIVA;TMA (ajout reserve interpro);5;giilda
+2025-03-31;IVBD;TMA (changement contrats vrac);10;giilda
+2025-03-31;AVA;TMA;1;openODG
+2025-03-31;IR;TMA (ajout colonne duplicata dans l'export comptes);10;openODG
+
+
