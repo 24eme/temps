@@ -9,11 +9,11 @@ Date;Client;Description;Temps (en heure);Catégorie
 2025-04-30;ADM;Habilitation à enseigner en ligne;0.5;TMA
 2025-04-30;Gaillac;Forfait;28;Forfait
 2025-04-30;ODGRhone;Compte;3,5;TMA
-2025-04-30;ODGRhone;Documents de production;7;TMA
-2025-04-30;ODGRhone;Démo Potentiel + parcellaire;3,5;TMA
+2025-04-30;ODGRhone;Documents de production;7;TMA DRev
+2025-04-30;ODGRhone;Démo Potentiel + parcellaire;3,5;TMA Parcellaire
 2025-04-30;ODGNantes;TMA;3,5;TMA
 2025-04-30;Ventoux;TMA;3,5;TMA
-2025-04-30;ODGRhone;Finalisation methode isDuplicate;2,5;TMA
+2025-04-30;ODGRhone;Finalisation methode isDuplicate;3,5;TMA Contact
 2025-04-30;IVBD;Modification des contrat d'achat;4;TMA
 2025-04-30;Gaillac;Dev Sprint;31;Forfait
 2025-04-30;Gaillac;Reunion Sprint;2;Forfait
@@ -23,7 +23,7 @@ Date;Client;Description;Temps (en heure);Catégorie
 2025-04-30;CIVA;Import Vrac;21,5;SprintEvolution
 2025-04-30;CIVA;TMA;1;TMA
 2025-04-30;CIVA;Réunion sprint vrac;2;SprintEvolution
-2025-04-30;ODGRhone;TMA Opti Charge serveur;7;Admin Sys
+2025-04-30;ODGRhone;TMA Opti Charge serveur;7;TMA Export
 2025-04-30;CentreLoire;TMA;0,5;TMA
 2025-04-30;Aurouze;TMA;0,5;TMA
 2025-04-30;ODGProvence;TMA;0,5;TMA
