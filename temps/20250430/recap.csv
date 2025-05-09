@@ -1,0 +1,46 @@
+Client;Catégorie;Temps (en heure);Temps (en jours)
+ADM;TMA;3,5;0,5
+ADM;TOTAL;3,5;0,5
+Aurouze;Sprint;21,5;3,1
+Aurouze;TMA;11,5;1,6
+Aurouze;TOTAL;33;4,7
+AVA;SprintEvolution;18,5;2,6
+AVA;TMA;42;6,0
+AVA;TOTAL;60,5;8,6
+CentreLoire;TMA;4;0,6
+CentreLoire;TOTAL;4;0,6
+CIVA;SprintEvolution;37,5;5,4
+CIVA;TMA;4,5;0,6
+CIVA;TOTAL;42;6,0
+CIVP;CravatePDF;12,5;1,8
+CIVP;TMA;11;1,6
+CIVP;TOTAL;23,5;3,4
+Gaillac;Forfait;68;9,7
+Gaillac;TOTAL;68;9,7
+IR;TMA;18,5;2,6
+IR;TOTAL;18,5;2,6
+IVBD;TMA;4;0,6
+IVBD;TOTAL;4;0,6
+IVSE;SprintContrat;14;2,0
+IVSE;TMA;11,5;1,6
+IVSE;TOTAL;25,5;3,6
+IVSO;TMA;1;0,1
+IVSO;TOTAL;1;0,1
+NathanMode;TMA;2;0,3
+NathanMode;TOTAL;2;0,3
+ODGNantes;TMA;3,5;0,5
+ODGNantes;TOTAL;3,5;0,5
+ODGProvence;Sprint;35;5,0
+ODGProvence;TMA;0,5;0,1
+ODGProvence;TOTAL;35,5;5,1
+ODGRhone;TMA;3,5;0,5
+ODGRhone;TMA Contact;3,5;0,5
+ODGRhone;TMA DRev;7;1,0
+ODGRhone;TMA Export;7;1,0
+ODGRhone;TMA Parcellaire;3,5;0,5
+ODGRhone;TOTAL;24,5;3,5
+Ventoux;TMA;10,5;1,5
+Ventoux;TOTAL;10,5;1,5
+VinsIGP;TMA;12,5;1,8
+VinsIGP;TOTAL;12,5;1,8
+TOTAL;TOTAL;53,1

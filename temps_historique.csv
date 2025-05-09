@@ -1,4 +1,60 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2025-04-30;VinsIGP;TMA;7;TMA
+2025-04-30;VinsIGP;TMA;3,5;TMA
+2025-04-30;VinsIGP;TMA;1;TMA
+2025-04-30;Ventoux;TMA;7;TMA
+2025-04-30;Ventoux;TMA;3,5;TMA
+2025-04-30;ODGRhone;TMA Opti Charge serveur;7;TMA Export
+2025-04-30;ODGRhone;Finalisation methode isDuplicate;3,5;TMA Contact
+2025-04-30;ODGRhone;Documents de production;7;TMA DRev
+2025-04-30;ODGRhone;Démo Potentiel + parcellaire;3,5;TMA Parcellaire
+2025-04-30;ODGRhone;Compte;3,5;TMA
+2025-04-30;ODGProvence;TMA;0,5;TMA
+2025-04-30;ODGProvence;Sprint - secteur;3,5;Sprint
+2025-04-30;ODGProvence;Sprint - potentiel de production;17,5;Sprint
+2025-04-30;ODGProvence;Sprint;14,0;Sprint
+2025-04-30;ODGNantes;TMA;3,5;TMA
+2025-04-30;NathanMode;Assistance / Demande;2;TMA
+2025-04-30;IVSO;Assistance / Demande;1;TMA
+2025-04-30;IVSE;TMA;1;TMA
+2025-04-30;IVSE;Import SV12;10,5;TMA
+2025-04-30;IVSE;Evolutions contrat;14;SprintContrat
+2025-04-30;IVBD;Modification des contrat d'achat;4;TMA
+2025-04-30;IR;TMA;1;TMA
+2025-04-30;IR;SV12 CdR;3,5;TMA
+2025-04-30;IR;Assistance / Demande;14;TMA
+2025-04-30;Gaillac;Reunion Sprint;2;Forfait
+2025-04-30;Gaillac;Forfait;28;Forfait
+2025-04-30;Gaillac;Dev Sprint;31;Forfait
+2025-04-30;Gaillac;Dev;7;Forfait
+2025-04-30;CIVP;TMA Cravate;2,5;TMA
+2025-04-30;CIVP;TMA;1,5;TMA
+2025-04-30;CIVP;Dev;10,5;CravatePDF
+2025-04-30;CIVP;CravatePDF;2,0;CravatePDF
+2025-04-30;CIVP;Assistance / Demande;7;TMA
+2025-04-30;CIVA;TMA;3,5;TMA
+2025-04-30;CIVA;TMA;1;TMA
+2025-04-30;CIVA;Sprint évolutions des contrats;3,5;SprintEvolution
+2025-04-30;CIVA;Réunion sprint vrac;2;SprintEvolution
+2025-04-30;CIVA;Import Vrac;21,5;SprintEvolution
+2025-04-30;CIVA;2 Réunions + Dev;10,5;SprintEvolution
+2025-04-30;CentreLoire;TMA;3,5;TMA
+2025-04-30;CentreLoire;TMA;0,5;TMA
+2025-04-30;AVA;TMA;21;TMA
+2025-04-30;AVA;TMA;10,5;TMA
+2025-04-30;AVA;TMA;10,5;TMA
+2025-04-30;AVA;Sprint;5,5;SprintEvolution
+2025-04-30;AVA;Sprint;10,5;SprintEvolution
+2025-04-30;AVA;Réunion;2,5;SprintEvolution
+2025-04-30;Aurouze;TMA;7;TMA
+2025-04-30;Aurouze;TMA;4;TMA
+2025-04-30;Aurouze;TMA;0,5;TMA
+2025-04-30;Aurouze;Sprint;19;Sprint
+2025-04-30;Aurouze;Réunion;2,5;Sprint
+2025-04-30;ADM;Réunion;2;TMA
+2025-04-30;ADM;Habilitation à enseigner en ligne;0.5;TMA
+2025-04-30;ADM;Amelioration de la detection des intrusions;1;TMA
+2025-04-17;VinsIGP;TMA Dégustation Loire;1;TMA
 2025-03-31;VinsIGP;TMA;7;TMA
 2025-03-31;VinsIGP;TMA;5;TMA
 2025-03-31;VinsIGP;TMA;3,5;TMA
