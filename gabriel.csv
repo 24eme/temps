@@ -1,12 +1,15 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2025-05-31;Aurouze;TMA;25;TMA
-2025-05-31;ODGRhone;TMA;1.5;TMA
-2025-05-31;Nutrivin;TMA;7;TMA
-2025-05-31;CIVA;Réunion Négociant Contrat;2;Réunion
-2025-05-31;VinsIGP;TMA;13.5;TMA
-2025-05-31;ODGProvence;TMA;4;TMA
-2025-05-31;Centre;TMA;2;TMA
-2025-05-31;ODGNantes;TMA;2;TMA
-2025-05-31;Prodimmo;Mise à jour serveur Brigitte;7;Prodimmo
-2025-05-31;AVA;TMA;5;TMA
-2025-05-31;IVSO;TMA nutrivin;1;Nutrivin
+2025-06-30;IVSO;TMA nutrivin;2;Nutrivin
+2025-06-30;IVSO;TMA;1;TMA
+2025-06-30;VinsIGP;TMA;7;TMA
+2025-06-30;AVA;TMA;3,5;TMA
+2025-06-30;CIVP;TMA CravatePDF;2;Cravate
+2025-06-30;Centre;TMA;0,5;TMA
+2025-06-30;ODGRhone;TMA;0,5;TMA
+2025-06-30;BIVC;TMA;2,5;TMA
+2025-06-30;NLNet;SignaturePDF Watermark;29;Forfait
+2025-06-30;NLNet;SignaturePDF Retention Config;3,5;Forfait
+2025-06-30;NLNet;SignaturePDF Multiline text;3,5;Forfait
+2025-06-30;NLNet;SignaturePDF Metadata;7;Forfait
+2025-06-30;NLNet;SignaturePDF Color;8;Forfait
+2025-06-30;NLNet;SignaturePDF;7;Forfait

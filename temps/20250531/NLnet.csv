@@ -1,0 +1,4 @@
+Date;Client;Description;Temps (en heure);Catégorie
+2025-05-31;NLnet;Amélioration de la compression;3,5;Compression
+2025-05-31;NLnet;Conserver les liens d'un pdf dans organisation;10,5;OrganisationCleanPDF
+2025-05-31;NLnet;Convertir en image;7,0;OpenImage
