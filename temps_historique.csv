@@ -295,6 +295,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2025-01-31;CentreLoire;TMA;3;TMA
 2025-01-31;CentreLoire;TMA;3,5;TMA
 2025-01-31;CentreLoire;Assistance / Demande;1;TMA
+2024-10-31;Prodimmo;Outils interne de suivi de comptable par les pièces;14;Metacompta
 2025-01-31;BIVC;TMA;7,0;TMA
 2025-01-31;BIVC;Assistance / Demande;1;TMA
 2025-01-31;AVA;TMA;3,5;TMA
@@ -453,6 +454,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-10-31;Aurouze;Assistance / Demande;1;TMA
 2024-10-31;Assvas;TMA;0,5;TMA
 2024-10-31;ADM;TMA;8;TMA
+2024-10-31;Prodimmo;Outils interne de suivi comptable par les pièces;21;Metacompta
 2024-09-30;VinsIGP;TMA;3;TMA
 2024-09-30;VinsIGP;TMA;3,5;TMA
 2024-09-30;VinsIGP;TMA;10,5;TMA
@@ -554,7 +556,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-07-31;Ventoux;Dev;9,5;Dev
 2024-07-31;Ventoux;Dev;52,5;Dev
 2024-07-31;Ventoux;Dev;1,5;Dev
-2024-07-31;Prodimmo;mon activité;1,5;Outils Internes
+2024-07-31;Prodimmo;Correction bug outils interne de suivi de l'activité;1,5;Mon Activité
 2024-07-31;ODGRhone;TMA;1,5;TMA
 2024-07-31;ODGRhone;Evolutions Calendrier;7;Calendrier
 2024-07-31;ODGRhone;Evolutions Calendrier;3,5;Calendrier
