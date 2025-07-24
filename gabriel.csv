@@ -1,15 +1,12 @@
 Date;Projet;Description;Temps (en heure);Tache (Optionnel)
-2025-06-30;IVSO;TMA nutrivin;2;Nutrivin
-2025-06-30;IVSO;TMA;1,5;TMA
-2025-06-30;VinsIGP;TMA;7;TMA
-2025-06-30;AVA;TMA;3,5;TMA
-2025-06-30;CIVP;TMA CravatePDF;2;CravatePDF
-2025-06-30;CentreLoire;TMA;0,5;TMA
-2025-06-30;ODGRhone;TMA;0,5;TMA
-2025-06-30;BIVC;TMA;2,5;TMA
-2025-06-30;NLNet;SignaturePDF Watermark;29;Forfait
-2025-06-30;NLNet;SignaturePDF Retention Config;3,5;Forfait
-2025-06-30;NLNet;SignaturePDF Multiline text;3,5;Forfait
-2025-06-30;NLNet;SignaturePDF Metadata;7;Forfait
-2025-06-30;NLNet;SignaturePDF Color;8;Forfait
-2025-06-30;NLNet;SignaturePDF;7;Forfait
+2025-07-31;NLNet;SignaturePDF FactureX;3.5;FactureX
+2025-07-31;NLNet;SignaturePDF Toolbox;21;Toolbox
+2025-07-31;NLNet;SignaturePDF Watermark;0.5;Watermark
+2025-07-31;NLNet;SignaturePDF Admin Deletion;7;DeletionLink
+2025-07-31;NLNet;SignaturePDF Opti;4;Opti
+2025-07-31;AVA;TMA;2.5;TMA
+2025-07-31;CIVA;TMA;1;TMA
+2025-07-31;ODGProvence;TMA;3;TMA
+2025-07-31;VinsIGP;TMA;8.5;TMA
+2025-07-31;Gaillac;Sprint;7;Forfait
+2025-07-31;Aurouze;Touraine technicien application;1;TMA
