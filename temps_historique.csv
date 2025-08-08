@@ -3,8 +3,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2025-07-31;VinsIGP;TMA;3,5;TMA
 2025-07-31;VinsIGP;Assistance / Demande;3,5;TMA
 2025-07-31;ODGProvence;TMA;3;TMA
-2025-07-31;ODGProvence;Sprint;7,0;Sprint
-2025-07-31;ODGProvence;Sprint;3,5;Sprint
+2025-07-31;ODGProvence;Sprint;7,0;SprintEvolution
+2025-07-31;ODGProvence;Sprint;3,5;SprintEvolution
 2025-07-31;ODGProvence;Assistance / Demande;1;TMA
 2025-07-31;NLNet;Watermark change color;2,0;Watermark
 2025-07-31;NLNet;SignaturePDF Watermark;0.5;Watermark
@@ -61,7 +61,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2025-06-30;ODGRhone;TMA;0,5;TMA
 2025-06-30;ODGRhone;Admin sys;3,5;Hébergement
 2025-06-30;ODGProvence;TMA;7;TMA
-2025-06-30;ODGProvence;TMA;7,0;TMA
+2025-06-30;ODGProvence;Sprint;7,0;SprintEvolution
 2025-06-30;NLNet;SignaturePDF Watermark;29;Forfait
 2025-06-30;NLNet;SignaturePDF Retention Config;3,5;Forfait
 2025-06-30;NLNet;SignaturePDF Multiline text;3,5;Forfait
@@ -163,8 +163,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2025-04-30;ODGRhone;Démo Potentiel + parcellaire;3,5;TMA Parcellaire
 2025-04-30;ODGRhone;Compte;3,5;TMA Contact
 2025-04-30;ODGProvence;TMA;0,5;TMA
-2025-04-30;ODGProvence;Sprint - secteur;3,5;Sprint
-2025-04-30;ODGProvence;Sprint - potentiel de production;17,5;Sprint
+2025-04-30;ODGProvence;Sprint - secteur;3,5;SprintEvolution
+2025-04-30;ODGProvence;Sprint - potentiel de production;17,5;SprintEvolution
 2025-04-30;ODGProvence;Sprint;14,0;Sprint
 2025-04-30;ODGNantes;TMA;3,5;TMA
 2025-04-30;NathanMode;Assistance / Demande;2;TMA
@@ -312,7 +312,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2025-01-31;ODGRhone;TMA;10,5;TMA
 2025-01-31;ODGRhone;Nouvelle campagne Adelphe;7;TMA
 2025-01-31;ODGProvence;TMA;7;TMA
-2025-01-31;ODGProvence;Sprint;7,0;Sprint
+2025-01-31;ODGProvence;Sprint;7,0;SprintEvolution
 2025-01-31;ODGProvence;TMA;7,0;TMA
 2025-01-31;ODGProvence;TMA;3,5;TMA
 2025-01-31;ODGProvence;Developpement export IFT;20;export IFT
