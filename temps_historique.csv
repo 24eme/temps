@@ -414,7 +414,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-11-30;ODGRhone;TMA;2;TMA
 2024-11-30;ODGRhone;TMA;1,5;TMA
 2024-11-30;ODGRhone;TMA;1,5;TMA
-2024-11-30;ODGProvence;TMA;7,0;CAPCVP
+2024-11-30;ODGProvence;Dév;7,0;CAPCVP
 2024-11-30;ODGProvence;Développement;14;CAPCVP
 2024-11-30;NathanMode;Assistance / Demande;2;TMA
 2024-11-30;IVSO;Traductions 3 langues;3,5;NutriVin
@@ -773,8 +773,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-03-31;ODGRhone;Réunion;2,0;Parcellaire Manquant
 2024-03-31;ODGProvence;TMA;7,0;TMA
 2024-03-31;ODGProvence;TMA;3,5;TMA
-2024-03-31;ODGProvence;Sprint;21;Potentiel de production
-2024-03-31;ODGProvence;Réunion;2,5;Réunion
+2024-03-31;ODGProvence;Potentiel de production;21;SprintEvolution
+2024-03-31;ODGProvence;Réunion;2,5;SprintEvolution
 2024-03-31;ODGNantes;TMA;1;TMA
 2024-03-31;NathanMode;Réunion;2,0;Réunion
 2024-03-31;NathanMode;Evolutions;33,25;Forfait
@@ -814,8 +814,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-02-29;PlateauUrbain;Éditeur + Captcha;7;TMA
 2024-02-29;ODGRhone;TMA;3,5;TMA
 2024-02-29;ODGRhone;TMA;2,0;TMA
-2024-02-29;ODGProvence;TMA et sprint Parcellaire;7,0;TMA
-2024-02-29;ODGProvence;Génération shell;5;Génération
+2024-02-29;ODGProvence;TMA;3,5;TMA
+2024-02-29;ODGProvence;Sprint Parcellaire;3,5;SprintEvolution
+2024-02-29;ODGProvence;Génération shell;5;SprintEvolution
 2024-02-29;ODGNantes;TMA;3,5;TMA
 2024-02-29;ODGNantes;TMA;10,5;TMA
 2024-02-29;NathanMode;TMA;1,5;TMA
@@ -866,7 +867,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-01-31;VinsIGP;Assistance / Demande;7;TMA
 2024-01-31;ODGRhone;Ecart CVI Prodouane et base;1;TMA
 2024-01-31;ODGProvence;TMA Facturation;2;TMA
-2024-01-31;ODGProvence;Generation;3,5;Génerations
+2024-01-31;ODGProvence;Generation;3,5;SprintEvolution
 2024-01-31;ODGProvence;Assistance / Demande;1;TMA
 2024-01-31;ODGNantes;TMA;3,5;TMA
 2024-01-31;Juricaf;TMA;28;TMA
