@@ -1,4 +1,4 @@
-Date;Projet;Description;Temps (en heure);Tache (Optionnel)
+Date;Projet;Description;"Temps (en heure) (séparateur , pour les minutes)";Tache
 2025-09-30;CIVA;TMA;1.5;TMA
 2025-09-30;CIVA;Sprint import vrac;17.5;Forfait
 2025-09-30;CIVA;Réunion de sprint;2;Réunion
