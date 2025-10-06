@@ -1,4 +1,52 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2025-09-30;VinsIGP;TMA;5;TMA
+2025-09-30;VinsIGP;TMA;14;TMA
+2025-09-30;VinsIGP;TMA;10,5;TMA
+2025-09-30;VinsIGP;Assistance / Demande;1;TMA
+2025-09-30;prodouane;APIsation de prodouane scrapy;14;Mutualisation
+2025-09-30;Prodimmo;SignaturePDF + Metacompta;3,5;Prodimmo
+2025-09-30;ORessource;ORessource;7,0;ORessource
+2025-09-30;ORessource;Dev;35;demarrage projet
+2025-09-30;ODGRhone;TMA;1,5;TMA
+2025-09-30;ODGRhone;Calendrier + TMA OpenODG;3,5;TMA
+2025-09-30;ODGRhone;Assistance / Demande;1;TMA
+2025-09-30;ODGProvence;Visio controle;2;Controle
+2025-09-30;ODGProvence;TMA;3,5;TMA
+2025-09-30;NathanMode;Sprint;18;Linup
+2025-09-30;NathanMode;Reunion;2,50;Linup
+2025-09-30;NathanMode;Linup;14,0;Linup
+2025-09-30;Juricaf;TMA Canada + integration + opti Robots IA + editorial;7;TMA
+2025-09-30;IVSO;TMA + AdminSys;3,5;TMA
+2025-09-30;IVSO;TMA;3,5;TMA
+2025-09-30;IVSO;TMA;0,5;TMA
+2025-09-30;IVSE;TMA;2;TMA
+2025-09-30;IVSE;Assistance / Demande;1;TMA
+2025-09-30;IVBD;TMA;0,5;TMA
+2025-09-30;IR;TMA;2,5;TMA
+2025-09-30;IR;Assistance / Demande;6;TMA
+2025-09-30;IGPSudOuest;Forfait (mise en prod);10,5;Forfait
+2025-09-30;Gaillac;TMA;2;Forfait
+2025-09-30;Gaillac;TMA;12;Forfait
+2025-09-30;Gaillac;Forfait;17,5;Forfait
+2025-09-30;CIVP;TMA;3,5;TMA
+2025-09-30;CIVP;Assistance / Demande;14;TMA
+2025-09-30;CIVA;TMA;7,0;TMA
+2025-09-30;CIVA;TMA;1,5;TMA
+2025-09-30;CIVA;Sprint import vrac;17,5;ImportContrat
+2025-09-30;CIVA;Sprint;17,5;ImportContrat
+2025-09-30;CIVA;Reunion de sprint;2,5;ImportContrat
+2025-09-30;CIVA;Reunion;2,50;ImportContrat
+2025-09-30;CIVA;Contrat;14,0;ImportContrat
+2025-09-30;CentreLoire;TMA;5,5;TMA
+2025-09-30;CentreLoire;TMA;2;TMA
+2025-09-30;AVA;TMA;1,5;TMA
+2025-09-30;AVA;TMA;0,5;TMA
+2025-09-30;Aurouze;TMA;3,5;TMA
+2025-09-30;Aurouze;TMA;1;TMA
+2025-09-30;Aurouze;TMA;0,5;TMA
+2025-09-30;ASSVAS;TMA;3,5;TMA
+2025-09-30;ASSVAS;TMA;3,5;TMA
+2025-09-30;ADM;TMA;3;Forfait
 2025-07-31;VinsIGP;TMA;8,5;TMA
 2025-07-31;VinsIGP;TMA;3,5;TMA
 2025-07-31;VinsIGP;Assistance / Demande;3,5;TMA
@@ -106,9 +154,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2025-05-31;ODGRhone;TMA;1,5;TMA
 2025-05-31;ODGRhone;TMA;1,0;TMA
 2025-05-31;ODGRhone;Admin sys;3,5;Hébergement
-2025-05-31;ODGProvence;DAP, Habilitation par demande, Irrigations;7,0;SprintEvolution
 2025-05-31;ODGProvence;TMA;4;TMA
 2025-05-31;ODGProvence;TMA;3,5;TMA
+2025-05-31;ODGProvence;DAP, Habilitation par demande, Irrigations;7,0;SprintEvolution
 2025-05-31;ODGNantes;TMA;2;TMA
 2025-05-31;Nutrivin;TMA;3,5;TMA
 2025-05-31;NLnet;Convertir en image;7,0;OpenImage
@@ -264,9 +312,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2025-02-28;Ventoux;TMA;3,5;TMA
 2025-02-28;Prodimmo;zeroinbox dans report24;10;Report24
 2025-02-28;ODGRhone;Assistance / Demande;1;Adelphe
-2025-02-28;ODGProvence;TMA;3,5;TMA
-2025-02-28;ODGProvence;TMA;3,5;TMA
 2025-02-28;ODGProvence;TMA;7,0;TMA
+2025-02-28;ODGProvence;TMA;3,5;TMA
+2025-02-28;ODGProvence;TMA;3,5;TMA
 2025-02-28;ODGNantes;TMA;3,5;TMA
 2025-02-28;NathanMode;Assistance / Demande;2,5;TMA
 2025-02-28;Juricaf;TMA;3,5;TMA
@@ -311,9 +359,9 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2025-01-31;ODGRhone;TMA;10,5;TMA
 2025-01-31;ODGRhone;Nouvelle campagne Adelphe;7;TMA
 2025-01-31;ODGProvence;TMA;7;TMA
-2025-01-31;ODGProvence;Sprint - Potentiel, CAP/CVP;7,0;SprintEvolution
 2025-01-31;ODGProvence;TMA;7,0;TMA
 2025-01-31;ODGProvence;TMA;3,5;TMA
+2025-01-31;ODGProvence;Sprint - Potentiel, CAP/CVP;7,0;SprintEvolution
 2025-01-31;ODGProvence;Developpement export IFT;20;export IFT
 2025-01-31;ODGNantes;TMA;3,5;TMA
 2025-01-31;NathanMode;Assistance / Demande;1;TMA
@@ -413,8 +461,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-11-30;ODGRhone;TMA;2;TMA
 2024-11-30;ODGRhone;TMA;1,5;TMA
 2024-11-30;ODGRhone;TMA;1,5;TMA
-2024-11-30;ODGProvence;Dév;7,0;CAPCVP
 2024-11-30;ODGProvence;Développement;14;CAPCVP
+2024-11-30;ODGProvence;Dév;7,0;CAPCVP
 2024-11-30;NathanMode;Assistance / Demande;2;TMA
 2024-11-30;IVSO;Traductions 3 langues;3,5;NutriVin
 2024-11-30;IVSO;TMA;3,5;TMA
@@ -772,8 +820,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2024-03-31;ODGRhone;Réunion;2,0;Parcellaire Manquant
 2024-03-31;ODGProvence;TMA;7,0;TMA
 2024-03-31;ODGProvence;TMA;3,5;TMA
-2024-03-31;ODGProvence;Potentiel de production;21;SprintEvolution
 2024-03-31;ODGProvence;Réunion;2,5;SprintEvolution
+2024-03-31;ODGProvence;Potentiel de production;21;SprintEvolution
 2024-03-31;ODGNantes;TMA;1;TMA
 2024-03-31;NathanMode;Réunion;2,0;Réunion
 2024-03-31;NathanMode;Evolutions;33,25;Forfait
