@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATE=$(cat temps.csv | grep -v "^Date;Client;Description;" | sort | tail -n 1 | cut -d ";" -f 1,1 | sed 's/-//g')
+DATE=$(cat temps.csv | grep -av "^Date;Client;Description;" | sort | tail -n 1 | cut -d ";" -f 1,1 | sed 's/-//g')
 
 if ! test "$DATE"; then
     echo "Rien à facturer"
@@ -13,7 +13,7 @@ echo "Copie de temps.csv dans temps/$DATE/temps.csv"
 
 cp temps.csv temps/$DATE/temps.csv
 
-cat temps/$DATE/temps.csv | grep -v "^Date;Projet;Description;" | cut -d ";" -f 2 | sort | uniq | while read projet  
+cat temps/$DATE/temps.csv | grep -av "^Date;Projet;Description;" | cut -d ";" -f 2 | sort | uniq | while read projet  
 do
     echo "Date;Client;Description;Temps (en heure);Catégorie" > temps/$DATE/"$projet".csv
     cat temps/$DATE/temps.csv | sort | grep ";$projet;" >> temps/$DATE/"$projet".csv
@@ -22,7 +22,7 @@ done
 
 echo "Ajout de temps.csv dans temps_historique.csv"
 
-cat temps/$DATE/temps.csv | grep -v "^Date;Client;Description;" >> temps_historique.csv
+cat temps/$DATE/temps.csv | grep -av "^Date;Client;Description;" >> temps_historique.csv
 
 sort -r temps_historique.csv > temps_historique.csv.tmp
 mv temps_historique.csv{.tmp,}
