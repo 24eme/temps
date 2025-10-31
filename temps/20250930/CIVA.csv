@@ -1,0 +1,8 @@
+Date;Client;Description;Temps (en heure);Catégorie
+2025-09-30;CIVA;Contrat;14,0;ImportContrat
+2025-09-30;CIVA;Reunion;2,50;ImportContrat
+2025-09-30;CIVA;Reunion de sprint;2,5;ImportContrat
+2025-09-30;CIVA;Sprint;17,5;ImportContrat
+2025-09-30;CIVA;Sprint import vrac;17,5;ImportContrat
+2025-09-30;CIVA;TMA;1,5;TMA
+2025-09-30;CIVA;TMA;7,0;TMA
