@@ -1,16 +1,16 @@
-Date;Client;Description;Temps (en heure);Categorie
+Date;Client;Description;Temps (en heure);Categorieœ
 2025-10-31;CIVA;Sprint import vrac;55,5;ImportContrat
 2025-10-31;CIVA;TMA;4,5;TMA
 2025-10-31;Gaillac;TMA;23;TMA
 2025-10-31;VinsIGP;TMA;12;TMA
 2025-10-31;IVBD;TMA;1;TMA
 2025-10-31;AVA;TMA;3,5;TMA
-2025-10-31;InterRhone;TMA;2,5;TMA
+2025-10-31;IR;TMA;2,5;TMA
 2025-10-31;ODGProvence;TMA;2;TMA
 2025-10-31;Aurouze;TMA;1;TMA
 2025-10-31;ODGNantes;TMA;1;TMA
 2025-10-31;IR;Assistance / Demande;7;TMA
-2025-10-31;DV;Réunion Aix;7;Deplacement
+2025-10-31;DeclarVins;Réunion Aix;7;Deplacement
 2025-10-31;CIVP;Assistance / Demande;3,5;TMA
 2025-10-31;NathanMode;Devis;3,5;Forfait
 2025-10-31;ODGProvence;Sprint dev controle terrain;32;Controle
@@ -21,7 +21,7 @@ Date;Client;Description;Temps (en heure);Categorie
 2025-10-31;Juricaf;AdminSys;3,5;AdminSys
 2025-10-31;NathanMode;AdminSys;3,5;AdminSys
 2025-10-31;ODGRhone;AdminSys;7;AdminSys
-2025-10-31;ODGProvence;Controle;7;TMA
+2025-10-31;ODGProvence;Controle;7;Controle
 2025-10-31;ADM;TMA;3,5;TMA
 2025-10-31;CNIV;TMA;3,5;TMA
 2025-10-31;prodouane;APIsation de prodouane scrapy;14;Mutualisation
@@ -30,20 +30,28 @@ Date;Client;Description;Temps (en heure);Categorie
 2025-10-31;ADM;TMA;1;TMA
 2025-10-31;DeclarVins;TMA;5;TMA
 2025-10-31;CentreLoire;TMA;2;TMA
-2025-10-31;ODGProvence;Controle;10,5;Controle
-2025-10-31;NathanMode;Sprint;20;Forfait
+2025-10-31;ODGProvence;Controle;10;Controle
+2025-10-31;NathanMode;Sprint;20;TMA
 2025-10-31;Aurouze;TMA;10,50;TMA
-2025-10-31;CIVA;Sprint;3;ImportContrat
-2025-10-31;ODGProvence;AdminSys;7;Forfait
-2025-10-31;VinsIGP;TMA;21;TMA
+2025-10-31;CIVA;Contrat;3;ImportContrat
+2025-10-31;ODGProvence;AdminSys;7;AdminSys
+2025-10-31;VinsIGP;TMA;10,5;TMA
+2025-10-31;VinsIGP;VMQ;7,0;VMQ
 2025-10-31;prodouane;Adaptation nouvelle DR Vendange;31,5;Mutualisation
 2025-10-31;Aurouze;TMA;2,5;TMA
 2025-10-31;AVA;TMA;7,0;TMA
 2025-10-31;IVSO;TMA;3,5;TMA
 2025-10-31;CIVA;TMA;10,5;TMA
-2025-10-31;CIVA;Contrat;14,0;ImportContrat
+2025-10-31;CIVA;ImportContrat;14,0;ImportContrat
 2025-10-31;ODGProvence;Controle;14,0;Controle
 2025-10-31;Gaillac;Forfait;3,5;Forfait
 2025-10-31;IGPSudOuest;Forfait;3,5;Forfait
-2025-10-31;BIVC;TMA;1,5;TMA
-2025-10-31;IVBD;TMA;1,5;TMA
+2025-10-31;BIVC;TMA;3,5;TMA
+2025-10-31;IVBD;TMA;3,5;TMA
+2025-10-31;VinsIGP;ProdouaneVendange;10,5;ProdouaneVendange
+2025-10-31;CentreLoire;ProdouaneVendange;14,0;ProdouaneVendange
+2025-10-31;ODGRhone;ProdouaneVendange;14,0;ProdouaneVendange
+2025-10-31;ODGProvence;ProdouaneVendange;10,5;ProdouaneVendange
+2025-10-31;ODGNantes;DRInterloire;5,25;DRInterloire
+2025-10-31;VinsIGP;DRInterloire;5,25;DRInterloire
+2025-10-31;Ventoux;ProdouaneVendange;3,5;ProdouaneVendange
