@@ -1,7 +1,6 @@
 Date;Client;Description;Temps (en heure);Categorie (projet)
 2025-10-31;ORessource;Dev;14;demarrage projet
-2025-10-31;ADM;TMA;1;Forfait
-2025-10-31;DeclarVins;TMA;5;Forfait
-2025-10-31;CentreLoire;TMA;2;Forfait
-2025-10-31;ProvenceODG;TMA;10;Forfait
-
+2025-10-31;ADM;TMA;1;TMA
+2025-10-31;DeclarVins;TMA;5;TMA
+2025-10-31;CentreLoire;TMA;2;TMA
+2025-10-31;ODGProvence;Controle;10,5;Controle

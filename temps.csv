@@ -1,5 +1,5 @@
 Date;Client;Description;Temps (en heure);Categorie
-2025-10-31;CIVA;Sprint import vrac;55,5;Forfait
+2025-10-31;CIVA;Sprint import vrac;55,5;ImportContrat
 2025-10-31;CIVA;TMA;4,5;TMA
 2025-10-31;Gaillac;TMA;23;TMA
 2025-10-31;VinsIGP;TMA;12;TMA
@@ -27,13 +27,13 @@ Date;Client;Description;Temps (en heure);Categorie
 2025-10-31;prodouane;APIsation de prodouane scrapy;14;Mutualisation
 2025-10-31;prodouane;Douane Interloire;3,5;Mutualisation
 2025-10-31;ORessource;Dev;14;demarrage projet
-2025-10-31;ADM;TMA;1;Forfait
-2025-10-31;DeclarVins;TMA;5;Forfait
-2025-10-31;CentreLoire;TMA;2;Forfait
-2025-10-31;ProvenceODG;TMA;10;Forfait
-2025-10-31 NathanMode;Sprint;20;Forfait
-2025-10-31 Aurouze;TMA;10,50;TMA
-2025-10-31 CIVA;Sprint;3;Sprint
+2025-10-31;ADM;TMA;1;TMA
+2025-10-31;DeclarVins;TMA;5;TMA
+2025-10-31;CentreLoire;TMA;2;TMA
+2025-10-31;ODGProvence;Controle;10,5;Controle
+2025-10-31;NathanMode;Sprint;20;Forfait
+2025-10-31;Aurouze;TMA;10,50;TMA
+2025-10-31;CIVA;Sprint;3;ImportContrat
 2025-10-31;ODGProvence;AdminSys;7;Forfait
 2025-10-31;VinsIGP;TMA;21;TMA
 2025-10-31;prodouane;Adaptation nouvelle DR Vendange;31,5;Mutualisation
@@ -41,7 +41,7 @@ Date;Client;Description;Temps (en heure);Categorie
 2025-10-31;AVA;TMA;7,0;TMA
 2025-10-31;IVSO;TMA;3,5;TMA
 2025-10-31;CIVA;TMA;10,5;TMA
-2025-10-31;CIVA;Contrat;14,0;Contrat
+2025-10-31;CIVA;Contrat;14,0;ImportContrat
 2025-10-31;ODGProvence;Controle;14,0;Controle
 2025-10-31;Gaillac;Forfait;3,5;Forfait
 2025-10-31;IGPSudOuest;Forfait;3,5;Forfait
