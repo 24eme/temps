@@ -2,12 +2,11 @@ Date;Client;Description;Temps (en heure);Categorie (projet)
 2025-11-30;ORessource;Dev;15;Dev
 2025-11-30;ODGProvence;Controle;14;Controle
 2025-11-30;ODGProvence;Reunion;2;Controle
-2025-11-30;ODGProvence;Optimisation bsswitch;0,5;TMA
-2025-11-30;ODGProvence;Optimisation bsswitch;0,25;TMA
-2025-11-30;ODGRhone;Optimisation bsswitch;0,25;TMA
-2025-11-30;AVA;Optimisation bsswitch;0,5;TMA
-2025-11-30;VinsIGP;Optimisation bsswitch;0,5;TMA
-2025-11-30;CentreLoire;Optimisation bsswitch;0,5;TMA
+2025-11-30;ODGProvence;Optimisation bsswitch;2,0;TMA
+2025-11-30;ODGRhone;Optimisation bsswitch;2,0;TMA
+2025-11-30;AVA;Optimisation bsswitch;3,5;TMA
+2025-11-30;VinsIGP;Optimisation bsswitch;3,5;TMA
+2025-11-30;CentreLoire;Optimisation bsswitch;3,5;TMA
 2025-11-30;Juricaf;Réunion;2;réunion
 2025-11-30;IR;Sprint;2;TMA
 2025-11-30;CIVP;Sprint + Reunion;1;TMA
