@@ -1,0 +1,49 @@
+Client;CatÃ©gorie;Temps (en heure);Temps (en jours)
+Aurouze;TMA;7,5;1,1
+Aurouze;TOTAL;7,5;1,1
+AVA;TMA;6,5;0,9
+AVA;TOTAL;6,5;0,9
+BIVC;TMA;10,5;1,5
+BIVC;TOTAL;10,5;1,5
+CentreLoire;TMA;19;2,7
+CentreLoire;TOTAL;19;2,7
+CIVA;Contrat;45,5;6,5
+CIVA;TMA;11;1,6
+CIVA;TOTAL;56,5;8,1
+CIVP;TMA;9;1,3
+CIVP;TOTAL;9;1,3
+Gaillac;Forfait;7;1,0
+Gaillac;TMA;5;0,7
+Gaillac;TOTAL;12;1,7
+IGPSudOuest;TMA;3,5;0,5
+IGPSudOuest;TOTAL;3,5;0,5
+IR;TMA;23;3,3
+IR;TOTAL;23;3,3
+IVBD;TMA;1,5;0,2
+IVBD;TOTAL;1,5;0,2
+IVSE;TMA;7;1,0
+IVSE;TOTAL;7;1,0
+Juricaf;réunion;2;0,3
+Juricaf;TMA;3,5;0,5
+Juricaf;TOTAL;5,5;0,8
+NathanMode;Linup;72,5;10,4
+NathanMode;TOTAL;72,5;10,4
+ODGNantes;TMA;3,5;0,5
+ODGNantes;TOTAL;3,5;0,5
+ODGProvence;Controle;37;5,3
+ODGProvence;TMA;5,5;0,8
+ODGProvence;TMA Facturation (décembre);3,5;0,5
+ODGProvence;TOTAL;46;6,6
+ODGRhone;AdminSys;3,5;0,5
+ODGRhone;TMA;3;0,4
+ODGRhone;TMA DRev;7;1,0
+ODGRhone;TMA Manquant;3,5;0,5
+ODGRhone;TMA Parcellaire;0,5;0,1
+ODGRhone;TOTAL;17,5;2,5
+ORessource;Dev;43;6,1
+ORessource;TOTAL;43;6,1
+Prodimmo;Prodimmo;3,5;0,5
+Prodimmo;TOTAL;3,5;0,5
+VinsIGP;TMA;21;3,0
+VinsIGP;TOTAL;21;3,0
+TOTAL;TOTAL;52,6
