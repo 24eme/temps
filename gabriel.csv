@@ -1,15 +1,11 @@
 Date;Projet;Description;"Temps (en heure) (séparateur , pour les minutes)";Tache
-2025-11-30;CIVA;Sprint import vrac;14;Contrat
-2025-11-30;CIVA;Déplacement réunion;7;Contrat
-2025-11-30;CIVA;TMA;4;TMA
-2025-11-30;BIVC;TMA;3,5;TMA
-2025-11-30;AVA;TMA;2;TMA
-2025-11-30;Aurouze;TMA;0,5;TMA
-2025-11-30;VinsIGP;TMA;7;TMA
-2025-11-30;Gaillac;TMA;5;TMA
-2025-11-30;IR;TMA;1,5;TMA
-2025-11-30;ODGRhone;TMA;3,5;TMA Manquant
-2025-11-30;ODGRhone;TMA;3,5;TMA DRev
-2025-11-30;ODGRhone;TMA;0,5;TMA Parcellaire
-2025-11-30;CentreLoire;TMA;1,5;TMA
-2025-11-30;IVBD;TMA;1,5;TMA
+2025-12-31;VinsIGP;TMA;22.5;TMA
+2025-12-31;CIVA;TMA;5;TMA
+2025-12-31;CIVA;Export Douane DR;10.5;ExportDR
+2025-12-31;AVA;TMA;2.5;TMA
+2025-12-31;Centre;TMA;7;TMA
+2025-12-31;ODGProvence;TMA;1.5;TMA
+2025-12-31;Nutrivin;Traduction suédois + reconnaissance;3;Forfait
+2025-12-31;Gaillac;TMA;1;TMA
+2025-12-31;ODGRhone;TMA DRev;5;TMA
+2025-12-31;Aurouze;TMA;1;TMA
