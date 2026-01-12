@@ -1,5 +1,5 @@
 Date;Client;Description;Temps (en heure);Catégorie
-2025-12-31;ODGPRovence;Controle;25;Controle
+2025-12-31;ODGProvence;Controle;25;Controle
 2025-12-31;CIVA;TMA;3;TMA
 2025-12-31;IR;Assistance / Demande;7;TMA
 2025-12-31;CIVP;Assistance / Demande;3,5;TMA
@@ -16,10 +16,11 @@ Date;Client;Description;Temps (en heure);Catégorie
 2025-12-31;ODGProvence;FranceAgriMer;3,5;TMA FranceAgriMer
 2025-12-31;Juricaf;TMA;3,5;TMA
 2025-12-31;VinsIGP;TMA;7;TMA
-2025-12-31;ODGRhone;TMA;7;TMA Dev
+2025-12-31;ODGRhone;TMA;5;TMA DRev
+2025-12-31;ODGRhone;TMA;2;TMA Comptes
 2025-12-31;CentreLoire;TMA;3,5;TMA
 2025-12-31;ORessource;Dev + RdV;3,5;Dev
-2025-12-31;IR;Sprint IR + Réunion;7;TMA
+2025-12-31;IR;Sprint IR + Réunion;7;Reserve
 2025-12-31;CNIV;AdminSys;3,5;AdminSys
 2025-12-31;ADM;TMA;1,75;TMA
 2025-12-31;NathanMode;TMA;2;Linup
@@ -30,12 +31,12 @@ Date;Client;Description;Temps (en heure);Catégorie
 2025-12-31;VinsIGP;TMA;22,5;TMA
 2025-12-31;CIVA;TMA;5;TMA
 2025-12-31;CIVA;Export Douane DR;10,5;ExportDR
-2025-12-31;AVA;TMA;2,5;TMA
-2025-12-31;Centre;TMA;7;TMA
+2025-12-31;AVA;TMA;3,5;TMA
+2025-12-31;CentreLoire;TMA;7;TMA
 2025-12-31;ODGProvence;TMA;1,5;TMA
 2025-12-31;Nutrivin;Traduction suédois + reconnaissance;3;Forfait
 2025-12-31;Gaillac;TMA;1;TMA
-2025-12-31;ODGRhone;TMA DRev;5;TMA
+2025-12-31;ODGRhone;TMA DRev;5;TMA DRev
 2025-12-31;Aurouze;TMA;1;TMA
 2025-12-31;VinsIGP;TMA;7,0;TMA
 2025-12-31;CIVA;DR JSON;10,5;TMA
@@ -48,5 +49,5 @@ Date;Client;Description;Temps (en heure);Catégorie
 2025-12-31;Aurouze;TMA;3,5;TMA
 2025-12-31;Aurouze;Reunion;2,0;TMA
 2025-12-31;Aurouze;Migration AHRB;7,0;Migration AHRB
-2025-12-31;ODGRhone;TMA;2,0;TMA
+2025-12-31;ODGRhone;TMA DRev;2,0;TMA DRev
 2025-12-31;IVSO;TMA;1,5;TMA
