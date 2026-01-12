@@ -1,1 +1,52 @@
 Date;Client;Description;Temps (en heure);Catégorie
+2025-12-31;ODGPRovence;Controle;25;Controle
+2025-12-31;CIVA;TMA;3;TMA
+2025-12-31;IR;Assistance / Demande;7;TMA
+2025-12-31;CIVP;Assistance / Demande;3,5;TMA
+2025-12-31;IVSE;Assistance / Demande;7;TMA
+2025-12-31;IR;Developpements;21;Contrat
+2025-12-31;NathanMode;Developpements;28;Linup
+2025-12-31;ODGProvence;Developpements;17,5;Controle
+2025-12-31;CentreLoire;Assistance / Demande;2;TMA
+2025-12-31;Aurouze;Assistance / Demande;3,5;TMA
+2025-12-31;VinsIGP;Assistance / Demande;3,5;TMA
+2025-12-31;Gaillac;TMA;3,5;TMA
+2025-12-31;ODGProvence;Sprint Controle;7;Controle
+2025-12-31;ODGProvence;Facturation;3,5;TMA Facturation
+2025-12-31;ODGProvence;FranceAgriMer;3,5;TMA FranceAgriMer
+2025-12-31;Juricaf;TMA;3,5;TMA
+2025-12-31;VinsIGP;TMA;7;TMA
+2025-12-31;ODGRhone;TMA;7;TMA Dev
+2025-12-31;CentreLoire;TMA;3,5;TMA
+2025-12-31;ORessource;Dev + RdV;3,5;Dev
+2025-12-31;IR;Sprint IR + Réunion;7;TMA
+2025-12-31;CNIV;AdminSys;3,5;AdminSys
+2025-12-31;ADM;TMA;1,75;TMA
+2025-12-31;NathanMode;TMA;2;Linup
+2025-12-31;IR;Developpement;20;Sprint
+2025-12-31;IR;Reunion;2;Sprint
+2025-12-31;Aurouze;TMA;2;TMA
+2025-12-31;Aurouze;Réunion;2;TMA
+2025-12-31;VinsIGP;TMA;22,5;TMA
+2025-12-31;CIVA;TMA;5;TMA
+2025-12-31;CIVA;Export Douane DR;10,5;ExportDR
+2025-12-31;AVA;TMA;2,5;TMA
+2025-12-31;Centre;TMA;7;TMA
+2025-12-31;ODGProvence;TMA;1,5;TMA
+2025-12-31;Nutrivin;Traduction suédois + reconnaissance;3;Forfait
+2025-12-31;Gaillac;TMA;1;TMA
+2025-12-31;ODGRhone;TMA DRev;5;TMA
+2025-12-31;Aurouze;TMA;1;TMA
+2025-12-31;VinsIGP;TMA;7,0;TMA
+2025-12-31;CIVA;DR JSON;10,5;TMA
+2025-12-31;AVA;TMA;3,5;TMA
+2025-12-31;CentreLoire;TMA;3,5;TMA
+2025-12-31;ODGProvence;TMA;3,5;TMA
+2025-12-31;ODGProvence;Controle;14,0;Controle
+2025-12-31;NathanMode;Linup;21;Linup
+2025-12-31;NLNet;SignaturePDF;1,5;SignaturePDF
+2025-12-31;Aurouze;TMA;3,5;TMA
+2025-12-31;Aurouze;Reunion;2,0;TMA
+2025-12-31;Aurouze;Migration AHRB;7,0;Migration AHRB
+2025-12-31;ODGRhone;TMA;2,0;TMA
+2025-12-31;IVSO;TMA;1,5;TMA
