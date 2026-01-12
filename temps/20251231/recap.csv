@@ -1,0 +1,49 @@
+Client;Catégorie;Temps (en heure);Temps (en jours)
+ADM;TMA;1,75;0,2
+ADM;TOTAL;1,75;0,2
+Aurouze;Migration AHRB;7;1,0
+Aurouze;TMA;14;2,0
+Aurouze;TOTAL;21;3,0
+AVA;TMA;7;1,0
+AVA;TOTAL;7;1,0
+CentreLoire;TMA;16;2,3
+CentreLoire;TOTAL;16;2,3
+CIVA;ExportDR;10,5;1,5
+CIVA;TMA;18,5;2,6
+CIVA;TOTAL;29;4,1
+CIVP;TMA;3,5;0,5
+CIVP;TOTAL;3,5;0,5
+CNIV;AdminSys;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+Gaillac;TMA;4,5;0,6
+Gaillac;TOTAL;4,5;0,6
+IR;Contrat;21;3,0
+IR;Reserve;7;1,0
+IR;Sprint;22;3,1
+IR;TMA;7;1,0
+IR;TOTAL;57;8,1
+IVSE;TMA;7;1,0
+IVSE;TOTAL;7;1,0
+IVSO;TMA;1,5;0,2
+IVSO;TOTAL;1,5;0,2
+Juricaf;TMA;3,5;0,5
+Juricaf;TOTAL;3,5;0,5
+NathanMode;Linup;51;7,3
+NathanMode;TOTAL;51;7,3
+NLNet;SignaturePDF;1,5;0,2
+NLNet;TOTAL;1,5;0,2
+Nutrivin;Forfait;3;0,4
+Nutrivin;TOTAL;3;0,4
+ODGProvence;Controle;63,5;9,1
+ODGProvence;TMA;5;0,7
+ODGProvence;TMA Facturation;3,5;0,5
+ODGProvence;TMA FranceAgriMer;3,5;0,5
+ODGProvence;TOTAL;75,5;10,8
+ODGRhone;TMA Comptes;2;0,3
+ODGRhone;TMA DRev;12;1,7
+ODGRhone;TOTAL;14;2,0
+ORessource;Dev;3,5;0,5
+ORessource;TOTAL;3,5;0,5
+VinsIGP;TMA;40;5,7
+VinsIGP;TOTAL;40;5,7
+TOTAL;TOTAL;49,1
