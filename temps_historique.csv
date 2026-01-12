@@ -102,8 +102,10 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2025-10-31;Gaillac;TMA;23;TMA
 2025-10-31;Gaillac;Forfait;7;Forfait
 2025-10-31;Gaillac;Forfait;3,5;Forfait
-2025-10-31;DeclarVins;TMA;5;TMA
-2025-10-31;DeclarVins;Réunion Aix;7;Deplacement
+2025-10-31;IR;TMA;5;TMA
+2025-10-31;IR;Reunion Aix;7;Deplacement
+2025-10-31;CIVP;Reunion Aix;7;Deplacement
+2025-10-31;IVSE;Reunion Aix;7;Deplacement
 2025-10-31;CNIV;TMA;3,5;TMA
 2025-10-31;CIVP;Assistance / Demande;3,5;TMA
 2025-10-31;CIVA;TMA;4,5;TMA
