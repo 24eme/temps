@@ -1,1 +1,55 @@
 Date;Client;Description;Temps (en heure);Catégorie
+2026-01-31;IR;Assistance / Demande;10,5;TMA
+2026-01-31;IR;Reunion;2;Reserve
+2026-01-31;IR;Dev et import;22,5;Reserve
+2026-01-31;CIVP;Assistance / Demande;14;TMA
+2026-01-31;IVSE;Assistance / Demande;3,5;TMA
+2026-01-31;NathanMode;Developpements;3,5;Linup
+2026-01-31;ODGProvence;Developpements;14;Controle
+2026-01-31;IVBD;Assistance / Demande;2;TMA
+2026-01-31;IVSO;Assistance / Demande;2,5;TMA
+2026-01-31;CIVA;Assistance / Demande;2;TMA
+2026-01-31;BIVC;Assistance / Demande;1;TMA
+2026-01-31;ODGRhone;Assistance / Demande;2;TMA Adelphe
+2026-01-31;Gaillac;TMA;3,5;TMA
+2026-01-31;ODGProvence;Facturation;3,5;TMA Facturation
+2026-01-31;VinsIGP;TMA;7;TMA
+2026-01-31;ODGRhone;TMA;3,5;TMA + Adelphe
+2026-01-31;ODGRhone;TMA;7;MaJ + comparaison DR/SV
+2026-01-31;ORessource;TMA + RdV;3,5;TMA
+2026-01-31;IR;Sprint IR + Reunion;7;Reserve
+2026-01-31;ADM;TMA;3,5;TMA
+2026-01-31;AMVM;TMA;3,5;TMA
+2026-01-31;IGPSudOuest;TMA;3,5;TMA
+2026-01-31;BIVC;TMA;3,5;TMA
+2026-01-31;CIVP;TMA;3,5;TMA facturation
+2026-01-31;CIVA;TMA;3,5;TMA CVI
+2026-01-31;ODGProvence;Controle;26;Controle
+2026-01-31;VinsIGP;TMA;7,0;TMA
+2026-01-31;CIVA;TMA;28;TMA
+2026-01-31;CIVA;Contrat;21;Contrat
+2026-01-31;AVA;TMA;7,0;TMA
+2026-01-31;CentreLoire;TMA;7,0;TMA
+2026-01-31;Aurouze;TMA;7,0;TMA
+2026-01-31;Aurouze;Migration AHRB;10,5;Migration AHRB
+2026-01-31;Gaillac;TMA;7,0;TMA
+2026-01-31;ODGRhone;Adelphe;1,5;TMA
+2026-01-31;Aurouze;Developpement;20;Sprint
+2026-01-31;Juricaf;Developpement;14;TMA
+2026-01-31;NathanMode;TMA;0,5;Linup
+2026-01-31;VinsIGP;TMA;2;TMA
+2026-01-31;BIVC;TMA;1;TMA
+2026-01-31;CentreLoire;TMA;1;TMA
+2026-01-01;CIVA;Sprint import VRAC;22.5;Contrat
+2026-01-01;CIVA;Reunion;2;Contrat
+2026-01-01;CIVA;TMA;3.5;TMA
+2026-01-01;IVSE;TMA;0.5;TMA
+2026-01-01;CentreLoire;TMA;1;TMA
+2026-01-01;VinsIGP;TMA;11;TMA
+2026-01-01;AVA;TMA;1;TMA
+2026-01-01;Gaillac;TMA;2.5;TMA
+2026-01-01;IVSO;TMA;1;TMA
+2026-01-01;IGPSudOuest;petits dev;5;TMA
+2026-01-01;BIVC;TMA;1;TMA
+2026-01-01;Aurouze;TMA;0.5;TMA
+2026-01-01;CIVP;TMA;1;TMA
