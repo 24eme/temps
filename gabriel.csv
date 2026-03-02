@@ -1,14 +1,8 @@
 Date;Projet;Description;"Temps (en heure) (séparateur , pour les minutes)";Tache
-2026-01-01;CIVA;Sprint import VRAC;22.5;Contrat
-2026-01-01;CIVA;Réunion;2;Contrat
-2026-01-01;CIVA;TMA;3.5;TMA
-2026-01-01;IVSE;TMA;0.5;TMA
-2026-01-01;CentreLoire;TMA;1;TMA
-2026-01-01;VinsIGP;TMA;11;TMA
-2026-01-01;AVA;TMA;1;TMA
-2026-01-01;Gaillac;TMA;2.5;TMA
-2026-01-01;IVSO;TMA;1;TMA
-2026-01-01;IGPSudOuest;petits dev;5;TMA
-2026-01-01;BIVC;TMA;1;TMA
-2026-01-01;Aurouze;TMA;0.5;TMA
-2026-01-01;CIVP;TMA;1;TMA
+2026-02-28;CIVA;Sprint vrac;7;Contrat
+2026-02-28;VinsIGP;TMA;4,5;TMA
+2026-02-28;ODGRhone;TMA Upload fichier;0,5;TMA
+2026-02-28;IGPSudOuest;petits devs;3,5;TMA
+2026-02-28;Gaillac;TMA;2;TMA
+2026-02-28;CIVP;Transmission DRM;7;TMA
+2026-02-28;IR;TMA;1;TMA
