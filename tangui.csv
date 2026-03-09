@@ -1,13 +1,17 @@
-2026-01-31;Gaillac;TMA;3,5;TMA
-2026-01-31;ODGProvence;Facturation;3,5;TMA Facturation
-2026-01-31;VinsIGP;TMA;7;TMA
-2026-01-31;ODGRhone;TMA;3,5;TMA + Adelphe
-2026-01-31;ODGRhone;TMA;7;MaJ + comparaison DR/SV
-2026-01-31;ORessource;TMA + RdV;3,5;TMA
-2026-01-31;IR;Sprint IR + Réunion;7;Reserve
-2026-01-31;ADM;TMA;3,5;TMA
-2026-01-31;AMVM;TMA;3,5;TMA
-2026-01-31;IGPSudOuest;TMA;3,5;TMA
-2026-01-31;BIVC;TMA;3,5;TMA
-2026-01-31;CIVP;TMA;3,5;TMA facturation
-2026-01-31;CIVA;TMA;3,5;TMA CVI
+2026-02-13;Gaillac;TMA;2,5;TMA
+2026-02-13;VinsIGP;TMA;10,5;TMA
+2026-02-13;Prodimmo;Dev;3,5;MetaCompta
+2026-02-13;IGPSudOuest;TMA;3,5;TMA
+2026-02-13;Nutrivin;Dev;3,5;Début du travail sur la vue
+2026-02-13;ADM;TMA;1;TMA
+2026-02-13;ORessource;Divers échanges + RdV;3,5;TMA
+2026-02-13;ODGRhone;TMA;3,5;TMA DR
+2026-02-13;ODGRhone;TMA;1;TMA Divers (Cru + Calendrier)
+2026-02-13;CNIV;TMA;3,5;TMA
+2026-02-20;CIVA;Sprint import VRAC;10,5;Contrat
+2026-02-20;AVA;TMA;4,5;TMA
+2026-02-20;CentreLoire;TMA;1;TMA
+2026-02-27;AVA;TMA;2,5;TMA
+2026-02-27;Gaillac;TMA;1;TMA
+2026-02-27;Nantes;Import Parcellaire massif + correctif exports Parcellaire et Factures;7;TMA
+2026-02-27;VinsIGP;TMA;2;TMA
