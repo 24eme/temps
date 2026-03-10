@@ -36,14 +36,14 @@ Date;Client;Description;Temps (en heure);Catégorie
 2026-02-13;ADM;TMA;1;TMA
 2026-02-13;ORessource;Divers échanges + RdV;3,5;TMA
 2026-02-13;ODGRhone;TMA;3,5;TMA DR
-2026-02-13;ODGRhone;TMA;1;TMA Divers (Cru + Calendrier)
+2026-02-13;ODGRhone;TMA;3;TMA Divers (Cru + Calendrier)
 2026-02-13;CNIV;TMA;3,5;TMA
 2026-02-20;CIVA;Sprint import VRAC;10,5;Contrat
 2026-02-20;AVA;TMA;4,5;TMA
 2026-02-20;CentreLoire;TMA;1;TMA
 2026-02-27;AVA;TMA;2,5;TMA
 2026-02-27;Gaillac;TMA;1;TMA
-2026-02-27;Nantes;Import Parcellaire massif + correctif exports Parcellaire et Factures;7;TMA
+2026-02-27;ODGNantes;Import Parcellaire massif + correctif exports Parcellaire et Factures;7;TMA
 2026-02-27;VinsIGP;TMA;2;TMA
 2026-02-28;ADM;TMA;2;TMA
 2026-02-28;ODGProvence;Controle;28;Controle
