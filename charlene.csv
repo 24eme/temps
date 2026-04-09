@@ -1,11 +1,9 @@
 Date;Client;Description;Temps (en heure);Categorie (Projet)
-2026-02-28;Aurouze;Réunion;2;Sprint
-2026-02-28;Aurouze;Développement;12;TMA
-2026-02-28;NathanMode;Réunion;2;Linup
-2026-02-28;NathanMode;TMA;3;Linup
-2026-02-28;NathanMode;Développement Metabase;4;Linup
-2026-02-28;VinsIGP;TMA;1,5;TMA
-2026-02-28;InterRhone;TMA;1;TMA
-2026-02-28;CentreLoire;TMA;1;TMA
-2026-02-28;Gaillac;TMA;1;TMA
-2026-02-28;ORessource;TMA;0,5;TMA
+2026-02-28;Aurouze;TMA;4;TMA
+2026-02-28;Aurouze;Développements;4,5;TMA
+2026-02-28;VinsIGP;Développements;9;TMA
+2026-02-28;VinsIGP;TMA;2;TMA
+2026-02-28;VinsIGP;Sprint - Prise de Mousse;10;PDM
+2026-02-28;Juricaf;TMA - Réunion;3,5;TMA
+2026-02-28;CIVA;Sprint - Contrats;1,5;Sprint
+2026-02-28;CIVA;Finetuning - contrats;7;Sprint
