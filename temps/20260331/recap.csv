@@ -1,0 +1,46 @@
+Client;Catégorie;Temps (en heure);Temps (en jours)
+AdminSys;AdminSys;3,5;0,5
+AdminSys;TOTAL;3,5;0,5
+Aurouze;TMA;11,5;1,6
+Aurouze;TOTAL;11,5;1,6
+AVA;TMA;22;3,1
+AVA;TOTAL;22;3,1
+BIVC;TMA;3,5;0,5
+BIVC;TOTAL;3,5;0,5
+CentreLoire;TMA;1;0,1
+CentreLoire;TOTAL;1;0,1
+CIVA;Contrat;26;3,7
+CIVA;Contrat FT;21;3,0
+CIVA;TMA;10,5;1,5
+CIVA;TOTAL;57,5;8,2
+CIVP;TMA;21;3,0
+CIVP;TOTAL;21;3,0
+Gaillac;TMA;1;0,1
+Gaillac;TOTAL;1;0,1
+IGPSudOuest;TMA;3,5;0,5
+IGPSudOuest;TOTAL;3,5;0,5
+IR;TMA;24,5;3,5
+IR;TOTAL;24,5;3,5
+IVSO;ContratCahors;17,5;2,5
+IVSO;NutriVin;29;4,1
+IVSO;TOTAL;46,5;6,6
+Juricaf;TMA;21;3,0
+Juricaf;TOTAL;21;3,0
+NathanMode;Linup;1;0,1
+NathanMode;TOTAL;1;0,1
+NLNet;SignaturePDF;7;1,0
+NLNet;TOTAL;7;1,0
+ODGNantes;TMA;14;2,0
+ODGNantes;TOTAL;14;2,0
+ODGProvence;Controle;73,5;10,5
+ODGProvence;TOTAL;73,5;10,5
+ODGRhone;Irrigables;14;2,0
+ODGRhone;TMA DR;3,5;0,5
+ODGRhone;TMA Parcellaire;3,5;0,5
+ODGRhone;TOTAL;21;3,0
+Ventoux;Evolutions;17,5;2,5
+Ventoux;TOTAL;17,5;2,5
+VinsIGP;PDM;21,5;3,1
+VinsIGP;TMA;25;3,6
+VinsIGP;TOTAL;46,5;6,6
+TOTAL;TOTAL;56,7

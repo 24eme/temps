@@ -1,0 +1,5 @@
+Date;Client;Description;Temps (en heure);Catégorie
+2026-03-31;IVSO;Developpement;17,5;ContratCahors
+2026-03-31;IVSO;Export qrcode facturation;17,5;NutriVin
+2026-03-31;IVSO;Optimisations listing utilisateur;10,5;NutriVin
+2026-03-31;IVSO;TMA - Vue quand l'utilisateur n'existe pas;1;NutriVin
