@@ -1,0 +1,6 @@
+Date;Client;Description;Temps (en heure);Catégorie
+2026-04-30;NLNet;API basique create / get / delete;7;SignaturePDF
+2026-04-30;NLNet;Changement document nom;3;SignaturePDF
+2026-04-30;NLNet;Historique + date;10,5;SignaturePDF
+2026-04-30;NLNet;OCR;7,0;SignaturePDF
+2026-04-30;NLNet;Upload png;3,5;SignaturePDF
