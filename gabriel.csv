@@ -1,17 +1,18 @@
 Date;Projet;Description;"Temps (en heure) (séparateur , pour les minutes)";Tache
-2026-04-30;CIVA;Devs vrac;39;Contrat
-2026-04-30;Gaillac;TMA;1,5;TMA
-2026-04-30;VinsIGP;TMA;4;TMA
-2026-04-30;Aurouze;TMA;1;TMA
-2026-04-30;ODGRhone;TMA;0,5;TMA
-2026-04-30;IVSO;TMA;0,5;TMA
-2026-04-30;IVSO;Nutrivin cron export;2;NutriVin
-2026-04-30;Centre;TMA;2;TMA
-2026-04-30;ODGProvence;TMA;0,5;TMA
-2026-04-30;IVSE;Import SV12;3,5;TMA
-2026-04-30;AVA;TMA Registre;1;TMA
-2026-04-30;CIVP;TMA Réserve;2;TMA
-2026-04-30;NLNET;Changement document nom;3;SignaturePDF
-2026-04-30;NLNET;Upload png;3,5;SignaturePDF
-2026-04-30;NLNET;API basique create / get / delete;7;SignaturePDF
-2026-04-30;NLNET;Historique + date;10,5;SignaturePDF
+2026-05-31;Aurouze;Dev api;3,5;Sprint
+2026-05-31;Aurouze;TMA;5;TMA
+2026-05-31;CIVA;TMA;1,5;TMA
+2026-05-31;CIVA;Dev vrac;5;Contrat
+2026-05-31;BIVC;TMA;2;TMA
+2026-05-31;AVA;TMA;2;TMA
+2026-05-31;Rhone;TMA;3,5;TMA
+2026-05-31;VinsIGP;TMA;10,5;TMA
+2026-05-31;IR;TMA;1,5;TMA
+2026-05-31;Ventoux;TMA;1
+2026-05-31;ODGNantes;TMA;1;TMA
+2026-05-31;Centre;TMA;1;TMA
+2026-05-31;Gaillac;TMA;11;TMA
+2026-05-31;IVSO;TMA;0,5;TMA
+2026-05-31;CIVP;TMA;1,5;TMA
+2026-05-31;IVSE;TMA;1,5;TMA
+2026-05-31;ODGProvence;TMA;5,5;TMA
