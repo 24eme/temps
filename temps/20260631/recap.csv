@@ -1,0 +1,50 @@
+Client;Catégorie;Temps (en heure);Temps (en jours)
+AdminSys;AdminSys;7;1,0
+AdminSys;TOTAL;7;1,0
+ADM;TMA;3,5;0,5
+ADM;TOTAL;3,5;0,5
+Aurouze;TMA;7;1,0
+Aurouze;TOTAL;7;1,0
+AVA;Sprint affectation;10,5;1,5
+AVA;TMA;4;0,6
+AVA;TOTAL;14,5;2,1
+BIVC;TMA;1,5;0,2
+BIVC;TOTAL;1,5;0,2
+CIVA;Contrat;10,5;1,5
+CIVA;TMA;4;0,6
+CIVA;TOTAL;14,5;2,1
+CIVP;Pennylane;40,5;5,8
+CIVP;Sprint Pennylane;4,5;0,6
+CIVP;TMA;10,5;1,5
+CIVP;TOTAL;55,5;7,9
+CNIV;TMA;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+Gaillac;TMA;35;5,0
+Gaillac;TOTAL;35;5,0
+IGPAtlantique;Forfait;15;2,1
+IGPAtlantique;TOTAL;15;2,1
+IR;TMA;8;1,1
+IR;TOTAL;8;1,1
+IVBD;TMA;0,5;0,1
+IVBD;TOTAL;0,5;0,1
+IVSO;TMA;5;0,7
+IVSO;TOTAL;5;0,7
+Juricaf;TMA;14;2,0
+Juricaf;TOTAL;14;2,0
+NathanMode;Linup;16;2,3
+NathanMode;TMA;7;1,0
+NathanMode;TOTAL;23;3,3
+NLNet;Metacompta;3,5;0,5
+NLNet;TOTAL;3,5;0,5
+ODGProvence;Contrôle;10;1,4
+ODGProvence;TMA;17,5;2,5
+ODGProvence;TOTAL;27,5;3,9
+ODGRhone;TMA Parcellaire;10,5;1,5
+ODGRhone;TOTAL;10,5;1,5
+Prodimmo;Metacompta;3,5;0,5
+Prodimmo;TOTAL;3,5;0,5
+Ventoux;TMA;2,5;0,4
+Ventoux;TOTAL;2,5;0,4
+VinsIGP;TMA;13,5;1,9
+VinsIGP;TOTAL;13,5;1,9
+TOTAL;TOTAL;38,4
