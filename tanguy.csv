@@ -1,4 +1,5 @@
 Date;Client;Description;Temps (en heure);Categorie (projet)
-2025-05-31;IGPAtlantique;Développpements;21;Forfait
-2026-05-31;IGPAtlantique;Réunion;2,5;Forfait
-2025-05-31;ODGRhone;Export irrigables/irrigués;3,5;Export données
+2025-06-31;ODGRhone;TMA Parcellaire irrigué;3,5;TMA
+2025-06-31;Gaillac;TMA;3,5;TMA
+2025-06-31;ODGProvence;dev controle;10;dev
+2025-06-31;VinsIGP;reunion IGP Atlantique;3;sprint
