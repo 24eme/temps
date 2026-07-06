@@ -1,7 +1,13 @@
 Date;Projet;Description;Temps (en heure);Tache (pas obligatoire)
-2026-05-31;IR;Assistance / Demande;7;TMA
-2026-05-31;CIVP;Assistance / Demande;7;TMA
-2026-05-31;CIVP;Developpement;17,5;Pennylane
-2026-05-31;IVSE;Assistance / Demande;1;TMA
-2026-05-31;IGPAtlantique;Developpements;10,5;Forfait
-2026-05-31;IGPAtlantique;Réunion;2,5;Forfait
+2026-06-30;IR;Assistance / Demande;7;TMA
+2026-06-30;CIVP;Assistance / Demande;7;TMA
+2026-06-30;CIVP;Developpement MandatSepa;21;Pennylane
+2026-06-30;CIVP;Developpement Export Client;17,5;Pennylane
+2026-06-30;CIVP;Réunion;2;Pennylane
+2026-06-30;CIVP;Réunion et devis évolutions réserves;3,5;TMA
+2026-06-30;NathanMode;Assistance / Demande;7;TMA
+2026-06-30;NathanMode;Dashboard metabase;7;Linup
+2026-06-30;NathanMode;Réunion;2,5;Linup
+2026-06-30;IGPAtlantique;Developpements;7;Forfait
+2026-06-30;IGPAtlantique;Réunion;2;Forfait
+2026-06-30;CNIV;Renouvellement certificat BIVC;3,5;TMA
