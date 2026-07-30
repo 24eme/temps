@@ -1,8 +1,8 @@
 Date;Client;Description;Temps (en heure);Categorie (Projet)
-2026-06-30;VinsIGP;TMA;2,50;TMA
-2026-06-30;CIVP;Développement Pennylane;4,5;Pennylane
-2026-06-30;AVA;Développements;10,5;Sprint affectation
-2026-06-30;NathanMode;Reunion;2,5;Linup
-2026-06-30;NathanMode;Développements;4;Linup
-2026-06-30;Aurouze;TMA;5;TMA
-2026-06-30;IR;TMA;1;TMA
+2026-07-31;CIVP;Développement Pennylane;3;Pennylane
+2026-07-31;CIVP;Réunion;1;Pennylane
+2026-07-31;AVA;Développements;9;Sprint affectation
+2026-07-31;NathanMode;Reunion;1;Linup
+2026-07-31;NathanMode;Développements;1,5;Linup
+2026-07-31;Aurouze;TMA;8,5;TMA
+2026-07-31;Prodimmo;Migration serveurs;TMA;12;Migration serveurs
