@@ -1,5 +1,4 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
-Date;Projet;Description;Temps (en heure);Tache
 2026-06-31;ODGRhone;TMA Parcellaire irrigué;3,5;TMA Parcellaire
 2026-06-31;ODGProvence;dev controle;10;Contrôle
 2026-06-31;IGPAtlantique;reunion IGP Atlantique;3;Forfait
@@ -647,7 +646,7 @@ Date;Projet;Description;Temps (en heure);Tache
 2025-05-31;NLnet;Convertir en image;7,0;OpenImage
 2025-05-31;NLnet;Conserver les liens d'un pdf dans organisation;10,5;OrganisationCleanPDF
 2025-05-31;NLnet;Amélioration de la compression;3,5;Compression
-2025-05-31;NathanMode;Réunions et devis;7;TMA
+2025-05-31;NathanMode;TMA;7;TMA
 2025-05-31;NathanMode;Réunion évolution lineup;3,5;Linup
 2025-05-31;Juricaf;TMA;3,5;TMA
 2025-05-31;IVSO;TMA nutrivin;2,5;Nutrivin
