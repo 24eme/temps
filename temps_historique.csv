@@ -1,4 +1,74 @@
 Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
+2026-07-31;VinsIGP;TMA;2;TMA
+2026-07-31;VinsIGP;TMA;1,5;TMA
+2026-07-31;VinsIGP;TMA;10,5;TMA
+2026-07-31;Ventoux;TMA;2;TMA
+2026-07-31;Ventoux;TMA;1;TMA
+2026-07-31;SyndicatsValléeRhone;Déplacement riviére;7;AvantVente
+2026-07-31;Prodimmo;Metacompta;3,5;Metacompta
+2026-07-31;ODGRhone;TMA;1,5;TMA Parcellaire
+2026-07-31;ODGRhone;Parcellaires;2;TMA Parcellaire
+2026-07-31;ODGRhone;Irrigue Irriguable;3,5;TMA Irriguable
+2026-07-31;ODGRhone;Intégration HVE;3,5;TMA HVE
+2026-07-31;ODGRhone;Certipaq;7;TMA DRev
+2026-07-31;ODGProvence;TMA;3,5;TMA
+2026-07-31;ODGProvence;TMA;1,5;TMA
+2026-07-31;ODGProvence;Potentiels production;5,5;TMA
+2026-07-31;ODGProvence;Ajustements Contrôle;10;Controle Garantie
+2026-07-31;NLnet;OCR;14;OCR
+2026-07-31;NLnet;Nextcloud;35,0;Nextcloud
+2026-07-31;NLnet;Compression;7;Compression
+2026-07-31;NathanMode;Stats LMA;3,5;Stats LMA
+2026-07-31;NathanMode;Stats Linup;7,0;Stats Linup
+2026-07-31;NathanMode;Reunion;1;Stats Linup
+2026-07-31;NathanMode;Développements;1,5;Stats Linup
+2026-07-31;NathanMode;Dashboard metabase;1;Stats Linup
+2026-07-31;NathanMode;Assistance / Demande;2,5;TMA Linup
+2026-07-31;Juricaf;TMA - intégration arrêts;7;TMA
+2026-07-31;Juricaf;TMA - admin sys;7;TMA
+2026-07-31;IVSO;TMA;3,5;TMA
+2026-07-31;IVSO;PDF Cahors;14;ContratsCahors
+2026-07-31;IVSO;AdminSys;7;TMA
+2026-07-31;IVSE;TMA;1,5;TMA
+2026-07-31;IVSE;Assistance / Demande;3,5;TMA
+2026-07-31;IVBD;AdminSys;7;TMA
+2026-07-31;IR;TMA;2,5;TMA
+2026-07-31;IR;Assistance / Demande;14;TMA
+2026-07-31;IGPAtlantique;reunion IGP Atlantique;3;Forfait
+2026-07-31;IGPAtlantique;Réunion;2;Forfait
+2026-07-31;IGPAtlantique;Developpements;7;Forfait
+2026-07-31;IGPAtlantique;Developpements;11;Forfait
+2026-07-31;IGPAtlantique;Dev;0,5;Forfait
+2026-07-31;Gaillac;TMA;4;TMA
+2026-07-31;Gaillac;TMA;1,5;TMA
+2026-07-31;Gaillac;TMA;1,5;TMA
+2026-07-31;CNIV;AdminSys;3,5;AdminSys
+2026-07-31;CIVP;TMA;1,5;TMA
+2026-07-31;CIVP;Réunion;2;Pennylane
+2026-07-31;CIVP;Réunion;1;Pennylane
+2026-07-31;CIVP;Pennylane;3,5;Pennylane
+2026-07-31;CIVP;Développement Pennylane;3;Pennylane
+2026-07-31;CIVP;Developpement Export MandatSepa;3,5;Pennylane
+2026-07-31;CIVP;Developpement Export Client;7;Pennylane
+2026-07-31;CIVP;Assistance / Demande;3,5;TMA
+2026-07-31;CIVA;TMA;3,5;TMA
+2026-07-31;CIVA;TMA;10,5;TMA
+2026-07-31;CIVA;Ajustements Vrac;10,5;TMA
+2026-07-31;CentreLoire;TMA;1;TMA
+2026-07-31;CentreLoire;TMA;1,5;TMA
+2026-07-31;BIVC;TMA;7,0;TMA
+2026-07-31;BIVC;TMA;1,5;TMA
+2026-07-31;BIVC;Renouvellement certificat BIVC;3,5;TMA
+2026-07-31;AVA;TMA;1,5;TMA
+2026-07-31;AVA;Correction suite au sprint;9;TMA
+2026-07-31;Aurouze;TMA;8,5;TMA
+2026-07-31;Aurouze;TMA;3;TMA
+2026-07-31;Aurouze;Developpements;16;sprint carto suivi
+2026-07-31;Aurouze;Développement open carto;10;sprint carto suivi
+2026-07-31;ADM;TMA;3,5;TMA
+2026-07-31;ADM;TMA;3,5;TMA
+2026-07-31;ADM;TMA;1;TMA
+2026-07-31;AdminSys;Migration serveurs;TMA;12;Migration serveurs
 2026-06-31;ODGRhone;TMA Parcellaire irrigué;3,5;TMA Parcellaire
 2026-06-31;ODGProvence;dev controle;10;Contrôle
 2026-06-31;IGPAtlantique;reunion IGP Atlantique;3;Forfait
