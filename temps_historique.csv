@@ -86,7 +86,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2026-06-30;NathanMode;Reunion;2,5;Linup
 2026-06-30;NathanMode;Développements;4;Linup
 2026-06-30;NathanMode;Dashboard metabase;7;Linup
-2026-06-30;NathanMode;Assistance / Demande;7;TMA
+2026-06-30;NathanMode;Assistance / Demande;7;TMA Linup
 2026-06-30;Juricaf;TMA - intégration arrêts cdhe + canada + judilibre;10,5;TMA
 2026-06-30;Juricaf;TMA - admin sys;3,5;TMA
 2026-06-30;IVSO;TMA;3,5;TMA
@@ -182,7 +182,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2026-03-31;VinsIGP;Sprint Prise de Mousse;1;PDM
 2026-03-31;VinsIGP;Sprint - Prise de Mousse;10;PDM
 2026-03-31;VinsIGP;Sprint Prise de Mousse;10,5;PDM
-2026-03-31;VinsIGP;D�veloppements;9;TMA
+2026-03-31;VinsIGP;Développements;9;TMA
 2026-03-31;VinsIGP;Assistance / Demande;3,5;TMA
 2026-03-31;Ventoux;Evolutions;17,5;Evolutions
 2026-03-31;ODGRhone;TMA Parcellaire;3,5;TMA Parcellaire
@@ -196,8 +196,8 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2026-03-31;ODGNantes;TMA;10,5;TMA
 2026-03-31;NLNet;Ergonomie;7,0;SignaturePDF
 2026-03-31;NathanMode;Assistance / Demande;1;Linup
-2026-03-31;Juricaf;TMA - R�union;3,5;TMA
-2026-03-31;Juricaf;TMA - r�union;3,5;TMA
+2026-03-31;Juricaf;TMA - Réunion;3,5;TMA
+2026-03-31;Juricaf;TMA - réunion;3,5;TMA
 2026-03-31;Juricaf;TMA - blocage robots;10,5;TMA
 2026-03-31;Juricaf;AdminSys;3,5;TMA
 2026-03-31;IVSO;TMA - Vue quand l'utilisateur n'existe pas;1;NutriVin
@@ -224,7 +224,7 @@ Date;Projet;Description;Temps (en heure);Tâche (pas obligatoire)
 2026-03-31;AVA;Assistance / Demande;1;TMA
 2026-03-31;Aurouze;TMA;4;TMA
 2026-03-31;Aurouze;TMA;2,0;TMA
-2026-03-31;Aurouze;D�veloppements;4,5;TMA
+2026-03-31;Aurouze;Développements;4,5;TMA
 2026-03-31;Aurouze;Assistance / Demande Tuenet;1;TMA
 2026-03-31;AdminSys;AdminSys;3,5;AdminSys
 2026-02-28;VinsIGP;TMA;4,5;TMA
