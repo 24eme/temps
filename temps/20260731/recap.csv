@@ -1,0 +1,61 @@
+Client;Catégorie;Temps (en heure);Temps (en jours)
+AdminSys;12;0;0,0
+AdminSys;TOTAL;0;0,0
+ADM;TMA;8;1,1
+ADM;TOTAL;8;1,1
+Aurouze;sprint carto suivi;26;3,7
+Aurouze;TMA;11,5;1,6
+Aurouze;TOTAL;37,5;5,4
+AVA;TMA;10,5;1,5
+AVA;TOTAL;10,5;1,5
+BIVC;TMA;12;1,7
+BIVC;TOTAL;12;1,7
+CentreLoire;TMA;2,5;0,4
+CentreLoire;TOTAL;2,5;0,4
+CIVA;TMA;24,5;3,5
+CIVA;TOTAL;24,5;3,5
+CIVP;Pennylane;20;2,9
+CIVP;TMA;5;0,7
+CIVP;TOTAL;25;3,6
+CNIV;AdminSys;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+Gaillac;TMA;7;1,0
+Gaillac;TOTAL;7;1,0
+IGPAtlantique;Forfait;23,5;3,4
+IGPAtlantique;TOTAL;23,5;3,4
+IR;TMA;16,5;2,4
+IR;TOTAL;16,5;2,4
+IVBD;TMA;7;1,0
+IVBD;TOTAL;7;1,0
+IVSE;TMA;5;0,7
+IVSE;TOTAL;5;0,7
+IVSO;ContratsCahors;14;2,0
+IVSO;TMA;10,5;1,5
+IVSO;TOTAL;24,5;3,5
+Juricaf;TMA;14;2,0
+Juricaf;TOTAL;14;2,0
+NathanMode;Stats Linup;10,5;1,5
+NathanMode;Stats LMA;3,5;0,5
+NathanMode;TMA Linup;2,5;0,4
+NathanMode;TOTAL;16,5;2,4
+NLnet;Compression;7;1,0
+NLnet;Nextcloud;35;5,0
+NLnet;OCR;14;2,0
+NLnet;TOTAL;56;8,0
+ODGProvence;Controle Garantie;10;1,4
+ODGProvence;TMA;10,5;1,5
+ODGProvence;TOTAL;20,5;2,9
+ODGRhone;TMA DRev;7;1,0
+ODGRhone;TMA HVE;3,5;0,5
+ODGRhone;TMA Irriguable;3,5;0,5
+ODGRhone;TMA Parcellaire;3,5;0,5
+ODGRhone;TOTAL;17,5;2,5
+Prodimmo;Metacompta;3,5;0,5
+Prodimmo;TOTAL;3,5;0,5
+SyndicatsValléeRhone;AvantVente;7;1,0
+SyndicatsValléeRhone;TOTAL;7;1,0
+Ventoux;TMA;3;0,4
+Ventoux;TOTAL;3;0,4
+VinsIGP;TMA;14;2,0
+VinsIGP;TOTAL;14;2,0
+TOTAL;TOTAL;51,3
