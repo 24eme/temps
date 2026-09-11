@@ -1,11 +1,9 @@
 Date;Client;Description;Temps (en heure);Categorie (projet)
 2026-08-31;IGPAtlantique;Developpements;7;Forfait
 2026-08-31;ODGRhone;TMA;1;TMA
-2026-08-31;InterRhone;TMA;1;TMA
-2026-08-31;IGPVins;TMA;5;TMA
+2026-08-31;IR;TMA;1;TMA
+2026-08-31;VinsIGP;TMA;5;TMA
 2026-08-31;ODGProvence;TMA;6;TMA
 2026-08-31;IVBD;TMA;1;TMA
 2026-08-31;CIVA;TMA;1;TMA
 2026-08-31;Gaillac;TMA;1;TMA
-
-
