@@ -1,14 +1,13 @@
 Date;Client;Description;Temps (en heure);Categorie (Projet)
-2026-07-31;BIVC;TMA;7,0;TMA
-2026-07-31;CNIV;AdminSys;3,5;AdminSys
-2026-07-31;CIVA;TMA;3,5;TMA
-2026-07-31;AVA;TMA;1,5;TMA
-2026-07-31;CIVP;Pennylane;3,5;Pennylane
-2026-07-31;CentreLoire;TMA;1,5;TMA
-2026-07-31;Nathanmode;Stats LMA;3,5;Stats LMA
-2026-07-31;Nathanmode;Stats Linup;7,0;Stats Linup
-2026-07-31;ODGRhone;TMA;1,5;TMA
-2026-07-31;VinsIGP;TMA;1,5;TMA
-2026-07-31;NLnet;OCR;14;OCR
-2026-07-31;NLnet;Compression;7;Compression
-2026-07-31;NLnet;Nextcloud;35,0;Nextcloud
+2026-09-30;CIVA;TMA;10,5;TMA
+2026-09-30;CIVA;Evolution DR;21;Evolution DR
+2026-09-30;AdminSys;TMA;7,0;TMA
+2026-09-30;IVSO;TMA;7,0;TMA
+2026-09-30;ODGNantes;TMA;1,0;TMA
+2026-09-30;IVBD;TMA;7,0;TMA
+2026-09-30;AVA;TMA;3,5;TMA
+2026-09-30;Gaillac;TMA;3,5;TMA
+2026-09-30;IGP;TMA;3,5;TMA
+2026-09-30;Aurouze;TMA;3,5;TMA
+2026-09-30;BIVC;TMA;7,0;TMA
+2026-09-30;Cahors;Dev;14;Forfait

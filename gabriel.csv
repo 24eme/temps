@@ -1,19 +1,18 @@
 Date;Projet;Description;"Temps (en heure) (séparateur , pour les minutes)";Tache
-2026-07-31;IVSE;TMA;1,5;TMA
-2026-07-31;IR;TMA;2,5;TMA
-2026-07-31;Gaillac;TMA;4;TMA
-2026-07-31;BIVC;TMA;1,5;TMA
-2026-07-31;CIVP;TMA;1,5;TMA
-2026-07-31;VinsIGP;TMA;10,5;TMA
-2026-07-31;CIVA;TMA;10;TMA
-2026-07-31;CIVA;Ajustements Vrac;10;Contrat
-2026-07-31;ODGProvence;Ajustements Contrôle;10;Controle
-2026-07-31;ODGProvence;Potentiels production;5,5;TMA
-2026-07-31;ODGRhone;Parcellaires;2;TMA Parcellaire
-2026-07-31;ODGRhone;Irrigue Irriguable;4;Irriguable
-2026-07-31;Aurouze;TMA;3;TMA
-2026-07-31;Aurouze;Développement open carto;10;sprint carto suivi
-2026-07-31;IVSO;TMA;3;TMA
-2026-07-31;Ventoux;TMA;2;TMA
-2026-07-31;CentreLoire;TMA;1;TMA
-2026-07-31;IGPAtlantique;Dev;0,5;Forfait
+2026-08-31;CIVA;TMA;1,5;TMA
+2026-08-31;CentreLoire;TMA;0,5;TMA
+2026-08-31;VinsIGP;TMA;3;TMA
+2026-08-31;Aurouze;Dev opencarto;15,5;sprint carto suivi
+2026-08-31;Aurouze;TMA;3,5;TMA
+2026-08-31;Aurouze;TMA Tuenet;1,5;TMA
+2026-08-31;AVA;TMA;1;TMA
+2026-08-31;Gaillac;TMA;1;TMA
+2026-08-31;IGPAtlantique;Dev;2;Forfait
+2026-08-31;IVSE;TMA;2;TMA
+2026-08-31;IR;TMA facture;10;TMA
+2026-08-31;IR;Winetracker;1,5;TMA
+2026-08-31;IVSO;TMA;2,5;TMA
+2026-08-31;IVSO;TMA nutrivin;0,5;NutriVin
+2026-08-31;IVBD;TMA;3,5;TMA
+2026-08-31;IVBD;Problème métabase (facturable moins);7;TMA
+2026-08-31;Ventoux;TMA;1;TMA

@@ -1,8 +1,9 @@
 Date;Client;Description;Temps (en heure);Categorie (Projet)
-2026-07-31;CIVP;Développement Pennylane;3;Pennylane
-2026-07-31;CIVP;Réunion;1;Pennylane
-2026-07-31;AVA;Développements;9;Sprint affectation
-2026-07-31;NathanMode;Reunion;1;Linup
-2026-07-31;NathanMode;Développements;1,5;Linup
-2026-07-31;Aurouze;TMA;8,5;TMA
-2026-07-31;AdminSys;Migration serveurs;TMA;12;Migration serveurs
+2026-09-30;Aurouze;TMA;8;TMA
+2026-09-30;Linup;TMA;0,5;TMA
+2026-09-30;AVA;Développements;12;Sprint affectation
+2026-09-30;VinsIGP;TMA;4;TMA
+2026-09-30;Gaillac;TMA;1,5;TMA
+2026-09-30;BIVC;TMA;0,5;TMA
+2026-09-30;ODGRhone;TMA;0,5;TMA
+2026-09-30;Oressource;Appels/TMA;0,5;TMA
