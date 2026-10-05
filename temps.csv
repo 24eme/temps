@@ -1,7 +1,7 @@
 Date;Client;Description;Temps (en heure);Catégorie
 2026-09-30;Aurouze;TMA;8;TMA
 2026-09-30;Linup;TMA;0,5;TMA
-2026-09-30;AVA;Développements;12;Sprint affectation
+2026-09-30;AVA;Corrections affectations;12;TMA
 2026-09-30;VinsIGP;TMA;4;TMA
 2026-09-30;Gaillac;TMA;1,5;TMA
 2026-09-30;BIVC;TMA;0,5;TMA
@@ -19,7 +19,7 @@ Date;Client;Description;Temps (en heure);Catégorie
 2026-09-30;CIVA;Reunion;2;TMA
 2026-09-30;CIVA;TMA Vrac;2,5;TMA
 2026-09-30;CIVP;Cravate TMA;4,5;TMA
-2026-09-30;IGPAtlantique;TMA;1;TMA
+2026-09-30;IGPAtlantique;Dev;1;Forfait
 2026-09-30;IVBD;TMA;0,5;TMA
 2026-09-30;AdminSys;Fix cron;12,5;AdminSys
 2026-09-30;IR;Assistance / Demande;14;TMA
@@ -41,14 +41,14 @@ Date;Client;Description;Temps (en heure);Catégorie
 2026-09-30;IR;AdminSys;3,5;TMA
 2026-09-30;IVSE;TMA;3,5;TMA
 2026-09-30;IGPAtlantique;Dev;24,5;Forfait
-2026-09-30;ODGRhone;vci + manquant;10,5;TMA
-2026-09-30;ODGRhone;Certipaq;10,5;TMA
+2026-09-30;ODGRhone;vci + manquant + irrigué;10,5;TMA parcellaire
+2026-09-30;ODGRhone;Certipaq;10,5;TMA Certipaq
 2026-09-30;CIVA;TMA;1,5;TMA
 2026-09-30;ASSVAS;TMA;1;TMA
 2026-09-30;IGPAtlantique;Developpements;3;Forfait
 2026-09-30;IGPAtlantique;Fine tuning;14;Forfait
 2026-09-30;ORessource;Developpements;2;Developemments
-2026-09-30;IGPVins;TMA;4;TMA
+2026-09-30;VinsIGP;TMA;4;TMA
 2026-09-30;Gaillac;TMA;4;TMA
 2026-09-30;ODGProvence;TMA;5;TMA
 2026-09-30;Declarvins;TMA;0,5;TMA
@@ -57,7 +57,7 @@ Date;Client;Description;Temps (en heure);Catégorie
 2026-09-30;CIVA;Evolution DR;21;Evolution DR
 2026-09-30;AdminSys;TMA;7,0;TMA
 2026-09-30;IVSO;TMA;7,0;TMA
-2026-09-30;ODGNantes;TMA;1,0;TMA
+2026-09-30;ODGNantes;TMA;1,5;TMA
 2026-09-30;IVBD;TMA;7,0;TMA
 2026-09-30;AVA;TMA;3,5;TMA
 2026-09-30;Gaillac;TMA;3,5;TMA
