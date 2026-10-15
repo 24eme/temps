@@ -1,0 +1,59 @@
+Client;Catégorie;Temps (en heure);Temps (en jours)
+AdminSys;AdminSys;12,5;1,8
+AdminSys;TMA;7;1,0
+AdminSys;TOTAL;19,5;2,8
+ASSVAS;TMA;1;0,1
+ASSVAS;TOTAL;1;0,1
+Aurouze;sprint carto suivi;35;5,0
+Aurouze;TMA;12,5;1,8
+Aurouze;TOTAL;47,5;6,8
+AVA;TMA;15,5;2,2
+AVA;TOTAL;15,5;2,2
+BIVC;TMA;11;1,6
+BIVC;TOTAL;11;1,6
+Cahors;Forfait;16;2,3
+Cahors;TOTAL;16;2,3
+CentreLoire;TMA;8,5;1,2
+CentreLoire;TOTAL;8,5;1,2
+CIVA;Evolution DR;21;3,0
+CIVA;TMA;21;3,0
+CIVA;TOTAL;42;6,0
+CIVP;ReserveInterpro;45,5;6,5
+CIVP;TMA;11,5;1,6
+CIVP;TOTAL;57;8,1
+CNIV;TMA;3,5;0,5
+CNIV;TOTAL;3,5;0,5
+Declarvins;TMA;0,5;0,1
+Declarvins;TOTAL;0,5;0,1
+Gaillac;TMA;9;1,3
+Gaillac;TOTAL;9;1,3
+IGPAtlantique;Forfait;63,5;9,1
+IGPAtlantique;TOTAL;63,5;9,1
+IR;TMA;23;3,3
+IR;TOTAL;23;3,3
+IVBD;TMA;16;2,3
+IVBD;TOTAL;16;2,3
+IVSE;TMA;7;1,0
+IVSE;TOTAL;7;1,0
+IVSO;TMA;18,5;2,6
+IVSO;TOTAL;18,5;2,6
+Juricaf;TMA;7;1,0
+Juricaf;TOTAL;7;1,0
+Linup;TMA;0,5;0,1
+Linup;TOTAL;0,5;0,1
+ODGNantes;TMA;3,5;0,5
+ODGNantes;TOTAL;3,5;0,5
+ODGProvence;TMA;8;1,1
+ODGProvence;TOTAL;8;1,1
+ODGRhone;TMA;0,5;0,1
+ODGRhone;TMA Certipaq;10,5;1,5
+ODGRhone;TMA parcellaire;10,5;1,5
+ODGRhone;TOTAL;21,5;3,1
+ORessource;Developemments;2;0,3
+ORessource;TMA;0,5;0,1
+ORessource;TOTAL;2,5;0,4
+Prodimmo;Metacompta;3,5;0,5
+Prodimmo;TOTAL;3,5;0,5
+VinsIGP;TMA;20,5;2,9
+VinsIGP;TOTAL;20,5;2,9
+TOTAL;TOTAL;60,9

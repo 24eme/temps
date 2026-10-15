@@ -1,0 +1,6 @@
+Date;Client;Description;Temps (en heure);Catégorie
+2026-09-30;AdminSys;Fix cron;12,5;AdminSys
+2026-09-30;AdminSys;TMA;7,0;TMA
+2026-09-30;IR;AdminSys;3,5;TMA
+2026-09-30;IVBD;AdminSys;7;TMA
+2026-09-30;IVSO;AdminSys;10,5;TMA
