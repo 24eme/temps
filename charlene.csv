@@ -1,9 +1,8 @@
 Date;Client;Description;Temps (en heure);Categorie (Projet)
-2026-09-30;Aurouze;TMA;8;TMA
-2026-09-30;Linup;TMA;0,5;TMA
-2026-09-30;AVA;Développements;12;Sprint affectation
-2026-09-30;VinsIGP;TMA;4;TMA
-2026-09-30;Gaillac;TMA;1,5;TMA
-2026-09-30;BIVC;TMA;0,5;TMA
-2026-09-30;ODGRhone;TMA;0,5;TMA
-2026-09-30;Oressource;Appels/TMA;0,5;TMA
+2026-10-31;Aurouze;TMA;7;TMA
+2026-10-31;Aurouze;Dev OpenCarto;10,5;Sprint carto suivi infestation
+2026-10-31;Aurouze;Réunion OpenCarto;3;Réunion carto suivi infestation
+2026-10-31;AVA;TMA;1;TMA
+2026-10-31;AVA;Réunion lieux élargis;1,5;Réunion
+2026-10-31;VinsIGP;TMA;0,5;TMA
+2026-10-31;CIVA;TMA;0,5;TMA
