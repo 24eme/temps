@@ -1,7 +1,7 @@
 Date;Client;Description;Temps (en heure);Catégorie
 2026-10-31;Aurouze;TMA;7;TMA
-2026-10-31;Aurouze;Dev OpenCarto;10,5;Sprint carto suivi infestation
-2026-10-31;Aurouze;Réunion OpenCarto;3;Réunion carto suivi infestation
+2026-10-31;Aurouze;Dev OpenCarto;10,5;sprint carto suivi
+2026-10-31;Aurouze;Réunion OpenCarto;3;sprint carto suivi
 2026-10-31;AVA;TMA;1;TMA
 2026-10-31;AVA;Réunion lieux élargis;1,5;Réunion
 2026-10-31;VinsIGP;TMA;0,5;TMA
@@ -33,7 +33,7 @@ Date;Client;Description;Temps (en heure);Catégorie
 2026-10-31;ODGProvence;TMA;1;TMA
 2026-10-31;ASSVAS;TMA;2;TMA
 2026-10-31;BIVC;TMA;3,5;TMA
-2026-10-31;IGPAtltantique;Dev;10,5;Forfait
+2026-10-31;IGPAtlantique;Dev;10,5;Forfait
 2026-10-31;CNIV;TMA;1;TMA
 2026-10-31;VinsIGP;TMA;3,5;TMA
 2026-10-31;CentreLoire;TMA;2;TMA
@@ -42,14 +42,16 @@ Date;Client;Description;Temps (en heure);Catégorie
 2026-10-31;IVSE;TMA;1;TMA
 2026-10-31;CIVP;Réserve olympique;3,5;ReserveInterpro
 2026-10-31;Armagnac;AvantVente;24,5;AvantVente
+2026-10-31;Armagnac;AvantVente;2;AvantVente
 2026-10-31;Gaillac;TMA;2;TMA
-2026-10-31;IGPAtlantique;TMA;4;TMA
+2026-10-31;IGPAtlantique;Dev;4;Forfait
 2026-10-31;IGPAtlantique;Reunion;2;Forfait
 2026-10-31;ORessource;Community management;5;Communication
+2026-10-31;ORessource;FAQ;2;Communication
 2026-10-31;Centre;TMA;2;TMA
 2026-10-31;Aurouze;TMA;2;TMA
 2026-10-31;VinsIGP;TMA;8;TMA
-2026-10-31;ODGRhone;TMA;1;TMA
+2026-10-31;ODGRhone;TMA;1;TMA Parcellaire
 2026-10-31;CIVA;TMA;3,5;TMA
 2026-10-31;CIVA;Evolution DR;21;Evolution DR
 2026-10-31;IVSO;TMA;3,5;TMA
