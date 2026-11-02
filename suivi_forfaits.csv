@@ -1,25 +1,26 @@
 Projet,Date Début,Date fin,Nb jours total,Nb jours consommés,Nb jours restants,Tarif HT
-Aurouze Tuenet – TMA,2024-01-01,2024-12-31,30,"15,5","14,5",550
-BIVC – TMA,2024-01-01,2024-12-31,15,"7,2","7,8",650
-IVBD – TMA,2024-01-01,2024-12-31,30,"6,9","25,4",650
-Declarvins – TMA,2023-01-01,2023-12-31,50,"40,5","9,5",650
-AHJUCAF,2024-01-01,2024-12-31,12,"11,5","0,5",710
-VinsIGP TMA,2024-01-01,2024-12-31,28,21,10,650
+Aurouze Tuenet – TMA,2024-01-01,2024-12-31,30,"17,8","12,2",550
+BIVC – TMA,2024-01-01,2024-12-31,15,"7,8","7,2",650
+IVBD – TMA,2024-01-01,2024-12-31,30,"7,9","22,1",650
+Declarvins – TMA,2023-01-01,2023-12-31,50,"47,8","2,2",650
+AHJUCAF,2024-01-01,2024-12-31,12,12,0,710
+VinsIGP TMA,2024-01-01,2024-12-31,28,"24,7","3,3",650
 Med (Axelle) PDM,,,4,3,1,650
 AMVM TMA,2022-01-01,2022-12-31,4,1,3,650
 ProdImmo - Outils Internes,,,,"4,2",,650
 ADM (enveloppe capée),,,17,1,16,650
-CentreLoire TMA,2024-01-01,2024-12-31,16,"3,1","12,9",650
+CentreLoire TMA,2024-01-01,2024-12-31,16,"4,5","11,5",650
 Ventoux TMA,2025-01-01,2025-12-21,4,"2,5","1,5",650
 Ventoux Evolutions,,,"4,5",5,,650
 AlmaCersius Réunion,,,,1,,650
 AlmaCersius Metabase,,,,3,,650
 IGPSudOuest TMA,,,3,"1,8","1,2",650
 NLNet,,,"49,5","26,5",23,520
-ORessource,,,,"13,7",,
-IGPAtlantique,,,33,"17,9","15,1",
+ORessource,,,,"14,7",,
+IGPAtlantique,,,33,"21,3","11,7",
 IVSO NutriVin,,,,4,,
 Cahors - Contrat et Facturation,,,"17,25","5,3","11,95",
 CIVP Pennylane,,,"12,25",12,"0,25",
-CIVP Reserves,,,"8,75","6,5","2,25",
-Aurouze Suivi Carto,,,"22,5","10,9","11,6",
+CIVP Reserves,,,"8,75","11,5",0,"-2,75"
+Aurouze Suivi Carto,,,"22,5","17,6","4,9",
+AVA lieu dit elargi,,,6,"2,5","3,5",
