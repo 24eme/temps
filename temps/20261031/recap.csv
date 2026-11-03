@@ -1,0 +1,51 @@
+Client;Catégorie;Temps (en heure);Temps (en jours)
+Armagnac;AvantVente;26,5;3,8
+Armagnac;TOTAL;26,5;3,8
+ASSVAS;TMA;2;0,3
+ASSVAS;TOTAL;2;0,3
+Aurouze;sprint carto suivi;47;6,7
+Aurouze;TMA;16;2,3
+Aurouze;TOTAL;63;9,0
+AVA;Lieu-dit Elargi;19;2,7
+AVA;TMA;5;0,7
+AVA;TOTAL;24;3,4
+BIVC;TMA;4,5;0,6
+BIVC;TOTAL;4,5;0,6
+Cahors;Forfait;31,5;4,5
+Cahors;TOTAL;31,5;4,5
+CentreLoire;TMA;9,5;1,4
+CentreLoire;TOTAL;9,5;1,4
+CIVA;Evolution DR;25;3,6
+CIVA;TMA;10,5;1,5
+CIVA;TOTAL;35,5;5,1
+CIVP;ReserveInterpro;35;5,0
+CIVP;TMA;13;1,9
+CIVP;TOTAL;48;6,9
+CNIV;TMA;1;0,1
+CNIV;TOTAL;1;0,1
+Gaillac;TMA;5,5;0,8
+Gaillac;TOTAL;5,5;0,8
+IGPAtlantique;Forfait;23,5;3,4
+IGPAtlantique;TOTAL;23,5;3,4
+IR;TMA;35;5,0
+IR;TOTAL;35;5,0
+IVBD;TMA;7;1,0
+IVBD;TOTAL;7;1,0
+IVSE;TMA;2;0,3
+IVSE;TOTAL;2;0,3
+IVSO;TMA;11,5;1,6
+IVSO;TOTAL;11,5;1,6
+Juricaf;TMA;3,5;0,5
+Juricaf;TOTAL;3,5;0,5
+Linup;TMA;4,5;0,6
+Linup;TOTAL;4,5;0,6
+ODGProvence;TMA;1;0,1
+ODGProvence;TOTAL;1;0,1
+ODGRhone;TMA DREV;3,5;0,5
+ODGRhone;TMA Parcellaire;1;0,1
+ODGRhone;TOTAL;4,5;0,6
+ORessource;Communication;7;1,0
+ORessource;TOTAL;7;1,0
+VinsIGP;TMA;26;3,7
+VinsIGP;TOTAL;26;3,7
+TOTAL;TOTAL;53,8
